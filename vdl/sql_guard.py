@@ -46,11 +46,19 @@ def validate(sql: str) -> str:
 
 def run(sql: str, df: pd.DataFrame) -> pd.DataFrame:
     """Validate then execute against an isolated in-memory DuckDB with external access disabled."""
+    return run_multi(sql, {TABLE: df})
+
+
+def run_multi(sql: str, tables: dict[str, pd.DataFrame]) -> pd.DataFrame:
+    """Same guard, several named read-only views (e.g. the 12 EdTech tables)."""
     safe = validate(sql)
     con = duckdb.connect(":memory:")
     try:
-        con.register("_src", df)
-        con.execute(f"CREATE VIEW {TABLE} AS SELECT * FROM _src")
+        for i, (name, df) in enumerate(tables.items()):
+            if not re.fullmatch(r"[a-z_][a-z0-9_]*", name):
+                raise UnsafeSQLError(f"Invalid table name {name!r}.")
+            con.register(f"_src{i}", df)
+            con.execute(f"CREATE VIEW {name} AS SELECT * FROM _src{i}")
         con.execute("SET enable_external_access = false")
         con.execute("SET lock_configuration = true")
         return con.execute(f"SELECT * FROM ({safe}) AS q LIMIT {MAX_ROWS}").df()

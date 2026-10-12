@@ -7,3 +7,6 @@ __pycache__/
 !.env.example
 .streamlit/secrets.toml
 *.log
+
+# generated demo data (recreated on first launch, seed 2026)
+data/edtech/
