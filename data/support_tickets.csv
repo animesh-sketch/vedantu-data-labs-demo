@@ -1,0 +1,1501 @@
+ticket_id,opened_date,category,channel,priority,status,resolution_hours,csat,agent
+T900000,2025-10-01,Refund,App,High,Resolved,48.2,4.0,Agent 8
+T900001,2025-10-01,Class Access,Email,Urgent,Open,,2.0,Agent 9
+T900002,2025-10-01,Class Access,App,High,Resolved,9.7,4.0,Agent 10
+T900003,2025-10-02,Payment,Chat,High,Resolved,19.5,4.0,Agent 9
+T900004,2025-10-03,Class Access,Phone,Low,Open,,5.0,Agent 10
+T900005,2025-10-03,Content Error,App,High,Resolved,12.8,4.0,Agent 7
+T900006,2025-10-03,Login,Email,Low,Resolved,14.7,4.0,Agent 4
+T900007,2025-10-03,Payment,Phone,Urgent,Resolved,5.6,4.0,Agent 1
+T900008,2025-10-03,Content Error,Chat,Urgent,Resolved,6.6,4.0,Agent 9
+T900009,2025-10-04,Class Access,Chat,High,Resolved,13.1,4.0,Agent 9
+T900010,2025-10-05,Payment,Email,Medium,Resolved,6.9,5.0,Agent 1
+T900011,2025-10-05,Class Access,Phone,Medium,Resolved,16.3,4.0,Agent 5
+T900012,2025-10-05,Content Error,Email,Medium,Open,,5.0,Agent 5
+T900013,2025-10-05,Payment,App,Medium,Resolved,14.8,5.0,Agent 8
+T900014,2025-10-05,Content Error,Phone,Urgent,Resolved,10.1,5.0,Agent 9
+T900015,2025-10-05,Class Access,Email,Medium,Resolved,48.9,3.0,Agent 2
+T900016,2025-10-06,Payment,App,Medium,Resolved,16.0,4.0,Agent 6
+T900017,2025-10-06,Payment,Email,High,Resolved,13.6,5.0,Agent 9
+T900018,2025-10-06,Content Error,Chat,Medium,Resolved,11.6,4.0,Agent 6
+T900019,2025-10-06,Login,Phone,High,Resolved,8.0,5.0,Agent 6
+T900020,2025-10-06,Login,Email,Low,Resolved,5.0,4.0,Agent 9
+T900021,2025-10-06,Class Access,App,Medium,Open,,5.0,Agent 2
+T900022,2025-10-07,Login,App,High,Resolved,11.9,5.0,Agent 8
+T900023,2025-10-07,Payment,Phone,Medium,Open,,5.0,Agent 5
+T900024,2025-10-07,Login,Phone,Low,Resolved,6.0,5.0,Agent 1
+T900025,2025-10-07,Class Access,Email,Urgent,Resolved,8.2,5.0,Agent 6
+T900026,2025-10-07,Refund,Email,Low,Resolved,190.0,1.0,Agent 4
+T900027,2025-10-08,Class Access,Chat,High,Resolved,2.0,5.0,Agent 6
+T900028,2025-10-08,Login,Phone,High,Resolved,23.9,3.0,Agent 1
+T900029,2025-10-08,Payment,Chat,High,Resolved,7.2,5.0,Agent 5
+T900030,2025-10-08,Refund,Chat,Low,Resolved,9.0,5.0,Agent 9
+T900031,2025-10-09,Payment,Chat,Low,Resolved,14.6,5.0,Agent 4
+T900032,2025-10-09,Class Access,Phone,Low,Resolved,4.8,5.0,Agent 9
+T900033,2025-10-09,Class Access,App,Urgent,Resolved,17.1,4.0,Agent 2
+T900034,2025-10-09,Class Access,App,Medium,Resolved,15.8,5.0,Agent 5
+T900035,2025-10-10,Login,App,Medium,Resolved,15.7,5.0,Agent 3
+T900036,2025-10-10,Payment,Phone,High,Resolved,15.7,4.0,Agent 6
+T900037,2025-10-11,Payment,Chat,Urgent,Resolved,9.0,5.0,Agent 4
+T900038,2025-10-11,Class Access,Chat,Low,Open,,4.0,Agent 8
+T900039,2025-10-11,Login,Chat,Low,Resolved,10.6,5.0,Agent 6
+T900040,2025-10-11,Payment,Phone,Low,Resolved,6.2,4.0,Agent 2
+T900041,2025-10-11,Payment,Chat,Medium,Resolved,2.6,4.0,Agent 4
+T900042,2025-10-11,Content Error,App,Low,Resolved,2.8,5.0,Agent 6
+T900043,2025-10-11,Class Access,Email,High,Open,,4.0,Agent 3
+T900044,2025-10-11,Class Access,Email,Low,Open,,5.0,Agent 3
+T900045,2025-10-11,Login,Phone,High,Resolved,3.1,5.0,Agent 8
+T900046,2025-10-11,Refund,Email,Urgent,Resolved,43.3,3.0,Agent 9
+T900047,2025-10-11,Login,App,Medium,Resolved,4.6,5.0,Agent 2
+T900048,2025-10-12,Class Access,Chat,Low,Resolved,10.4,3.0,Agent 6
+T900049,2025-10-12,Payment,Email,Medium,Resolved,20.4,5.0,Agent 8
+T900050,2025-10-12,Class Access,Email,High,Resolved,5.9,5.0,Agent 7
+T900051,2025-10-13,Content Error,Chat,Low,Resolved,12.2,4.0,Agent 6
+T900052,2025-10-14,Class Access,Chat,Urgent,Resolved,18.3,3.0,Agent 3
+T900053,2025-10-14,Payment,App,High,Resolved,5.9,5.0,Agent 3
+T900054,2025-10-14,Class Access,Email,Medium,Open,,5.0,Agent 1
+T900055,2025-10-14,Login,Phone,Medium,Resolved,8.7,3.0,Agent 2
+T900056,2025-10-14,Content Error,App,High,Resolved,4.8,3.0,Agent 8
+T900057,2025-10-15,Payment,Chat,Medium,Open,,5.0,Agent 3
+T900058,2025-10-16,Payment,App,Urgent,Resolved,25.7,4.0,Agent 1
+T900059,2025-10-16,Payment,Chat,Medium,Open,,4.0,Agent 9
+T900060,2025-10-16,Login,Email,High,Resolved,5.5,4.0,Agent 7
+T900061,2025-10-17,Content Error,App,Low,Resolved,9.2,4.0,Agent 5
+T900062,2025-10-17,Class Access,Phone,Medium,Resolved,3.7,5.0,Agent 10
+T900063,2025-10-17,Class Access,App,Medium,Resolved,7.7,5.0,Agent 1
+T900064,2025-10-18,Payment,App,Urgent,Resolved,4.6,5.0,Agent 7
+T900065,2025-10-18,Payment,Phone,Medium,Escalated,,4.0,Agent 8
+T900066,2025-10-18,Login,Phone,Medium,Resolved,12.1,5.0,Agent 6
+T900067,2025-10-18,Class Access,Chat,Medium,Resolved,33.4,4.0,Agent 5
+T900068,2025-10-18,Refund,Phone,Medium,Resolved,4.9,5.0,Agent 2
+T900069,2025-10-18,Class Access,App,High,Resolved,12.3,4.0,Agent 4
+T900070,2025-10-19,Login,Email,Medium,Resolved,4.9,4.0,Agent 4
+T900071,2025-10-19,Payment,Email,Low,Open,,5.0,Agent 4
+T900072,2025-10-19,Login,App,High,Resolved,0.9,4.0,Agent 10
+T900073,2025-10-19,Login,App,Medium,Resolved,20.1,4.0,Agent 6
+T900074,2025-10-20,Refund,App,Low,Resolved,35.9,2.0,Agent 9
+T900075,2025-10-20,Content Error,Chat,Medium,Resolved,10.9,4.0,Agent 5
+T900076,2025-10-20,Refund,Chat,Urgent,Resolved,51.0,2.0,Agent 10
+T900077,2025-10-20,Payment,Email,Medium,Resolved,3.0,5.0,Agent 2
+T900078,2025-10-20,Refund,App,Medium,Resolved,66.5,3.0,Agent 9
+T900079,2025-10-20,Payment,Email,Medium,Resolved,23.7,3.0,Agent 4
+T900080,2025-10-21,Payment,Email,Urgent,Resolved,20.3,5.0,Agent 10
+T900081,2025-10-21,Class Access,App,High,Resolved,16.1,4.0,Agent 7
+T900082,2025-10-21,Login,App,Medium,Open,,4.0,Agent 1
+T900083,2025-10-21,Refund,Email,Urgent,Resolved,22.5,4.0,Agent 4
+T900084,2025-10-22,Class Access,Email,Medium,Resolved,13.7,5.0,Agent 4
+T900085,2025-10-22,Class Access,Email,Medium,Resolved,47.6,3.0,Agent 8
+T900086,2025-10-22,Class Access,Chat,Medium,Resolved,4.2,4.0,Agent 2
+T900087,2025-10-22,Content Error,App,Low,Resolved,9.9,5.0,Agent 7
+T900088,2025-10-23,Refund,App,Medium,Resolved,57.7,3.0,Agent 2
+T900089,2025-10-23,Payment,Email,Low,Resolved,7.3,4.0,Agent 5
+T900090,2025-10-23,Content Error,App,High,Resolved,11.7,5.0,Agent 7
+T900091,2025-10-23,Login,Email,High,Resolved,17.0,5.0,Agent 1
+T900092,2025-10-24,Login,Chat,High,Resolved,5.1,5.0,Agent 4
+T900093,2025-10-24,Content Error,Phone,Medium,Resolved,12.3,4.0,Agent 6
+T900094,2025-10-24,Content Error,Chat,Medium,Resolved,3.9,5.0,Agent 9
+T900095,2025-10-24,Refund,Email,Medium,Resolved,17.5,4.0,Agent 2
+T900096,2025-10-24,Class Access,App,Urgent,Resolved,46.9,3.0,Agent 3
+T900097,2025-10-24,Payment,Email,Medium,Resolved,23.1,4.0,Agent 7
+T900098,2025-10-24,Login,Phone,Low,Resolved,6.7,4.0,Agent 9
+T900099,2025-10-24,Refund,Chat,Low,Resolved,6.5,4.0,Agent 7
+T900100,2025-10-25,Content Error,Email,Medium,Resolved,24.5,5.0,Agent 1
+T900101,2025-10-25,Login,Email,Medium,Resolved,10.4,4.0,Agent 4
+T900102,2025-10-26,Refund,Email,High,Resolved,71.2,1.0,Agent 8
+T900103,2025-10-26,Payment,Chat,Medium,Resolved,14.8,4.0,Agent 3
+T900104,2025-10-26,Class Access,Chat,Medium,Resolved,2.4,5.0,Agent 5
+T900105,2025-10-26,Login,Phone,Low,Open,,5.0,Agent 9
+T900106,2025-10-26,Payment,App,Medium,Resolved,1.4,5.0,Agent 7
+T900107,2025-10-26,Payment,Phone,Medium,Resolved,24.8,5.0,Agent 8
+T900108,2025-10-26,Class Access,Phone,High,Resolved,6.7,5.0,Agent 7
+T900109,2025-10-27,Class Access,Chat,Medium,Resolved,18.7,5.0,Agent 9
+T900110,2025-10-27,Class Access,Email,Urgent,Escalated,,5.0,Agent 8
+T900111,2025-10-27,Login,Chat,High,Resolved,45.8,4.0,Agent 5
+T900112,2025-10-28,Class Access,App,Low,Resolved,5.0,4.0,Agent 9
+T900113,2025-10-28,Login,Phone,High,Resolved,4.8,5.0,Agent 3
+T900114,2025-10-28,Refund,Email,Urgent,Resolved,82.9,1.0,Agent 9
+T900115,2025-10-28,Payment,App,Medium,Resolved,3.2,4.0,Agent 8
+T900116,2025-10-29,Class Access,Phone,Medium,Resolved,5.2,4.0,Agent 3
+T900117,2025-10-29,Class Access,Chat,Low,Resolved,11.8,4.0,Agent 9
+T900118,2025-10-29,Payment,Email,Medium,Open,,3.0,Agent 2
+T900119,2025-10-30,Refund,App,Low,Resolved,80.5,2.0,Agent 2
+T900120,2025-10-30,Class Access,Phone,Low,Resolved,7.7,4.0,Agent 10
+T900121,2025-10-31,Content Error,App,Medium,Resolved,5.5,5.0,Agent 3
+T900122,2025-10-31,Payment,Email,High,Resolved,29.5,5.0,Agent 4
+T900123,2025-11-01,Login,App,High,Resolved,2.7,5.0,Agent 2
+T900124,2025-11-01,Content Error,Chat,High,Open,,5.0,Agent 4
+T900125,2025-11-01,Content Error,App,High,Open,,5.0,Agent 2
+T900126,2025-11-02,Class Access,Phone,Low,Escalated,,5.0,Agent 9
+T900127,2025-11-02,Login,Email,Low,Resolved,27.5,3.0,Agent 10
+T900128,2025-11-03,Class Access,Email,Low,Resolved,20.5,3.0,Agent 1
+T900129,2025-11-03,Class Access,Phone,Medium,Resolved,14.4,3.0,Agent 5
+T900130,2025-11-03,Class Access,App,Medium,Escalated,,5.0,Agent 5
+T900131,2025-11-04,Class Access,Email,Low,Resolved,11.0,4.0,Agent 10
+T900132,2025-11-04,Content Error,Chat,Low,Resolved,24.2,4.0,Agent 8
+T900133,2025-11-04,Payment,Chat,Low,Resolved,22.3,4.0,Agent 7
+T900134,2025-11-04,Class Access,App,Urgent,Resolved,22.6,4.0,Agent 8
+T900135,2025-11-05,Content Error,App,Medium,Resolved,4.3,5.0,Agent 8
+T900136,2025-11-05,Login,Chat,Medium,Open,,5.0,Agent 8
+T900137,2025-11-05,Payment,Email,Medium,Resolved,15.0,5.0,Agent 6
+T900138,2025-11-05,Class Access,Phone,Low,Open,,4.0,Agent 8
+T900139,2025-11-06,Payment,App,Medium,Escalated,,5.0,Agent 5
+T900140,2025-11-06,Refund,Chat,Medium,Resolved,24.7,4.0,Agent 1
+T900141,2025-11-07,Class Access,Email,Low,Resolved,27.2,3.0,Agent 3
+T900142,2025-11-07,Class Access,Email,Medium,Resolved,13.2,4.0,Agent 6
+T900143,2025-11-07,Refund,Chat,High,Resolved,8.0,5.0,Agent 9
+T900144,2025-11-07,Payment,Chat,Medium,Resolved,1.4,4.0,Agent 9
+T900145,2025-11-07,Payment,App,Medium,Resolved,35.2,3.0,Agent 4
+T900146,2025-11-07,Login,Email,Low,Resolved,10.2,5.0,Agent 1
+T900147,2025-11-08,Class Access,Phone,Medium,Resolved,13.8,5.0,Agent 8
+T900148,2025-11-08,Login,Email,High,Open,,5.0,Agent 4
+T900149,2025-11-09,Login,App,Low,Resolved,10.0,5.0,Agent 6
+T900150,2025-11-09,Payment,Chat,Medium,Resolved,14.5,5.0,Agent 6
+T900151,2025-11-09,Login,Phone,High,Resolved,10.3,5.0,Agent 8
+T900152,2025-11-09,Content Error,Email,Medium,Escalated,,5.0,Agent 5
+T900153,2025-11-09,Payment,App,Medium,Resolved,10.2,5.0,Agent 8
+T900154,2025-11-10,Class Access,Chat,Low,Resolved,0.4,4.0,Agent 9
+T900155,2025-11-10,Payment,Phone,High,Resolved,6.8,5.0,Agent 2
+T900156,2025-11-10,Content Error,Phone,Medium,Resolved,12.4,4.0,Agent 10
+T900157,2025-11-10,Refund,Chat,Medium,Escalated,,2.0,Agent 6
+T900158,2025-11-10,Payment,Email,High,Resolved,12.4,5.0,Agent 8
+T900159,2025-11-11,Content Error,App,High,Resolved,0.6,4.0,Agent 4
+T900160,2025-11-11,Login,Phone,Urgent,Resolved,28.7,4.0,Agent 2
+T900161,2025-11-11,Class Access,Chat,Medium,Resolved,8.5,5.0,Agent 10
+T900162,2025-11-11,Login,Phone,Low,Resolved,14.0,4.0,Agent 1
+T900163,2025-11-12,Login,Phone,Medium,Resolved,9.3,5.0,Agent 9
+T900164,2025-11-12,Payment,Email,Medium,Resolved,20.0,5.0,Agent 3
+T900165,2025-11-12,Login,Chat,High,Resolved,18.4,3.0,Agent 9
+T900166,2025-11-12,Login,App,Medium,Escalated,,5.0,Agent 9
+T900167,2025-11-12,Payment,Email,Low,Open,,4.0,Agent 8
+T900168,2025-11-12,Payment,Phone,Urgent,Resolved,13.7,4.0,Agent 2
+T900169,2025-11-12,Payment,Chat,Urgent,Resolved,38.5,5.0,Agent 10
+T900170,2025-11-13,Content Error,Phone,Medium,Resolved,24.8,4.0,Agent 4
+T900171,2025-11-13,Login,Chat,Medium,Resolved,8.5,4.0,Agent 7
+T900172,2025-11-13,Content Error,Chat,Low,Resolved,17.4,4.0,Agent 8
+T900173,2025-11-14,Class Access,App,Medium,Resolved,14.6,4.0,Agent 10
+T900174,2025-11-14,Class Access,App,Medium,Escalated,,5.0,Agent 2
+T900175,2025-11-15,Login,Phone,Low,Resolved,2.3,5.0,Agent 4
+T900176,2025-11-15,Refund,Phone,Medium,Resolved,10.3,5.0,Agent 4
+T900177,2025-11-15,Login,Chat,Urgent,Resolved,8.2,4.0,Agent 10
+T900178,2025-11-16,Refund,Email,Urgent,Resolved,57.2,3.0,Agent 8
+T900179,2025-11-16,Login,Email,Medium,Escalated,,4.0,Agent 2
+T900180,2025-11-16,Payment,Email,Urgent,Resolved,24.5,5.0,Agent 10
+T900181,2025-11-16,Login,Phone,Medium,Open,,5.0,Agent 8
+T900182,2025-11-17,Payment,App,Low,Resolved,12.0,4.0,Agent 5
+T900183,2025-11-17,Login,Chat,Low,Resolved,12.6,4.0,Agent 6
+T900184,2025-11-17,Login,Email,High,Resolved,10.3,4.0,Agent 7
+T900185,2025-11-18,Class Access,Chat,Medium,Resolved,25.2,3.0,Agent 5
+T900186,2025-11-18,Content Error,Email,Urgent,Resolved,9.1,4.0,Agent 5
+T900187,2025-11-18,Payment,App,Medium,Escalated,,4.0,Agent 3
+T900188,2025-11-18,Class Access,Phone,High,Resolved,18.7,5.0,Agent 3
+T900189,2025-11-19,Refund,Phone,Medium,Resolved,15.7,3.0,Agent 7
+T900190,2025-11-19,Class Access,Phone,Medium,Escalated,,4.0,Agent 3
+T900191,2025-11-19,Payment,Email,Urgent,Resolved,22.4,5.0,Agent 8
+T900192,2025-11-19,Login,Phone,Medium,Resolved,16.7,5.0,Agent 2
+T900193,2025-11-19,Content Error,Phone,Medium,Resolved,5.5,5.0,Agent 7
+T900194,2025-11-19,Class Access,Chat,Medium,Resolved,15.1,5.0,Agent 3
+T900195,2025-11-20,Class Access,Chat,Medium,Resolved,10.6,5.0,Agent 2
+T900196,2025-11-20,Login,Email,Low,Resolved,55.1,3.0,Agent 9
+T900197,2025-11-20,Refund,Phone,Low,Open,,2.0,Agent 8
+T900198,2025-11-20,Class Access,App,Medium,Resolved,8.6,5.0,Agent 8
+T900199,2025-11-20,Refund,Email,Low,Resolved,40.8,3.0,Agent 2
+T900200,2025-11-21,Login,App,Urgent,Resolved,3.4,5.0,Agent 7
+T900201,2025-11-21,Payment,Phone,High,Resolved,7.7,5.0,Agent 8
+T900202,2025-11-21,Payment,Email,Medium,Resolved,4.4,5.0,Agent 6
+T900203,2025-11-21,Class Access,Phone,Medium,Open,,4.0,Agent 4
+T900204,2025-11-21,Payment,Email,High,Resolved,8.3,4.0,Agent 7
+T900205,2025-11-22,Login,App,High,Open,,5.0,Agent 6
+T900206,2025-11-22,Class Access,Phone,Low,Resolved,19.4,5.0,Agent 1
+T900207,2025-11-22,Login,Email,Low,Resolved,13.3,5.0,Agent 1
+T900208,2025-11-22,Login,Chat,Low,Resolved,3.0,4.0,Agent 2
+T900209,2025-11-22,Payment,Chat,Medium,Resolved,3.5,5.0,Agent 7
+T900210,2025-11-22,Class Access,Phone,Medium,Resolved,20.5,4.0,Agent 4
+T900211,2025-11-22,Refund,Chat,Urgent,Resolved,37.1,5.0,Agent 2
+T900212,2025-11-23,Login,Email,Low,Open,,4.0,Agent 5
+T900213,2025-11-24,Class Access,Phone,Low,Resolved,16.0,4.0,Agent 9
+T900214,2025-11-24,Content Error,Chat,Low,Resolved,17.7,4.0,Agent 8
+T900215,2025-11-24,Class Access,Phone,Medium,Resolved,28.2,4.0,Agent 10
+T900216,2025-11-24,Login,Phone,Medium,Resolved,11.6,4.0,Agent 4
+T900217,2025-11-25,Refund,App,Low,Escalated,,4.0,Agent 6
+T900218,2025-11-25,Content Error,Email,Low,Resolved,10.2,5.0,Agent 5
+T900219,2025-11-25,Class Access,Email,Medium,Resolved,26.9,3.0,Agent 5
+T900220,2025-11-25,Login,App,High,Resolved,3.7,4.0,Agent 7
+T900221,2025-11-26,Class Access,App,Low,Resolved,4.5,5.0,Agent 6
+T900222,2025-11-26,Login,Chat,High,Resolved,19.9,5.0,Agent 5
+T900223,2025-11-26,Content Error,Phone,High,Resolved,12.8,5.0,Agent 9
+T900224,2025-11-26,Payment,Chat,Medium,Resolved,7.4,5.0,Agent 9
+T900225,2025-11-26,Content Error,App,Medium,Escalated,,4.0,Agent 2
+T900226,2025-11-26,Login,Email,Medium,Resolved,14.6,4.0,Agent 6
+T900227,2025-11-27,Payment,Email,High,Resolved,6.1,5.0,Agent 7
+T900228,2025-11-28,Refund,Chat,Low,Resolved,34.8,4.0,Agent 9
+T900229,2025-11-28,Refund,Chat,Urgent,Resolved,27.9,4.0,Agent 2
+T900230,2025-11-28,Payment,App,Medium,Resolved,3.3,4.0,Agent 8
+T900231,2025-11-28,Login,Phone,High,Resolved,17.0,5.0,Agent 8
+T900232,2025-11-28,Payment,Email,Low,Escalated,,5.0,Agent 5
+T900233,2025-11-28,Class Access,Email,Low,Resolved,3.5,4.0,Agent 9
+T900234,2025-11-29,Content Error,Chat,Low,Resolved,16.2,4.0,Agent 4
+T900235,2025-11-29,Login,Phone,Medium,Resolved,8.3,5.0,Agent 4
+T900236,2025-11-29,Login,Chat,Low,Open,,5.0,Agent 10
+T900237,2025-11-30,Payment,Phone,Low,Resolved,4.8,4.0,Agent 2
+T900238,2025-11-30,Payment,Chat,Medium,Resolved,14.3,4.0,Agent 8
+T900239,2025-11-30,Payment,App,Medium,Escalated,,5.0,Agent 3
+T900240,2025-11-30,Class Access,App,Low,Escalated,,5.0,Agent 1
+T900241,2025-12-01,Payment,Phone,Medium,Resolved,6.9,5.0,Agent 4
+T900242,2025-12-01,Class Access,App,Low,Resolved,25.7,4.0,Agent 7
+T900243,2025-12-01,Login,Phone,Low,Escalated,,4.0,Agent 8
+T900244,2025-12-01,Class Access,Phone,Medium,Resolved,7.0,4.0,Agent 1
+T900245,2025-12-01,Class Access,Chat,Low,Resolved,28.1,4.0,Agent 5
+T900246,2025-12-02,Login,App,Urgent,Resolved,9.8,5.0,Agent 5
+T900247,2025-12-02,Login,App,Low,Escalated,,4.0,Agent 7
+T900248,2025-12-02,Content Error,App,Low,Resolved,10.5,4.0,Agent 10
+T900249,2025-12-02,Content Error,Chat,Low,Resolved,5.0,5.0,Agent 9
+T900250,2025-12-02,Class Access,Chat,Medium,Open,,5.0,Agent 7
+T900251,2025-12-03,Login,Chat,Low,Resolved,5.1,5.0,Agent 10
+T900252,2025-12-03,Class Access,Email,Low,Resolved,66.4,3.0,Agent 10
+T900253,2025-12-03,Class Access,App,Low,Resolved,23.0,4.0,Agent 7
+T900254,2025-12-03,Content Error,Email,Low,Resolved,36.5,4.0,Agent 7
+T900255,2025-12-03,Login,Phone,High,Resolved,5.6,5.0,Agent 3
+T900256,2025-12-04,Login,App,Urgent,Resolved,2.7,4.0,Agent 1
+T900257,2025-12-04,Content Error,Email,Medium,Open,,4.0,Agent 2
+T900258,2025-12-04,Class Access,App,Urgent,Resolved,6.8,5.0,Agent 3
+T900259,2025-12-04,Payment,Chat,Urgent,Resolved,1.2,5.0,Agent 7
+T900260,2025-12-04,Class Access,Chat,Low,Resolved,26.3,4.0,Agent 10
+T900261,2025-12-04,Refund,App,High,Resolved,55.4,3.0,Agent 9
+T900262,2025-12-05,Class Access,Chat,Low,Escalated,,5.0,Agent 9
+T900263,2025-12-05,Login,Phone,Urgent,Resolved,8.0,3.0,Agent 6
+T900264,2025-12-06,Login,Phone,Medium,Open,,4.0,Agent 4
+T900265,2025-12-06,Class Access,App,High,Resolved,4.3,4.0,Agent 6
+T900266,2025-12-06,Class Access,App,Urgent,Resolved,8.7,5.0,Agent 5
+T900267,2025-12-07,Payment,App,Low,Resolved,20.1,4.0,Agent 2
+T900268,2025-12-07,Login,App,High,Resolved,2.5,5.0,Agent 9
+T900269,2025-12-07,Class Access,Email,Medium,Resolved,33.2,4.0,Agent 3
+T900270,2025-12-07,Payment,Email,High,Resolved,6.6,4.0,Agent 9
+T900271,2025-12-07,Login,App,High,Resolved,8.7,4.0,Agent 2
+T900272,2025-12-08,Class Access,Chat,Low,Resolved,5.0,4.0,Agent 5
+T900273,2025-12-08,Login,Chat,Medium,Open,,4.0,Agent 5
+T900274,2025-12-08,Class Access,Chat,Urgent,Resolved,5.6,4.0,Agent 10
+T900275,2025-12-08,Payment,App,Medium,Resolved,6.1,4.0,Agent 5
+T900276,2025-12-09,Content Error,Phone,Medium,Resolved,17.6,5.0,Agent 2
+T900277,2025-12-09,Refund,App,Medium,Resolved,10.9,5.0,Agent 10
+T900278,2025-12-09,Content Error,Email,High,Resolved,32.7,5.0,Agent 1
+T900279,2025-12-09,Class Access,Phone,Urgent,Resolved,6.1,5.0,Agent 3
+T900280,2025-12-09,Class Access,Email,Medium,Resolved,11.9,4.0,Agent 1
+T900281,2025-12-09,Login,Chat,Low,Resolved,6.0,5.0,Agent 4
+T900282,2025-12-09,Payment,App,Low,Resolved,8.3,5.0,Agent 8
+T900283,2025-12-09,Class Access,Chat,Medium,Open,,5.0,Agent 5
+T900284,2025-12-09,Login,Phone,Medium,Resolved,9.0,5.0,Agent 8
+T900285,2025-12-09,Content Error,Email,Low,Escalated,,5.0,Agent 7
+T900286,2025-12-09,Payment,Phone,Medium,Resolved,5.7,4.0,Agent 10
+T900287,2025-12-10,Payment,App,Medium,Resolved,8.1,5.0,Agent 6
+T900288,2025-12-10,Refund,App,Medium,Resolved,26.2,4.0,Agent 3
+T900289,2025-12-10,Content Error,Phone,Urgent,Resolved,13.6,5.0,Agent 10
+T900290,2025-12-10,Login,Phone,High,Resolved,26.2,3.0,Agent 5
+T900291,2025-12-10,Content Error,App,Low,Resolved,18.0,4.0,Agent 1
+T900292,2025-12-11,Class Access,App,High,Resolved,10.6,5.0,Agent 8
+T900293,2025-12-11,Refund,Email,Medium,Resolved,121.7,1.0,Agent 7
+T900294,2025-12-11,Class Access,Chat,Medium,Resolved,-3.0,4.0,Agent 6
+T900295,2025-12-11,Class Access,App,Medium,Resolved,7.7,5.0,Agent 2
+T900296,2025-12-11,Class Access,App,Medium,Resolved,14.3,4.0,Agent 3
+T900297,2025-12-11,Refund,Email,High,Open,,5.0,Agent 7
+T900298,2025-12-11,Content Error,Email,Low,Resolved,15.7,4.0,Agent 5
+T900299,2025-12-11,Content Error,Email,Medium,Resolved,22.9,3.0,Agent 4
+T900300,2025-12-11,Class Access,App,Low,Resolved,14.7,5.0,Agent 3
+T900301,2025-12-11,Content Error,Email,Low,Resolved,25.1,4.0,Agent 2
+T900302,2025-12-12,Payment,App,Low,Escalated,,5.0,Agent 7
+T900303,2025-12-12,Payment,Chat,High,Resolved,19.0,5.0,Agent 10
+T900304,2025-12-12,Login,Chat,Low,Open,,4.0,Agent 5
+T900305,2025-12-13,Payment,Chat,Medium,Open,,4.0,Agent 9
+T900306,2025-12-14,Class Access,Phone,Low,Resolved,24.0,4.0,Agent 5
+T900307,2025-12-14,Payment,Email,Low,Resolved,15.5,3.0,Agent 3
+T900308,2025-12-14,Content Error,Chat,Medium,Resolved,4.6,5.0,Agent 4
+T900309,2025-12-15,Payment,Chat,Low,Resolved,26.4,4.0,Agent 4
+T900310,2025-12-15,Refund,Email,Low,Open,,4.0,Agent 6
+T900311,2025-12-15,Payment,Chat,Low,Resolved,7.6,5.0,Agent 6
+T900312,2025-12-15,Content Error,App,Low,Resolved,13.1,4.0,Agent 6
+T900313,2025-12-15,Login,Email,Medium,Escalated,,5.0,Agent 8
+T900314,2025-12-16,Login,App,Low,Resolved,7.9,4.0,Agent 6
+T900315,2025-12-17,Login,Phone,Medium,Escalated,,5.0,Agent 2
+T900316,2025-12-18,Class Access,App,High,Resolved,7.6,5.0,Agent 3
+T900317,2025-12-18,Content Error,Chat,Low,Resolved,21.9,5.0,Agent 8
+T900318,2025-12-18,Class Access,Chat,Medium,Open,,5.0,Agent 1
+T900319,2025-12-18,Payment,App,Medium,Resolved,10.8,5.0,Agent 8
+T900320,2025-12-18,Login,Chat,Medium,Resolved,4.4,4.0,Agent 4
+T900321,2025-12-18,Class Access,Email,High,Open,,4.0,Agent 1
+T900322,2025-12-19,Login,Phone,Urgent,Open,,5.0,Agent 6
+T900323,2025-12-19,Content Error,Email,High,Resolved,14.3,4.0,Agent 5
+T900324,2025-12-19,Class Access,Chat,High,Resolved,1.8,4.0,Agent 4
+T900325,2025-12-19,Class Access,App,Medium,Resolved,19.7,5.0,Agent 1
+T900326,2025-12-19,Payment,Email,High,Resolved,10.2,5.0,Agent 6
+T900327,2025-12-19,Class Access,Email,Urgent,Resolved,11.2,5.0,Agent 5
+T900328,2025-12-19,Payment,App,Urgent,Escalated,,3.0,Agent 5
+T900329,2025-12-20,Login,Email,Low,Resolved,5.7,5.0,Agent 8
+T900330,2025-12-20,Refund,Chat,Low,Resolved,22.2,3.0,Agent 7
+T900331,2025-12-21,Payment,Phone,Medium,Resolved,12.0,5.0,Agent 7
+T900332,2025-12-21,Class Access,App,Medium,Resolved,5.7,5.0,Agent 10
+T900333,2025-12-21,Payment,Chat,High,Resolved,12.2,4.0,Agent 7
+T900334,2025-12-21,Refund,Phone,Low,Resolved,64.2,2.0,Agent 10
+T900335,2025-12-22,Payment,Phone,Medium,Resolved,3.2,5.0,Agent 1
+T900336,2025-12-22,Content Error,Phone,Medium,Resolved,9.7,5.0,Agent 3
+T900337,2025-12-22,Payment,App,Urgent,Resolved,10.9,5.0,Agent 3
+T900338,2025-12-22,Payment,Phone,Medium,Resolved,15.2,4.0,Agent 8
+T900339,2025-12-22,Class Access,App,Medium,Resolved,22.1,5.0,Agent 2
+T900340,2025-12-23,Login,Phone,Medium,Escalated,,3.0,Agent 8
+T900341,2025-12-23,Payment,Chat,Urgent,Resolved,-3.0,4.0,Agent 4
+T900342,2025-12-23,Payment,Phone,Medium,Resolved,9.9,4.0,Agent 2
+T900343,2025-12-23,Class Access,Chat,High,Resolved,1.2,5.0,Agent 1
+T900344,2025-12-23,Login,Chat,Low,Resolved,15.0,4.0,Agent 1
+T900345,2025-12-23,Content Error,App,Medium,Resolved,20.8,4.0,Agent 9
+T900346,2025-12-24,Class Access,Chat,Medium,Open,,5.0,Agent 5
+T900347,2025-12-24,Class Access,Email,Low,Resolved,9.6,5.0,Agent 5
+T900348,2025-12-24,Class Access,App,Urgent,Open,,4.0,Agent 2
+T900349,2025-12-24,Payment,Phone,Low,Resolved,0.3,4.0,Agent 5
+T900350,2025-12-24,Login,App,High,Resolved,17.5,4.0,Agent 1
+T900351,2025-12-25,Refund,Email,Medium,Resolved,57.2,2.0,Agent 6
+T900352,2025-12-25,Content Error,App,Low,Resolved,15.5,5.0,Agent 3
+T900353,2025-12-25,Payment,Chat,Urgent,Open,,4.0,Agent 9
+T900354,2025-12-25,Login,Phone,Medium,Open,,5.0,Agent 8
+T900355,2025-12-26,Refund,App,High,Resolved,15.7,5.0,Agent 7
+T900356,2025-12-26,Login,Chat,Medium,Resolved,11.8,4.0,Agent 5
+T900357,2025-12-26,Login,Phone,Medium,Resolved,12.5,4.0,Agent 9
+T900358,2025-12-26,Payment,App,High,Escalated,,4.0,Agent 4
+T900359,2025-12-27,Refund,Chat,Low,Resolved,31.0,4.0,Agent 5
+T900360,2025-12-27,Payment,App,Low,Escalated,,4.0,Agent 9
+T900361,2025-12-27,Class Access,Phone,High,Resolved,2.0,4.0,Agent 3
+T900362,2025-12-27,Payment,Email,Medium,Resolved,24.1,5.0,Agent 10
+T900363,2025-12-27,Login,Email,High,Resolved,18.2,4.0,Agent 8
+T900364,2025-12-28,Content Error,Phone,High,Resolved,8.3,5.0,Agent 1
+T900365,2025-12-28,Payment,Phone,Medium,Open,,5.0,Agent 5
+T900366,2025-12-28,Refund,App,Urgent,Resolved,61.6,2.0,Agent 9
+T900367,2025-12-29,Payment,App,Low,Resolved,24.1,3.0,Agent 1
+T900368,2025-12-29,Refund,Chat,Low,Resolved,13.0,5.0,Agent 9
+T900369,2025-12-29,Login,Phone,High,Open,,5.0,Agent 2
+T900370,2025-12-29,Class Access,Chat,Urgent,Escalated,,5.0,Agent 7
+T900371,2025-12-30,Refund,Chat,Low,Escalated,,5.0,Agent 8
+T900372,2025-12-30,Payment,Email,Low,Resolved,21.1,4.0,Agent 1
+T900373,2025-12-30,Login,Phone,Medium,Open,,4.0,Agent 1
+T900374,2025-12-30,Content Error,Chat,Low,Resolved,21.1,5.0,Agent 1
+T900375,2025-12-30,Login,Chat,Low,Resolved,3.5,4.0,Agent 9
+T900376,2025-12-30,Class Access,Phone,Low,Resolved,21.5,5.0,Agent 10
+T900377,2025-12-31,Content Error,App,Medium,Resolved,18.5,5.0,Agent 7
+T900378,2025-12-31,Class Access,Phone,Medium,Open,,5.0,Agent 9
+T900379,2025-12-31,Content Error,App,Low,Resolved,8.6,5.0,Agent 7
+T900380,2025-12-31,Class Access,Email,Low,Resolved,21.0,5.0,Agent 3
+T900381,2025-12-31,Class Access,Phone,Urgent,Resolved,9.0,4.0,Agent 2
+T900382,2026-01-01,Payment,App,Medium,Resolved,8.0,4.0,Agent 4
+T900383,2026-01-01,Content Error,Chat,Low,Resolved,12.5,5.0,Agent 6
+T900384,2026-01-01,Login,Phone,Urgent,Escalated,,4.0,Agent 3
+T900385,2026-01-01,Class Access,Email,Medium,Resolved,20.0,5.0,Agent 7
+T900386,2026-01-01,Class Access,Chat,Medium,Escalated,,4.0,Agent 2
+T900387,2026-01-01,Login,Phone,Urgent,Resolved,21.3,4.0,Agent 3
+T900388,2026-01-02,Content Error,Email,Medium,Open,,3.0,Agent 1
+T900389,2026-01-02,Class Access,Chat,High,Resolved,5.5,5.0,Agent 6
+T900390,2026-01-02,Class Access,App,Medium,Resolved,-3.0,5.0,Agent 1
+T900391,2026-01-02,Payment,Chat,Low,Resolved,15.9,4.0,Agent 5
+T900392,2026-01-02,Class Access,Chat,Medium,Open,,5.0,Agent 9
+T900393,2026-01-03,Class Access,Phone,High,Resolved,10.9,4.0,Agent 10
+T900394,2026-01-03,Content Error,Phone,Urgent,Resolved,5.0,5.0,Agent 1
+T900395,2026-01-03,Class Access,Chat,Medium,Resolved,9.5,4.0,Agent 1
+T900396,2026-01-03,Login,App,Low,Resolved,9.8,4.0,Agent 1
+T900397,2026-01-03,Class Access,Email,High,Resolved,24.8,4.0,Agent 3
+T900398,2026-01-03,Payment,Chat,Medium,Open,,5.0,Agent 9
+T900399,2026-01-04,Payment,Email,Medium,Resolved,6.8,5.0,Agent 10
+T900400,2026-01-04,Class Access,Email,Medium,Resolved,0.6,5.0,Agent 3
+T900401,2026-01-05,Class Access,Chat,Medium,Resolved,32.8,4.0,Agent 7
+T900402,2026-01-05,Content Error,Phone,Medium,Resolved,9.9,4.0,Agent 4
+T900403,2026-01-06,Payment,Chat,Low,Resolved,13.4,4.0,Agent 7
+T900404,2026-01-07,Content Error,Phone,Low,Resolved,8.7,5.0,Agent 9
+T900405,2026-01-07,Login,Chat,Medium,Resolved,4.0,4.0,Agent 4
+T900406,2026-01-08,Payment,App,Urgent,Resolved,4.6,4.0,Agent 4
+T900407,2026-01-08,Login,Phone,Medium,Resolved,16.2,4.0,Agent 4
+T900408,2026-01-08,Class Access,Email,Low,Open,,4.0,Agent 10
+T900409,2026-01-08,Login,App,Urgent,Resolved,17.5,4.0,Agent 5
+T900410,2026-01-08,Login,Phone,High,Resolved,3.3,5.0,Agent 4
+T900411,2026-01-08,Refund,Email,Low,Resolved,40.5,3.0,Agent 10
+T900412,2026-01-08,Login,App,Medium,Resolved,13.2,4.0,Agent 2
+T900413,2026-01-09,Content Error,Email,High,Resolved,11.9,4.0,Agent 3
+T900414,2026-01-09,Login,Chat,High,Resolved,18.9,4.0,Agent 3
+T900415,2026-01-09,Payment,Phone,High,Resolved,6.4,4.0,Agent 1
+T900416,2026-01-10,Class Access,Phone,High,Resolved,22.0,4.0,Agent 7
+T900417,2026-01-10,Class Access,Phone,Low,Resolved,8.5,5.0,Agent 5
+T900418,2026-01-10,Login,Email,High,Open,,3.0,Agent 9
+T900419,2026-01-10,Payment,Phone,Medium,Open,,3.0,Agent 3
+T900420,2026-01-10,Class Access,Chat,High,Resolved,4.9,5.0,Agent 3
+T900421,2026-01-10,Refund,Chat,Low,Resolved,15.4,5.0,Agent 5
+T900422,2026-01-11,Class Access,Chat,Medium,Open,,3.0,Agent 6
+T900423,2026-01-12,Class Access,Email,High,Resolved,4.0,3.0,Agent 2
+T900424,2026-01-12,Login,Chat,Medium,Resolved,31.2,4.0,Agent 9
+T900425,2026-01-12,Class Access,Email,Medium,Resolved,30.0,4.0,Agent 3
+T900426,2026-01-13,Refund,Phone,Urgent,Resolved,103.5,1.0,Agent 10
+T900427,2026-01-13,Payment,Email,Low,Open,,5.0,Agent 4
+T900428,2026-01-13,Content Error,App,Low,Resolved,7.7,5.0,Agent 2
+T900429,2026-01-14,Login,App,Low,Resolved,6.6,5.0,Agent 9
+T900430,2026-01-14,Class Access,Chat,High,Resolved,14.5,4.0,Agent 6
+T900431,2026-01-14,Class Access,App,Medium,Resolved,17.4,4.0,Agent 4
+T900432,2026-01-14,Class Access,Chat,Low,Resolved,9.5,5.0,Agent 1
+T900433,2026-01-14,Class Access,App,High,Resolved,4.8,5.0,Agent 7
+T900434,2026-01-14,Class Access,Email,Urgent,Resolved,18.6,5.0,Agent 1
+T900435,2026-01-14,Login,App,Medium,Resolved,11.0,4.0,Agent 4
+T900436,2026-01-15,Login,Email,Medium,Open,,4.0,Agent 10
+T900437,2026-01-15,Class Access,Email,Medium,Resolved,19.5,4.0,Agent 2
+T900438,2026-01-15,Payment,App,High,Resolved,6.9,5.0,Agent 8
+T900439,2026-01-15,Payment,Phone,Low,Resolved,4.2,5.0,Agent 4
+T900440,2026-01-15,Class Access,Phone,Medium,Resolved,12.7,3.0,Agent 9
+T900441,2026-01-16,Payment,Email,Medium,Resolved,19.8,4.0,Agent 3
+T900442,2026-01-16,Class Access,Chat,High,Resolved,9.4,5.0,Agent 1
+T900443,2026-01-16,Content Error,Chat,Low,Resolved,8.4,5.0,Agent 1
+T900444,2026-01-17,Refund,Phone,High,Resolved,19.7,4.0,Agent 9
+T900445,2026-01-17,Payment,App,High,Resolved,9.7,4.0,Agent 3
+T900446,2026-01-18,Class Access,Phone,Urgent,Open,,4.0,Agent 2
+T900447,2026-01-18,Class Access,Phone,Medium,Resolved,7.2,5.0,Agent 8
+T900448,2026-01-19,Login,Email,Low,Resolved,4.5,5.0,Agent 9
+T900449,2026-01-19,Login,Chat,Medium,Resolved,18.0,4.0,Agent 3
+T900450,2026-01-19,Content Error,Chat,Low,Resolved,20.6,4.0,Agent 8
+T900451,2026-01-20,Payment,Phone,High,Resolved,9.6,5.0,Agent 5
+T900452,2026-01-21,Refund,App,Medium,Resolved,22.1,3.0,Agent 6
+T900453,2026-01-21,Refund,Chat,Medium,Resolved,20.5,5.0,Agent 2
+T900454,2026-01-21,Payment,App,Medium,Resolved,16.6,4.0,Agent 8
+T900455,2026-01-22,Login,Email,Low,Resolved,13.6,4.0,Agent 9
+T900456,2026-01-22,Class Access,Chat,High,Resolved,8.4,4.0,Agent 2
+T900457,2026-01-22,Content Error,App,High,Resolved,19.5,4.0,Agent 2
+T900458,2026-01-23,Payment,App,Medium,Resolved,0.8,5.0,Agent 2
+T900459,2026-01-23,Content Error,App,Medium,Resolved,16.4,3.0,Agent 10
+T900460,2026-01-24,Payment,Phone,Low,Resolved,13.8,5.0,Agent 8
+T900461,2026-01-25,Login,Phone,Low,Resolved,20.8,3.0,Agent 8
+T900462,2026-01-25,Payment,Phone,Low,Resolved,7.6,5.0,Agent 5
+T900463,2026-01-25,Content Error,Chat,High,Open,,4.0,Agent 3
+T900464,2026-01-26,Content Error,App,Low,Resolved,12.7,4.0,Agent 7
+T900465,2026-01-26,Login,Email,Medium,Resolved,13.5,5.0,Agent 8
+T900466,2026-01-26,Class Access,Chat,High,Resolved,12.9,4.0,Agent 2
+T900467,2026-01-26,Payment,App,High,Resolved,15.8,5.0,Agent 2
+T900468,2026-01-27,Class Access,Phone,Medium,Resolved,5.3,5.0,Agent 9
+T900469,2026-01-27,Login,Email,Medium,Resolved,21.5,4.0,Agent 5
+T900470,2026-01-28,Class Access,Phone,High,Open,,5.0,Agent 2
+T900471,2026-01-28,Login,Email,High,Resolved,31.4,4.0,Agent 6
+T900472,2026-01-28,Class Access,Email,Medium,Resolved,13.4,3.0,Agent 1
+T900473,2026-01-28,Class Access,Email,Low,Resolved,33.8,3.0,Agent 4
+T900474,2026-01-28,Class Access,Email,Medium,Open,,3.0,Agent 5
+T900475,2026-01-29,Class Access,Email,Medium,Resolved,23.2,4.0,Agent 9
+T900476,2026-01-29,Login,Phone,Medium,Resolved,5.4,5.0,Agent 9
+T900477,2026-01-29,Class Access,Email,Medium,Resolved,8.4,5.0,Agent 4
+T900478,2026-01-29,Class Access,Phone,Medium,Resolved,9.7,4.0,Agent 3
+T900479,2026-01-30,Class Access,Chat,Low,Resolved,13.0,3.0,Agent 7
+T900480,2026-01-30,Payment,Email,Medium,Resolved,15.4,4.0,Agent 4
+T900481,2026-01-30,Class Access,Email,Low,Open,,1.0,Agent 10
+T900482,2026-01-30,Payment,Chat,Low,Resolved,5.5,4.0,Agent 4
+T900483,2026-01-30,Class Access,Email,Low,Resolved,2.8,5.0,Agent 10
+T900484,2026-01-30,Class Access,Email,Low,Resolved,32.5,4.0,Agent 7
+T900485,2026-01-30,Class Access,Phone,Low,Resolved,36.3,3.0,Agent 3
+T900486,2026-01-30,Refund,Chat,Medium,Resolved,10.5,5.0,Agent 4
+T900487,2026-01-31,Login,Email,High,Resolved,19.3,5.0,Agent 8
+T900488,2026-01-31,Content Error,Phone,Medium,Resolved,22.6,3.0,Agent 8
+T900489,2026-01-31,Content Error,Phone,Low,Resolved,11.6,5.0,Agent 5
+T900490,2026-01-31,Class Access,Chat,Medium,Resolved,12.1,4.0,Agent 10
+T900491,2026-01-31,Login,Chat,Low,Resolved,33.4,3.0,Agent 10
+T900492,2026-02-01,Content Error,Email,High,Resolved,7.0,5.0,Agent 8
+T900493,2026-02-01,Class Access,Phone,Low,Open,,5.0,Agent 2
+T900494,2026-02-01,Payment,Phone,Low,Open,,4.0,Agent 6
+T900495,2026-02-02,Login,Chat,Urgent,Open,,4.0,Agent 4
+T900496,2026-02-02,Payment,Phone,High,Resolved,2.4,4.0,Agent 6
+T900497,2026-02-02,Class Access,Email,Low,Resolved,12.4,4.0,Agent 8
+T900498,2026-02-02,Login,Phone,Medium,Resolved,7.3,4.0,Agent 3
+T900499,2026-02-02,Payment,Phone,Low,Resolved,4.4,4.0,Agent 10
+T900500,2026-02-03,Refund,App,Medium,Resolved,9.3,5.0,Agent 6
+T900501,2026-02-03,Login,Phone,Urgent,Resolved,11.8,4.0,Agent 10
+T900502,2026-02-04,Content Error,Chat,Medium,Resolved,16.1,5.0,Agent 9
+T900503,2026-02-04,Class Access,App,Urgent,Resolved,9.1,5.0,Agent 8
+T900504,2026-02-04,Login,App,High,Resolved,26.4,5.0,Agent 9
+T900505,2026-02-05,Login,Email,Low,Resolved,11.1,4.0,Agent 2
+T900506,2026-02-05,Payment,Chat,Medium,Resolved,6.9,4.0,Agent 2
+T900507,2026-02-05,Login,Chat,Medium,Resolved,7.9,5.0,Agent 10
+T900508,2026-02-05,Class Access,App,Medium,Resolved,11.5,4.0,Agent 9
+T900509,2026-02-05,Payment,Email,Low,Resolved,18.1,4.0,Agent 9
+T900510,2026-02-05,Class Access,App,Low,Resolved,2.6,4.0,Agent 4
+T900511,2026-02-05,Payment,Chat,Urgent,Resolved,1.8,5.0,Agent 3
+T900512,2026-02-05,Payment,Phone,High,Resolved,17.4,4.0,Agent 6
+T900513,2026-02-06,Payment,App,Medium,Resolved,10.9,4.0,Agent 8
+T900514,2026-02-06,Login,Email,Medium,Resolved,16.6,4.0,Agent 3
+T900515,2026-02-06,Class Access,Chat,Low,Resolved,12.3,4.0,Agent 10
+T900516,2026-02-06,Login,Chat,Medium,Resolved,8.7,4.0,Agent 4
+T900517,2026-02-06,Class Access,Email,Low,Escalated,,3.0,Agent 5
+T900518,2026-02-07,Class Access,Email,Medium,Resolved,14.5,4.0,Agent 7
+T900519,2026-02-07,Login,App,Low,Resolved,31.3,4.0,Agent 6
+T900520,2026-02-07,Content Error,App,Medium,Open,,5.0,Agent 5
+T900521,2026-02-07,Content Error,Phone,Low,Resolved,22.5,3.0,Agent 1
+T900522,2026-02-07,Payment,Email,Medium,Resolved,25.4,5.0,Agent 5
+T900523,2026-02-07,Class Access,Chat,Medium,Resolved,13.2,4.0,Agent 6
+T900524,2026-02-08,Class Access,App,Medium,Resolved,6.7,5.0,Agent 7
+T900525,2026-02-08,Login,Chat,Low,Resolved,11.2,5.0,Agent 9
+T900526,2026-02-08,Login,Phone,Medium,Resolved,2.6,5.0,Agent 3
+T900527,2026-02-08,Content Error,Phone,Medium,Resolved,4.5,5.0,Agent 6
+T900528,2026-02-08,Class Access,Phone,Urgent,Resolved,11.7,5.0,Agent 5
+T900529,2026-02-09,Content Error,Email,Medium,Open,,4.0,Agent 5
+T900530,2026-02-09,Login,Email,Low,Resolved,16.8,4.0,Agent 8
+T900531,2026-02-09,Class Access,Phone,Medium,Resolved,16.4,4.0,Agent 3
+T900532,2026-02-09,Class Access,App,Medium,Resolved,28.3,3.0,Agent 7
+T900533,2026-02-09,Refund,App,Low,Open,,4.0,Agent 5
+T900534,2026-02-09,Payment,Email,Low,Resolved,7.0,4.0,Agent 2
+T900535,2026-02-09,Payment,Email,Medium,Resolved,13.5,3.0,Agent 6
+T900536,2026-02-10,Refund,Email,Low,Resolved,154.4,1.0,Agent 8
+T900537,2026-02-10,Content Error,Email,Low,Resolved,26.5,4.0,Agent 8
+T900538,2026-02-10,Payment,Phone,High,Resolved,14.6,4.0,Agent 3
+T900539,2026-02-10,Content Error,Chat,Medium,Open,,5.0,Agent 8
+T900540,2026-02-10,Class Access,Phone,Low,Resolved,2.1,4.0,Agent 10
+T900541,2026-02-11,Payment,Phone,Urgent,Resolved,10.9,5.0,Agent 9
+T900542,2026-02-11,Login,Email,Medium,Resolved,10.8,4.0,Agent 10
+T900543,2026-02-11,Payment,App,High,Resolved,16.3,4.0,Agent 8
+T900544,2026-02-11,Class Access,Chat,Low,Resolved,5.2,5.0,Agent 2
+T900545,2026-02-11,Content Error,App,Low,Resolved,6.8,4.0,Agent 3
+T900546,2026-02-11,Login,Chat,Low,Resolved,8.2,4.0,Agent 1
+T900547,2026-02-11,Class Access,Phone,Medium,Resolved,9.3,5.0,Agent 9
+T900548,2026-02-11,Login,Phone,Low,Resolved,3.5,4.0,Agent 1
+T900549,2026-02-11,Payment,Phone,Medium,Resolved,12.2,5.0,Agent 4
+T900550,2026-02-12,Content Error,Chat,Medium,Open,,5.0,Agent 10
+T900551,2026-02-12,Content Error,Chat,Low,Resolved,5.8,5.0,Agent 9
+T900552,2026-02-12,Payment,Email,High,Open,,4.0,Agent 8
+T900553,2026-02-14,Login,Email,High,Open,,4.0,Agent 5
+T900554,2026-02-14,Class Access,Phone,High,Resolved,25.4,4.0,Agent 8
+T900555,2026-02-14,Class Access,Phone,Medium,Resolved,5.1,5.0,Agent 6
+T900556,2026-02-14,Login,Email,Medium,Resolved,11.1,5.0,Agent 7
+T900557,2026-02-14,Payment,Email,Urgent,Resolved,11.3,5.0,Agent 7
+T900558,2026-02-15,Login,App,Medium,Resolved,5.0,5.0,Agent 1
+T900559,2026-02-16,Class Access,Phone,Medium,Resolved,2.2,5.0,Agent 2
+T900560,2026-02-17,Content Error,App,Medium,Resolved,7.7,5.0,Agent 6
+T900561,2026-02-17,Payment,Chat,Medium,Resolved,8.6,5.0,Agent 2
+T900562,2026-02-17,Class Access,Phone,High,Open,,5.0,Agent 9
+T900563,2026-02-17,Class Access,Email,High,Resolved,23.0,4.0,Agent 9
+T900564,2026-02-18,Login,Email,Urgent,Open,,5.0,Agent 2
+T900565,2026-02-18,Class Access,Email,Medium,Resolved,1.8,5.0,Agent 9
+T900566,2026-02-18,Payment,Chat,Medium,Resolved,25.6,5.0,Agent 7
+T900567,2026-02-18,Class Access,Chat,High,Resolved,15.3,5.0,Agent 3
+T900568,2026-02-18,Refund,Email,Low,Resolved,27.5,4.0,Agent 2
+T900569,2026-02-19,Login,App,Medium,Resolved,1.6,4.0,Agent 4
+T900570,2026-02-19,Class Access,Chat,Medium,Resolved,10.9,4.0,Agent 7
+T900571,2026-02-20,Class Access,Chat,High,Resolved,6.6,4.0,Agent 9
+T900572,2026-02-20,Payment,Chat,High,Open,,5.0,Agent 2
+T900573,2026-02-20,Login,Email,Medium,Resolved,6.0,5.0,Agent 7
+T900574,2026-02-20,Login,Phone,Low,Resolved,2.0,5.0,Agent 4
+T900575,2026-02-20,Payment,Email,High,Resolved,6.6,3.0,Agent 2
+T900576,2026-02-21,Class Access,Email,Medium,Open,,5.0,Agent 7
+T900577,2026-02-21,Payment,App,Medium,Escalated,,5.0,Agent 7
+T900578,2026-02-21,Class Access,Chat,Urgent,Resolved,7.5,5.0,Agent 9
+T900579,2026-02-21,Class Access,App,High,Resolved,11.0,4.0,Agent 3
+T900580,2026-02-21,Payment,Chat,Medium,Resolved,5.4,5.0,Agent 8
+T900581,2026-02-21,Payment,Chat,Medium,Resolved,1.5,5.0,Agent 1
+T900582,2026-02-21,Content Error,Email,High,Resolved,7.0,5.0,Agent 5
+T900583,2026-02-21,Content Error,App,Medium,Open,,4.0,Agent 1
+T900584,2026-02-22,Login,Chat,High,Resolved,11.8,5.0,Agent 10
+T900585,2026-02-22,Refund,App,Medium,Resolved,23.0,4.0,Agent 10
+T900586,2026-02-22,Payment,App,Low,Open,,5.0,Agent 7
+T900587,2026-02-22,Payment,App,Low,Escalated,,4.0,Agent 10
+T900588,2026-02-22,Class Access,Phone,Medium,Resolved,11.6,5.0,Agent 1
+T900589,2026-02-23,Payment,App,Medium,Resolved,10.9,5.0,Agent 6
+T900590,2026-02-23,Login,App,Medium,Resolved,4.1,5.0,Agent 6
+T900591,2026-02-23,Class Access,App,Medium,Open,,3.0,Agent 7
+T900592,2026-02-23,Login,Email,Low,Resolved,53.1,2.0,Agent 7
+T900593,2026-02-23,Payment,App,Medium,Resolved,20.5,5.0,Agent 4
+T900594,2026-02-23,Content Error,Phone,Low,Resolved,7.0,4.0,Agent 3
+T900595,2026-02-24,Login,Phone,Medium,Resolved,4.2,4.0,Agent 8
+T900596,2026-02-24,Login,Phone,Urgent,Resolved,9.4,5.0,Agent 8
+T900597,2026-02-24,Class Access,Phone,Medium,Resolved,10.5,4.0,Agent 3
+T900598,2026-02-25,Refund,App,Medium,Resolved,91.3,1.0,Agent 2
+T900599,2026-02-25,Login,Phone,High,Escalated,,5.0,Agent 3
+T900600,2026-02-25,Class Access,App,Low,Resolved,19.3,5.0,Agent 7
+T900601,2026-02-25,Refund,App,High,Resolved,75.6,2.0,Agent 10
+T900602,2026-02-25,Content Error,Chat,Medium,Resolved,11.6,5.0,Agent 3
+T900603,2026-02-25,Class Access,Email,Low,Resolved,35.4,4.0,Agent 10
+T900604,2026-02-25,Refund,Chat,Urgent,Resolved,9.0,5.0,Agent 7
+T900605,2026-02-25,Payment,App,Urgent,Escalated,,3.0,Agent 10
+T900606,2026-02-25,Payment,Chat,Medium,Resolved,7.2,4.0,Agent 4
+T900607,2026-02-25,Payment,Phone,High,Resolved,5.2,4.0,Agent 8
+T900608,2026-02-25,Login,Phone,Medium,Resolved,6.4,5.0,Agent 6
+T900609,2026-02-25,Payment,Email,High,Open,,5.0,Agent 1
+T900610,2026-02-26,Refund,Chat,Medium,Open,,3.0,Agent 9
+T900611,2026-02-26,Content Error,Phone,High,Resolved,9.6,4.0,Agent 6
+T900612,2026-02-26,Payment,Email,Low,Escalated,,3.0,Agent 1
+T900613,2026-02-26,Class Access,Phone,Medium,Resolved,21.2,5.0,Agent 4
+T900614,2026-02-26,Content Error,Email,High,Resolved,29.4,3.0,Agent 7
+T900615,2026-02-27,Content Error,Chat,Medium,Resolved,7.3,4.0,Agent 9
+T900616,2026-02-28,Payment,Chat,Medium,Open,,4.0,Agent 1
+T900617,2026-02-28,Class Access,Email,Low,Resolved,0.7,5.0,Agent 9
+T900618,2026-02-28,Class Access,Email,Medium,Resolved,45.2,4.0,Agent 8
+T900619,2026-03-01,Payment,Chat,High,Resolved,25.2,2.0,Agent 5
+T900620,2026-03-01,Payment,Phone,Medium,Resolved,4.1,4.0,Agent 5
+T900621,2026-03-01,Class Access,Email,Low,Resolved,3.7,4.0,Agent 5
+T900622,2026-03-01,Class Access,Phone,Low,Resolved,14.3,5.0,Agent 8
+T900623,2026-03-02,Class Access,Phone,Low,Resolved,3.6,4.0,Agent 1
+T900624,2026-03-02,Payment,Email,Medium,Open,,5.0,Agent 6
+T900625,2026-03-02,Payment,Email,Low,Resolved,2.2,5.0,Agent 2
+T900626,2026-03-02,Refund,Email,Medium,Resolved,50.1,3.0,Agent 1
+T900627,2026-03-02,Login,Phone,Medium,Resolved,26.5,4.0,Agent 5
+T900628,2026-03-02,Class Access,App,Medium,Escalated,,5.0,Agent 3
+T900629,2026-03-02,Refund,Email,Medium,Resolved,39.6,3.0,Agent 1
+T900630,2026-03-02,Payment,Chat,Medium,Resolved,11.9,5.0,Agent 8
+T900631,2026-03-02,Payment,App,Low,Escalated,,5.0,Agent 8
+T900632,2026-03-03,Class Access,Phone,Low,Resolved,14.0,5.0,Agent 8
+T900633,2026-03-03,Class Access,App,Medium,Resolved,19.9,5.0,Agent 5
+T900634,2026-03-04,Login,Email,Low,Resolved,11.7,3.0,Agent 7
+T900635,2026-03-04,Class Access,Email,High,Open,,4.0,Agent 8
+T900636,2026-03-04,Refund,Chat,Medium,Resolved,17.9,5.0,Agent 7
+T900637,2026-03-04,Content Error,Email,Medium,Resolved,26.4,4.0,Agent 1
+T900638,2026-03-04,Login,Phone,Urgent,Resolved,8.5,5.0,Agent 7
+T900639,2026-03-04,Class Access,App,Urgent,Resolved,13.6,5.0,Agent 4
+T900640,2026-03-05,Payment,Phone,Urgent,Escalated,,5.0,Agent 5
+T900641,2026-03-05,Class Access,Email,Low,Open,,4.0,Agent 5
+T900642,2026-03-05,Class Access,App,Medium,Escalated,,5.0,Agent 8
+T900643,2026-03-05,Login,Chat,Medium,Open,,5.0,Agent 1
+T900644,2026-03-05,Class Access,Email,Medium,Resolved,10.7,4.0,Agent 10
+T900645,2026-03-05,Login,Chat,High,Resolved,5.4,5.0,Agent 4
+T900646,2026-03-06,Class Access,Chat,Low,Resolved,4.9,5.0,Agent 7
+T900647,2026-03-06,Class Access,Email,Urgent,Resolved,19.6,5.0,Agent 1
+T900648,2026-03-07,Login,Phone,Medium,Resolved,12.6,3.0,Agent 3
+T900649,2026-03-07,Payment,App,Low,Open,,4.0,Agent 8
+T900650,2026-03-07,Login,App,High,Resolved,9.5,5.0,Agent 2
+T900651,2026-03-07,Refund,Phone,Medium,Resolved,40.5,2.0,Agent 2
+T900652,2026-03-07,Payment,Phone,High,Open,,4.0,Agent 8
+T900653,2026-03-08,Refund,Email,Medium,Resolved,5.9,5.0,Agent 7
+T900654,2026-03-08,Refund,App,Low,Escalated,,5.0,Agent 4
+T900655,2026-03-08,Content Error,Chat,Low,Resolved,23.8,5.0,Agent 2
+T900656,2026-03-08,Class Access,App,Low,Resolved,20.8,4.0,Agent 1
+T900657,2026-03-08,Class Access,Email,Medium,Resolved,19.0,4.0,Agent 5
+T900658,2026-03-08,Class Access,Email,Low,Open,,4.0,Agent 10
+T900659,2026-03-09,Class Access,Chat,Medium,Resolved,12.8,5.0,Agent 10
+T900660,2026-03-09,Content Error,Chat,High,Resolved,11.6,5.0,Agent 3
+T900661,2026-03-09,Class Access,Chat,Low,Open,,4.0,Agent 2
+T900662,2026-03-10,Class Access,Email,High,Resolved,29.4,5.0,Agent 4
+T900663,2026-03-10,Refund,Phone,Low,Resolved,7.2,4.0,Agent 1
+T900664,2026-03-10,Login,Email,High,Escalated,,4.0,Agent 3
+T900665,2026-03-10,Payment,App,Low,Escalated,,5.0,Agent 9
+T900666,2026-03-10,Content Error,App,Medium,Resolved,15.0,4.0,Agent 10
+T900667,2026-03-10,Login,App,High,Resolved,7.0,5.0,Agent 8
+T900668,2026-03-10,Class Access,Phone,High,Resolved,16.1,3.0,Agent 3
+T900669,2026-03-10,Class Access,App,Medium,Resolved,13.5,5.0,Agent 2
+T900670,2026-03-11,Class Access,Chat,High,Resolved,1.5,5.0,Agent 9
+T900671,2026-03-11,Payment,App,High,Open,,3.0,Agent 10
+T900672,2026-03-11,Login,Phone,Low,Resolved,20.4,4.0,Agent 3
+T900673,2026-03-11,Payment,Phone,High,Resolved,19.5,4.0,Agent 4
+T900674,2026-03-12,Class Access,Phone,Medium,Resolved,2.8,4.0,Agent 9
+T900675,2026-03-12,Login,Email,High,Resolved,19.8,5.0,Agent 6
+T900676,2026-03-12,Content Error,App,Medium,Resolved,6.6,5.0,Agent 7
+T900677,2026-03-13,Content Error,Email,Medium,Escalated,,4.0,Agent 1
+T900678,2026-03-13,Content Error,Email,High,Resolved,3.3,5.0,Agent 7
+T900679,2026-03-14,Payment,App,High,Resolved,7.8,5.0,Agent 4
+T900680,2026-03-15,Payment,Phone,Medium,Open,,4.0,Agent 5
+T900681,2026-03-15,Refund,App,High,Open,,5.0,Agent 10
+T900682,2026-03-16,Class Access,App,Low,Open,,4.0,Agent 7
+T900683,2026-03-16,Login,App,Medium,Resolved,19.2,5.0,Agent 5
+T900684,2026-03-16,Login,App,Medium,Resolved,23.0,4.0,Agent 4
+T900685,2026-03-16,Payment,Chat,Low,Resolved,0.3,5.0,Agent 6
+T900686,2026-03-16,Content Error,Chat,Medium,Resolved,9.2,5.0,Agent 4
+T900687,2026-03-17,Payment,Chat,Medium,Resolved,14.7,4.0,Agent 9
+T900688,2026-03-17,Refund,Phone,Urgent,Resolved,17.5,5.0,Agent 3
+T900689,2026-03-17,Class Access,App,Low,Resolved,11.0,5.0,Agent 5
+T900690,2026-03-17,Class Access,Phone,Medium,Resolved,7.5,4.0,Agent 5
+T900691,2026-03-17,Payment,Phone,Low,Resolved,15.0,4.0,Agent 5
+T900692,2026-03-18,Class Access,Chat,Low,Resolved,10.1,4.0,Agent 7
+T900693,2026-03-18,Class Access,App,Urgent,Open,,4.0,Agent 8
+T900694,2026-03-18,Class Access,Phone,Medium,Resolved,4.7,4.0,Agent 5
+T900695,2026-03-19,Payment,Chat,Medium,Resolved,18.7,4.0,Agent 2
+T900696,2026-03-19,Content Error,App,High,Resolved,14.5,4.0,Agent 5
+T900697,2026-03-19,Content Error,Chat,Low,Resolved,25.3,4.0,Agent 1
+T900698,2026-03-19,Payment,Chat,Medium,Resolved,10.5,5.0,Agent 9
+T900699,2026-03-19,Payment,Chat,Medium,Resolved,8.3,5.0,Agent 3
+T900700,2026-03-19,Class Access,Phone,Medium,Resolved,7.5,5.0,Agent 8
+T900701,2026-03-19,Login,Chat,Low,Resolved,6.6,4.0,Agent 7
+T900702,2026-03-19,Class Access,Chat,High,Resolved,25.4,4.0,Agent 9
+T900703,2026-03-20,Content Error,Chat,Medium,Resolved,8.0,5.0,Agent 5
+T900704,2026-03-20,Class Access,Chat,Medium,Resolved,14.6,5.0,Agent 9
+T900705,2026-03-20,Class Access,App,Medium,Resolved,8.9,4.0,Agent 1
+T900706,2026-03-20,Content Error,Email,Medium,Resolved,4.0,5.0,Agent 10
+T900707,2026-03-21,Class Access,Chat,Medium,Resolved,15.8,3.0,Agent 8
+T900708,2026-03-21,Login,Phone,High,Resolved,9.7,3.0,Agent 4
+T900709,2026-03-21,Payment,App,Medium,Resolved,2.5,4.0,Agent 9
+T900710,2026-03-21,Login,Email,High,Resolved,3.9,5.0,Agent 9
+T900711,2026-03-21,Class Access,Phone,Low,Resolved,2.2,4.0,Agent 10
+T900712,2026-03-22,Payment,App,High,Resolved,16.2,5.0,Agent 7
+T900713,2026-03-22,Login,Chat,Medium,Resolved,4.0,5.0,Agent 1
+T900714,2026-03-23,Class Access,Phone,High,Resolved,21.2,4.0,Agent 5
+T900715,2026-03-23,Refund,App,Low,Resolved,52.6,3.0,Agent 5
+T900716,2026-03-23,Login,Email,High,Resolved,14.0,4.0,Agent 5
+T900717,2026-03-23,Content Error,App,Low,Resolved,7.2,3.0,Agent 4
+T900718,2026-03-23,Refund,App,Medium,Resolved,38.9,4.0,Agent 8
+T900719,2026-03-24,Login,Chat,Medium,Resolved,0.6,5.0,Agent 5
+T900720,2026-03-24,Class Access,Chat,Medium,Escalated,,5.0,Agent 8
+T900721,2026-03-24,Payment,Phone,Medium,Resolved,8.6,4.0,Agent 1
+T900722,2026-03-24,Refund,App,Low,Open,,5.0,Agent 2
+T900723,2026-03-25,Content Error,Email,Medium,Escalated,,3.0,Agent 1
+T900724,2026-03-25,Refund,Phone,Medium,Resolved,68.3,3.0,Agent 9
+T900725,2026-03-25,Payment,Email,Medium,Open,,3.0,Agent 9
+T900726,2026-03-25,Content Error,Phone,Medium,Resolved,11.1,4.0,Agent 6
+T900727,2026-03-26,Login,Email,Low,Resolved,8.9,4.0,Agent 1
+T900728,2026-03-26,Class Access,Email,Low,Resolved,9.1,4.0,Agent 5
+T900729,2026-03-26,Login,Email,Medium,Open,,4.0,Agent 1
+T900730,2026-03-27,Login,Email,Medium,Resolved,5.0,5.0,Agent 3
+T900731,2026-03-27,Login,Email,Medium,Open,,4.0,Agent 7
+T900732,2026-03-27,Payment,Email,Urgent,Open,,5.0,Agent 5
+T900733,2026-03-27,Class Access,Phone,High,Resolved,14.0,5.0,Agent 1
+T900734,2026-03-28,Class Access,App,Urgent,Resolved,11.7,4.0,Agent 3
+T900735,2026-03-28,Class Access,Chat,High,Resolved,8.3,5.0,Agent 9
+T900736,2026-03-28,Login,Email,Low,Resolved,15.1,4.0,Agent 7
+T900737,2026-03-28,Content Error,App,High,Open,,4.0,Agent 2
+T900738,2026-03-29,Class Access,Email,Medium,Resolved,22.7,5.0,Agent 2
+T900739,2026-03-30,Refund,App,High,Resolved,9.3,4.0,Agent 6
+T900740,2026-03-30,Login,Phone,High,Open,,4.0,Agent 3
+T900741,2026-03-30,Content Error,Chat,Medium,Resolved,16.5,4.0,Agent 9
+T900742,2026-03-31,Refund,Email,Medium,Resolved,67.0,2.0,Agent 7
+T900743,2026-03-31,Class Access,Phone,Medium,Escalated,,5.0,Agent 9
+T900744,2026-04-01,Payment,App,Urgent,Escalated,,5.0,Agent 1
+T900745,2026-04-01,Class Access,Email,Medium,Resolved,74.4,2.0,Agent 3
+T900746,2026-04-01,Payment,Phone,Medium,Resolved,2.6,5.0,Agent 9
+T900747,2026-04-02,Payment,Email,Low,Resolved,6.8,4.0,Agent 3
+T900748,2026-04-02,Class Access,Phone,Medium,Escalated,,4.0,Agent 9
+T900749,2026-04-02,Login,Email,Medium,Resolved,8.9,4.0,Agent 2
+T900750,2026-04-02,Refund,Email,Urgent,Resolved,106.3,1.0,Agent 6
+T900751,2026-04-02,Refund,Chat,Urgent,Resolved,34.9,4.0,Agent 10
+T900752,2026-04-03,Payment,Email,Medium,Resolved,11.9,5.0,Agent 5
+T900753,2026-04-03,Payment,Phone,Urgent,Resolved,2.0,5.0,Agent 6
+T900754,2026-04-04,Class Access,Phone,High,Resolved,17.1,3.0,Agent 10
+T900755,2026-04-04,Class Access,Chat,Low,Resolved,12.9,4.0,Agent 9
+T900756,2026-04-04,Content Error,Email,High,Resolved,10.7,5.0,Agent 7
+T900757,2026-04-05,Content Error,App,Medium,Resolved,8.0,4.0,Agent 9
+T900758,2026-04-05,Refund,Chat,Low,Resolved,66.9,2.0,Agent 10
+T900759,2026-04-06,Class Access,Phone,Low,Resolved,3.4,5.0,Agent 9
+T900760,2026-04-06,Payment,Phone,Medium,Resolved,2.8,5.0,Agent 4
+T900761,2026-04-06,Login,Email,Medium,Resolved,9.7,4.0,Agent 2
+T900762,2026-04-06,Payment,Chat,Medium,Escalated,,5.0,Agent 4
+T900763,2026-04-06,Class Access,Phone,Medium,Resolved,8.7,4.0,Agent 9
+T900764,2026-04-07,Payment,Email,Medium,Resolved,33.8,4.0,Agent 6
+T900765,2026-04-07,Login,Phone,Medium,Resolved,5.3,5.0,Agent 9
+T900766,2026-04-07,Payment,Phone,Low,Escalated,,4.0,Agent 8
+T900767,2026-04-07,Payment,App,Urgent,Resolved,10.7,4.0,Agent 4
+T900768,2026-04-07,Refund,Chat,Medium,Resolved,9.6,4.0,Agent 1
+T900769,2026-04-08,Login,Chat,Low,Resolved,1.6,5.0,Agent 5
+T900770,2026-04-08,Class Access,Phone,Low,Resolved,7.4,5.0,Agent 9
+T900771,2026-04-08,Login,Chat,Medium,Open,,3.0,Agent 8
+T900772,2026-04-08,Class Access,App,Medium,Resolved,5.0,4.0,Agent 5
+T900773,2026-04-08,Content Error,Phone,High,Resolved,13.0,5.0,Agent 2
+T900774,2026-04-08,Login,App,Medium,Resolved,17.5,4.0,Agent 4
+T900775,2026-04-08,Login,App,High,Resolved,6.0,5.0,Agent 1
+T900776,2026-04-09,Content Error,Phone,Medium,Open,,5.0,Agent 5
+T900777,2026-04-09,Login,Email,Medium,Resolved,5.7,4.0,Agent 1
+T900778,2026-04-09,Refund,Chat,Low,Resolved,38.5,4.0,Agent 6
+T900779,2026-04-09,Refund,App,Medium,Resolved,15.5,5.0,Agent 5
+T900780,2026-04-09,Payment,Email,Medium,Resolved,17.3,4.0,Agent 1
+T900781,2026-04-09,Payment,Chat,Low,Resolved,11.8,5.0,Agent 10
+T900782,2026-04-10,Refund,Phone,Urgent,Escalated,,4.0,Agent 4
+T900783,2026-04-10,Class Access,Email,Medium,Resolved,1.9,4.0,Agent 9
+T900784,2026-04-10,Login,Phone,Medium,Open,,4.0,Agent 10
+T900785,2026-04-11,Payment,App,Low,Resolved,23.8,3.0,Agent 8
+T900786,2026-04-11,Payment,Chat,High,Resolved,4.0,4.0,Agent 5
+T900787,2026-04-11,Refund,App,Urgent,Resolved,21.9,5.0,Agent 4
+T900788,2026-04-12,Class Access,Phone,High,Resolved,4.9,5.0,Agent 3
+T900789,2026-04-12,Login,Chat,Medium,Resolved,6.2,5.0,Agent 5
+T900790,2026-04-12,Payment,Email,Low,Resolved,19.6,4.0,Agent 4
+T900791,2026-04-12,Class Access,Phone,Low,Resolved,2.8,5.0,Agent 10
+T900792,2026-04-12,Class Access,App,Medium,Resolved,14.9,4.0,Agent 3
+T900793,2026-04-12,Class Access,Chat,Medium,Resolved,9.3,4.0,Agent 9
+T900794,2026-04-12,Login,Email,Low,Resolved,27.6,4.0,Agent 1
+T900795,2026-04-13,Login,Chat,Urgent,Resolved,22.0,5.0,Agent 9
+T900796,2026-04-13,Login,Email,Medium,Resolved,44.4,2.0,Agent 9
+T900797,2026-04-13,Class Access,Chat,Medium,Resolved,5.0,5.0,Agent 4
+T900798,2026-04-13,Class Access,Phone,Low,Resolved,5.3,4.0,Agent 7
+T900799,2026-04-13,Payment,App,Urgent,Resolved,11.7,5.0,Agent 8
+T900800,2026-04-14,Payment,App,Low,Resolved,5.1,5.0,Agent 3
+T900801,2026-04-14,Class Access,Chat,Urgent,Resolved,3.1,4.0,Agent 9
+T900802,2026-04-14,Refund,Chat,High,Open,,4.0,Agent 3
+T900803,2026-04-14,Class Access,Chat,Medium,Resolved,10.9,4.0,Agent 6
+T900804,2026-04-14,Content Error,Email,High,Escalated,,3.0,Agent 3
+T900805,2026-04-14,Payment,Email,Low,Resolved,7.0,5.0,Agent 3
+T900806,2026-04-14,Class Access,Email,Urgent,Open,,3.0,Agent 2
+T900807,2026-04-15,Content Error,Email,Medium,Resolved,17.1,5.0,Agent 8
+T900808,2026-04-15,Content Error,Phone,High,Resolved,9.3,5.0,Agent 7
+T900809,2026-04-15,Payment,Email,Low,Resolved,7.0,4.0,Agent 7
+T900810,2026-04-15,Class Access,Email,Low,Escalated,,5.0,Agent 8
+T900811,2026-04-15,Login,Chat,Medium,Resolved,4.5,4.0,Agent 6
+T900812,2026-04-15,Login,Phone,Medium,Resolved,4.4,5.0,Agent 6
+T900813,2026-04-16,Content Error,Phone,Medium,Open,,4.0,Agent 10
+T900814,2026-04-16,Class Access,Chat,Low,Resolved,14.2,5.0,Agent 7
+T900815,2026-04-16,Class Access,Phone,Medium,Resolved,25.2,3.0,Agent 4
+T900816,2026-04-16,Login,Phone,Medium,Resolved,8.3,5.0,Agent 5
+T900817,2026-04-16,Refund,App,Medium,Resolved,33.4,3.0,Agent 9
+T900818,2026-04-17,Class Access,Email,High,Open,,4.0,Agent 4
+T900819,2026-04-17,Content Error,App,Medium,Resolved,9.9,5.0,Agent 10
+T900820,2026-04-17,Refund,Email,Low,Resolved,53.9,3.0,Agent 10
+T900821,2026-04-17,Content Error,App,Medium,Resolved,4.5,4.0,Agent 3
+T900822,2026-04-17,Payment,Chat,Medium,Resolved,6.3,5.0,Agent 1
+T900823,2026-04-17,Login,Chat,Medium,Resolved,4.9,5.0,Agent 1
+T900824,2026-04-18,Refund,Chat,High,Resolved,37.5,4.0,Agent 3
+T900825,2026-04-18,Login,Phone,High,Resolved,13.9,4.0,Agent 5
+T900826,2026-04-18,Content Error,Phone,High,Open,,5.0,Agent 10
+T900827,2026-04-18,Login,Email,High,Resolved,18.7,3.0,Agent 8
+T900828,2026-04-18,Refund,Chat,Low,Resolved,47.8,3.0,Agent 4
+T900829,2026-04-19,Payment,Chat,Medium,Open,,5.0,Agent 10
+T900830,2026-04-20,Class Access,App,High,Open,,5.0,Agent 1
+T900831,2026-04-20,Login,Email,Low,Resolved,12.1,4.0,Agent 7
+T900832,2026-04-20,Content Error,Chat,Medium,Resolved,13.0,4.0,Agent 7
+T900833,2026-04-21,Class Access,Phone,Low,Open,,5.0,Agent 6
+T900834,2026-04-21,Refund,Email,High,Resolved,88.6,1.0,Agent 9
+T900835,2026-04-21,Class Access,Email,High,Resolved,19.2,5.0,Agent 4
+T900836,2026-04-21,Content Error,App,Low,Resolved,3.6,5.0,Agent 1
+T900837,2026-04-21,Payment,Chat,High,Resolved,18.3,3.0,Agent 5
+T900838,2026-04-22,Class Access,App,High,Resolved,8.4,5.0,Agent 10
+T900839,2026-04-22,Content Error,Phone,High,Open,,5.0,Agent 6
+T900840,2026-04-22,Payment,Phone,High,Resolved,8.6,4.0,Agent 6
+T900841,2026-04-22,Class Access,App,Low,Resolved,5.2,4.0,Agent 9
+T900842,2026-04-23,Login,Email,Low,Resolved,15.9,5.0,Agent 6
+T900843,2026-04-23,Class Access,App,Urgent,Resolved,14.5,4.0,Agent 1
+T900844,2026-04-23,Payment,Email,Medium,Resolved,22.8,5.0,Agent 8
+T900845,2026-04-23,Login,App,Low,Resolved,3.6,5.0,Agent 5
+T900846,2026-04-23,Class Access,Chat,High,Resolved,5.8,4.0,Agent 2
+T900847,2026-04-23,Payment,App,Medium,Resolved,3.4,5.0,Agent 3
+T900848,2026-04-23,Class Access,App,Medium,Resolved,22.5,2.0,Agent 6
+T900849,2026-04-24,Payment,Chat,Medium,Resolved,15.3,5.0,Agent 1
+T900850,2026-04-24,Payment,App,Medium,Resolved,27.1,4.0,Agent 1
+T900851,2026-04-24,Class Access,App,Medium,Resolved,8.5,5.0,Agent 1
+T900852,2026-04-24,Class Access,Phone,Medium,Resolved,28.4,2.0,Agent 3
+T900853,2026-04-24,Class Access,Chat,Urgent,Resolved,13.2,4.0,Agent 8
+T900854,2026-04-24,Login,Email,Urgent,Escalated,,5.0,Agent 3
+T900855,2026-04-25,Class Access,Chat,Low,Resolved,4.4,5.0,Agent 5
+T900856,2026-04-25,Content Error,Chat,Urgent,Resolved,9.4,4.0,Agent 6
+T900857,2026-04-25,Refund,App,High,Resolved,25.6,5.0,Agent 9
+T900858,2026-04-25,Class Access,Chat,Low,Resolved,4.5,5.0,Agent 10
+T900859,2026-04-27,Payment,Phone,Medium,Resolved,15.0,4.0,Agent 7
+T900860,2026-04-27,Content Error,App,Medium,Resolved,8.4,4.0,Agent 9
+T900861,2026-04-27,Payment,App,Medium,Resolved,6.6,4.0,Agent 1
+T900862,2026-04-27,Content Error,Phone,Low,Resolved,6.7,5.0,Agent 1
+T900863,2026-04-27,Login,Email,Low,Resolved,14.7,5.0,Agent 7
+T900864,2026-04-28,Class Access,Phone,Medium,Resolved,5.3,5.0,Agent 8
+T900865,2026-04-28,Payment,Phone,High,Open,,5.0,Agent 6
+T900866,2026-04-28,Payment,Chat,Low,Resolved,8.7,5.0,Agent 3
+T900867,2026-04-29,Class Access,Phone,High,Escalated,,5.0,Agent 9
+T900868,2026-04-29,Login,Email,Medium,Open,,3.0,Agent 5
+T900869,2026-04-29,Login,Phone,High,Open,,3.0,Agent 8
+T900870,2026-04-29,Class Access,App,High,Resolved,6.4,4.0,Agent 6
+T900871,2026-04-29,Class Access,App,Low,Resolved,7.1,5.0,Agent 3
+T900872,2026-05-01,Login,App,Medium,Open,,4.0,Agent 8
+T900873,2026-05-02,Refund,App,Urgent,Resolved,30.1,4.0,Agent 9
+T900874,2026-05-02,Class Access,Email,Medium,Resolved,41.2,3.0,Agent 8
+T900875,2026-05-02,Content Error,Chat,Medium,Resolved,27.3,4.0,Agent 6
+T900876,2026-05-02,Class Access,Email,Low,Resolved,71.3,3.0,Agent 7
+T900877,2026-05-03,Content Error,App,Medium,Resolved,18.3,4.0,Agent 4
+T900878,2026-05-03,Payment,Phone,High,Resolved,12.0,5.0,Agent 2
+T900879,2026-05-03,Class Access,Email,Urgent,Resolved,3.9,5.0,Agent 2
+T900880,2026-05-03,Payment,Phone,High,Resolved,22.4,5.0,Agent 8
+T900881,2026-05-03,Class Access,Chat,High,Resolved,6.8,4.0,Agent 5
+T900882,2026-05-03,Refund,Chat,Medium,Resolved,29.1,5.0,Agent 2
+T900883,2026-05-04,Refund,App,High,Resolved,13.4,5.0,Agent 5
+T900884,2026-05-04,Refund,App,Low,Resolved,20.5,4.0,Agent 2
+T900885,2026-05-05,Class Access,Email,Urgent,Resolved,12.9,5.0,Agent 4
+T900886,2026-05-05,Content Error,Chat,Medium,Resolved,2.8,4.0,Agent 7
+T900887,2026-05-05,Class Access,App,Low,Resolved,22.0,4.0,Agent 3
+T900888,2026-05-05,Class Access,Chat,Medium,Escalated,,3.0,Agent 9
+T900889,2026-05-05,Payment,Chat,Medium,Resolved,6.5,4.0,Agent 5
+T900890,2026-05-05,Class Access,Email,Medium,Resolved,9.8,5.0,Agent 8
+T900891,2026-05-06,Content Error,App,High,Open,,3.0,Agent 4
+T900892,2026-05-06,Payment,Phone,Low,Resolved,18.0,4.0,Agent 7
+T900893,2026-05-06,Login,Email,Low,Resolved,9.4,5.0,Agent 5
+T900894,2026-05-07,Refund,Chat,Medium,Resolved,73.6,3.0,Agent 6
+T900895,2026-05-07,Class Access,App,High,Open,,4.0,Agent 8
+T900896,2026-05-07,Class Access,App,Medium,Resolved,12.6,4.0,Agent 8
+T900897,2026-05-07,Class Access,Phone,Urgent,Resolved,5.0,5.0,Agent 7
+T900898,2026-05-07,Payment,App,Low,Resolved,15.0,4.0,Agent 2
+T900899,2026-05-07,Class Access,App,Urgent,Resolved,24.7,5.0,Agent 3
+T900900,2026-05-07,Class Access,Email,Medium,Resolved,6.3,5.0,Agent 9
+T900901,2026-05-07,Refund,Phone,High,Resolved,5.1,4.0,Agent 3
+T900902,2026-05-08,Class Access,Phone,Medium,Resolved,26.1,4.0,Agent 2
+T900903,2026-05-08,Class Access,App,Urgent,Resolved,8.6,5.0,Agent 9
+T900904,2026-05-08,Class Access,Email,Low,Resolved,71.4,3.0,Agent 3
+T900905,2026-05-08,Payment,Chat,Medium,Resolved,11.4,4.0,Agent 9
+T900906,2026-05-08,Login,Phone,Medium,Open,,4.0,Agent 9
+T900907,2026-05-09,Refund,Chat,Medium,Resolved,31.5,4.0,Agent 6
+T900908,2026-05-09,Payment,App,Low,Resolved,8.0,5.0,Agent 2
+T900909,2026-05-10,Content Error,Chat,High,Open,,5.0,Agent 4
+T900910,2026-05-10,Content Error,Email,Low,Resolved,5.8,5.0,Agent 9
+T900911,2026-05-10,Login,App,Medium,Open,,5.0,Agent 9
+T900912,2026-05-10,Login,Phone,Medium,Resolved,2.6,5.0,Agent 9
+T900913,2026-05-10,Content Error,App,Low,Escalated,,5.0,Agent 3
+T900914,2026-05-10,Login,Chat,Medium,Resolved,6.9,5.0,Agent 3
+T900915,2026-05-10,Class Access,Email,Medium,Resolved,32.5,4.0,Agent 3
+T900916,2026-05-10,Class Access,Phone,Medium,Resolved,8.4,4.0,Agent 6
+T900917,2026-05-11,Content Error,Chat,Urgent,Escalated,,4.0,Agent 2
+T900918,2026-05-11,Login,Email,Medium,Resolved,15.5,4.0,Agent 1
+T900919,2026-05-11,Class Access,Email,High,Open,,2.0,Agent 6
+T900920,2026-05-12,Content Error,Phone,High,Resolved,15.0,4.0,Agent 1
+T900921,2026-05-12,Content Error,Email,Low,Open,,5.0,Agent 3
+T900922,2026-05-12,Class Access,Phone,Medium,Resolved,11.9,5.0,Agent 3
+T900923,2026-05-12,Class Access,App,Low,Resolved,38.1,3.0,Agent 7
+T900924,2026-05-12,Refund,App,Medium,Resolved,89.1,1.0,Agent 6
+T900925,2026-05-12,Class Access,Email,Medium,Resolved,13.2,5.0,Agent 6
+T900926,2026-05-12,Class Access,App,High,Resolved,11.0,4.0,Agent 2
+T900927,2026-05-13,Refund,Chat,Medium,Resolved,22.3,4.0,Agent 3
+T900928,2026-05-13,Login,Phone,Medium,Resolved,3.3,5.0,Agent 9
+T900929,2026-05-13,Class Access,Phone,High,Resolved,2.7,5.0,Agent 4
+T900930,2026-05-13,Class Access,Phone,Low,Resolved,7.4,5.0,Agent 3
+T900931,2026-05-14,Refund,App,Medium,Open,,4.0,Agent 6
+T900932,2026-05-14,Content Error,Chat,Low,Resolved,-3.0,5.0,Agent 1
+T900933,2026-05-14,Payment,Email,Low,Resolved,4.0,5.0,Agent 10
+T900934,2026-05-14,Payment,Chat,Medium,Resolved,11.4,4.0,Agent 5
+T900935,2026-05-14,Class Access,Phone,Low,Resolved,6.9,5.0,Agent 6
+T900936,2026-05-14,Login,Chat,Urgent,Resolved,19.7,5.0,Agent 6
+T900937,2026-05-15,Payment,App,Low,Resolved,7.7,4.0,Agent 7
+T900938,2026-05-15,Payment,Phone,Medium,Resolved,27.8,5.0,Agent 4
+T900939,2026-05-15,Class Access,Chat,Medium,Resolved,19.2,5.0,Agent 7
+T900940,2026-05-15,Payment,Email,High,Resolved,22.7,4.0,Agent 2
+T900941,2026-05-15,Refund,Phone,Medium,Resolved,38.5,4.0,Agent 10
+T900942,2026-05-15,Class Access,Chat,Medium,Resolved,12.7,4.0,Agent 3
+T900943,2026-05-16,Payment,Email,Low,Resolved,21.9,5.0,Agent 4
+T900944,2026-05-16,Class Access,Chat,Medium,Resolved,13.5,4.0,Agent 7
+T900945,2026-05-16,Payment,App,Medium,Resolved,18.0,4.0,Agent 5
+T900946,2026-05-16,Payment,Chat,High,Open,,5.0,Agent 4
+T900947,2026-05-17,Login,App,Medium,Resolved,13.2,4.0,Agent 6
+T900948,2026-05-17,Content Error,Chat,Medium,Open,,4.0,Agent 4
+T900949,2026-05-18,Content Error,Chat,High,Resolved,4.7,5.0,Agent 4
+T900950,2026-05-18,Class Access,App,High,Resolved,13.3,4.0,Agent 4
+T900951,2026-05-18,Payment,Chat,Medium,Escalated,,4.0,Agent 5
+T900952,2026-05-19,Login,Chat,Low,Resolved,11.1,5.0,Agent 4
+T900953,2026-05-19,Payment,Chat,Low,Resolved,5.4,5.0,Agent 1
+T900954,2026-05-19,Content Error,Phone,Medium,Resolved,9.1,5.0,Agent 3
+T900955,2026-05-19,Payment,Email,Medium,Resolved,41.1,4.0,Agent 7
+T900956,2026-05-19,Class Access,App,Low,Resolved,3.5,5.0,Agent 9
+T900957,2026-05-20,Class Access,Phone,Medium,Resolved,8.3,4.0,Agent 1
+T900958,2026-05-20,Content Error,Chat,High,Resolved,34.0,4.0,Agent 10
+T900959,2026-05-20,Content Error,Chat,High,Resolved,7.0,5.0,Agent 2
+T900960,2026-05-20,Payment,Email,High,Resolved,1.9,5.0,Agent 9
+T900961,2026-05-21,Content Error,Chat,Medium,Escalated,,4.0,Agent 3
+T900962,2026-05-21,Login,App,High,Resolved,5.1,5.0,Agent 2
+T900963,2026-05-21,Class Access,App,Low,Resolved,9.0,4.0,Agent 1
+T900964,2026-05-22,Refund,Email,Medium,Resolved,141.6,1.0,Agent 6
+T900965,2026-05-22,Payment,Email,Urgent,Resolved,9.4,5.0,Agent 7
+T900966,2026-05-22,Payment,App,Urgent,Resolved,6.2,5.0,Agent 7
+T900967,2026-05-22,Login,App,Medium,Resolved,12.7,4.0,Agent 8
+T900968,2026-05-22,Class Access,App,Low,Resolved,0.8,5.0,Agent 4
+T900969,2026-05-22,Class Access,App,High,Resolved,15.7,4.0,Agent 3
+T900970,2026-05-22,Class Access,Phone,Urgent,Resolved,25.7,5.0,Agent 1
+T900971,2026-05-22,Login,Phone,Low,Resolved,36.6,3.0,Agent 2
+T900972,2026-05-23,Class Access,App,Low,Resolved,17.4,4.0,Agent 5
+T900973,2026-05-23,Login,Email,Medium,Resolved,30.3,5.0,Agent 8
+T900974,2026-05-23,Class Access,Phone,Low,Open,,5.0,Agent 6
+T900975,2026-05-24,Class Access,Email,Medium,Open,,4.0,Agent 10
+T900976,2026-05-24,Class Access,Email,Medium,Resolved,12.1,4.0,Agent 1
+T900977,2026-05-24,Class Access,Phone,High,Resolved,6.9,4.0,Agent 9
+T900978,2026-05-24,Payment,Phone,High,Open,,5.0,Agent 9
+T900979,2026-05-25,Payment,Chat,High,Resolved,21.0,4.0,Agent 7
+T900980,2026-05-25,Class Access,App,High,Resolved,3.4,4.0,Agent 10
+T900981,2026-05-25,Refund,App,Low,Resolved,34.3,3.0,Agent 2
+T900982,2026-05-25,Refund,Email,High,Open,,5.0,Agent 5
+T900983,2026-05-25,Login,Phone,Low,Resolved,35.9,3.0,Agent 5
+T900984,2026-05-25,Class Access,Email,Low,Resolved,17.9,4.0,Agent 8
+T900985,2026-05-26,Class Access,Phone,High,Resolved,3.4,4.0,Agent 8
+T900986,2026-05-26,Login,App,Medium,Escalated,,5.0,Agent 4
+T900987,2026-05-27,Class Access,App,Low,Open,,4.0,Agent 10
+T900988,2026-05-27,Login,Phone,Low,Escalated,,5.0,Agent 10
+T900989,2026-05-27,Class Access,Phone,Medium,Resolved,3.4,5.0,Agent 10
+T900990,2026-05-27,Content Error,Phone,High,Resolved,14.6,5.0,Agent 1
+T900991,2026-05-27,Refund,Email,Urgent,Resolved,113.0,1.0,Agent 7
+T900992,2026-05-28,Content Error,Email,Medium,Open,,3.0,Agent 7
+T900993,2026-05-28,Class Access,Chat,Low,Resolved,11.9,5.0,Agent 10
+T900994,2026-05-28,Login,Email,Medium,Resolved,7.9,4.0,Agent 2
+T900995,2026-05-28,Content Error,Phone,Medium,Open,,5.0,Agent 8
+T900996,2026-05-28,Payment,App,Low,Resolved,16.9,4.0,Agent 5
+T900997,2026-05-28,Payment,App,High,Open,,4.0,Agent 8
+T900998,2026-05-29,Content Error,Email,Low,Resolved,2.4,4.0,Agent 2
+T900999,2026-05-29,Payment,Phone,Medium,Resolved,3.2,4.0,Agent 7
+T901000,2026-05-29,Content Error,Email,Urgent,Resolved,18.7,4.0,Agent 5
+T901001,2026-05-29,Class Access,Chat,Low,Resolved,3.6,5.0,Agent 7
+T901002,2026-05-29,Login,Phone,Low,Resolved,10.0,5.0,Agent 5
+T901003,2026-05-30,Class Access,Email,Medium,Open,,5.0,Agent 4
+T901004,2026-05-30,Login,Phone,Medium,Resolved,20.2,3.0,Agent 2
+T901005,2026-05-30,Login,App,High,Resolved,2.9,5.0,Agent 10
+T901006,2026-05-30,Class Access,Phone,Medium,Resolved,16.2,5.0,Agent 2
+T901007,2026-05-31,Payment,Email,High,Resolved,6.1,5.0,Agent 7
+T901008,2026-05-31,Login,App,Low,Resolved,9.2,3.0,Agent 4
+T901009,2026-05-31,Payment,App,Low,Resolved,7.8,5.0,Agent 8
+T901010,2026-05-31,Login,Chat,Medium,Resolved,20.5,3.0,Agent 3
+T901011,2026-05-31,Class Access,Email,High,Resolved,6.0,5.0,Agent 1
+T901012,2026-06-01,Class Access,Phone,Medium,Resolved,3.3,5.0,Agent 7
+T901013,2026-06-01,Class Access,Phone,Low,Open,,5.0,Agent 1
+T901014,2026-06-01,Payment,Chat,Medium,Resolved,8.5,4.0,Agent 4
+T901015,2026-06-01,Content Error,Email,High,Resolved,3.1,5.0,Agent 3
+T901016,2026-06-01,Payment,Email,Low,Resolved,31.5,5.0,Agent 8
+T901017,2026-06-02,Class Access,Chat,Urgent,Resolved,9.6,5.0,Agent 2
+T901018,2026-06-02,Payment,Email,Medium,Open,,5.0,Agent 2
+T901019,2026-06-02,Payment,Email,Urgent,Resolved,6.5,5.0,Agent 10
+T901020,2026-06-02,Refund,Email,Low,Escalated,,3.0,Agent 8
+T901021,2026-06-02,Login,Email,Medium,Resolved,48.4,4.0,Agent 6
+T901022,2026-06-03,Payment,Chat,Low,Escalated,,4.0,Agent 5
+T901023,2026-06-03,Content Error,App,Low,Resolved,3.1,5.0,Agent 4
+T901024,2026-06-03,Login,App,Low,Resolved,19.6,4.0,Agent 3
+T901025,2026-06-03,Login,App,Medium,Open,,5.0,Agent 9
+T901026,2026-06-03,Refund,Email,Low,Resolved,68.9,2.0,Agent 2
+T901027,2026-06-04,Refund,App,High,Resolved,74.0,2.0,Agent 9
+T901028,2026-06-04,Content Error,Email,High,Resolved,3.2,5.0,Agent 8
+T901029,2026-06-04,Payment,Email,Low,Resolved,9.3,4.0,Agent 6
+T901030,2026-06-04,Class Access,Phone,Medium,Resolved,3.9,5.0,Agent 5
+T901031,2026-06-05,Content Error,Phone,Urgent,Resolved,36.3,5.0,Agent 7
+T901032,2026-06-05,Payment,Email,Medium,Resolved,29.6,4.0,Agent 7
+T901033,2026-06-06,Login,App,High,Resolved,1.2,5.0,Agent 1
+T901034,2026-06-06,Login,Email,Medium,Resolved,35.8,4.0,Agent 5
+T901035,2026-06-06,Content Error,Email,Medium,Resolved,23.9,3.0,Agent 9
+T901036,2026-06-07,Payment,Phone,Low,Resolved,12.4,5.0,Agent 8
+T901037,2026-06-08,Login,Phone,Medium,Resolved,4.0,5.0,Agent 4
+T901038,2026-06-08,Payment,App,High,Resolved,16.7,5.0,Agent 8
+T901039,2026-06-08,Class Access,Email,High,Resolved,3.4,5.0,Agent 3
+T901040,2026-06-09,Refund,App,Low,Resolved,28.9,5.0,Agent 10
+T901041,2026-06-09,Payment,Phone,Medium,Resolved,7.0,5.0,Agent 9
+T901042,2026-06-09,Refund,App,Medium,Resolved,15.6,5.0,Agent 8
+T901043,2026-06-09,Content Error,Email,High,Resolved,13.8,3.0,Agent 7
+T901044,2026-06-09,Payment,Email,High,Escalated,,4.0,Agent 2
+T901045,2026-06-10,Class Access,App,Medium,Resolved,9.3,5.0,Agent 8
+T901046,2026-06-10,Content Error,App,Low,Resolved,9.5,4.0,Agent 5
+T901047,2026-06-12,Class Access,App,Medium,Resolved,13.4,4.0,Agent 3
+T901048,2026-06-12,Payment,Email,Low,Resolved,18.4,5.0,Agent 4
+T901049,2026-06-12,Payment,Email,Medium,Resolved,21.0,3.0,Agent 6
+T901050,2026-06-13,Payment,Phone,Urgent,Resolved,5.5,5.0,Agent 6
+T901051,2026-06-13,Payment,Email,Low,Resolved,14.1,5.0,Agent 7
+T901052,2026-06-13,Class Access,App,Medium,Open,,5.0,Agent 4
+T901053,2026-06-13,Content Error,Chat,High,Resolved,4.7,5.0,Agent 1
+T901054,2026-06-13,Content Error,Email,Medium,Resolved,23.4,3.0,Agent 1
+T901055,2026-06-13,Content Error,Email,Medium,Resolved,21.7,5.0,Agent 4
+T901056,2026-06-14,Refund,Phone,Low,Escalated,,5.0,Agent 7
+T901057,2026-06-14,Refund,App,High,Resolved,32.4,3.0,Agent 10
+T901058,2026-06-14,Payment,Chat,Low,Resolved,11.1,5.0,Agent 2
+T901059,2026-06-14,Login,Email,Medium,Resolved,29.1,4.0,Agent 10
+T901060,2026-06-14,Content Error,Email,Urgent,Resolved,11.7,5.0,Agent 5
+T901061,2026-06-14,Payment,Chat,Medium,Open,,4.0,Agent 7
+T901062,2026-06-15,Refund,Chat,Low,Resolved,47.0,3.0,Agent 4
+T901063,2026-06-15,Refund,Chat,Urgent,Resolved,38.7,5.0,Agent 1
+T901064,2026-06-15,Class Access,Chat,Low,Resolved,4.0,5.0,Agent 4
+T901065,2026-06-16,Refund,Chat,Medium,Resolved,16.7,4.0,Agent 6
+T901066,2026-06-16,Class Access,App,High,Resolved,8.0,4.0,Agent 10
+T901067,2026-06-16,Class Access,Phone,Medium,Resolved,2.9,5.0,Agent 8
+T901068,2026-06-17,Class Access,App,Medium,Open,,5.0,Agent 8
+T901069,2026-06-17,Class Access,App,High,Resolved,26.3,4.0,Agent 5
+T901070,2026-06-18,Login,App,Low,Open,,5.0,Agent 6
+T901071,2026-06-18,Class Access,Email,Low,Open,,5.0,Agent 5
+T901072,2026-06-19,Login,Chat,High,Escalated,,4.0,Agent 10
+T901073,2026-06-19,Payment,Email,Low,Resolved,25.2,3.0,Agent 5
+T901074,2026-06-19,Class Access,Email,Low,Resolved,9.1,5.0,Agent 5
+T901075,2026-06-19,Class Access,Email,Low,Resolved,12.0,4.0,Agent 1
+T901076,2026-06-20,Content Error,App,Low,Resolved,10.8,4.0,Agent 9
+T901077,2026-06-20,Refund,Email,Medium,Resolved,59.3,4.0,Agent 3
+T901078,2026-06-20,Refund,Phone,Urgent,Resolved,48.3,3.0,Agent 8
+T901079,2026-06-20,Login,Chat,Low,Resolved,17.7,5.0,Agent 4
+T901080,2026-06-20,Payment,Phone,Medium,Resolved,10.1,5.0,Agent 10
+T901081,2026-06-21,Content Error,Email,Urgent,Resolved,29.5,3.0,Agent 3
+T901082,2026-06-21,Login,Chat,Medium,Escalated,,4.0,Agent 9
+T901083,2026-06-21,Content Error,Phone,Medium,Resolved,7.0,5.0,Agent 3
+T901084,2026-06-22,Login,App,Medium,Resolved,8.4,5.0,Agent 7
+T901085,2026-06-22,Refund,Phone,High,Resolved,25.6,2.0,Agent 2
+T901086,2026-06-22,Login,App,Low,Resolved,8.2,4.0,Agent 7
+T901087,2026-06-22,Login,App,Low,Resolved,2.8,5.0,Agent 6
+T901088,2026-06-22,Payment,Phone,Low,Resolved,9.8,5.0,Agent 6
+T901089,2026-06-23,Content Error,Email,Medium,Open,,3.0,Agent 10
+T901090,2026-06-23,Class Access,Chat,Urgent,Open,,5.0,Agent 9
+T901091,2026-06-23,Refund,Chat,Medium,Open,,3.0,Agent 4
+T901092,2026-06-23,Login,Phone,High,Resolved,23.5,3.0,Agent 6
+T901093,2026-06-24,Class Access,Phone,Medium,Escalated,,4.0,Agent 8
+T901094,2026-06-24,Payment,Phone,Medium,Open,,4.0,Agent 2
+T901095,2026-06-24,Login,Phone,Low,Resolved,4.2,4.0,Agent 10
+T901096,2026-06-25,Refund,Phone,High,Resolved,13.2,5.0,Agent 4
+T901097,2026-06-25,Login,App,Medium,Resolved,4.4,4.0,Agent 10
+T901098,2026-06-25,Class Access,Email,Low,Open,,4.0,Agent 8
+T901099,2026-06-25,Login,Chat,Low,Resolved,13.8,4.0,Agent 5
+T901100,2026-06-26,Content Error,App,Low,Resolved,15.8,4.0,Agent 8
+T901101,2026-06-26,Payment,Chat,Medium,Resolved,8.5,5.0,Agent 1
+T901102,2026-06-26,Login,Phone,Urgent,Resolved,9.7,5.0,Agent 8
+T901103,2026-06-26,Class Access,Chat,Medium,Resolved,6.0,5.0,Agent 6
+T901104,2026-06-26,Content Error,Email,Low,Open,,4.0,Agent 10
+T901105,2026-06-26,Content Error,Chat,Low,Resolved,1.5,5.0,Agent 7
+T901106,2026-06-27,Payment,Email,Low,Resolved,16.1,5.0,Agent 10
+T901107,2026-06-27,Payment,App,Urgent,Resolved,4.4,4.0,Agent 7
+T901108,2026-06-27,Class Access,Phone,Medium,Resolved,18.4,5.0,Agent 3
+T901109,2026-06-27,Payment,Email,High,Escalated,,4.0,Agent 6
+T901110,2026-06-27,Payment,Chat,Low,Resolved,21.9,4.0,Agent 3
+T901111,2026-06-28,Content Error,Chat,Medium,Open,,3.0,Agent 9
+T901112,2026-06-28,Class Access,Phone,Medium,Resolved,17.6,4.0,Agent 10
+T901113,2026-06-28,Refund,App,Medium,Open,,4.0,Agent 10
+T901114,2026-06-28,Refund,Email,Medium,Resolved,8.9,5.0,Agent 7
+T901115,2026-06-29,Login,Email,High,Resolved,6.5,5.0,Agent 8
+T901116,2026-06-29,Class Access,App,Medium,Resolved,16.6,3.0,Agent 3
+T901117,2026-06-29,Content Error,Chat,Low,Open,,5.0,Agent 10
+T901118,2026-06-29,Payment,App,Medium,Resolved,15.4,4.0,Agent 7
+T901119,2026-06-30,Payment,Chat,Low,Resolved,1.9,5.0,Agent 3
+T901120,2026-06-30,Payment,Email,Low,Resolved,45.4,3.0,Agent 4
+T901121,2026-06-30,Payment,Email,Urgent,Resolved,13.1,3.0,Agent 5
+T901122,2026-06-30,Class Access,Email,Low,Resolved,14.1,5.0,Agent 1
+T901123,2026-06-30,Payment,App,Medium,Resolved,13.4,4.0,Agent 8
+T901124,2026-07-01,Class Access,App,Urgent,Resolved,7.4,5.0,Agent 8
+T901125,2026-07-01,Refund,App,Low,Resolved,35.2,4.0,Agent 8
+T901126,2026-07-01,Class Access,Email,Medium,Resolved,37.0,3.0,Agent 3
+T901127,2026-07-01,Payment,App,Low,Resolved,19.5,5.0,Agent 3
+T901128,2026-07-01,Payment,App,Medium,Resolved,9.3,5.0,Agent 9
+T901129,2026-07-01,Login,Email,Low,Resolved,5.9,4.0,Agent 4
+T901130,2026-07-01,Class Access,Phone,High,Resolved,3.8,5.0,Agent 6
+T901131,2026-07-01,Login,Phone,Medium,Escalated,,3.0,Agent 5
+T901132,2026-07-02,Content Error,App,Low,Resolved,19.6,4.0,Agent 9
+T901133,2026-07-02,Login,Email,Medium,Open,,5.0,Agent 5
+T901134,2026-07-02,Payment,Phone,High,Resolved,13.1,4.0,Agent 4
+T901135,2026-07-02,Payment,Email,Medium,Resolved,24.0,5.0,Agent 4
+T901136,2026-07-03,Content Error,App,Medium,Resolved,17.4,4.0,Agent 7
+T901137,2026-07-03,Class Access,Phone,Medium,Resolved,35.7,3.0,Agent 3
+T901138,2026-07-04,Payment,Email,Medium,Resolved,10.2,5.0,Agent 1
+T901139,2026-07-05,Refund,Phone,Low,Resolved,62.6,2.0,Agent 8
+T901140,2026-07-05,Payment,Email,Medium,Resolved,14.3,5.0,Agent 9
+T901141,2026-07-05,Content Error,Email,Medium,Resolved,19.2,4.0,Agent 1
+T901142,2026-07-06,Content Error,Phone,Low,Resolved,44.3,3.0,Agent 3
+T901143,2026-07-07,Content Error,Phone,Urgent,Resolved,2.4,5.0,Agent 10
+T901144,2026-07-07,Login,App,Low,Resolved,3.2,5.0,Agent 4
+T901145,2026-07-07,Content Error,Phone,Low,Escalated,,5.0,Agent 2
+T901146,2026-07-07,Content Error,Chat,Medium,Resolved,9.0,5.0,Agent 3
+T901147,2026-07-07,Payment,App,High,Resolved,8.0,3.0,Agent 8
+T901148,2026-07-08,Class Access,Phone,Medium,Resolved,1.0,5.0,Agent 5
+T901149,2026-07-08,Payment,Chat,Medium,Escalated,,5.0,Agent 8
+T901150,2026-07-09,Payment,Email,Urgent,Resolved,6.7,5.0,Agent 1
+T901151,2026-07-09,Content Error,App,High,Resolved,5.4,4.0,Agent 7
+T901152,2026-07-09,Payment,Chat,Low,Open,,5.0,Agent 5
+T901153,2026-07-09,Content Error,App,High,Resolved,7.2,5.0,Agent 8
+T901154,2026-07-09,Content Error,Chat,High,Resolved,28.8,3.0,Agent 4
+T901155,2026-07-10,Refund,Phone,Low,Resolved,29.5,3.0,Agent 10
+T901156,2026-07-10,Payment,Phone,Low,Open,,5.0,Agent 6
+T901157,2026-07-10,Login,Phone,Low,Resolved,16.3,5.0,Agent 1
+T901158,2026-07-10,Class Access,Email,Urgent,Resolved,10.8,5.0,Agent 7
+T901159,2026-07-10,Refund,App,High,Resolved,11.2,4.0,Agent 7
+T901160,2026-07-10,Class Access,App,Medium,Resolved,11.1,5.0,Agent 9
+T901161,2026-07-10,Class Access,Email,Low,Open,,5.0,Agent 7
+T901162,2026-07-11,Payment,Chat,Medium,Open,,5.0,Agent 8
+T901163,2026-07-11,Class Access,Phone,Urgent,Resolved,9.4,5.0,Agent 8
+T901164,2026-07-11,Login,Phone,Low,Resolved,13.8,5.0,Agent 2
+T901165,2026-07-11,Class Access,App,Urgent,Resolved,8.4,4.0,Agent 8
+T901166,2026-07-11,Refund,Phone,Medium,Resolved,30.1,2.0,Agent 9
+T901167,2026-07-11,Content Error,Phone,Medium,Resolved,7.0,4.0,Agent 6
+T901168,2026-07-11,Class Access,Phone,High,Resolved,20.4,2.0,Agent 10
+T901169,2026-07-12,Content Error,Phone,Medium,Open,,5.0,Agent 4
+T901170,2026-07-12,Login,App,High,Resolved,5.5,5.0,Agent 7
+T901171,2026-07-13,Payment,Chat,High,Resolved,13.0,4.0,Agent 1
+T901172,2026-07-13,Content Error,Email,High,Resolved,32.6,3.0,Agent 6
+T901173,2026-07-13,Class Access,Chat,Low,Resolved,7.0,5.0,Agent 6
+T901174,2026-07-13,Refund,App,Medium,Resolved,19.4,4.0,Agent 6
+T901175,2026-07-14,Content Error,Email,Low,Resolved,4.3,5.0,Agent 7
+T901176,2026-07-14,Refund,Chat,Medium,Resolved,18.6,4.0,Agent 6
+T901177,2026-07-14,Class Access,Email,Low,Resolved,19.0,3.0,Agent 2
+T901178,2026-07-15,Login,Email,Medium,Escalated,,4.0,Agent 4
+T901179,2026-07-15,Payment,Chat,Low,Resolved,10.0,4.0,Agent 6
+T901180,2026-07-15,Payment,Phone,Medium,Escalated,,5.0,Agent 4
+T901181,2026-07-15,Refund,Phone,High,Escalated,,4.0,Agent 1
+T901182,2026-07-15,Content Error,App,High,Resolved,12.8,3.0,Agent 10
+T901183,2026-07-15,Refund,Chat,High,Resolved,7.6,5.0,Agent 1
+T901184,2026-07-16,Class Access,Chat,High,Open,,3.0,Agent 1
+T901185,2026-07-16,Login,Email,High,Resolved,27.2,3.0,Agent 7
+T901186,2026-07-16,Payment,Chat,High,Resolved,27.8,4.0,Agent 4
+T901187,2026-07-16,Login,Chat,Urgent,Resolved,7.5,3.0,Agent 7
+T901188,2026-07-16,Payment,Email,Medium,Escalated,,4.0,Agent 8
+T901189,2026-07-16,Class Access,App,Low,Resolved,14.7,5.0,Agent 3
+T901190,2026-07-17,Class Access,Chat,Medium,Resolved,5.1,5.0,Agent 6
+T901191,2026-07-17,Login,App,High,Resolved,3.6,3.0,Agent 4
+T901192,2026-07-17,Class Access,Phone,Medium,Resolved,16.4,5.0,Agent 2
+T901193,2026-07-18,Class Access,App,Low,Open,,4.0,Agent 10
+T901194,2026-07-18,Class Access,Phone,Low,Resolved,14.7,4.0,Agent 6
+T901195,2026-07-18,Login,Chat,High,Resolved,3.4,4.0,Agent 7
+T901196,2026-07-18,Payment,Chat,Medium,Resolved,3.4,5.0,Agent 5
+T901197,2026-07-18,Content Error,App,Medium,Resolved,6.0,5.0,Agent 1
+T901198,2026-07-19,Payment,Phone,Urgent,Resolved,5.6,5.0,Agent 8
+T901199,2026-07-19,Class Access,Phone,Medium,Resolved,12.8,4.0,Agent 1
+T901200,2026-07-19,Content Error,Chat,Medium,Resolved,29.8,4.0,Agent 3
+T901201,2026-07-19,Payment,Email,Medium,Open,,2.0,Agent 2
+T901202,2026-07-20,Class Access,Email,Medium,Resolved,13.3,4.0,Agent 3
+T901203,2026-07-20,Class Access,App,Low,Escalated,,5.0,Agent 5
+T901204,2026-07-20,Class Access,Phone,Urgent,Resolved,11.2,3.0,Agent 7
+T901205,2026-07-21,Payment,Chat,Medium,Resolved,19.6,4.0,Agent 5
+T901206,2026-07-21,Content Error,App,Medium,Resolved,2.5,5.0,Agent 1
+T901207,2026-07-21,Content Error,App,High,Resolved,18.2,4.0,Agent 6
+T901208,2026-07-21,Payment,App,Medium,Resolved,22.2,4.0,Agent 5
+T901209,2026-07-22,Class Access,Email,Medium,Open,,5.0,Agent 6
+T901210,2026-07-22,Login,Chat,Medium,Resolved,2.7,5.0,Agent 5
+T901211,2026-07-22,Payment,Chat,Low,Resolved,3.7,5.0,Agent 7
+T901212,2026-07-23,Login,Chat,Medium,Resolved,12.5,4.0,Agent 6
+T901213,2026-07-23,Refund,Chat,Medium,Resolved,14.1,5.0,Agent 4
+T901214,2026-07-23,Login,Chat,Low,Resolved,25.8,5.0,Agent 2
+T901215,2026-07-23,Content Error,Phone,Low,Resolved,2.9,5.0,Agent 4
+T901216,2026-07-23,Class Access,Phone,Low,Resolved,5.9,4.0,Agent 6
+T901217,2026-07-23,Content Error,Chat,Low,Resolved,15.5,4.0,Agent 5
+T901218,2026-07-24,Content Error,Email,Medium,Resolved,13.0,5.0,Agent 2
+T901219,2026-07-26,Class Access,App,Medium,Resolved,4.3,5.0,Agent 7
+T901220,2026-07-26,Content Error,Chat,Low,Open,,5.0,Agent 8
+T901221,2026-07-26,Class Access,App,Medium,Open,,5.0,Agent 1
+T901222,2026-07-26,Payment,App,Medium,Resolved,24.1,4.0,Agent 5
+T901223,2026-07-27,Login,App,Urgent,Resolved,1.3,5.0,Agent 2
+T901224,2026-07-27,Login,Email,Low,Resolved,12.6,4.0,Agent 1
+T901225,2026-07-27,Content Error,Email,Medium,Resolved,8.7,5.0,Agent 8
+T901226,2026-07-28,Class Access,App,High,Resolved,11.5,5.0,Agent 5
+T901227,2026-07-28,Class Access,Phone,Low,Resolved,13.8,5.0,Agent 5
+T901228,2026-07-30,Login,App,Medium,Resolved,17.2,4.0,Agent 2
+T901229,2026-07-30,Refund,Phone,Low,Open,,1.0,Agent 5
+T901230,2026-07-30,Login,App,Medium,Resolved,49.9,5.0,Agent 3
+T901231,2026-07-30,Refund,Chat,Medium,Resolved,31.2,3.0,Agent 10
+T901232,2026-07-30,Login,App,Low,Resolved,2.4,5.0,Agent 7
+T901233,2026-07-31,Class Access,App,Medium,Resolved,1.1,4.0,Agent 5
+T901234,2026-07-31,Content Error,App,Urgent,Resolved,19.5,5.0,Agent 3
+T901235,2026-07-31,Class Access,App,Medium,Open,,5.0,Agent 4
+T901236,2026-07-31,Content Error,App,Medium,Resolved,6.0,5.0,Agent 3
+T901237,2026-07-31,Class Access,Chat,Low,Resolved,14.5,4.0,Agent 2
+T901238,2026-07-31,Payment,App,Medium,Resolved,17.5,5.0,Agent 4
+T901239,2026-08-01,Payment,App,High,Resolved,4.7,3.0,Agent 6
+T901240,2026-08-01,Payment,Chat,Medium,Resolved,2.9,4.0,Agent 8
+T901241,2026-08-01,Login,Email,Low,Resolved,46.6,3.0,Agent 6
+T901242,2026-08-01,Payment,Email,High,Resolved,4.9,5.0,Agent 3
+T901243,2026-08-02,Payment,Chat,High,Resolved,13.7,3.0,Agent 3
+T901244,2026-08-02,Login,Phone,Low,Resolved,3.7,5.0,Agent 6
+T901245,2026-08-02,Refund,Phone,Medium,Resolved,12.9,5.0,Agent 3
+T901246,2026-08-03,Class Access,App,Medium,Resolved,12.5,4.0,Agent 1
+T901247,2026-08-03,Content Error,Chat,Low,Resolved,4.4,4.0,Agent 8
+T901248,2026-08-03,Login,Email,Low,Resolved,21.0,3.0,Agent 9
+T901249,2026-08-04,Content Error,Phone,Medium,Resolved,11.9,5.0,Agent 10
+T901250,2026-08-05,Content Error,Chat,Low,Resolved,1.8,5.0,Agent 5
+T901251,2026-08-05,Content Error,Phone,Low,Resolved,8.4,5.0,Agent 8
+T901252,2026-08-05,Class Access,Phone,Medium,Resolved,12.6,5.0,Agent 8
+T901253,2026-08-05,Payment,Email,Urgent,Open,,4.0,Agent 9
+T901254,2026-08-07,Class Access,Phone,Low,Resolved,8.3,5.0,Agent 9
+T901255,2026-08-07,Class Access,Phone,High,Resolved,20.9,5.0,Agent 8
+T901256,2026-08-07,Class Access,Phone,Urgent,Resolved,4.2,5.0,Agent 6
+T901257,2026-08-08,Content Error,Email,High,Resolved,50.9,3.0,Agent 1
+T901258,2026-08-08,Login,Email,Medium,Resolved,16.8,5.0,Agent 2
+T901259,2026-08-08,Payment,App,High,Resolved,18.1,4.0,Agent 6
+T901260,2026-08-08,Payment,Phone,High,Resolved,9.1,4.0,Agent 10
+T901261,2026-08-08,Class Access,App,Medium,Resolved,21.9,4.0,Agent 3
+T901262,2026-08-09,Content Error,Phone,High,Resolved,5.6,4.0,Agent 3
+T901263,2026-08-09,Class Access,Chat,Medium,Resolved,25.1,4.0,Agent 5
+T901264,2026-08-09,Login,Email,Low,Resolved,7.6,5.0,Agent 10
+T901265,2026-08-09,Class Access,Phone,Urgent,Resolved,15.5,5.0,Agent 10
+T901266,2026-08-09,Content Error,Phone,Low,Resolved,3.2,5.0,Agent 8
+T901267,2026-08-09,Login,Email,Medium,Open,,4.0,Agent 7
+T901268,2026-08-09,Refund,Email,Low,Resolved,29.8,5.0,Agent 2
+T901269,2026-08-10,Payment,Chat,Low,Resolved,6.4,4.0,Agent 9
+T901270,2026-08-10,Login,Phone,Urgent,Open,,5.0,Agent 6
+T901271,2026-08-10,Login,Email,Low,Resolved,15.5,3.0,Agent 9
+T901272,2026-08-11,Class Access,Chat,Medium,Resolved,12.3,4.0,Agent 2
+T901273,2026-08-11,Class Access,Chat,Low,Open,,4.0,Agent 1
+T901274,2026-08-11,Login,Chat,High,Resolved,6.2,5.0,Agent 4
+T901275,2026-08-11,Payment,App,Low,Open,,5.0,Agent 8
+T901276,2026-08-11,Content Error,App,High,Resolved,10.0,3.0,Agent 9
+T901277,2026-08-12,Class Access,Phone,Low,Resolved,26.7,4.0,Agent 3
+T901278,2026-08-12,Payment,App,Low,Resolved,8.5,4.0,Agent 6
+T901279,2026-08-12,Class Access,Email,Low,Resolved,19.3,4.0,Agent 6
+T901280,2026-08-12,Payment,App,High,Open,,5.0,Agent 6
+T901281,2026-08-12,Login,Email,Medium,Resolved,5.4,5.0,Agent 5
+T901282,2026-08-13,Payment,Phone,High,Resolved,2.9,5.0,Agent 2
+T901283,2026-08-13,Content Error,Chat,Low,Resolved,4.9,5.0,Agent 8
+T901284,2026-08-14,Login,Phone,Medium,Open,,5.0,Agent 3
+T901285,2026-08-14,Class Access,Email,Urgent,Resolved,3.4,5.0,Agent 5
+T901286,2026-08-14,Class Access,Email,Low,Resolved,22.5,5.0,Agent 3
+T901287,2026-08-15,Payment,App,High,Resolved,8.2,4.0,Agent 4
+T901288,2026-08-15,Content Error,Chat,Urgent,Open,,4.0,Agent 3
+T901289,2026-08-15,Payment,App,Medium,Resolved,7.9,5.0,Agent 6
+T901290,2026-08-15,Payment,App,Medium,Open,,4.0,Agent 9
+T901291,2026-08-15,Class Access,Chat,Medium,Resolved,23.6,4.0,Agent 1
+T901292,2026-08-15,Class Access,App,Medium,Resolved,25.7,5.0,Agent 3
+T901293,2026-08-15,Content Error,Chat,High,Resolved,9.9,5.0,Agent 6
+T901294,2026-08-15,Class Access,Email,Urgent,Resolved,11.4,4.0,Agent 10
+T901295,2026-08-15,Refund,Chat,Low,Resolved,16.3,3.0,Agent 4
+T901296,2026-08-16,Login,Chat,Low,Resolved,8.8,5.0,Agent 6
+T901297,2026-08-16,Class Access,Email,Medium,Resolved,16.3,3.0,Agent 9
+T901298,2026-08-16,Class Access,App,High,Resolved,7.7,4.0,Agent 7
+T901299,2026-08-16,Login,App,Medium,Resolved,4.0,5.0,Agent 6
+T901300,2026-08-17,Class Access,Email,High,Resolved,22.2,4.0,Agent 8
+T901301,2026-08-17,Payment,Chat,Low,Open,,4.0,Agent 1
+T901302,2026-08-17,Class Access,App,Medium,Escalated,,4.0,Agent 1
+T901303,2026-08-18,Payment,App,High,Open,,4.0,Agent 3
+T901304,2026-08-18,Payment,Chat,Medium,Resolved,28.0,4.0,Agent 6
+T901305,2026-08-18,Content Error,Phone,Low,Resolved,13.2,4.0,Agent 7
+T901306,2026-08-19,Refund,Phone,Medium,Resolved,28.5,4.0,Agent 10
+T901307,2026-08-19,Login,Chat,Medium,Resolved,9.7,4.0,Agent 1
+T901308,2026-08-19,Class Access,Email,Medium,Resolved,37.0,4.0,Agent 9
+T901309,2026-08-19,Login,App,Medium,Resolved,8.6,5.0,Agent 5
+T901310,2026-08-20,Payment,Email,Medium,Resolved,16.8,3.0,Agent 5
+T901311,2026-08-20,Login,App,Medium,Resolved,4.7,5.0,Agent 7
+T901312,2026-08-20,Payment,Email,Medium,Resolved,23.1,4.0,Agent 8
+T901313,2026-08-20,Login,App,Low,Escalated,,5.0,Agent 3
+T901314,2026-08-20,Payment,App,High,Resolved,3.4,5.0,Agent 9
+T901315,2026-08-20,Class Access,Email,Medium,Resolved,13.9,5.0,Agent 1
+T901316,2026-08-21,Class Access,Phone,Low,Resolved,5.1,5.0,Agent 7
+T901317,2026-08-21,Refund,Phone,Medium,Resolved,59.8,1.0,Agent 5
+T901318,2026-08-21,Content Error,Phone,Medium,Resolved,9.8,4.0,Agent 4
+T901319,2026-08-21,Class Access,Chat,Low,Resolved,2.1,4.0,Agent 3
+T901320,2026-08-21,Refund,Phone,High,Resolved,80.7,2.0,Agent 10
+T901321,2026-08-22,Refund,App,Low,Resolved,18.0,5.0,Agent 2
+T901322,2026-08-22,Refund,Phone,Medium,Resolved,6.4,5.0,Agent 1
+T901323,2026-08-22,Class Access,App,Urgent,Resolved,2.3,5.0,Agent 8
+T901324,2026-08-22,Class Access,Email,Medium,Resolved,18.5,5.0,Agent 6
+T901325,2026-08-22,Content Error,Chat,Low,Open,,5.0,Agent 4
+T901326,2026-08-23,Class Access,Phone,Medium,Resolved,10.5,4.0,Agent 9
+T901327,2026-08-23,Content Error,Email,Urgent,Resolved,18.8,5.0,Agent 2
+T901328,2026-08-23,Refund,Phone,Medium,Resolved,29.4,3.0,Agent 4
+T901329,2026-08-23,Payment,Email,Low,Resolved,13.4,4.0,Agent 4
+T901330,2026-08-23,Refund,Phone,Medium,Resolved,14.2,4.0,Agent 2
+T901331,2026-08-23,Refund,App,High,Resolved,31.3,4.0,Agent 2
+T901332,2026-08-24,Login,Chat,Medium,Resolved,7.3,5.0,Agent 2
+T901333,2026-08-24,Class Access,Chat,Urgent,Resolved,27.9,3.0,Agent 4
+T901334,2026-08-24,Login,Chat,Medium,Resolved,9.5,4.0,Agent 2
+T901335,2026-08-24,Content Error,Email,Urgent,Resolved,39.7,4.0,Agent 5
+T901336,2026-08-24,Login,Email,High,Resolved,26.4,5.0,Agent 9
+T901337,2026-08-24,Class Access,App,Medium,Open,,4.0,Agent 7
+T901338,2026-08-24,Class Access,Phone,High,Resolved,11.6,4.0,Agent 1
+T901339,2026-08-24,Class Access,Phone,Urgent,Resolved,12.7,4.0,Agent 3
+T901340,2026-08-25,Payment,Chat,Medium,Resolved,7.5,3.0,Agent 6
+T901341,2026-08-25,Payment,Chat,Low,Resolved,13.4,4.0,Agent 2
+T901342,2026-08-25,Login,Phone,Low,Resolved,6.7,5.0,Agent 2
+T901343,2026-08-25,Login,Phone,Low,Resolved,18.2,3.0,Agent 6
+T901344,2026-08-25,Class Access,Email,Medium,Open,,3.0,Agent 7
+T901345,2026-08-26,Login,Chat,Medium,Resolved,16.6,4.0,Agent 5
+T901346,2026-08-26,Refund,Chat,High,Resolved,21.4,4.0,Agent 2
+T901347,2026-08-26,Login,Chat,Low,Escalated,,5.0,Agent 8
+T901348,2026-08-26,Class Access,Chat,Low,Resolved,11.0,5.0,Agent 4
+T901349,2026-08-26,Class Access,App,Low,Resolved,20.4,4.0,Agent 3
+T901350,2026-08-26,Login,Chat,Medium,Resolved,7.3,4.0,Agent 7
+T901351,2026-08-26,Payment,Email,Medium,Resolved,3.0,5.0,Agent 7
+T901352,2026-08-27,Login,Email,Low,Open,,4.0,Agent 8
+T901353,2026-08-27,Login,Email,Urgent,Resolved,5.2,5.0,Agent 8
+T901354,2026-08-27,Payment,App,Medium,Resolved,1.3,5.0,Agent 10
+T901355,2026-08-28,Class Access,Phone,Low,Open,,4.0,Agent 4
+T901356,2026-08-28,Payment,Email,Medium,Resolved,45.5,4.0,Agent 8
+T901357,2026-08-28,Login,Email,Low,Resolved,2.8,4.0,Agent 3
+T901358,2026-08-28,Login,Chat,Urgent,Resolved,14.8,4.0,Agent 9
+T901359,2026-08-28,Refund,App,Medium,Resolved,29.2,3.0,Agent 2
+T901360,2026-08-29,Login,Email,Low,Resolved,38.7,3.0,Agent 1
+T901361,2026-08-29,Payment,Phone,Medium,Resolved,6.0,4.0,Agent 1
+T901362,2026-08-29,Class Access,Chat,Low,Resolved,27.7,3.0,Agent 4
+T901363,2026-08-29,Payment,Phone,Low,Escalated,,5.0,Agent 10
+T901364,2026-08-30,Payment,Chat,Low,Resolved,6.5,5.0,Agent 4
+T901365,2026-08-30,Content Error,Phone,Medium,Resolved,4.4,4.0,Agent 10
+T901366,2026-08-30,Payment,App,Medium,Resolved,12.1,5.0,Agent 3
+T901367,2026-08-30,Payment,Chat,Medium,Resolved,2.7,5.0,Agent 10
+T901368,2026-08-30,Payment,App,Urgent,Escalated,,4.0,Agent 3
+T901369,2026-08-30,Payment,App,High,Escalated,,3.0,Agent 6
+T901370,2026-08-31,Payment,Email,Low,Resolved,26.6,5.0,Agent 4
+T901371,2026-08-31,Class Access,App,High,Open,,5.0,Agent 9
+T901372,2026-09-01,Refund,Email,High,Resolved,70.6,3.0,Agent 4
+T901373,2026-09-01,Login,Chat,Medium,Open,,5.0,Agent 6
+T901374,2026-09-01,Class Access,Chat,Low,Resolved,1.2,4.0,Agent 2
+T901375,2026-09-01,Refund,Chat,Low,Resolved,7.5,5.0,Agent 6
+T901376,2026-09-02,Class Access,Chat,Medium,Resolved,11.3,5.0,Agent 6
+T901377,2026-09-02,Payment,Phone,Medium,Resolved,6.5,4.0,Agent 5
+T901378,2026-09-02,Refund,Email,Medium,Resolved,40.0,4.0,Agent 4
+T901379,2026-09-03,Content Error,App,High,Escalated,,4.0,Agent 3
+T901380,2026-09-03,Content Error,App,Low,Resolved,1.5,5.0,Agent 4
+T901381,2026-09-03,Payment,Email,Low,Resolved,5.4,5.0,Agent 3
+T901382,2026-09-04,Content Error,Chat,Low,Resolved,14.7,5.0,Agent 1
+T901383,2026-09-04,Payment,Email,Low,Resolved,11.4,5.0,Agent 4
+T901384,2026-09-04,Login,App,Medium,Resolved,2.8,5.0,Agent 2
+T901385,2026-09-05,Login,Chat,Low,Resolved,14.6,5.0,Agent 9
+T901386,2026-09-05,Class Access,Email,Low,Resolved,9.2,5.0,Agent 9
+T901387,2026-09-05,Login,App,Low,Resolved,7.6,5.0,Agent 10
+T901388,2026-09-05,Login,Chat,High,Resolved,1.3,5.0,Agent 3
+T901389,2026-09-05,Login,Phone,Low,Resolved,7.9,4.0,Agent 4
+T901390,2026-09-06,Payment,Phone,Medium,Open,,5.0,Agent 6
+T901391,2026-09-06,Class Access,App,Low,Resolved,11.4,5.0,Agent 9
+T901392,2026-09-06,Class Access,App,Medium,Escalated,,5.0,Agent 1
+T901393,2026-09-06,Login,App,Low,Resolved,2.1,4.0,Agent 9
+T901394,2026-09-06,Content Error,Email,High,Escalated,,5.0,Agent 8
+T901395,2026-09-07,Refund,Phone,Medium,Resolved,34.2,4.0,Agent 6
+T901396,2026-09-07,Login,Email,Medium,Resolved,22.2,5.0,Agent 4
+T901397,2026-09-07,Class Access,Chat,Urgent,Resolved,21.3,5.0,Agent 2
+T901398,2026-09-07,Class Access,Email,High,Resolved,21.4,4.0,Agent 8
+T901399,2026-09-07,Payment,Email,Urgent,Resolved,22.8,4.0,Agent 7
+T901400,2026-09-08,Login,Phone,Low,Resolved,13.6,4.0,Agent 2
+T901401,2026-09-08,Class Access,Chat,Medium,Resolved,11.5,4.0,Agent 10
+T901402,2026-09-08,Login,Email,Medium,Resolved,10.1,5.0,Agent 1
+T901403,2026-09-08,Payment,App,High,Open,,5.0,Agent 8
+T901404,2026-09-08,Login,Chat,Medium,Resolved,15.3,5.0,Agent 4
+T901405,2026-09-09,Payment,Phone,Medium,Open,,5.0,Agent 6
+T901406,2026-09-09,Login,Phone,Low,Resolved,15.9,5.0,Agent 4
+T901407,2026-09-09,Payment,Phone,Medium,Resolved,7.5,3.0,Agent 5
+T901408,2026-09-09,Class Access,App,Low,Resolved,6.7,5.0,Agent 2
+T901409,2026-09-09,Login,Email,High,Resolved,1.1,5.0,Agent 9
+T901410,2026-09-10,Login,App,Medium,Escalated,,5.0,Agent 2
+T901411,2026-09-10,Class Access,Email,Low,Open,,5.0,Agent 2
+T901412,2026-09-11,Content Error,Chat,Low,Resolved,2.2,4.0,Agent 10
+T901413,2026-09-11,Login,Email,Medium,Resolved,8.0,3.0,Agent 2
+T901414,2026-09-11,Login,App,Medium,Open,,5.0,Agent 1
+T901415,2026-09-12,Class Access,Phone,Low,Resolved,29.3,4.0,Agent 2
+T901416,2026-09-12,Refund,Email,Medium,Resolved,15.9,4.0,Agent 4
+T901417,2026-09-12,Login,App,Urgent,Resolved,4.2,4.0,Agent 5
+T901418,2026-09-12,Login,Email,Low,Resolved,48.8,2.0,Agent 6
+T901419,2026-09-12,Payment,Chat,Low,Resolved,13.2,4.0,Agent 4
+T901420,2026-09-12,Refund,App,Medium,Open,,5.0,Agent 8
+T901421,2026-09-12,Class Access,Email,Low,Resolved,25.8,3.0,Agent 4
+T901422,2026-09-13,Content Error,Phone,High,Resolved,33.8,3.0,Agent 4
+T901423,2026-09-13,Login,Phone,High,Escalated,,3.0,Agent 1
+T901424,2026-09-13,Login,Chat,Low,Resolved,15.8,3.0,Agent 7
+T901425,2026-09-13,Content Error,Chat,High,Resolved,8.9,5.0,Agent 10
+T901426,2026-09-13,Payment,Email,Low,Open,,5.0,Agent 9
+T901427,2026-09-13,Login,App,Medium,Resolved,9.9,3.0,Agent 8
+T901428,2026-09-14,Class Access,Email,Medium,Resolved,21.1,4.0,Agent 10
+T901429,2026-09-14,Login,Phone,Medium,Resolved,9.6,5.0,Agent 3
+T901430,2026-09-14,Class Access,Phone,Medium,Resolved,23.0,4.0,Agent 2
+T901431,2026-09-15,Refund,Email,High,Resolved,95.9,1.0,Agent 4
+T901432,2026-09-15,Class Access,Chat,Urgent,Open,,5.0,Agent 7
+T901433,2026-09-15,Login,Chat,Medium,Resolved,25.6,4.0,Agent 3
+T901434,2026-09-15,Class Access,Email,Medium,Resolved,10.6,5.0,Agent 9
+T901435,2026-09-15,Payment,Email,High,Resolved,27.0,3.0,Agent 6
+T901436,2026-09-16,Payment,App,Medium,Resolved,22.1,5.0,Agent 3
+T901437,2026-09-16,Payment,Chat,Medium,Resolved,7.0,5.0,Agent 3
+T901438,2026-09-16,Refund,Chat,Low,Resolved,51.5,3.0,Agent 7
+T901439,2026-09-16,Class Access,App,Low,Open,,5.0,Agent 10
+T901440,2026-09-16,Class Access,Chat,High,Resolved,7.4,5.0,Agent 3
+T901441,2026-09-17,Class Access,Chat,Medium,Open,,4.0,Agent 1
+T901442,2026-09-17,Class Access,App,Low,Resolved,3.6,5.0,Agent 4
+T901443,2026-09-17,Class Access,Chat,High,Resolved,14.4,5.0,Agent 6
+T901444,2026-09-18,Class Access,Phone,High,Resolved,11.6,5.0,Agent 2
+T901445,2026-09-19,Refund,Email,Medium,Resolved,33.4,3.0,Agent 5
+T901446,2026-09-19,Payment,Email,Low,Resolved,20.1,4.0,Agent 9
+T901447,2026-09-19,Class Access,Email,Medium,Resolved,16.9,4.0,Agent 7
+T901448,2026-09-19,Login,App,Medium,Resolved,7.8,4.0,Agent 8
+T901449,2026-09-19,Payment,Email,Low,Resolved,8.8,4.0,Agent 2
+T901450,2026-09-19,Class Access,Phone,Low,Resolved,11.5,5.0,Agent 8
+T901451,2026-09-19,Content Error,Chat,High,Resolved,12.3,5.0,Agent 5
+T901452,2026-09-19,Payment,Email,High,Resolved,27.3,4.0,Agent 3
+T901453,2026-09-20,Payment,Email,Low,Open,,5.0,Agent 7
+T901454,2026-09-20,Class Access,Chat,High,Open,,4.0,Agent 4
+T901455,2026-09-20,Class Access,App,Medium,Resolved,27.2,5.0,Agent 2
+T901456,2026-09-20,Payment,Email,Medium,Resolved,5.3,5.0,Agent 3
+T901457,2026-09-20,Payment,App,Medium,Resolved,7.5,5.0,Agent 6
+T901458,2026-09-20,Class Access,Chat,Medium,Open,,5.0,Agent 3
+T901459,2026-09-21,Payment,App,Medium,Resolved,8.6,5.0,Agent 2
+T901460,2026-09-21,Class Access,Email,High,Resolved,8.7,5.0,Agent 2
+T901461,2026-09-21,Payment,Chat,High,Resolved,8.1,4.0,Agent 2
+T901462,2026-09-21,Class Access,App,High,Resolved,10.8,4.0,Agent 8
+T901463,2026-09-22,Class Access,Email,Low,Resolved,10.5,3.0,Agent 10
+T901464,2026-09-22,Refund,Email,Medium,Resolved,150.0,1.0,Agent 2
+T901465,2026-09-23,Content Error,Chat,High,Resolved,9.4,5.0,Agent 3
+T901466,2026-09-23,Content Error,Email,High,Resolved,2.0,4.0,Agent 3
+T901467,2026-09-23,Refund,Email,Medium,Resolved,34.8,4.0,Agent 3
+T901468,2026-09-24,Class Access,Email,Urgent,Resolved,24.6,4.0,Agent 1
+T901469,2026-09-24,Class Access,App,Low,Resolved,6.8,5.0,Agent 8
+T901470,2026-09-24,Class Access,Phone,Low,Resolved,11.7,4.0,Agent 4
+T901471,2026-09-24,Class Access,App,Medium,Resolved,14.0,5.0,Agent 5
+T901472,2026-09-24,Class Access,App,High,Resolved,1.3,4.0,Agent 8
+T901473,2026-09-24,Class Access,App,Low,Resolved,20.9,4.0,Agent 2
+T901474,2026-09-24,Payment,App,Low,Resolved,21.2,5.0,Agent 7
+T901475,2026-09-25,Refund,Email,Medium,Resolved,61.3,3.0,Agent 8
+T901476,2026-09-25,Payment,Chat,High,Resolved,5.4,5.0,Agent 2
+T901477,2026-09-25,Refund,Email,Low,Resolved,95.3,1.0,Agent 5
+T901478,2026-09-25,Content Error,App,Low,Open,,5.0,Agent 7
+T901479,2026-09-25,Class Access,Email,Low,Resolved,9.8,3.0,Agent 4
+T901480,2026-09-25,Class Access,Email,Low,Resolved,0.9,5.0,Agent 2
+T901481,2026-09-26,Payment,Email,Low,Resolved,9.9,5.0,Agent 4
+T901482,2026-09-26,Content Error,Phone,High,Resolved,16.2,5.0,Agent 4
+T901483,2026-09-26,Login,Phone,Urgent,Resolved,9.3,4.0,Agent 8
+T901484,2026-09-26,Payment,Chat,Low,Resolved,5.8,5.0,Agent 9
+T901485,2026-09-26,Login,Email,High,Resolved,8.1,5.0,Agent 8
+T901486,2026-09-27,Payment,Phone,Urgent,Resolved,6.5,5.0,Agent 2
+T901487,2026-09-27,Login,Phone,High,Open,,4.0,Agent 6
+T901488,2026-09-27,Payment,App,Low,Resolved,1.7,5.0,Agent 8
+T901489,2026-09-27,Content Error,Email,Low,Resolved,24.8,4.0,Agent 8
+T901490,2026-09-27,Content Error,Phone,Low,Escalated,,4.0,Agent 4
+T901491,2026-09-28,Class Access,Chat,Low,Resolved,6.5,3.0,Agent 2
+T901492,2026-09-28,Class Access,App,Medium,Resolved,4.5,4.0,Agent 4
+T901493,2026-09-28,Payment,App,Medium,Resolved,9.1,5.0,Agent 4
+T901494,2026-09-29,Class Access,Email,Medium,Resolved,38.5,4.0,Agent 10
+T901495,2026-09-29,Refund,Phone,Medium,Open,,5.0,Agent 9
+T901496,2026-09-29,Payment,Email,Medium,Resolved,26.2,4.0,Agent 2
+T901497,2026-09-30,Login,Phone,Low,Open,,4.0,Agent 9
+T901498,2026-09-30,Payment,Phone,High,Resolved,20.4,5.0,Agent 9
+T901499,2026-09-30,Payment,Email,Low,Resolved,15.9,5.0,Agent 5

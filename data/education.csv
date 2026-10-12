@@ -1,0 +1,1801 @@
+student_id,enrolment_date,grade,subject,learning_mode,city,attendance_pct,study_hours_week,test_score,completed_course
+S50000,2025-06-01,Class 9,Physics,Live Class,Mumbai,85.7,8.1,75.2,No
+S50001,2025-06-01,Class 9,Maths,Recorded,Bengaluru,95.8,4.6,70.8,Yes
+S50002,2025-06-01,Class 12,Physics,Live Class,Lucknow,88.0,1.7,68.4,No
+S50003,2025-06-01,Class 10,Physics,1:1 Tutoring,Pune,77.0,7.0,67.1,No
+S50004,2025-06-01,Class 11,Biology,Recorded,Hyderabad,83.4,7.7,79.3,No
+S50005,2025-06-01,Class 11,Maths,1:1 Tutoring,Lucknow,53.9,7.7,60.3,Yes
+S50006,2025-06-01,Class 11,Maths,1:1 Tutoring,Kolkata,73.0,14.3,74.7,No
+S50007,2025-06-01,Class 9,Physics,Live Class,Chennai,93.9,1.3,82.5,No
+S50008,2025-06-02,Class 10,Maths,Live Class,Bengaluru,84.1,12.7,73.5,Yes
+S50009,2025-06-02,Class 9,Physics,Live Class,Pune,65.7,27.6,66.8,No
+S50010,2025-06-02,Class 10,Biology,Live Class,Mumbai,89.7,4.9,66.4,Yes
+S50011,2025-06-02,Class 12,Chemistry,Recorded,Hyderabad,75.8,11.0,76.3,Yes
+S50012,2025-06-03,Class 11,Physics,Live Class,Lucknow,87.9,12.9,76.1,Yes
+S50013,2025-06-03,Class 9,Maths,Recorded,Hyderabad,58.0,16.7,54.5,No
+S50014,2025-06-03,Class 11,Chemistry,Live Class,Delhi,70.3,2.4,69.0,No
+S50015,2025-06-03,Class 9,Biology,Live Class,Mumbai,82.2,3.7,51.5,Yes
+S50016,2025-06-03,Class 12,Chemistry,Recorded,Hyderabad,81.9,8.2,47.8,Yes
+S50017,2025-06-03,Class 12,Biology,Live Class,Pune,85.4,7.1,59.2,No
+S50018,2025-06-04,Class 12,Maths,Live Class,Chennai,77.5,8.8,48.5,Yes
+S50019,2025-06-04,Class 11,Maths,Live Class,Bengaluru,74.9,21.3,70.1,Yes
+S50020,2025-06-04,Class 12,Maths,1:1 Tutoring,Mumbai,84.3,19.0,81.0,No
+S50021,2025-06-04,Class 10,Maths,Recorded,Bengaluru,89.8,4.0,65.7,No
+S50022,2025-06-04,Class 9,Biology,Live Class,Lucknow,56.5,3.0,47.4,No
+S50023,2025-06-04,Class 11,Maths,Live Class,Hyderabad,73.2,4.9,51.7,No
+S50024,2025-06-04,Class 10,Maths,Live Class,Kolkata,74.8,2.6,68.9,No
+S50025,2025-06-04,Class 11,Chemistry,Live Class,Mumbai,79.9,17.7,54.2,Yes
+S50026,2025-06-05,Class 12,Biology,Recorded,Pune,91.8,7.3,77.5,No
+S50027,2025-06-05,Class 10,Physics,Live Class,Hyderabad,59.1,10.6,60.6,No
+S50028,2025-06-05,Class 12,Physics,Recorded,Bengaluru,85.1,6.1,66.6,Yes
+S50029,2025-06-05,Class 9,Biology,1:1 Tutoring,Pune,53.5,16.3,69.2,Yes
+S50030,2025-06-05,Class 10,Biology,Recorded,Pune,67.1,19.8,53.4,No
+S50031,2025-06-06,Class 12,Chemistry,Live Class,Mumbai,70.4,8.9,71.1,Yes
+S50032,2025-06-06,Class 9,Maths,Recorded,Pune,73.9,1.8,64.2,No
+S50033,2025-06-06,Class 11,Maths,Live Class,Hyderabad,69.1,12.0,73.6,No
+S50034,2025-06-07,Class 10,Physics,Recorded,Mumbai,70.5,2.0,39.7,No
+S50035,2025-06-07,Class 11,Physics,1:1 Tutoring,Kolkata,72.9,9.4,72.0,Yes
+S50036,2025-06-07,Class 12,Maths,Recorded,Mumbai,73.9,9.8,63.2,Yes
+S50037,2025-06-07,Class 12,Chemistry,Live Class,Bengaluru,51.9,17.9,38.7,Yes
+S50038,2025-06-08,Class 12,Chemistry,Recorded,Mumbai,58.1,30.4,66.6,No
+S50039,2025-06-08,Class 11,Physics,Recorded,Lucknow,71.6,9.8,63.8,No
+S50040,2025-06-08,Class 12,Physics,Live Class,Mumbai,85.1,7.9,61.2,Yes
+S50041,2025-06-08,Class 12,Chemistry,Recorded,Chennai,91.7,16.4,79.8,Yes
+S50042,2025-06-08,Class 9,Biology,Live Class,Lucknow,100.0,,76.6,Yes
+S50043,2025-06-08,Class 9,Maths,Recorded,Bengaluru,79.2,12.7,64.5,Yes
+S50044,2025-06-08,Class 10,Biology,Recorded,Pune,66.7,,58.1,Yes
+S50045,2025-06-09,Class 11,Chemistry,Recorded,Mumbai,80.2,4.4,70.9,Yes
+S50046,2025-06-09,Class 12,Maths,Live Class,Mumbai,87.2,,58.1,No
+S50047,2025-06-09,Class 10,Maths,Live Class,Pune,79.6,12.1,72.8,Yes
+S50048,2025-06-09,Class 12,Maths,Recorded,Hyderabad,62.9,10.5,71.8,Yes
+S50049,2025-06-09,Class 10,Physics,Live Class,Pune,76.3,3.7,61.5,Yes
+S50050,2025-06-09,Class 12,Maths,Live Class,Pune,77.1,12.2,70.6,Yes
+S50051,2025-06-10,Class 11,Chemistry,Live Class,Bengaluru,58.1,11.8,58.7,No
+S50052,2025-06-10,Class 11,Maths,Recorded,Bengaluru,60.9,16.1,69.7,Yes
+S50053,2025-06-10,Class 9,Chemistry,Live Class,Bengaluru,94.4,13.4,62.2,Yes
+S50054,2025-06-10,Class 11,Maths,Recorded,Kolkata,46.7,17.5,41.4,No
+S50055,2025-06-11,Class 12,Maths,Recorded,Kolkata,80.1,14.3,62.1,No
+S50056,2025-06-11,Class 12,Physics,Recorded,Chennai,74.1,12.2,60.3,No
+S50057,2025-06-11,Class 12,Physics,1:1 Tutoring,Bengaluru,97.0,13.3,91.6,Yes
+S50058,2025-06-12,Class 12,Maths,Live Class,Hyderabad,86.2,2.0,77.5,No
+S50059,2025-06-12,Class 9,Maths,Recorded,Pune,65.7,4.4,62.6,No
+S50060,2025-06-12,Class 12,Physics,Live Class,Hyderabad,95.3,7.9,84.1,Yes
+S50061,2025-06-12,Class 10,Biology,Live Class,Chennai,69.9,5.8,56.5,No
+S50062,2025-06-12,Class 11,Chemistry,Live Class,Bengaluru,100.0,11.3,72.2,Yes
+S50063,2025-06-12,Class 10,Biology,Live Class,Lucknow,100.0,3.6,58.5,Yes
+S50064,2025-06-12,Class 9,Biology,Recorded,Hyderabad,76.6,37.1,92.4,Yes
+S50065,2025-06-12,Class 9,Physics,Live Class,Chennai,88.5,7.1,74.1,Yes
+S50066,2025-06-13,Class 12,Biology,Recorded,Delhi,80.3,4.1,63.4,No
+S50067,2025-06-13,Class 12,Chemistry,Recorded,Bengaluru,65.2,10.0,48.4,Yes
+S50068,2025-06-13,Class 10,Chemistry,Live Class,Lucknow,92.6,5.0,60.7,No
+S50069,2025-06-13,Class 10,Chemistry,Live Class,Delhi,83.7,15.6,76.6,No
+S50070,2025-06-13,Class 9,Biology,Live Class,Lucknow,89.6,7.9,70.1,Yes
+S50071,2025-06-13,Class 9,Maths,Live Class,Hyderabad,92.7,4.7,79.5,Yes
+S50072,2025-06-14,Class 12,Chemistry,Live Class,Bengaluru,97.5,12.1,77.9,Yes
+S50073,2025-06-14,Class 11,Physics,Recorded,Lucknow,92.2,19.3,71.9,Yes
+S50074,2025-06-14,Class 9,Maths,Live Class,Pune,76.6,13.0,56.8,Yes
+S50075,2025-06-14,Class 9,Maths,1:1 Tutoring,Chennai,79.1,9.3,72.3,No
+S50076,2025-06-15,Class 11,Biology,Recorded,Pune,83.6,20.0,89.4,No
+S50077,2025-06-15,Class 12,Chemistry,Recorded,Kolkata,76.2,1.9,78.4,Yes
+S50078,2025-06-15,Class 12,Chemistry,Live Class,Bengaluru,74.6,3.8,54.3,Yes
+S50079,2025-06-16,Class 9,Biology,Live Class,Delhi,100.0,14.9,83.7,Yes
+S50080,2025-06-16,Class 11,Physics,1:1 Tutoring,Kolkata,84.7,25.3,77.9,Yes
+S50081,2025-06-17,Class 9,Physics,Recorded,Kolkata,100.0,1.8,73.5,Yes
+S50082,2025-06-17,Class 9,Chemistry,1:1 Tutoring,Bengaluru,67.2,10.5,42.2,No
+S50083,2025-06-17,Class 9,Chemistry,Live Class,Mumbai,77.3,5.5,57.5,No
+S50084,2025-06-18,Class 10,Physics,Live Class,Pune,71.9,4.6,43.9,Yes
+S50085,2025-06-18,Class 10,Chemistry,Recorded,Mumbai,72.5,4.4,73.4,No
+S50086,2025-06-18,Class 11,Chemistry,Live Class,Lucknow,73.9,22.9,68.6,Yes
+S50087,2025-06-18,Class 10,Biology,Live Class,Lucknow,76.2,4.6,66.3,No
+S50088,2025-06-18,Class 10,Physics,Live Class,Hyderabad,71.9,12.4,65.2,Yes
+S50089,2025-06-19,Class 12,Biology,Recorded,Mumbai,100.0,12.2,65.4,Yes
+S50090,2025-06-19,Class 11,Physics,Live Class,Lucknow,87.3,16.6,79.9,Yes
+S50091,2025-06-19,Class 11,Physics,Recorded,Hyderabad,67.6,9.6,71.0,Yes
+S50092,2025-06-19,Class 11,Biology,Live Class,Chennai,70.4,8.3,63.8,No
+S50093,2025-06-20,Class 10,Chemistry,Live Class,Mumbai,88.3,14.1,78.2,No
+S50094,2025-06-20,Class 12,Maths,Recorded,Lucknow,85.5,18.3,84.5,Yes
+S50095,2025-06-20,Class 9,Maths,Recorded,Delhi,69.5,28.9,78.9,No
+S50096,2025-06-20,Class 10,Chemistry,Live Class,Bengaluru,90.8,10.0,70.9,Yes
+S50097,2025-06-20,Class 9,Chemistry,Recorded,Bengaluru,58.1,14.1,45.0,No
+S50098,2025-06-21,Class 9,Chemistry,Live Class,Hyderabad,71.4,2.6,51.2,Yes
+S50099,2025-06-21,Class 12,Chemistry,1:1 Tutoring,Mumbai,100.0,5.6,72.6,Yes
+S50100,2025-06-22,Class 9,Chemistry,Recorded,Pune,41.8,16.2,60.5,Yes
+S50101,2025-06-22,Class 10,Biology,Live Class,Delhi,75.1,3.9,73.3,Yes
+S50102,2025-06-22,Class 12,Physics,Live Class,Hyderabad,91.7,9.8,72.5,No
+S50103,2025-06-22,Class 11,Biology,Live Class,Delhi,76.0,8.4,73.3,Yes
+S50104,2025-06-22,Class 12,Chemistry,Live Class,Bengaluru,67.1,2.8,35.5,Yes
+S50105,2025-06-23,Class 9,Chemistry,Recorded,Delhi,65.6,5.0,60.2,Yes
+S50106,2025-06-23,Class 10,Biology,Recorded,Delhi,49.1,7.2,41.0,No
+S50107,2025-06-24,Class 9,Maths,Recorded,Pune,59.6,3.9,62.8,Yes
+S50108,2025-06-24,Class 9,Maths,Live Class,Mumbai,78.9,5.5,75.4,Yes
+S50109,2025-06-24,Class 12,Biology,Recorded,Hyderabad,70.1,9.2,72.4,Yes
+S50110,2025-06-24,Class 9,Biology,Recorded,Bengaluru,77.8,14.1,75.9,Yes
+S50111,2025-06-25,Class 11,Physics,Live Class,Hyderabad,75.9,14.1,78.2,No
+S50112,2025-06-25,Class 9,Maths,Live Class,Chennai,81.9,12.7,86.0,Yes
+S50113,2025-06-25,Class 10,Biology,Live Class,Bengaluru,55.0,,48.1,Yes
+S50114,2025-06-25,Class 12,Physics,Recorded,Bengaluru,73.7,8.5,77.8,Yes
+S50115,2025-06-25,Class 10,Biology,Live Class,Bengaluru,73.3,2.9,57.3,Yes
+S50116,2025-06-26,Class 10,Chemistry,Recorded,Pune,73.7,8.2,51.3,No
+S50117,2025-06-26,Class 9,Maths,Live Class,Lucknow,65.7,23.1,74.3,Yes
+S50118,2025-06-26,Class 12,Physics,Live Class,Delhi,47.6,18.3,64.8,No
+S50119,2025-06-26,Class 9,Maths,Recorded,Lucknow,86.7,25.1,82.6,Yes
+S50120,2025-06-26,Class 10,Maths,Recorded,Mumbai,89.3,8.2,65.0,No
+S50121,2025-06-27,Class 9,Maths,Recorded,Chennai,100.0,3.6,78.3,Yes
+S50122,2025-06-27,Class 9,Physics,Recorded,Lucknow,88.1,10.7,69.7,Yes
+S50123,2025-06-27,Class 12,Maths,Live Class,Hyderabad,100.0,5.6,96.1,Yes
+S50124,2025-06-27,Class 9,Chemistry,1:1 Tutoring,Kolkata,86.2,10.2,79.8,No
+S50125,2025-06-27,Class 10,Maths,Recorded,Chennai,72.7,8.9,67.5,No
+S50126,2025-06-27,Class 10,Biology,1:1 Tutoring,Bengaluru,84.9,5.8,68.8,Yes
+S50127,2025-06-28,Class 9,Physics,1:1 Tutoring,Pune,61.8,18.1,75.8,Yes
+S50128,2025-06-29,Class 11,Maths,Live Class,Hyderabad,81.3,4.5,80.0,Yes
+S50129,2025-06-29,Class 11,Maths,1:1 Tutoring,Delhi,76.5,2.5,61.3,Yes
+S50130,2025-06-29,Class 12,Physics,Live Class,Kolkata,63.4,7.6,55.6,No
+S50131,2025-06-30,Class 9,Maths,Recorded,Kolkata,94.9,7.5,55.8,No
+S50132,2025-06-30,Class 12,Maths,Live Class,Delhi,93.5,3.6,69.3,No
+S50133,2025-06-30,Class 9,Chemistry,Live Class,Kolkata,84.4,8.0,82.9,No
+S50134,2025-06-30,Class 9,Biology,Recorded,Hyderabad,89.3,5.6,58.5,Yes
+S50135,2025-06-30,Class 11,Maths,Live Class,Mumbai,100.0,2.7,68.7,Yes
+S50136,2025-06-30,Class 12,Physics,Recorded,Hyderabad,76.2,5.1,56.2,No
+S50137,2025-07-01,Class 12,Chemistry,Live Class,Kolkata,59.3,3.5,51.8,Yes
+S50138,2025-07-01,Class 11,Physics,Live Class,Delhi,64.8,2.1,48.9,No
+S50139,2025-07-01,Class 9,Biology,Live Class,Kolkata,87.7,11.3,68.5,Yes
+S50140,2025-07-01,Class 10,Maths,Recorded,Mumbai,81.2,17.6,62.5,Yes
+S50141,2025-07-02,Class 12,Maths,Recorded,Delhi,57.4,10.2,59.3,Yes
+S50142,2025-07-02,Class 11,Maths,Recorded,Kolkata,96.4,14.1,85.9,Yes
+S50143,2025-07-02,Class 9,Physics,Live Class,Bengaluru,81.0,5.7,72.1,Yes
+S50144,2025-07-02,Class 11,Physics,1:1 Tutoring,Hyderabad,100.0,7.7,64.3,No
+S50145,2025-07-03,Class 9,Biology,Live Class,Pune,93.7,9.3,85.0,Yes
+S50146,2025-07-03,Class 11,Maths,1:1 Tutoring,Delhi,72.0,5.3,73.4,Yes
+S50147,2025-07-03,Class 9,Chemistry,Recorded,Chennai,79.4,30.7,89.8,Yes
+S50148,2025-07-03,Class 10,Maths,Live Class,Chennai,67.9,8.8,53.3,No
+S50149,2025-07-03,Class 10,Physics,1:1 Tutoring,Pune,66.4,10.3,62.1,No
+S50150,2025-07-03,Class 12,Chemistry,Live Class,Lucknow,74.0,11.1,71.4,Yes
+S50151,2025-07-03,Class 11,Physics,Recorded,Kolkata,85.1,8.8,84.7,Yes
+S50152,2025-07-04,Class 11,Chemistry,Live Class,Kolkata,97.1,7.4,65.0,Yes
+S50153,2025-07-04,Class 10,Chemistry,Recorded,Pune,65.8,11.5,64.4,Yes
+S50154,2025-07-04,Class 10,Biology,Recorded,Hyderabad,87.9,8.4,73.9,Yes
+S50155,2025-07-05,Class 12,Maths,Live Class,Kolkata,78.7,7.4,62.1,Yes
+S50156,2025-07-05,Class 12,Biology,Live Class,Chennai,75.1,7.8,67.0,Yes
+S50157,2025-07-05,Class 9,Chemistry,1:1 Tutoring,Hyderabad,93.9,9.7,74.9,No
+S50158,2025-07-05,Class 9,Biology,Live Class,Kolkata,73.3,4.2,72.4,No
+S50159,2025-07-05,Class 10,Physics,Live Class,Bengaluru,97.4,10.4,61.0,Yes
+S50160,2025-07-05,Class 10,Maths,Live Class,Delhi,73.6,10.7,67.7,Yes
+S50161,2025-07-05,Class 10,Biology,Live Class,Kolkata,65.5,4.5,53.0,Yes
+S50162,2025-07-05,Class 10,Biology,Live Class,Pune,88.9,12.1,72.1,Yes
+S50163,2025-07-06,Class 12,Chemistry,Live Class,Lucknow,58.1,19.0,54.8,No
+S50164,2025-07-06,Class 10,Biology,Recorded,Mumbai,61.8,13.4,34.3,Yes
+S50165,2025-07-06,Class 12,Biology,Live Class,Pune,75.7,11.7,80.1,No
+S50166,2025-07-06,Class 11,Chemistry,Live Class,Mumbai,78.4,5.5,70.5,Yes
+S50167,2025-07-06,Class 10,Physics,Live Class,Delhi,74.6,13.0,70.5,No
+S50168,2025-07-06,Class 12,Maths,Live Class,Chennai,50.9,8.6,53.2,Yes
+S50169,2025-07-06,Class 10,Maths,Live Class,Pune,59.8,14.5,63.9,No
+S50170,2025-07-06,Class 12,Physics,Recorded,Hyderabad,85.5,9.4,66.8,Yes
+S50171,2025-07-07,Class 10,Chemistry,Recorded,Delhi,85.9,11.9,72.3,No
+S50172,2025-07-07,Class 12,Maths,Recorded,Lucknow,64.4,25.9,82.5,Yes
+S50173,2025-07-07,Class 11,Biology,Recorded,Kolkata,82.1,11.3,63.7,Yes
+S50174,2025-07-08,Class 12,Chemistry,Live Class,Pune,81.3,6.2,58.1,Yes
+S50175,2025-07-08,Class 9,Maths,Recorded,Lucknow,92.6,6.4,87.8,Yes
+S50176,2025-07-08,Class 9,Maths,Recorded,Pune,68.2,,55.3,Yes
+S50177,2025-07-08,Class 9,Maths,Recorded,Lucknow,98.7,6.4,75.8,Yes
+S50178,2025-07-08,Class 11,Physics,Live Class,Hyderabad,74.2,9.1,62.9,No
+S50179,2025-07-08,Class 10,Physics,1:1 Tutoring,Hyderabad,98.5,8.2,86.1,Yes
+S50180,2025-07-09,Class 12,Physics,Live Class,Pune,91.3,5.2,75.6,Yes
+S50181,2025-07-09,Class 9,Biology,Recorded,Bengaluru,64.4,8.4,60.7,No
+S50182,2025-07-09,Class 9,Maths,Recorded,Mumbai,74.1,6.3,54.0,No
+S50183,2025-07-09,Class 12,Chemistry,Recorded,Mumbai,82.5,7.2,58.6,Yes
+S50184,2025-07-10,Class 10,Physics,Live Class,Bengaluru,92.6,8.1,72.8,Yes
+S50185,2025-07-11,Class 11,Maths,1:1 Tutoring,Mumbai,59.2,10.3,80.7,No
+S50186,2025-07-11,Class 10,Chemistry,Live Class,Mumbai,71.5,4.4,44.4,Yes
+S50187,2025-07-11,Class 11,Biology,Live Class,Hyderabad,87.1,3.6,66.0,Yes
+S50188,2025-07-11,Class 9,Chemistry,Recorded,Mumbai,85.1,3.1,69.9,Yes
+S50189,2025-07-12,Class 11,Physics,Recorded,Mumbai,63.8,4.6,51.9,Yes
+S50190,2025-07-12,Class 12,Biology,Live Class,Chennai,66.0,8.8,62.6,Yes
+S50191,2025-07-12,Class 11,Physics,Live Class,Chennai,84.5,6.1,66.3,Yes
+S50192,2025-07-12,Class 12,Chemistry,1:1 Tutoring,Kolkata,64.2,1.3,68.3,Yes
+S50193,2025-07-13,Class 12,Biology,Live Class,Pune,81.7,10.2,83.2,No
+S50194,2025-07-13,Class 11,Chemistry,Live Class,Delhi,91.2,8.9,69.1,Yes
+S50195,2025-07-13,Class 12,Biology,Live Class,Lucknow,78.7,14.0,72.0,No
+S50196,2025-07-14,Class 10,Maths,Recorded,Pune,41.1,25.6,63.3,Yes
+S50197,2025-07-14,Class 9,Biology,Recorded,Hyderabad,94.8,7.2,73.9,Yes
+S50198,2025-07-14,Class 11,Biology,Recorded,Lucknow,94.5,9.3,73.7,Yes
+S50199,2025-07-15,Class 11,Chemistry,Live Class,Mumbai,98.2,12.4,58.0,Yes
+S50200,2025-07-15,Class 9,Biology,Live Class,Delhi,90.4,1.1,67.6,Yes
+S50201,2025-07-15,Class 9,Biology,Recorded,Pune,55.0,4.7,43.5,No
+S50202,2025-07-15,Class 11,Chemistry,1:1 Tutoring,Mumbai,98.2,9.5,77.4,Yes
+S50203,2025-07-15,Class 10,Physics,Recorded,Kolkata,83.3,17.7,77.4,Yes
+S50204,2025-07-16,Class 10,Biology,Live Class,Delhi,91.6,24.3,86.2,Yes
+S50205,2025-07-16,Class 12,Physics,Live Class,Chennai,76.3,5.5,59.0,Yes
+S50206,2025-07-16,Class 11,Biology,Live Class,Mumbai,75.1,11.3,61.7,Yes
+S50207,2025-07-16,Class 12,Maths,Recorded,Delhi,75.2,13.0,64.4,Yes
+S50208,2025-07-16,Class 9,Maths,Live Class,Delhi,100.0,12.9,68.6,Yes
+S50209,2025-07-16,Class 12,Maths,Recorded,Hyderabad,82.3,15.1,85.2,No
+S50210,2025-07-17,Class 11,Biology,Live Class,Kolkata,75.7,4.9,77.8,Yes
+S50211,2025-07-17,Class 9,Biology,Live Class,Lucknow,60.6,12.5,58.4,No
+S50212,2025-07-17,Class 9,Maths,Recorded,Mumbai,85.0,4.1,80.3,Yes
+S50213,2025-07-18,Class 10,Physics,Recorded,Bengaluru,78.6,7.0,71.8,Yes
+S50214,2025-07-18,Class 11,Maths,Live Class,Delhi,80.7,6.8,56.0,Yes
+S50215,2025-07-18,Class 9,Chemistry,Live Class,Delhi,92.3,11.1,81.6,Yes
+S50216,2025-07-18,Class 11,Maths,Live Class,Pune,88.6,6.5,75.0,Yes
+S50217,2025-07-18,Class 12,Biology,Live Class,Delhi,78.5,9.4,67.6,Yes
+S50218,2025-07-18,Class 9,Physics,Recorded,Hyderabad,81.5,8.5,54.0,Yes
+S50219,2025-07-18,Class 9,Chemistry,Live Class,Kolkata,79.8,8.1,60.6,No
+S50220,2025-07-18,Class 12,Biology,Recorded,Pune,88.5,9.9,50.4,Yes
+S50221,2025-07-18,Class 9,Chemistry,Recorded,Pune,88.1,1.6,65.5,Yes
+S50222,2025-07-18,Class 12,Biology,Recorded,Lucknow,80.5,1.4,59.7,Yes
+S50223,2025-07-19,Class 10,Maths,Live Class,Kolkata,66.6,3.0,47.0,No
+S50224,2025-07-19,Class 12,Physics,Live Class,Lucknow,90.3,6.4,58.5,No
+S50225,2025-07-19,Class 9,Biology,Recorded,Mumbai,91.1,15.5,87.4,Yes
+S50226,2025-07-19,Class 11,Biology,Live Class,Mumbai,63.6,5.5,43.5,Yes
+S50227,2025-07-20,Class 12,Physics,Live Class,Lucknow,83.9,4.3,72.0,Yes
+S50228,2025-07-20,Class 10,Maths,Live Class,Lucknow,73.1,5.0,62.0,Yes
+S50229,2025-07-20,Class 11,Maths,Recorded,Bengaluru,48.0,1.7,58.8,No
+S50230,2025-07-20,Class 9,Maths,Live Class,Delhi,77.8,9.0,51.1,No
+S50231,2025-07-21,Class 9,Chemistry,Recorded,Mumbai,91.7,2.9,69.1,No
+S50232,2025-07-21,Class 9,Chemistry,Live Class,Delhi,68.2,10.0,73.0,Yes
+S50233,2025-07-21,Class 10,Chemistry,Live Class,Mumbai,68.6,3.1,56.4,Yes
+S50234,2025-07-21,Class 11,Biology,1:1 Tutoring,Bengaluru,92.6,12.7,67.8,Yes
+S50235,2025-07-22,Class 9,Chemistry,Live Class,Mumbai,63.0,16.3,45.8,Yes
+S50236,2025-07-22,Class 9,Biology,Live Class,Bengaluru,65.2,9.1,53.7,No
+S50237,2025-07-22,Class 11,Chemistry,Live Class,Delhi,73.9,11.6,74.4,No
+S50238,2025-07-22,Class 10,Physics,Recorded,Mumbai,87.1,4.0,80.4,Yes
+S50239,2025-07-23,Class 9,Maths,Live Class,Lucknow,87.1,8.0,69.7,Yes
+S50240,2025-07-23,Class 9,Physics,Recorded,Mumbai,71.0,6.1,68.7,No
+S50241,2025-07-23,Class 9,Chemistry,Live Class,Lucknow,74.0,5.6,70.8,Yes
+S50242,2025-07-23,Class 11,Physics,Recorded,Lucknow,79.6,14.0,74.8,Yes
+S50243,2025-07-23,Class 9,Maths,Live Class,Kolkata,72.9,4.2,53.0,No
+S50244,2025-07-24,Class 12,Physics,Live Class,Kolkata,66.3,15.0,70.5,Yes
+S50245,2025-07-25,Class 11,Maths,Live Class,Lucknow,63.1,13.3,52.6,No
+S50246,2025-07-25,Class 10,Biology,Live Class,Bengaluru,88.3,6.8,70.0,Yes
+S50247,2025-07-25,Class 11,Biology,Recorded,Mumbai,75.3,18.1,77.1,Yes
+S50248,2025-07-26,Class 9,Physics,Live Class,Kolkata,100.0,2.3,81.3,Yes
+S50249,2025-07-26,Class 10,Maths,Recorded,Chennai,87.0,4.3,65.9,Yes
+S50250,2025-07-26,Class 10,Chemistry,1:1 Tutoring,Pune,67.8,12.0,79.1,No
+S50251,2025-07-27,Class 11,Chemistry,Live Class,Pune,78.3,11.7,81.1,Yes
+S50252,2025-07-27,Class 9,Chemistry,Recorded,Mumbai,83.1,6.1,75.0,No
+S50253,2025-07-27,Class 10,Biology,1:1 Tutoring,Chennai,83.9,12.7,76.3,Yes
+S50254,2025-07-27,Class 9,Chemistry,Live Class,Delhi,84.5,8.1,71.0,No
+S50255,2025-07-27,Class 9,Physics,Live Class,Pune,84.6,15.6,73.0,Yes
+S50256,2025-07-27,Class 9,Biology,Live Class,Lucknow,76.4,10.0,66.2,No
+S50257,2025-07-28,Class 10,Physics,Recorded,Bengaluru,87.4,14.0,79.6,Yes
+S50258,2025-07-28,Class 12,Chemistry,Recorded,Bengaluru,100.0,6.4,84.0,Yes
+S50259,2025-07-28,Class 10,Biology,Recorded,Pune,72.2,5.2,61.1,Yes
+S50260,2025-07-28,Class 9,Chemistry,Live Class,Delhi,73.0,5.2,68.0,Yes
+S50261,2025-07-28,Class 12,Chemistry,Live Class,Hyderabad,88.2,3.9,69.7,Yes
+S50262,2025-07-28,Class 11,Chemistry,Live Class,Lucknow,95.7,,77.5,Yes
+S50263,2025-07-29,Class 9,Physics,Live Class,Kolkata,89.7,1.3,57.9,Yes
+S50264,2025-07-30,Class 9,Biology,Live Class,Chennai,95.3,2.2,73.0,No
+S50265,2025-07-30,Class 9,Chemistry,Live Class,Delhi,77.6,,63.7,Yes
+S50266,2025-07-31,Class 12,Chemistry,1:1 Tutoring,Lucknow,75.1,6.6,71.8,No
+S50267,2025-07-31,Class 11,Chemistry,Live Class,Lucknow,87.4,13.8,82.0,Yes
+S50268,2025-07-31,Class 11,Maths,Live Class,Chennai,87.7,21.6,84.6,Yes
+S50269,2025-07-31,Class 12,Chemistry,Recorded,Lucknow,100.0,7.4,81.3,Yes
+S50270,2025-07-31,Class 10,Maths,Live Class,Delhi,100.0,10.8,72.4,Yes
+S50271,2025-07-31,Class 12,Biology,Recorded,Pune,52.8,,39.7,No
+S50272,2025-07-31,Class 10,Biology,Live Class,Kolkata,89.1,7.1,66.3,Yes
+S50273,2025-08-01,Class 11,Chemistry,Live Class,Lucknow,69.0,8.8,61.6,No
+S50274,2025-08-01,Class 12,Maths,Recorded,Mumbai,48.9,12.1,56.4,Yes
+S50275,2025-08-01,Class 9,Physics,Recorded,Pune,83.7,14.9,84.0,Yes
+S50276,2025-08-01,Class 11,Chemistry,1:1 Tutoring,Delhi,75.9,6.4,72.0,No
+S50277,2025-08-01,Class 12,Physics,Live Class,Hyderabad,73.4,5.7,74.6,No
+S50278,2025-08-01,Class 12,Maths,Recorded,Lucknow,60.3,15.3,58.1,Yes
+S50279,2025-08-02,Class 11,Biology,Live Class,Lucknow,64.1,14.2,53.1,No
+S50280,2025-08-02,Class 10,Maths,Live Class,Lucknow,75.2,5.2,70.0,No
+S50281,2025-08-03,Class 9,Chemistry,Recorded,Lucknow,57.4,15.4,50.4,No
+S50282,2025-08-03,Class 12,Physics,Live Class,Bengaluru,76.7,16.3,55.7,Yes
+S50283,2025-08-03,Class 10,Chemistry,Live Class,Delhi,79.8,16.3,66.1,Yes
+S50284,2025-08-03,Class 12,Biology,Live Class,Pune,76.0,4.6,65.3,Yes
+S50285,2025-08-03,Class 9,Biology,Recorded,Kolkata,82.3,17.8,82.8,Yes
+S50286,2025-08-04,Class 10,Chemistry,Live Class,Mumbai,77.2,6.9,64.3,No
+S50287,2025-08-04,Class 12,Biology,Live Class,Bengaluru,61.9,3.3,63.2,No
+S50288,2025-08-04,Class 11,Chemistry,Live Class,Chennai,63.7,12.5,61.3,Yes
+S50289,2025-08-04,Class 11,Maths,Live Class,Bengaluru,80.0,0.7,47.3,Yes
+S50290,2025-08-04,Class 11,Chemistry,Recorded,Kolkata,91.6,6.2,60.5,Yes
+S50291,2025-08-04,Class 12,Biology,Live Class,Bengaluru,80.2,7.1,50.8,Yes
+S50292,2025-08-05,Class 12,Biology,Recorded,Delhi,71.1,6.1,59.2,No
+S50293,2025-08-05,Class 12,Chemistry,Recorded,Chennai,80.4,13.6,51.1,Yes
+S50294,2025-08-05,Class 11,Maths,Live Class,Bengaluru,52.9,9.4,42.0,Yes
+S50295,2025-08-06,Class 10,Chemistry,Live Class,Delhi,64.2,11.2,53.5,Yes
+S50296,2025-08-06,Class 9,Physics,Live Class,Delhi,72.8,10.4,72.2,Yes
+S50297,2025-08-06,Class 12,Maths,Recorded,Bengaluru,77.2,6.8,68.8,No
+S50298,2025-08-06,Class 10,Biology,Recorded,Mumbai,73.5,11.6,61.9,No
+S50299,2025-08-06,Class 9,Physics,Live Class,Lucknow,74.3,4.5,63.1,Yes
+S50300,2025-08-06,Class 9,Physics,Live Class,Kolkata,61.5,9.7,56.5,Yes
+S50301,2025-08-06,Class 9,Chemistry,Recorded,Bengaluru,70.0,8.1,85.8,No
+S50302,2025-08-07,Class 9,Chemistry,Recorded,Mumbai,81.5,14.0,55.5,Yes
+S50303,2025-08-07,Class 10,Physics,Recorded,Hyderabad,52.3,2.8,32.3,No
+S50304,2025-08-07,Class 10,Biology,Live Class,Mumbai,61.3,4.7,38.4,Yes
+S50305,2025-08-07,Class 10,Chemistry,1:1 Tutoring,Hyderabad,73.2,5.0,54.3,No
+S50306,2025-08-07,Class 11,Maths,Live Class,Mumbai,98.7,17.9,77.1,Yes
+S50307,2025-08-07,Class 10,Biology,Live Class,Kolkata,87.4,2.8,74.3,Yes
+S50308,2025-08-07,Class 11,Biology,Live Class,Pune,99.8,,72.0,Yes
+S50309,2025-08-07,Class 11,Biology,1:1 Tutoring,Bengaluru,96.7,8.6,77.2,Yes
+S50310,2025-08-08,Class 11,Biology,Recorded,Delhi,71.7,6.5,59.7,Yes
+S50311,2025-08-08,Class 11,Physics,Recorded,Hyderabad,77.0,11.1,67.9,Yes
+S50312,2025-08-08,Class 9,Maths,Live Class,Bengaluru,61.6,4.5,47.1,No
+S50313,2025-08-09,Class 9,Chemistry,Recorded,Bengaluru,94.4,17.2,83.2,Yes
+S50314,2025-08-10,Class 12,Chemistry,Live Class,Hyderabad,88.2,5.8,67.5,Yes
+S50315,2025-08-10,Class 11,Maths,Live Class,Mumbai,86.3,10.1,71.8,Yes
+S50316,2025-08-11,Class 10,Physics,Live Class,Pune,87.3,4.5,71.6,Yes
+S50317,2025-08-11,Class 10,Biology,Recorded,Pune,84.4,22.6,81.3,Yes
+S50318,2025-08-11,Class 12,Physics,Live Class,Bengaluru,80.9,6.8,72.2,Yes
+S50319,2025-08-11,Class 11,Maths,1:1 Tutoring,Delhi,81.9,2.0,61.1,Yes
+S50320,2025-08-11,Class 10,Maths,1:1 Tutoring,Pune,94.9,11.8,84.7,Yes
+S50321,2025-08-11,Class 10,Maths,Recorded,Bengaluru,67.0,20.3,53.3,No
+S50322,2025-08-11,Class 9,Biology,Live Class,Hyderabad,63.4,11.2,41.4,No
+S50323,2025-08-12,Class 12,Physics,Live Class,Pune,78.1,5.2,59.6,Yes
+S50324,2025-08-12,Class 11,Chemistry,Live Class,Kolkata,94.2,5.7,74.0,Yes
+S50325,2025-08-12,Class 10,Biology,Recorded,Chennai,81.4,5.3,68.7,Yes
+S50326,2025-08-13,Class 11,Biology,Live Class,Kolkata,75.2,11.6,68.6,Yes
+S50327,2025-08-13,Class 11,Biology,1:1 Tutoring,Delhi,89.7,8.8,83.7,Yes
+S50328,2025-08-14,Class 11,Maths,Live Class,Kolkata,79.6,21.3,57.6,Yes
+S50329,2025-08-14,Class 11,Chemistry,Live Class,Bengaluru,51.5,9.1,48.3,No
+S50330,2025-08-14,Class 12,Biology,Recorded,Mumbai,64.0,1.9,52.5,No
+S50331,2025-08-14,Class 11,Physics,1:1 Tutoring,Delhi,48.9,7.2,49.7,No
+S50332,2025-08-15,Class 10,Biology,Recorded,Bengaluru,75.0,16.6,71.1,Yes
+S50333,2025-08-15,Class 10,Physics,Live Class,Bengaluru,71.8,6.6,65.9,Yes
+S50334,2025-08-15,Class 10,Maths,Live Class,Delhi,84.2,7.7,69.8,Yes
+S50335,2025-08-15,Class 12,Maths,Recorded,Kolkata,100.0,5.8,74.0,Yes
+S50336,2025-08-15,Class 9,Maths,Recorded,Delhi,69.7,2.6,77.9,Yes
+S50337,2025-08-16,Class 9,Maths,1:1 Tutoring,Lucknow,78.2,14.1,74.9,Yes
+S50338,2025-08-16,Class 11,Maths,Recorded,Lucknow,72.7,2.3,58.9,No
+S50339,2025-08-16,Class 10,Physics,Recorded,Kolkata,38.8,7.4,57.2,No
+S50340,2025-08-16,Class 9,Maths,Recorded,Mumbai,67.4,5.0,74.0,Yes
+S50341,2025-08-16,Class 11,Maths,Recorded,Bengaluru,68.0,7.1,51.5,Yes
+S50342,2025-08-17,Class 11,Physics,Recorded,Pune,81.9,2.2,54.1,No
+S50343,2025-08-17,Class 9,Biology,Live Class,Delhi,66.4,6.8,70.5,Yes
+S50344,2025-08-17,Class 10,Physics,Live Class,Kolkata,60.1,6.3,65.4,Yes
+S50345,2025-08-17,Class 9,Physics,Live Class,Chennai,86.3,2.0,72.2,Yes
+S50346,2025-08-17,Class 11,Physics,Live Class,Chennai,77.2,5.9,60.7,Yes
+S50347,2025-08-17,Class 12,Physics,1:1 Tutoring,Kolkata,65.6,17.1,76.3,No
+S50348,2025-08-18,Class 12,Chemistry,Recorded,Chennai,67.5,13.2,50.6,No
+S50349,2025-08-18,Class 12,Physics,Recorded,Hyderabad,73.9,5.4,51.1,No
+S50350,2025-08-18,Class 10,Maths,1:1 Tutoring,Delhi,89.5,15.8,94.1,Yes
+S50351,2025-08-18,Class 11,Chemistry,Live Class,Chennai,97.9,9.1,63.2,Yes
+S50352,2025-08-19,Class 11,Maths,1:1 Tutoring,Kolkata,59.9,9.5,62.0,Yes
+S50353,2025-08-19,Class 12,Chemistry,1:1 Tutoring,Hyderabad,94.3,14.0,87.1,Yes
+S50354,2025-08-19,Class 11,Maths,Live Class,Delhi,78.9,5.7,66.4,Yes
+S50355,2025-08-19,Class 12,Biology,Live Class,Delhi,83.1,4.1,55.0,No
+S50356,2025-08-19,Class 9,Chemistry,Live Class,Hyderabad,91.6,11.3,67.5,Yes
+S50357,2025-08-20,Class 10,Physics,Live Class,Delhi,64.7,5.1,62.0,Yes
+S50358,2025-08-20,Class 10,Maths,1:1 Tutoring,Bengaluru,90.1,11.1,74.0,No
+S50359,2025-08-20,Class 11,Physics,Live Class,Kolkata,59.9,2.4,67.5,No
+S50360,2025-08-21,Class 12,Physics,1:1 Tutoring,Lucknow,71.6,14.4,absent,Yes
+S50361,2025-08-21,Class 10,Biology,Recorded,Lucknow,66.3,6.4,74.3,No
+S50362,2025-08-21,Class 10,Biology,Live Class,Mumbai,100.0,4.2,72.0,Yes
+S50363,2025-08-22,Class 11,Physics,Live Class,Pune,100.0,16.8,90.5,Yes
+S50364,2025-08-22,Class 9,Biology,Recorded,Hyderabad,88.7,9.2,73.9,Yes
+S50365,2025-08-22,Class 10,Chemistry,Live Class,Chennai,85.3,10.9,70.1,No
+S50366,2025-08-22,Class 9,Biology,Live Class,Delhi,70.7,4.7,47.4,No
+S50367,2025-08-22,Class 9,Chemistry,Live Class,Pune,100.0,5.0,77.7,Yes
+S50368,2025-08-22,Class 11,Biology,Live Class,Delhi,97.6,9.7,75.0,No
+S50369,2025-08-23,Class 12,Physics,1:1 Tutoring,Pune,90.7,3.8,76.8,Yes
+S50370,2025-08-23,Class 9,Maths,Live Class,Lucknow,76.6,11.7,61.3,Yes
+S50371,2025-08-23,Class 11,Chemistry,1:1 Tutoring,Bengaluru,73.3,16.6,65.2,No
+S50372,2025-08-23,Class 11,Biology,Recorded,Mumbai,77.0,18.7,61.9,Yes
+S50373,2025-08-23,Class 11,Maths,Live Class,Hyderabad,96.7,10.9,73.6,Yes
+S50374,2025-08-24,Class 11,Biology,1:1 Tutoring,Chennai,65.1,13.7,76.0,Yes
+S50375,2025-08-24,Class 11,Maths,1:1 Tutoring,Pune,79.9,5.5,66.7,Yes
+S50376,2025-08-24,Class 9,Physics,1:1 Tutoring,Kolkata,100.0,9.0,71.1,No
+S50377,2025-08-24,Class 12,Maths,Live Class,Bengaluru,90.6,10.8,64.3,Yes
+S50378,2025-08-24,Class 9,Chemistry,Live Class,Hyderabad,100.0,4.7,62.1,Yes
+S50379,2025-08-24,Class 10,Maths,Recorded,Bengaluru,84.1,6.4,51.7,Yes
+S50380,2025-08-24,Class 12,Physics,1:1 Tutoring,Hyderabad,84.3,6.2,68.6,Yes
+S50381,2025-08-24,Class 11,Maths,Live Class,Kolkata,97.6,7.6,67.0,Yes
+S50382,2025-08-25,Class 10,Biology,Live Class,Chennai,87.5,5.3,63.6,No
+S50383,2025-08-25,Class 9,Physics,Live Class,Delhi,83.2,11.4,85.1,No
+S50384,2025-08-25,Class 10,Chemistry,Live Class,Kolkata,71.3,5.0,67.7,No
+S50385,2025-08-26,Class 11,Maths,Recorded,Kolkata,57.8,5.3,66.3,Yes
+S50386,2025-08-26,Class 12,Physics,Live Class,Chennai,99.2,7.6,73.8,Yes
+S50387,2025-08-26,Class 12,Maths,Live Class,Bengaluru,72.7,4.4,62.1,No
+S50388,2025-08-26,Class 9,Physics,Recorded,Chennai,68.1,13.8,56.3,Yes
+S50389,2025-08-26,Class 11,Physics,Recorded,Bengaluru,90.6,5.2,52.8,Yes
+S50390,2025-08-27,Class 11,Physics,Recorded,Delhi,66.2,9.5,46.0,Yes
+S50391,2025-08-27,Class 12,Chemistry,Live Class,Bengaluru,59.8,6.3,51.9,No
+S50392,2025-08-27,Class 10,Maths,Live Class,Chennai,70.6,9.6,66.1,Yes
+S50393,2025-08-27,Class 10,Physics,Live Class,Kolkata,77.7,6.2,82.8,No
+S50394,2025-08-27,Class 10,Biology,Recorded,Mumbai,82.4,13.2,68.7,Yes
+S50395,2025-08-28,Class 12,Biology,Recorded,Kolkata,85.7,8.6,54.7,Yes
+S50396,2025-08-28,Class 11,Maths,Live Class,Bengaluru,92.1,5.5,65.8,Yes
+S50397,2025-08-28,Class 9,Chemistry,Recorded,Kolkata,77.0,5.8,67.0,Yes
+S50398,2025-08-28,Class 11,Biology,Recorded,Mumbai,83.7,9.3,57.5,Yes
+S50399,2025-08-28,Class 12,Physics,Recorded,Lucknow,77.1,2.3,56.2,Yes
+S50400,2025-08-29,Class 12,Physics,Live Class,Mumbai,69.8,9.3,65.8,Yes
+S50401,2025-08-29,Class 10,Biology,Live Class,Mumbai,84.2,5.6,66.7,No
+S50402,2025-08-29,Class 12,Maths,Recorded,Kolkata,83.6,6.4,69.8,Yes
+S50403,2025-08-29,Class 9,Biology,Recorded,Mumbai,100.0,7.6,74.6,Yes
+S50404,2025-08-29,Class 11,Chemistry,Live Class,Pune,87.0,4.3,66.1,No
+S50405,2025-08-29,Class 11,Biology,Recorded,Chennai,69.0,13.8,75.9,No
+S50406,2025-08-29,Class 9,Chemistry,Recorded,Lucknow,87.0,23.6,85.8,Yes
+S50407,2025-08-30,Class 10,Maths,Live Class,Kolkata,75.2,15.5,70.0,No
+S50408,2025-08-30,Class 10,Chemistry,1:1 Tutoring,Lucknow,100.0,5.4,83.5,Yes
+S50409,2025-08-30,Class 10,Chemistry,Live Class,Mumbai,55.1,2.4,50.4,Yes
+S50410,2025-08-30,Class 10,Chemistry,Recorded,Hyderabad,69.5,13.6,63.6,No
+S50411,2025-08-30,Class 12,Chemistry,Live Class,Mumbai,69.6,21.7,72.6,No
+S50412,2025-08-30,Class 12,Maths,Recorded,Kolkata,80.4,2.5,64.3,Yes
+S50413,2025-08-30,Class 9,Maths,Live Class,Mumbai,76.9,4.5,84.5,No
+S50414,2025-08-30,Class 12,Biology,Live Class,Lucknow,56.7,11.8,59.6,Yes
+S50415,2025-08-31,Class 11,Maths,Live Class,Kolkata,52.9,5.2,55.5,No
+S50416,2025-08-31,Class 9,Biology,Live Class,Kolkata,81.2,3.2,82.1,Yes
+S50417,2025-08-31,Class 10,Biology,Recorded,Mumbai,99.0,4.0,63.8,Yes
+S50418,2025-08-31,Class 10,Biology,Live Class,Chennai,98.8,12.2,77.8,Yes
+S50419,2025-08-31,Class 11,Chemistry,Live Class,Hyderabad,73.2,8.5,74.1,Yes
+S50420,2025-08-31,Class 9,Biology,Recorded,Mumbai,85.1,12.5,72.7,Yes
+S50421,2025-09-01,Class 10,Biology,Live Class,Pune,66.7,3.5,56.8,No
+S50422,2025-09-01,Class 9,Maths,Live Class,Hyderabad,58.7,10.7,50.6,No
+S50423,2025-09-01,Class 9,Physics,Recorded,Kolkata,95.7,16.8,78.4,No
+S50424,2025-09-02,Class 12,Maths,Recorded,Delhi,88.1,,70.3,Yes
+S50425,2025-09-02,Class 11,Physics,Live Class,Kolkata,74.1,5.2,70.7,No
+S50426,2025-09-02,Class 10,Physics,Recorded,Bengaluru,73.6,4.3,65.8,No
+S50427,2025-09-02,Class 12,Biology,1:1 Tutoring,Bengaluru,91.4,10.1,75.8,Yes
+S50428,2025-09-03,Class 10,Maths,1:1 Tutoring,Chennai,83.2,13.4,86.7,Yes
+S50429,2025-09-03,Class 9,Chemistry,Recorded,Kolkata,74.1,20.6,61.9,No
+S50430,2025-09-03,Class 12,Maths,1:1 Tutoring,Chennai,82.7,11.9,67.9,Yes
+S50431,2025-09-03,Class 9,Maths,1:1 Tutoring,Hyderabad,78.6,17.0,83.2,Yes
+S50432,2025-09-03,Class 12,Chemistry,Recorded,Bengaluru,73.1,12.3,67.8,Yes
+S50433,2025-09-03,Class 9,Biology,Live Class,Mumbai,68.9,4.8,49.0,No
+S50434,2025-09-04,Class 12,Biology,Recorded,Hyderabad,91.5,8.9,65.1,No
+S50435,2025-09-04,Class 10,Maths,Recorded,Chennai,72.3,17.8,66.3,Yes
+S50436,2025-09-04,Class 9,Biology,Recorded,Delhi,62.5,13.1,55.4,No
+S50437,2025-09-04,Class 12,Chemistry,Live Class,Pune,100.0,3.7,74.1,Yes
+S50438,2025-09-04,Class 10,Biology,1:1 Tutoring,Kolkata,96.0,5.9,76.9,Yes
+S50439,2025-09-05,Class 9,Maths,Live Class,Lucknow,86.0,5.0,71.1,Yes
+S50440,2025-09-06,Class 11,Maths,1:1 Tutoring,Mumbai,77.9,2.6,67.1,Yes
+S50441,2025-09-06,Class 12,Biology,Live Class,Bengaluru,81.5,9.0,70.3,Yes
+S50442,2025-09-06,Class 9,Physics,Live Class,Chennai,58.8,2.4,49.2,No
+S50443,2025-09-06,Class 11,Biology,Recorded,Hyderabad,78.5,5.6,67.1,No
+S50444,2025-09-06,Class 12,Chemistry,Live Class,Lucknow,82.6,10.4,71.5,No
+S50445,2025-09-07,Class 9,Physics,Live Class,Chennai,76.0,4.0,67.8,No
+S50446,2025-09-07,Class 12,Physics,Recorded,Mumbai,84.8,5.9,69.8,Yes
+S50447,2025-09-07,Class 10,Physics,Recorded,Delhi,68.2,20.0,64.3,No
+S50448,2025-09-07,Class 9,Chemistry,1:1 Tutoring,Delhi,81.2,3.6,69.2,Yes
+S50449,2025-09-07,Class 9,Chemistry,Recorded,Delhi,57.1,11.6,69.0,No
+S50450,2025-09-07,Class 12,Maths,1:1 Tutoring,Lucknow,78.3,8.6,69.1,Yes
+S50451,2025-09-08,Class 11,Physics,Live Class,Mumbai,70.2,8.5,62.3,Yes
+S50452,2025-09-08,Class 12,Physics,Recorded,Kolkata,60.4,2.7,67.7,Yes
+S50453,2025-09-08,Class 11,Biology,Recorded,Bengaluru,73.2,7.6,68.1,Yes
+S50454,2025-09-08,Class 9,Physics,Live Class,Hyderabad,78.9,9.0,71.9,Yes
+S50455,2025-09-09,Class 10,Biology,Recorded,Pune,70.4,2.0,50.2,No
+S50456,2025-09-09,Class 10,Maths,Recorded,Pune,91.4,5.2,61.5,Yes
+S50457,2025-09-09,Class 10,Physics,Recorded,Chennai,69.0,7.1,62.8,Yes
+S50458,2025-09-09,Class 9,Chemistry,1:1 Tutoring,Hyderabad,91.5,6.3,94.5,Yes
+S50459,2025-09-09,Class 12,Physics,Recorded,Delhi,88.6,2.6,50.8,No
+S50460,2025-09-09,Class 9,Maths,Live Class,Lucknow,70.2,8.4,47.0,Yes
+S50461,2025-09-10,Class 12,Chemistry,Recorded,Bengaluru,98.2,5.3,77.3,Yes
+S50462,2025-09-11,Class 11,Chemistry,Recorded,Hyderabad,59.8,6.4,58.0,No
+S50463,2025-09-11,Class 10,Maths,Recorded,Pune,85.9,4.7,57.9,Yes
+S50464,2025-09-11,Class 11,Chemistry,1:1 Tutoring,Chennai,79.4,5.7,78.0,Yes
+S50465,2025-09-12,Class 10,Biology,Recorded,Lucknow,89.0,9.8,72.6,Yes
+S50466,2025-09-12,Class 11,Physics,Recorded,Bengaluru,57.0,11.0,53.0,Yes
+S50467,2025-09-12,Class 11,Chemistry,Recorded,Lucknow,62.1,8.3,57.1,No
+S50468,2025-09-13,Class 10,Chemistry,Live Class,Hyderabad,67.0,10.7,56.8,No
+S50469,2025-09-13,Class 12,Maths,Live Class,Kolkata,78.7,2.4,64.4,No
+S50470,2025-09-14,Class 12,Biology,Live Class,Lucknow,79.5,5.1,57.6,No
+S50471,2025-09-14,Class 9,Biology,Live Class,Kolkata,78.6,16.4,60.3,No
+S50472,2025-09-15,Class 12,Biology,1:1 Tutoring,Delhi,74.8,14.7,67.1,No
+S50473,2025-09-15,Class 9,Biology,Live Class,Lucknow,68.6,17.9,69.7,Yes
+S50474,2025-09-15,Class 9,Maths,1:1 Tutoring,Bengaluru,59.5,16.1,77.1,No
+S50475,2025-09-15,Class 10,Physics,Live Class,Bengaluru,72.4,8.8,57.2,Yes
+S50476,2025-09-16,Class 12,Maths,Live Class,Kolkata,85.5,10.8,absent,Yes
+S50477,2025-09-16,Class 11,Maths,Live Class,Hyderabad,92.2,12.1,76.2,Yes
+S50478,2025-09-16,Class 12,Maths,Recorded,Lucknow,71.3,5.1,69.7,No
+S50479,2025-09-16,Class 9,Biology,1:1 Tutoring,Pune,92.9,,74.6,No
+S50480,2025-09-16,Class 11,Chemistry,Recorded,Lucknow,59.6,2.5,66.3,Yes
+S50481,2025-09-16,Class 9,Biology,Live Class,Chennai,88.9,3.6,60.3,Yes
+S50482,2025-09-16,Class 9,Biology,Recorded,Lucknow,63.3,4.9,68.7,No
+S50483,2025-09-17,Class 9,Chemistry,Live Class,Pune,81.5,11.2,74.3,No
+S50484,2025-09-17,Class 12,Maths,Live Class,Chennai,65.1,2.8,41.2,Yes
+S50485,2025-09-17,Class 10,Physics,Recorded,Hyderabad,64.9,3.9,61.1,No
+S50486,2025-09-17,Class 12,Maths,Live Class,Pune,70.7,13.3,62.8,Yes
+S50487,2025-09-17,Class 11,Chemistry,Recorded,Hyderabad,97.6,20.7,79.7,No
+S50488,2025-09-18,Class 11,Maths,1:1 Tutoring,Chennai,69.0,10.2,61.7,No
+S50489,2025-09-18,Class 11,Chemistry,Live Class,Lucknow,86.7,12.8,71.8,Yes
+S50490,2025-09-19,Class 12,Physics,Recorded,Chennai,80.3,11.4,62.2,Yes
+S50491,2025-09-19,Class 9,Chemistry,Live Class,Pune,82.3,10.5,69.4,No
+S50492,2025-09-19,Class 11,Biology,Live Class,Pune,82.4,1.1,71.9,Yes
+S50493,2025-09-19,Class 9,Biology,Live Class,Delhi,86.8,8.0,80.7,Yes
+S50494,2025-09-19,Class 11,Biology,1:1 Tutoring,Bengaluru,61.7,14.9,77.2,No
+S50495,2025-09-19,Class 10,Maths,Live Class,Lucknow,78.8,4.8,70.9,No
+S50496,2025-09-19,Class 12,Chemistry,Live Class,Kolkata,82.9,4.8,68.9,No
+S50497,2025-09-20,Class 12,Maths,Live Class,Chennai,70.2,7.2,59.1,Yes
+S50498,2025-09-20,Class 9,Biology,Live Class,Mumbai,83.1,8.7,57.8,Yes
+S50499,2025-09-20,Class 12,Maths,1:1 Tutoring,Kolkata,64.2,6.5,72.5,No
+S50500,2025-09-20,Class 9,Physics,Live Class,Mumbai,88.1,13.4,68.8,Yes
+S50501,2025-09-20,Class 10,Physics,1:1 Tutoring,Chennai,68.6,2.8,65.1,Yes
+S50502,2025-09-20,Class 11,Chemistry,Recorded,Pune,74.3,9.2,52.0,No
+S50503,2025-09-21,Class 12,Physics,Recorded,Pune,89.0,4.2,71.3,Yes
+S50504,2025-09-21,Class 10,Chemistry,Recorded,Kolkata,93.0,6.1,82.4,Yes
+S50505,2025-09-21,Class 12,Chemistry,Recorded,Mumbai,70.4,6.7,59.8,No
+S50506,2025-09-21,Class 10,Maths,Recorded,Hyderabad,69.4,18.4,75.0,Yes
+S50507,2025-09-22,Class 10,Biology,1:1 Tutoring,Pune,91.7,3.3,72.9,Yes
+S50508,2025-09-22,Class 12,Maths,Live Class,Kolkata,38.7,20.8,56.3,Yes
+S50509,2025-09-22,Class 11,Maths,Live Class,Hyderabad,96.5,7.7,68.8,No
+S50510,2025-09-22,Class 11,Maths,Live Class,Mumbai,95.9,9.4,50.6,Yes
+S50511,2025-09-22,Class 10,Biology,Live Class,Bengaluru,63.6,4.4,59.3,Yes
+S50512,2025-09-22,Class 9,Chemistry,Recorded,Kolkata,94.5,10.8,78.1,No
+S50513,2025-09-22,Class 9,Maths,1:1 Tutoring,Hyderabad,83.1,14.1,81.8,No
+S50514,2025-09-23,Class 10,Physics,Recorded,Mumbai,84.4,16.2,87.4,Yes
+S50515,2025-09-23,Class 11,Biology,Live Class,Kolkata,46.4,13.4,61.8,Yes
+S50516,2025-09-23,Class 12,Maths,Live Class,Chennai,71.4,20.0,73.1,No
+S50517,2025-09-23,Class 9,Biology,Recorded,Chennai,75.5,11.9,60.3,Yes
+S50518,2025-09-23,Class 9,Biology,Recorded,Lucknow,72.5,9.0,88.3,No
+S50519,2025-09-23,Class 11,Maths,Recorded,Kolkata,72.8,6.4,49.9,No
+S50520,2025-09-23,Class 9,Physics,Recorded,Pune,74.2,4.5,57.7,Yes
+S50521,2025-09-24,Class 12,Biology,Live Class,Bengaluru,38.9,11.8,45.3,Yes
+S50522,2025-09-24,Class 11,Maths,1:1 Tutoring,Chennai,75.4,8.1,79.1,Yes
+S50523,2025-09-24,Class 12,Biology,Recorded,Hyderabad,68.6,1.1,59.4,No
+S50524,2025-09-24,Class 10,Chemistry,Recorded,Kolkata,76.9,13.4,72.3,No
+S50525,2025-09-24,Class 10,Maths,Live Class,Chennai,71.3,8.6,47.0,Yes
+S50526,2025-09-24,Class 12,Physics,Live Class,Chennai,78.1,5.1,58.7,No
+S50527,2025-09-24,Class 9,Biology,Live Class,Mumbai,82.0,8.5,76.0,No
+S50528,2025-09-25,Class 9,Chemistry,Live Class,Chennai,100.0,8.7,70.8,Yes
+S50529,2025-09-25,Class 12,Physics,Live Class,Pune,66.8,11.3,51.0,Yes
+S50530,2025-09-26,Class 9,Maths,Recorded,Chennai,100.0,8.9,77.1,Yes
+S50531,2025-09-26,Class 12,Physics,Live Class,Mumbai,74.8,14.4,62.2,No
+S50532,2025-09-26,Class 11,Chemistry,Recorded,Delhi,65.8,5.3,57.8,No
+S50533,2025-09-26,Class 12,Biology,Live Class,Delhi,58.2,3.2,56.2,Yes
+S50534,2025-09-27,Class 10,Chemistry,Live Class,Bengaluru,89.9,11.4,63.8,Yes
+S50535,2025-09-27,Class 11,Physics,1:1 Tutoring,Lucknow,57.3,12.7,64.1,Yes
+S50536,2025-09-28,Class 9,Maths,Recorded,Bengaluru,90.6,4.9,80.5,Yes
+S50537,2025-09-28,Class 11,Chemistry,Live Class,Bengaluru,82.8,29.8,78.0,Yes
+S50538,2025-09-28,Class 9,Physics,Live Class,Pune,70.3,7.3,59.2,No
+S50539,2025-09-28,Class 10,Physics,Live Class,Chennai,68.9,3.0,53.0,Yes
+S50540,2025-09-28,Class 10,Physics,Recorded,Bengaluru,84.7,4.7,69.0,Yes
+S50541,2025-09-29,Class 9,Maths,Recorded,Pune,80.2,6.7,69.7,Yes
+S50542,2025-09-29,Class 11,Chemistry,Live Class,Mumbai,88.2,4.6,59.9,No
+S50543,2025-09-29,Class 10,Physics,Live Class,Bengaluru,78.0,6.3,65.1,Yes
+S50544,2025-09-29,Class 9,Biology,Live Class,Delhi,71.0,14.7,80.5,No
+S50545,2025-09-29,Class 11,Biology,Recorded,Bengaluru,85.4,4.2,51.8,No
+S50546,2025-09-30,Class 9,Physics,Live Class,Chennai,61.6,5.4,64.8,No
+S50547,2025-09-30,Class 10,Chemistry,1:1 Tutoring,Delhi,89.6,8.6,84.4,Yes
+S50548,2025-09-30,Class 10,Physics,Recorded,Mumbai,78.8,6.8,51.4,Yes
+S50549,2025-09-30,Class 11,Maths,Live Class,Pune,62.7,7.8,43.7,Yes
+S50550,2025-09-30,Class 11,Maths,Live Class,Hyderabad,64.1,10.2,55.1,Yes
+S50551,2025-09-30,Class 11,Biology,Live Class,Chennai,73.6,16.9,80.4,Yes
+S50552,2025-09-30,Class 9,Physics,1:1 Tutoring,Mumbai,53.1,10.7,55.8,No
+S50553,2025-09-30,Class 10,Maths,Live Class,Mumbai,97.1,10.4,75.3,Yes
+S50554,2025-10-01,Class 11,Physics,Live Class,Kolkata,91.3,11.8,74.3,No
+S50555,2025-10-01,Class 12,Chemistry,Live Class,Lucknow,63.0,12.6,60.2,Yes
+S50556,2025-10-01,Class 12,Biology,Recorded,Delhi,76.5,7.1,81.1,No
+S50557,2025-10-01,Class 9,Maths,1:1 Tutoring,Bengaluru,100.0,14.1,87.0,Yes
+S50558,2025-10-02,Class 9,Biology,Recorded,Lucknow,83.5,9.7,58.2,No
+S50559,2025-10-02,Class 10,Biology,Live Class,Chennai,64.1,1.7,57.5,Yes
+S50560,2025-10-02,Class 10,Chemistry,1:1 Tutoring,Bengaluru,48.4,7.2,62.8,No
+S50561,2025-10-02,Class 9,Maths,Recorded,Pune,55.5,15.7,50.0,No
+S50562,2025-10-02,Class 9,Biology,1:1 Tutoring,Pune,94.4,3.7,77.4,Yes
+S50563,2025-10-02,Class 12,Chemistry,Live Class,Mumbai,82.4,14.1,65.3,No
+S50564,2025-10-02,Class 11,Biology,Live Class,Hyderabad,60.0,5.1,43.6,No
+S50565,2025-10-02,Class 10,Physics,Live Class,Lucknow,87.8,,59.2,Yes
+S50566,2025-10-03,Class 11,Chemistry,Live Class,Bengaluru,73.0,14.2,73.5,Yes
+S50567,2025-10-03,Class 10,Biology,Live Class,Mumbai,68.8,24.3,69.1,No
+S50568,2025-10-04,Class 11,Maths,Recorded,Kolkata,70.8,14.3,51.0,No
+S50569,2025-10-04,Class 9,Maths,Live Class,Mumbai,71.6,11.9,70.7,No
+S50570,2025-10-04,Class 9,Maths,Live Class,Chennai,100.0,3.0,69.1,Yes
+S50571,2025-10-04,Class 11,Physics,1:1 Tutoring,Pune,65.0,5.0,37.4,No
+S50572,2025-10-05,Class 11,Physics,Recorded,Pune,72.4,6.3,51.8,Yes
+S50573,2025-10-05,Class 10,Maths,Recorded,Kolkata,96.4,8.5,52.7,Yes
+S50574,2025-10-05,Class 10,Chemistry,Recorded,Mumbai,98.8,3.4,66.0,Yes
+S50575,2025-10-05,Class 9,Maths,Recorded,Delhi,64.4,4.9,81.0,Yes
+S50576,2025-10-05,Class 12,Maths,Live Class,Lucknow,100.0,12.0,95.0,Yes
+S50577,2025-10-05,Class 9,Chemistry,1:1 Tutoring,Mumbai,93.3,7.5,79.8,Yes
+S50578,2025-10-05,Class 10,Physics,Live Class,Kolkata,57.5,6.4,47.2,No
+S50579,2025-10-05,Class 10,Biology,Live Class,Chennai,100.0,8.4,64.7,Yes
+S50580,2025-10-06,Class 12,Maths,Recorded,Bengaluru,57.6,8.5,49.4,Yes
+S50581,2025-10-06,Class 11,Physics,Recorded,Mumbai,87.4,7.0,70.6,No
+S50582,2025-10-06,Class 9,Maths,Live Class,Delhi,62.1,7.5,68.5,No
+S50583,2025-10-07,Class 11,Physics,Recorded,Chennai,53.4,7.7,54.1,No
+S50584,2025-10-07,Class 11,Maths,Live Class,Chennai,89.8,19.3,88.0,No
+S50585,2025-10-08,Class 12,Chemistry,Live Class,Kolkata,83.9,7.4,66.1,Yes
+S50586,2025-10-08,Class 11,Biology,1:1 Tutoring,Mumbai,76.9,6.2,50.9,Yes
+S50587,2025-10-08,Class 12,Chemistry,1:1 Tutoring,Chennai,80.7,4.2,72.7,No
+S50588,2025-10-08,Class 10,Biology,Recorded,Chennai,76.6,15.8,78.0,No
+S50589,2025-10-08,Class 12,Biology,Recorded,Delhi,74.4,4.2,66.2,Yes
+S50590,2025-10-09,Class 12,Physics,Recorded,Chennai,63.2,5.2,66.3,Yes
+S50591,2025-10-09,Class 12,Maths,Live Class,Lucknow,86.1,12.0,62.9,Yes
+S50592,2025-10-09,Class 12,Chemistry,1:1 Tutoring,Bengaluru,78.3,11.9,71.1,No
+S50593,2025-10-09,Class 10,Physics,Recorded,Bengaluru,74.6,18.1,69.8,No
+S50594,2025-10-09,Class 12,Maths,Recorded,Chennai,70.1,20.8,72.2,Yes
+S50595,2025-10-09,Class 11,Chemistry,1:1 Tutoring,Kolkata,74.1,18.0,80.3,Yes
+S50596,2025-10-09,Class 11,Chemistry,Recorded,Pune,57.0,10.4,65.7,Yes
+S50597,2025-10-09,Class 10,Physics,Live Class,Lucknow,73.7,19.0,66.1,No
+S50598,2025-10-09,Class 11,Chemistry,Live Class,Pune,64.4,5.2,47.9,No
+S50599,2025-10-10,Class 10,Maths,Recorded,Delhi,95.8,12.1,71.6,Yes
+S50600,2025-10-11,Class 11,Chemistry,1:1 Tutoring,Hyderabad,64.8,9.7,64.3,Yes
+S50601,2025-10-11,Class 9,Biology,Recorded,Bengaluru,71.8,13.7,61.7,Yes
+S50602,2025-10-11,Class 9,Chemistry,Live Class,Mumbai,78.2,2.6,53.7,Yes
+S50603,2025-10-12,Class 12,Physics,Live Class,Delhi,89.1,10.9,79.5,Yes
+S50604,2025-10-12,Class 12,Biology,Live Class,Lucknow,84.4,2.2,73.0,Yes
+S50605,2025-10-12,Class 9,Chemistry,Recorded,Bengaluru,78.2,6.2,72.8,No
+S50606,2025-10-12,Class 9,Physics,Recorded,Kolkata,100.0,1.4,77.8,Yes
+S50607,2025-10-12,Class 9,Physics,Live Class,Pune,77.8,12.3,72.3,Yes
+S50608,2025-10-12,Class 12,Biology,Recorded,Pune,82.5,12.9,66.0,Yes
+S50609,2025-10-13,Class 10,Chemistry,Live Class,Kolkata,100.0,4.5,69.3,Yes
+S50610,2025-10-13,Class 10,Chemistry,Recorded,Kolkata,65.7,14.8,66.1,Yes
+S50611,2025-10-13,Class 11,Maths,Recorded,Mumbai,91.4,10.0,56.0,Yes
+S50612,2025-10-13,Class 11,Maths,1:1 Tutoring,Delhi,84.2,3.6,73.3,No
+S50613,2025-10-13,Class 10,Biology,Live Class,Pune,59.7,10.1,40.6,Yes
+S50614,2025-10-13,Class 9,Biology,Live Class,Bengaluru,69.4,5.9,76.1,Yes
+S50615,2025-10-14,Class 10,Chemistry,Recorded,Kolkata,89.6,11.5,77.9,No
+S50616,2025-10-15,Class 12,Biology,Live Class,Lucknow,57.9,16.2,55.3,No
+S50617,2025-10-15,Class 11,Maths,Recorded,Mumbai,75.4,10.0,64.8,No
+S50618,2025-10-15,Class 10,Physics,Live Class,Pune,91.0,14.8,70.4,Yes
+S50619,2025-10-15,Class 9,Chemistry,Live Class,Delhi,74.7,6.1,76.0,Yes
+S50620,2025-10-15,Class 11,Chemistry,Live Class,Hyderabad,81.7,21.7,84.7,No
+S50621,2025-10-15,Class 9,Physics,Recorded,Mumbai,68.7,6.4,60.8,Yes
+S50622,2025-10-15,Class 12,Physics,Live Class,Lucknow,69.3,26.4,67.8,Yes
+S50623,2025-10-15,Class 11,Maths,Live Class,Chennai,69.5,5.6,65.1,Yes
+S50624,2025-10-16,Class 11,Biology,Live Class,Hyderabad,73.1,6.7,64.5,Yes
+S50625,2025-10-16,Class 11,Physics,Recorded,Lucknow,86.8,2.7,65.5,Yes
+S50626,2025-10-16,Class 10,Physics,Live Class,Pune,79.1,5.6,59.7,Yes
+S50627,2025-10-17,Class 12,Maths,Live Class,Mumbai,100.0,5.7,60.0,Yes
+S50628,2025-10-17,Class 9,Maths,Recorded,Lucknow,85.7,,54.9,No
+S50629,2025-10-17,Class 10,Maths,Recorded,Kolkata,81.9,16.0,65.3,Yes
+S50630,2025-10-17,Class 11,Biology,Live Class,Chennai,100.0,18.8,67.1,Yes
+S50631,2025-10-17,Class 12,Physics,1:1 Tutoring,Chennai,76.5,23.9,71.7,No
+S50632,2025-10-17,Class 9,Maths,Live Class,Mumbai,66.8,13.6,79.1,No
+S50633,2025-10-18,Class 9,Maths,Live Class,Mumbai,80.1,6.3,65.3,No
+S50634,2025-10-18,Class 12,Maths,Recorded,Pune,62.9,16.0,69.3,Yes
+S50635,2025-10-18,Class 9,Physics,Live Class,Pune,85.2,12.5,65.9,Yes
+S50636,2025-10-18,Class 12,Chemistry,Recorded,Mumbai,97.0,3.4,82.7,Yes
+S50637,2025-10-18,Class 11,Biology,Recorded,Hyderabad,86.9,17.2,75.8,Yes
+S50638,2025-10-19,Class 9,Biology,Live Class,Mumbai,72.3,19.5,76.5,Yes
+S50639,2025-10-19,Class 9,Chemistry,Recorded,Lucknow,76.0,6.8,73.2,Yes
+S50640,2025-10-19,Class 9,Maths,Recorded,Lucknow,84.7,7.3,71.6,Yes
+S50641,2025-10-19,Class 9,Maths,Live Class,Delhi,94.4,7.3,89.2,Yes
+S50642,2025-10-20,Class 11,Maths,Recorded,Chennai,72.4,4.2,52.2,No
+S50643,2025-10-20,Class 9,Maths,Recorded,Bengaluru,72.2,13.9,63.2,No
+S50644,2025-10-20,Class 10,Biology,Recorded,Pune,93.1,5.8,75.0,Yes
+S50645,2025-10-20,Class 10,Maths,Live Class,Bengaluru,81.1,12.0,68.1,Yes
+S50646,2025-10-21,Class 9,Physics,Live Class,Chennai,82.8,23.0,80.4,Yes
+S50647,2025-10-21,Class 10,Physics,Recorded,Hyderabad,84.7,10.4,88.8,No
+S50648,2025-10-21,Class 11,Biology,Recorded,Pune,67.3,6.1,56.6,Yes
+S50649,2025-10-21,Class 11,Biology,Live Class,Hyderabad,76.0,14.9,70.8,Yes
+S50650,2025-10-21,Class 11,Chemistry,Live Class,Pune,92.8,4.8,65.3,Yes
+S50651,2025-10-21,Class 12,Chemistry,Recorded,Delhi,75.9,15.0,61.2,Yes
+S50652,2025-10-21,Class 9,Chemistry,Recorded,Chennai,75.3,21.8,55.3,Yes
+S50653,2025-10-22,Class 10,Biology,Recorded,Chennai,82.2,1.4,67.3,Yes
+S50654,2025-10-22,Class 11,Physics,Live Class,Lucknow,83.5,21.4,88.0,No
+S50655,2025-10-22,Class 9,Chemistry,Recorded,Chennai,100.0,13.2,78.5,Yes
+S50656,2025-10-23,Class 10,Maths,Live Class,Hyderabad,66.8,8.6,71.1,Yes
+S50657,2025-10-23,Class 11,Chemistry,1:1 Tutoring,Pune,80.0,2.2,56.8,No
+S50658,2025-10-23,Class 11,Maths,Live Class,Bengaluru,100.0,5.9,72.1,Yes
+S50659,2025-10-23,Class 9,Maths,Live Class,Pune,78.5,12.8,66.9,Yes
+S50660,2025-10-24,Class 10,Biology,Live Class,Pune,83.3,4.7,72.0,No
+S50661,2025-10-24,Class 10,Chemistry,Recorded,Pune,57.9,11.9,58.8,Yes
+S50662,2025-10-24,Class 10,Maths,Recorded,Chennai,91.6,12.9,78.9,No
+S50663,2025-10-25,Class 10,Biology,Recorded,Chennai,90.2,6.8,82.9,Yes
+S50664,2025-10-25,Class 12,Biology,Live Class,Hyderabad,89.5,13.0,63.5,Yes
+S50665,2025-10-25,Class 10,Chemistry,Recorded,Hyderabad,75.6,1.8,59.3,No
+S50666,2025-10-25,Class 11,Physics,Live Class,Mumbai,83.2,10.0,72.1,No
+S50667,2025-10-26,Class 9,Maths,Live Class,Delhi,77.2,11.2,60.8,Yes
+S50668,2025-10-26,Class 12,Maths,Live Class,Bengaluru,89.9,6.3,72.7,Yes
+S50669,2025-10-26,Class 11,Maths,Recorded,Delhi,77.9,3.0,46.5,No
+S50670,2025-10-27,Class 10,Maths,1:1 Tutoring,Delhi,89.0,7.4,66.7,Yes
+S50671,2025-10-27,Class 11,Biology,Recorded,Mumbai,59.5,13.3,57.6,Yes
+S50672,2025-10-27,Class 12,Biology,Recorded,Pune,73.5,2.1,43.5,Yes
+S50673,2025-10-28,Class 11,Chemistry,1:1 Tutoring,Kolkata,38.5,1.3,68.3,No
+S50674,2025-10-28,Class 12,Physics,Live Class,Bengaluru,76.0,7.9,80.5,Yes
+S50675,2025-10-28,Class 12,Chemistry,Recorded,Lucknow,88.8,11.0,82.7,No
+S50676,2025-10-29,Class 12,Physics,Recorded,Delhi,74.5,3.9,68.4,No
+S50677,2025-10-29,Class 10,Biology,Live Class,Chennai,100.0,2.1,79.4,Yes
+S50678,2025-10-30,Class 12,Biology,Recorded,Bengaluru,64.3,4.0,54.1,Yes
+S50679,2025-10-30,Class 11,Maths,Live Class,Kolkata,73.4,4.8,59.0,Yes
+S50680,2025-10-30,Class 10,Maths,Live Class,Pune,65.2,16.4,46.2,No
+S50681,2025-10-30,Class 10,Chemistry,Live Class,Bengaluru,71.1,6.2,69.0,Yes
+S50682,2025-10-30,Class 9,Biology,Live Class,Delhi,71.6,13.7,63.9,Yes
+S50683,2025-10-30,Class 9,Maths,Live Class,Delhi,57.6,14.3,42.1,No
+S50684,2025-10-31,Class 9,Biology,Live Class,Pune,64.5,4.5,49.4,No
+S50685,2025-10-31,Class 12,Chemistry,Live Class,Delhi,100.0,2.5,76.0,Yes
+S50686,2025-10-31,Class 12,Physics,Live Class,Hyderabad,74.4,7.7,48.8,Yes
+S50687,2025-10-31,Class 11,Biology,Recorded,Delhi,90.8,15.0,70.3,No
+S50688,2025-10-31,Class 10,Biology,Live Class,Bengaluru,60.4,7.5,37.4,No
+S50689,2025-10-31,Class 12,Biology,Recorded,Hyderabad,76.5,7.1,59.4,Yes
+S50690,2025-11-01,Class 9,Physics,Live Class,Kolkata,85.5,10.8,69.2,Yes
+S50691,2025-11-01,Class 12,Maths,Live Class,Pune,75.7,7.0,41.9,No
+S50692,2025-11-02,Class 12,Maths,Live Class,Hyderabad,70.9,9.2,55.5,Yes
+S50693,2025-11-02,Class 12,Chemistry,1:1 Tutoring,Bengaluru,75.5,12.1,76.0,No
+S50694,2025-11-02,Class 11,Maths,Live Class,Pune,78.5,11.9,64.1,Yes
+S50695,2025-11-02,Class 9,Biology,Live Class,Delhi,89.7,4.8,81.1,Yes
+S50696,2025-11-02,Class 9,Maths,Live Class,Delhi,94.8,15.1,84.3,Yes
+S50697,2025-11-02,Class 9,Biology,Recorded,Lucknow,59.7,15.6,71.3,No
+S50698,2025-11-02,Class 12,Chemistry,Live Class,Chennai,49.4,9.1,41.6,No
+S50699,2025-11-03,Class 9,Biology,Live Class,Hyderabad,75.4,11.3,57.3,Yes
+S50700,2025-11-03,Class 12,Maths,Recorded,Lucknow,78.1,4.0,65.3,Yes
+S50701,2025-11-03,Class 10,Biology,Recorded,Kolkata,88.0,13.4,77.1,No
+S50702,2025-11-03,Class 12,Biology,Live Class,Mumbai,92.9,7.7,66.6,Yes
+S50703,2025-11-04,Class 11,Physics,Live Class,Kolkata,68.8,8.5,58.9,No
+S50704,2025-11-04,Class 9,Biology,1:1 Tutoring,Mumbai,100.0,3.5,69.4,Yes
+S50705,2025-11-04,Class 10,Maths,Live Class,Pune,81.6,3.8,59.6,Yes
+S50706,2025-11-04,Class 11,Chemistry,Live Class,Kolkata,53.5,3.0,54.2,Yes
+S50707,2025-11-04,Class 11,Biology,Recorded,Delhi,91.4,4.4,81.4,Yes
+S50708,2025-11-04,Class 9,Biology,1:1 Tutoring,Mumbai,81.9,4.2,75.2,Yes
+S50709,2025-11-06,Class 12,Chemistry,Live Class,Pune,82.0,12.2,76.9,No
+S50710,2025-11-06,Class 11,Chemistry,Live Class,Lucknow,55.9,9.1,56.2,No
+S50711,2025-11-06,Class 9,Physics,Recorded,Bengaluru,73.8,3.2,64.6,Yes
+S50712,2025-11-07,Class 9,Chemistry,Recorded,Hyderabad,80.3,8.4,74.7,Yes
+S50713,2025-11-07,Class 11,Maths,Live Class,Chennai,75.9,7.5,55.6,Yes
+S50714,2025-11-07,Class 9,Biology,Live Class,Chennai,87.6,5.7,76.4,Yes
+S50715,2025-11-07,Class 9,Physics,Recorded,Chennai,95.5,3.4,75.3,Yes
+S50716,2025-11-08,Class 10,Biology,Live Class,Bengaluru,99.3,5.2,81.7,Yes
+S50717,2025-11-08,Class 9,Physics,Live Class,Mumbai,95.5,22.9,85.6,No
+S50718,2025-11-09,Class 10,Physics,Live Class,Lucknow,76.0,5.9,56.7,No
+S50719,2025-11-09,Class 11,Biology,Recorded,Chennai,100.0,6.7,70.1,Yes
+S50720,2025-11-09,Class 9,Physics,Live Class,Mumbai,81.7,4.5,64.7,Yes
+S50721,2025-11-09,Class 11,Biology,Live Class,Delhi,89.9,7.7,47.7,No
+S50722,2025-11-09,Class 11,Maths,Recorded,Bengaluru,74.7,15.6,60.6,Yes
+S50723,2025-11-09,Class 10,Maths,Recorded,Chennai,58.6,9.7,51.7,Yes
+S50724,2025-11-09,Class 9,Biology,Live Class,Delhi,46.5,7.1,45.2,Yes
+S50725,2025-11-09,Class 10,Maths,Recorded,Hyderabad,80.6,8.3,57.3,Yes
+S50726,2025-11-09,Class 10,Biology,Recorded,Pune,68.6,21.1,58.9,Yes
+S50727,2025-11-10,Class 12,Maths,Live Class,Hyderabad,78.0,6.7,61.4,Yes
+S50728,2025-11-10,Class 9,Biology,Recorded,Chennai,90.5,16.0,69.6,Yes
+S50729,2025-11-10,Class 10,Chemistry,Recorded,Delhi,56.8,5.8,65.4,Yes
+S50730,2025-11-10,Class 11,Chemistry,Recorded,Bengaluru,53.5,15.1,57.8,Yes
+S50731,2025-11-10,Class 9,Physics,1:1 Tutoring,Chennai,81.7,4.4,69.5,Yes
+S50732,2025-11-10,Class 11,Biology,Live Class,Kolkata,83.1,5.5,72.7,Yes
+S50733,2025-11-11,Class 9,Chemistry,Live Class,Hyderabad,74.3,2.5,58.9,Yes
+S50734,2025-11-11,Class 10,Biology,Live Class,Bengaluru,70.7,14.5,65.0,Yes
+S50735,2025-11-11,Class 9,Maths,Recorded,Mumbai,55.9,1.0,60.8,No
+S50736,2025-11-12,Class 9,Chemistry,Live Class,Lucknow,76.9,9.9,73.8,Yes
+S50737,2025-11-12,Class 12,Maths,Live Class,Delhi,67.7,8.0,58.2,Yes
+S50738,2025-11-12,Class 12,Physics,Live Class,Kolkata,84.1,15.1,60.1,Yes
+S50739,2025-11-12,Class 9,Chemistry,Recorded,Kolkata,91.2,2.4,61.9,No
+S50740,2025-11-13,Class 12,Maths,Recorded,Chennai,70.3,19.0,72.7,No
+S50741,2025-11-13,Class 12,Physics,Live Class,Bengaluru,83.8,12.6,55.7,No
+S50742,2025-11-13,Class 11,Physics,Live Class,Chennai,80.6,11.0,64.9,No
+S50743,2025-11-13,Class 9,Chemistry,Live Class,Mumbai,87.8,8.5,69.0,Yes
+S50744,2025-11-13,Class 11,Biology,Live Class,Hyderabad,99.4,15.0,65.3,Yes
+S50745,2025-11-14,Class 10,Physics,Recorded,Bengaluru,87.2,10.5,80.9,Yes
+S50746,2025-11-14,Class 10,Biology,Live Class,Bengaluru,87.9,3.4,64.2,Yes
+S50747,2025-11-14,Class 11,Biology,Recorded,Lucknow,89.1,12.9,59.2,Yes
+S50748,2025-11-14,Class 9,Physics,Live Class,Bengaluru,72.1,9.0,53.9,Yes
+S50749,2025-11-14,Class 10,Physics,Live Class,Hyderabad,78.0,8.1,68.5,Yes
+S50750,2025-11-15,Class 12,Maths,Live Class,Delhi,82.8,10.4,80.3,Yes
+S50751,2025-11-15,Class 10,Chemistry,Recorded,Bengaluru,95.3,4.4,72.9,Yes
+S50752,2025-11-15,Class 11,Chemistry,Recorded,Mumbai,96.1,8.3,74.7,Yes
+S50753,2025-11-15,Class 9,Maths,Live Class,Kolkata,100.0,10.8,74.6,Yes
+S50754,2025-11-16,Class 11,Maths,Live Class,Lucknow,62.8,12.8,74.9,No
+S50755,2025-11-16,Class 10,Chemistry,Live Class,Delhi,77.5,10.0,77.0,Yes
+S50756,2025-11-16,Class 11,Chemistry,Recorded,Bengaluru,54.0,13.7,43.4,No
+S50757,2025-11-17,Class 9,Chemistry,Live Class,Kolkata,70.6,23.7,71.1,No
+S50758,2025-11-17,Class 9,Physics,Recorded,Pune,55.2,,56.0,Yes
+S50759,2025-11-17,Class 9,Maths,Recorded,Chennai,94.3,13.4,73.7,Yes
+S50760,2025-11-18,Class 9,Maths,Live Class,Pune,88.6,11.0,75.3,Yes
+S50761,2025-11-18,Class 12,Physics,1:1 Tutoring,Kolkata,63.1,17.3,75.5,No
+S50762,2025-11-18,Class 11,Biology,Recorded,Hyderabad,82.7,2.6,55.8,Yes
+S50763,2025-11-18,Class 10,Biology,1:1 Tutoring,Chennai,88.3,23.6,96.1,Yes
+S50764,2025-11-18,Class 9,Maths,1:1 Tutoring,Chennai,100.0,14.0,85.7,No
+S50765,2025-11-18,Class 10,Maths,Live Class,Kolkata,89.6,7.0,78.8,Yes
+S50766,2025-11-18,Class 9,Biology,Recorded,Lucknow,79.8,4.3,65.9,Yes
+S50767,2025-11-18,Class 11,Physics,Live Class,Chennai,76.8,3.7,61.0,Yes
+S50768,2025-11-18,Class 11,Chemistry,Recorded,Kolkata,86.8,15.0,84.8,Yes
+S50769,2025-11-19,Class 12,Biology,1:1 Tutoring,Hyderabad,82.3,5.2,74.4,Yes
+S50770,2025-11-19,Class 12,Biology,Live Class,Lucknow,71.4,,80.8,Yes
+S50771,2025-11-19,Class 10,Physics,Recorded,Pune,61.1,2.2,59.1,No
+S50772,2025-11-19,Class 10,Physics,Recorded,Bengaluru,92.7,16.5,95.7,Yes
+S50773,2025-11-19,Class 10,Maths,Live Class,Mumbai,68.0,17.5,59.2,No
+S50774,2025-11-19,Class 12,Maths,Live Class,Pune,74.3,,63.3,No
+S50775,2025-11-19,Class 11,Chemistry,Live Class,Pune,89.2,9.1,63.9,Yes
+S50776,2025-11-20,Class 10,Physics,Live Class,Delhi,77.3,17.5,60.8,No
+S50777,2025-11-20,Class 12,Chemistry,Recorded,Chennai,93.8,10.5,75.2,Yes
+S50778,2025-11-20,Class 11,Maths,Live Class,Chennai,62.4,9.4,45.8,No
+S50779,2025-11-20,Class 11,Chemistry,Recorded,Mumbai,88.7,7.9,68.8,Yes
+S50780,2025-11-21,Class 11,Biology,Recorded,Pune,59.5,13.0,70.9,No
+S50781,2025-11-21,Class 9,Chemistry,Live Class,Hyderabad,57.1,6.3,59.2,No
+S50782,2025-11-22,Class 11,Biology,Recorded,Hyderabad,63.5,5.0,51.9,Yes
+S50783,2025-11-22,Class 9,Chemistry,Live Class,Hyderabad,79.7,3.4,60.7,Yes
+S50784,2025-11-22,Class 9,Biology,Recorded,Pune,68.6,13.5,70.2,No
+S50785,2025-11-23,Class 12,Physics,Live Class,Delhi,58.8,6.0,68.7,No
+S50786,2025-11-23,Class 9,Chemistry,Live Class,Delhi,94.8,4.9,68.3,Yes
+S50787,2025-11-23,Class 11,Chemistry,Live Class,Mumbai,64.6,26.2,70.8,Yes
+S50788,2025-11-24,Class 9,Biology,Recorded,Chennai,76.5,10.2,69.8,No
+S50789,2025-11-24,Class 12,Chemistry,Recorded,Mumbai,81.6,9.1,65.5,Yes
+S50790,2025-11-24,Class 9,Chemistry,Live Class,Bengaluru,71.4,2.7,61.8,No
+S50791,2025-11-24,Class 12,Maths,Live Class,Chennai,83.1,6.3,68.5,No
+S50792,2025-11-24,Class 12,Physics,Live Class,Bengaluru,86.7,7.9,80.2,No
+S50793,2025-11-25,Class 10,Physics,1:1 Tutoring,Pune,76.6,25.6,75.6,No
+S50794,2025-11-25,Class 12,Maths,1:1 Tutoring,Delhi,92.5,6.3,77.0,Yes
+S50795,2025-11-25,Class 9,Physics,1:1 Tutoring,Delhi,69.8,7.3,69.7,Yes
+S50796,2025-11-25,Class 12,Chemistry,Recorded,Bengaluru,63.3,7.9,51.8,Yes
+S50797,2025-11-25,Class 12,Biology,Live Class,Delhi,80.9,3.1,60.3,Yes
+S50798,2025-11-26,Class 9,Biology,Live Class,Pune,64.6,5.0,56.8,No
+S50799,2025-11-26,Class 11,Physics,Recorded,Mumbai,83.3,5.1,52.8,Yes
+S50800,2025-11-26,Class 11,Biology,Live Class,Delhi,76.6,7.8,59.8,No
+S50801,2025-11-27,Class 11,Maths,Live Class,Kolkata,71.5,15.6,56.6,No
+S50802,2025-11-27,Class 9,Maths,Recorded,Mumbai,86.1,8.8,64.5,Yes
+S50803,2025-11-27,Class 11,Maths,Live Class,Delhi,85.5,26.2,73.2,Yes
+S50804,2025-11-27,Class 9,Physics,Live Class,Lucknow,36.8,13.0,45.0,Yes
+S50805,2025-11-27,Class 10,Biology,Recorded,Delhi,73.6,7.4,68.6,Yes
+S50806,2025-11-27,Class 10,Maths,Recorded,Chennai,80.0,2.7,73.3,No
+S50807,2025-11-27,Class 10,Physics,Recorded,Pune,84.8,4.1,72.7,Yes
+S50808,2025-11-27,Class 12,Biology,Recorded,Pune,70.4,32.1,68.9,Yes
+S50809,2025-11-27,Class 11,Biology,Recorded,Mumbai,62.0,2.0,56.8,Yes
+S50810,2025-11-28,Class 10,Maths,Live Class,Hyderabad,79.8,7.4,54.2,No
+S50811,2025-11-28,Class 10,Physics,Recorded,Hyderabad,87.5,10.7,75.6,Yes
+S50812,2025-11-28,Class 11,Physics,Live Class,Delhi,49.3,5.1,56.5,No
+S50813,2025-11-28,Class 11,Physics,Live Class,Chennai,57.1,9.6,53.3,Yes
+S50814,2025-11-28,Class 12,Biology,Live Class,Mumbai,69.8,9.6,62.4,Yes
+S50815,2025-11-29,Class 12,Maths,Live Class,Lucknow,41.9,,56.4,Yes
+S50816,2025-11-29,Class 12,Chemistry,Recorded,Delhi,69.7,1.6,63.5,No
+S50817,2025-11-29,Class 12,Physics,Live Class,Pune,89.5,8.4,65.3,Yes
+S50818,2025-11-29,Class 11,Chemistry,Live Class,Kolkata,63.2,29.0,64.3,Yes
+S50819,2025-11-29,Class 10,Maths,Recorded,Pune,79.9,10.6,52.5,No
+S50820,2025-11-30,Class 10,Chemistry,1:1 Tutoring,Lucknow,65.6,10.2,63.5,Yes
+S50821,2025-12-01,Class 10,Maths,Recorded,Kolkata,83.9,7.0,absent,Yes
+S50822,2025-12-01,Class 10,Maths,1:1 Tutoring,Chennai,87.1,12.7,77.6,Yes
+S50823,2025-12-01,Class 12,Physics,Recorded,Kolkata,96.2,4.8,75.8,Yes
+S50824,2025-12-02,Class 11,Biology,1:1 Tutoring,Chennai,79.0,15.3,63.4,No
+S50825,2025-12-02,Class 10,Biology,Recorded,Bengaluru,92.7,5.8,63.4,Yes
+S50826,2025-12-02,Class 12,Maths,Recorded,Lucknow,83.6,8.5,64.5,Yes
+S50827,2025-12-03,Class 12,Chemistry,Recorded,Kolkata,71.4,7.5,47.5,No
+S50828,2025-12-03,Class 9,Physics,Live Class,Delhi,98.6,10.2,73.5,Yes
+S50829,2025-12-03,Class 9,Biology,Live Class,Delhi,69.6,5.2,54.9,Yes
+S50830,2025-12-03,Class 10,Biology,Recorded,Delhi,80.4,4.1,66.4,Yes
+S50831,2025-12-03,Class 10,Physics,Live Class,Delhi,100.0,7.7,80.1,Yes
+S50832,2025-12-04,Class 9,Physics,1:1 Tutoring,Mumbai,90.1,1.2,78.0,Yes
+S50833,2025-12-04,Class 11,Physics,Live Class,Mumbai,66.5,8.2,57.3,No
+S50834,2025-12-04,Class 11,Maths,Live Class,Lucknow,82.1,16.3,73.5,No
+S50835,2025-12-04,Class 12,Maths,Live Class,Kolkata,70.3,7.9,62.9,Yes
+S50836,2025-12-04,Class 11,Biology,Live Class,Kolkata,76.0,6.2,71.7,No
+S50837,2025-12-04,Class 12,Chemistry,Recorded,Lucknow,57.0,5.7,37.9,Yes
+S50838,2025-12-05,Class 10,Physics,Live Class,Mumbai,81.0,5.9,62.5,Yes
+S50839,2025-12-05,Class 9,Chemistry,Recorded,Delhi,56.3,5.7,46.9,Yes
+S50840,2025-12-05,Class 11,Biology,1:1 Tutoring,Pune,83.1,11.5,75.9,Yes
+S50841,2025-12-05,Class 11,Biology,Live Class,Hyderabad,83.2,6.3,74.9,Yes
+S50842,2025-12-05,Class 10,Maths,1:1 Tutoring,Pune,89.8,5.3,76.1,Yes
+S50843,2025-12-05,Class 11,Chemistry,Recorded,Delhi,100.0,3.9,73.2,Yes
+S50844,2025-12-05,Class 9,Maths,Live Class,Kolkata,54.9,6.2,47.1,No
+S50845,2025-12-06,Class 9,Physics,Recorded,Chennai,61.3,7.7,59.7,No
+S50846,2025-12-06,Class 10,Biology,Live Class,Pune,64.0,4.7,58.4,Yes
+S50847,2025-12-07,Class 12,Physics,Live Class,Delhi,70.1,9.4,53.2,No
+S50848,2025-12-07,Class 12,Chemistry,Live Class,Pune,90.3,4.8,73.7,Yes
+S50849,2025-12-07,Class 11,Maths,Live Class,Hyderabad,73.3,13.3,61.6,Yes
+S50850,2025-12-07,Class 10,Chemistry,Live Class,Pune,69.8,5.1,40.9,No
+S50851,2025-12-07,Class 12,Biology,Live Class,Hyderabad,62.2,3.2,52.9,Yes
+S50852,2025-12-08,Class 12,Chemistry,Recorded,Lucknow,69.2,4.7,63.0,No
+S50853,2025-12-08,Class 9,Biology,Live Class,Kolkata,71.8,3.3,62.8,Yes
+S50854,2025-12-09,Class 11,Maths,Recorded,Hyderabad,76.5,8.3,65.2,No
+S50855,2025-12-09,Class 11,Chemistry,1:1 Tutoring,Bengaluru,58.0,1.4,57.1,No
+S50856,2025-12-09,Class 12,Chemistry,1:1 Tutoring,Chennai,76.9,,75.7,Yes
+S50857,2025-12-10,Class 10,Physics,Live Class,Pune,85.9,9.4,73.8,No
+S50858,2025-12-10,Class 10,Chemistry,Recorded,Mumbai,82.8,,51.9,Yes
+S50859,2025-12-10,Class 11,Physics,Recorded,Pune,60.5,13.7,53.8,Yes
+S50860,2025-12-10,Class 11,Physics,1:1 Tutoring,Kolkata,89.4,6.4,75.5,Yes
+S50861,2025-12-10,Class 11,Physics,Live Class,Mumbai,89.2,14.9,73.0,Yes
+S50862,2025-12-10,Class 10,Biology,1:1 Tutoring,Lucknow,82.1,11.6,81.6,No
+S50863,2025-12-11,Class 11,Physics,Recorded,Lucknow,60.8,10.1,66.7,Yes
+S50864,2025-12-11,Class 12,Physics,Live Class,Bengaluru,57.4,1.3,52.5,No
+S50865,2025-12-11,Class 10,Biology,Recorded,Pune,78.5,11.1,63.3,No
+S50866,2025-12-11,Class 9,Physics,Live Class,Mumbai,63.6,10.0,74.1,No
+S50867,2025-12-12,Class 11,Chemistry,Recorded,Delhi,59.3,7.7,48.6,Yes
+S50868,2025-12-12,Class 10,Biology,Recorded,Kolkata,90.4,13.4,72.5,Yes
+S50869,2025-12-12,Class 10,Physics,1:1 Tutoring,Mumbai,90.7,6.5,92.9,Yes
+S50870,2025-12-12,Class 12,Chemistry,Live Class,Delhi,86.9,7.2,73.6,Yes
+S50871,2025-12-12,Class 12,Maths,Live Class,Bengaluru,96.3,4.4,75.8,Yes
+S50872,2025-12-12,Class 9,Biology,Live Class,Delhi,90.6,15.2,74.5,No
+S50873,2025-12-13,Class 10,Chemistry,Live Class,Hyderabad,61.8,5.6,66.3,Yes
+S50874,2025-12-13,Class 11,Physics,Live Class,Chennai,94.0,17.1,100.0,Yes
+S50875,2025-12-13,Class 10,Physics,Recorded,Bengaluru,79.6,5.0,66.3,Yes
+S50876,2025-12-13,Class 12,Biology,Recorded,Kolkata,84.2,4.6,63.4,No
+S50877,2025-12-13,Class 10,Biology,Live Class,Pune,99.9,13.9,88.2,Yes
+S50878,2025-12-14,Class 12,Physics,Live Class,Pune,84.2,6.1,82.8,Yes
+S50879,2025-12-14,Class 10,Biology,Recorded,Lucknow,100.0,2.9,74.7,Yes
+S50880,2025-12-14,Class 12,Maths,Recorded,Kolkata,78.8,26.1,68.8,Yes
+S50881,2025-12-14,Class 12,Chemistry,Recorded,Lucknow,72.6,2.8,62.2,No
+S50882,2025-12-14,Class 10,Chemistry,Recorded,Mumbai,68.1,7.3,53.1,No
+S50883,2025-12-15,Class 10,Biology,Live Class,Delhi,76.1,5.3,70.6,No
+S50884,2025-12-15,Class 9,Physics,Recorded,Lucknow,54.5,8.2,52.5,No
+S50885,2025-12-15,Class 12,Chemistry,Live Class,Hyderabad,77.1,10.2,70.2,No
+S50886,2025-12-15,Class 9,Chemistry,Live Class,Delhi,76.3,6.4,63.7,Yes
+S50887,2025-12-15,Class 11,Maths,Recorded,Kolkata,70.5,9.5,69.4,Yes
+S50888,2025-12-15,Class 10,Biology,Recorded,Hyderabad,46.8,5.5,31.7,Yes
+S50889,2025-12-16,Class 12,Maths,1:1 Tutoring,Kolkata,47.9,10.5,61.6,Yes
+S50890,2025-12-16,Class 11,Biology,Recorded,Pune,87.8,14.8,74.9,Yes
+S50891,2025-12-16,Class 9,Maths,Live Class,Kolkata,64.6,10.1,62.5,No
+S50892,2025-12-17,Class 12,Chemistry,Live Class,Pune,97.2,8.1,60.9,Yes
+S50893,2025-12-17,Class 12,Chemistry,Live Class,Bengaluru,68.0,13.8,75.5,No
+S50894,2025-12-17,Class 11,Physics,Live Class,Bengaluru,83.0,11.6,63.5,Yes
+S50895,2025-12-17,Class 12,Physics,Recorded,Hyderabad,57.8,11.5,61.8,No
+S50896,2025-12-17,Class 11,Chemistry,Live Class,Pune,69.1,8.7,56.7,No
+S50897,2025-12-18,Class 11,Biology,Live Class,Kolkata,74.9,3.2,58.7,Yes
+S50898,2025-12-18,Class 12,Maths,Live Class,Bengaluru,86.1,7.4,64.1,Yes
+S50899,2025-12-19,Class 11,Chemistry,Live Class,Kolkata,100.0,4.6,58.6,Yes
+S50900,2025-12-20,Class 9,Biology,Recorded,Kolkata,91.5,11.7,67.5,Yes
+S50901,2025-12-20,Class 11,Chemistry,Live Class,Lucknow,57.7,3.2,64.1,No
+S50902,2025-12-20,Class 11,Chemistry,Live Class,Pune,78.1,12.5,57.7,Yes
+S50903,2025-12-20,Class 10,Biology,Live Class,Kolkata,75.6,9.8,65.9,No
+S50904,2025-12-20,Class 11,Chemistry,Recorded,Chennai,69.1,4.0,43.1,Yes
+S50905,2025-12-20,Class 11,Maths,Recorded,Kolkata,86.2,1.4,73.9,Yes
+S50906,2025-12-20,Class 9,Physics,Live Class,Hyderabad,100.0,3.9,60.3,Yes
+S50907,2025-12-21,Class 9,Biology,Live Class,Kolkata,71.6,9.0,52.5,Yes
+S50908,2025-12-21,Class 12,Chemistry,1:1 Tutoring,Pune,93.6,11.4,78.5,No
+S50909,2025-12-21,Class 9,Chemistry,1:1 Tutoring,Bengaluru,97.5,2.8,81.2,Yes
+S50910,2025-12-21,Class 9,Biology,Live Class,Mumbai,63.1,13.9,50.2,No
+S50911,2025-12-21,Class 11,Maths,Live Class,Kolkata,100.0,6.4,72.9,Yes
+S50912,2025-12-22,Class 9,Chemistry,Live Class,Mumbai,100.0,7.2,78.9,Yes
+S50913,2025-12-22,Class 10,Physics,Live Class,Kolkata,82.1,5.5,65.3,Yes
+S50914,2025-12-23,Class 12,Maths,Live Class,Lucknow,100.0,5.2,66.4,Yes
+S50915,2025-12-23,Class 12,Physics,Live Class,Chennai,81.5,1.7,66.5,Yes
+S50916,2025-12-23,Class 12,Maths,Live Class,Mumbai,94.1,8.0,81.8,Yes
+S50917,2025-12-23,Class 10,Chemistry,1:1 Tutoring,Hyderabad,87.1,8.0,95.0,Yes
+S50918,2025-12-23,Class 10,Maths,Live Class,Chennai,65.9,2.3,67.2,No
+S50919,2025-12-23,Class 12,Chemistry,Live Class,Chennai,81.7,5.7,50.4,Yes
+S50920,2025-12-23,Class 12,Biology,Recorded,Bengaluru,75.7,6.6,74.3,Yes
+S50921,2025-12-23,Class 12,Chemistry,1:1 Tutoring,Hyderabad,71.1,8.2,76.9,No
+S50922,2025-12-24,Class 11,Chemistry,Live Class,Lucknow,61.9,12.2,62.8,No
+S50923,2025-12-24,Class 12,Physics,Recorded,Bengaluru,67.1,2.7,62.8,No
+S50924,2025-12-24,Class 10,Chemistry,Live Class,Hyderabad,60.7,15.6,71.4,Yes
+S50925,2025-12-24,Class 12,Biology,Recorded,Mumbai,93.9,6.6,69.0,Yes
+S50926,2025-12-24,Class 10,Physics,Live Class,Kolkata,50.6,6.0,40.7,Yes
+S50927,2025-12-24,Class 9,Chemistry,Live Class,Lucknow,79.1,8.3,63.3,Yes
+S50928,2025-12-25,Class 11,Chemistry,1:1 Tutoring,Delhi,69.4,11.0,74.7,Yes
+S50929,2025-12-25,Class 9,Chemistry,Recorded,Kolkata,60.5,8.7,52.6,No
+S50930,2025-12-25,Class 9,Physics,Recorded,Kolkata,88.2,9.0,64.5,No
+S50931,2025-12-25,Class 9,Biology,Recorded,Pune,66.8,4.7,46.9,Yes
+S50932,2025-12-25,Class 10,Biology,1:1 Tutoring,Lucknow,94.9,10.1,84.5,Yes
+S50933,2025-12-25,Class 10,Biology,Live Class,Bengaluru,75.5,3.5,51.8,Yes
+S50934,2025-12-25,Class 9,Biology,Live Class,Hyderabad,82.7,17.2,70.8,No
+S50935,2025-12-25,Class 9,Biology,Recorded,Chennai,76.2,16.4,62.9,Yes
+S50936,2025-12-25,Class 9,Physics,Live Class,Lucknow,87.1,12.6,83.2,No
+S50937,2025-12-25,Class 9,Biology,1:1 Tutoring,Kolkata,91.2,5.1,84.0,Yes
+S50938,2025-12-25,Class 12,Biology,Recorded,Chennai,71.7,14.8,86.3,No
+S50939,2025-12-26,Class 9,Maths,Recorded,Mumbai,77.9,3.8,56.3,Yes
+S50940,2025-12-26,Class 10,Chemistry,1:1 Tutoring,Delhi,100.0,8.5,72.6,Yes
+S50941,2025-12-26,Class 12,Chemistry,Recorded,Chennai,70.0,9.3,64.5,Yes
+S50942,2025-12-26,Class 10,Biology,1:1 Tutoring,Lucknow,100.0,10.4,70.3,Yes
+S50943,2025-12-26,Class 10,Biology,Live Class,Pune,72.5,7.2,57.7,Yes
+S50944,2025-12-27,Class 11,Physics,1:1 Tutoring,Mumbai,70.2,11.7,absent,Yes
+S50945,2025-12-27,Class 11,Physics,Recorded,Bengaluru,54.4,19.1,61.5,No
+S50946,2025-12-28,Class 9,Physics,Recorded,Kolkata,66.1,6.2,66.0,Yes
+S50947,2025-12-28,Class 10,Biology,Live Class,Mumbai,53.6,14.2,51.3,No
+S50948,2025-12-28,Class 10,Maths,Live Class,Lucknow,70.0,4.8,55.4,Yes
+S50949,2025-12-28,Class 11,Chemistry,Recorded,Kolkata,87.7,5.9,66.9,Yes
+S50950,2025-12-28,Class 10,Chemistry,Recorded,Hyderabad,77.1,4.6,69.9,No
+S50951,2025-12-28,Class 12,Chemistry,1:1 Tutoring,Delhi,69.6,10.9,78.7,Yes
+S50952,2025-12-29,Class 10,Biology,Live Class,Bengaluru,63.6,7.8,69.0,Yes
+S50953,2025-12-29,Class 10,Chemistry,1:1 Tutoring,Pune,68.4,16.6,72.8,No
+S50954,2025-12-29,Class 10,Physics,Live Class,Chennai,57.6,4.6,47.5,Yes
+S50955,2025-12-29,Class 11,Chemistry,Live Class,Bengaluru,60.2,8.2,53.5,Yes
+S50956,2025-12-29,Class 10,Physics,Live Class,Kolkata,100.0,5.4,73.4,Yes
+S50957,2025-12-29,Class 9,Biology,Live Class,Pune,81.4,5.5,51.6,Yes
+S50958,2025-12-30,Class 10,Maths,Recorded,Bengaluru,65.2,11.6,53.3,Yes
+S50959,2025-12-30,Class 10,Biology,Live Class,Chennai,87.4,20.7,61.7,Yes
+S50960,2025-12-30,Class 10,Maths,Recorded,Hyderabad,99.0,6.8,76.3,Yes
+S50961,2025-12-31,Class 9,Maths,1:1 Tutoring,Hyderabad,69.1,17.7,74.8,No
+S50962,2025-12-31,Class 12,Physics,1:1 Tutoring,Chennai,76.5,5.3,60.7,Yes
+S50963,2026-01-01,Class 10,Physics,Live Class,Delhi,60.4,4.0,63.1,No
+S50964,2026-01-01,Class 11,Biology,Live Class,Chennai,55.7,6.9,55.1,No
+S50965,2026-01-02,Class 10,Chemistry,Live Class,Kolkata,97.3,8.3,72.8,Yes
+S50966,2026-01-02,Class 11,Chemistry,Live Class,Kolkata,100.0,17.7,86.6,Yes
+S50967,2026-01-02,Class 11,Physics,Recorded,Pune,67.6,4.5,61.2,Yes
+S50968,2026-01-02,Class 10,Physics,Live Class,Kolkata,55.2,5.1,43.8,Yes
+S50969,2026-01-02,Class 10,Maths,Live Class,Hyderabad,97.9,8.8,68.6,Yes
+S50970,2026-01-03,Class 11,Physics,Live Class,Hyderabad,92.8,6.1,58.1,No
+S50971,2026-01-03,Class 10,Physics,Live Class,Chennai,84.7,10.4,74.8,Yes
+S50972,2026-01-03,Class 10,Chemistry,1:1 Tutoring,Kolkata,98.6,10.0,80.5,Yes
+S50973,2026-01-03,Class 12,Chemistry,Recorded,Lucknow,73.3,6.7,70.0,No
+S50974,2026-01-04,Class 9,Biology,Live Class,Mumbai,81.9,8.2,60.7,Yes
+S50975,2026-01-04,Class 9,Physics,1:1 Tutoring,Kolkata,89.1,13.4,68.9,Yes
+S50976,2026-01-05,Class 10,Biology,Live Class,Mumbai,73.6,3.6,70.1,Yes
+S50977,2026-01-05,Class 9,Biology,Live Class,Chennai,84.7,13.0,78.3,Yes
+S50978,2026-01-05,Class 11,Chemistry,Live Class,Pune,74.7,14.0,54.4,No
+S50979,2026-01-05,Class 9,Biology,Recorded,Lucknow,84.4,2.1,73.6,Yes
+S50980,2026-01-05,Class 9,Maths,1:1 Tutoring,Bengaluru,80.2,2.4,62.4,Yes
+S50981,2026-01-05,Class 12,Chemistry,Live Class,Lucknow,50.3,3.8,63.2,Yes
+S50982,2026-01-05,Class 11,Maths,Recorded,Chennai,79.2,2.3,66.5,No
+S50983,2026-01-06,Class 11,Biology,1:1 Tutoring,Bengaluru,58.0,2.7,absent,Yes
+S50984,2026-01-06,Class 9,Physics,Live Class,Delhi,66.0,5.7,56.2,Yes
+S50985,2026-01-06,Class 11,Physics,1:1 Tutoring,Pune,54.7,3.5,56.4,No
+S50986,2026-01-06,Class 9,Biology,Live Class,Chennai,89.4,16.1,49.3,No
+S50987,2026-01-06,Class 12,Maths,Recorded,Kolkata,73.4,3.6,66.2,Yes
+S50988,2026-01-06,Class 9,Chemistry,Recorded,Hyderabad,72.6,7.2,59.4,No
+S50989,2026-01-06,Class 9,Chemistry,Live Class,Delhi,95.4,7.4,79.0,Yes
+S50990,2026-01-06,Class 12,Physics,Recorded,Hyderabad,87.9,14.2,48.5,Yes
+S50991,2026-01-07,Class 12,Chemistry,Live Class,Pune,75.0,11.5,72.0,Yes
+S50992,2026-01-07,Class 9,Biology,Recorded,Kolkata,48.8,4.1,49.8,Yes
+S50993,2026-01-07,Class 9,Maths,Live Class,Mumbai,87.2,10.1,60.6,Yes
+S50994,2026-01-07,Class 12,Maths,Recorded,Pune,74.2,5.7,79.1,Yes
+S50995,2026-01-07,Class 11,Chemistry,Recorded,Bengaluru,72.8,6.4,68.9,Yes
+S50996,2026-01-07,Class 11,Chemistry,1:1 Tutoring,Kolkata,88.2,11.7,69.6,No
+S50997,2026-01-07,Class 11,Physics,Recorded,Chennai,69.1,1.9,50.3,Yes
+S50998,2026-01-08,Class 11,Biology,1:1 Tutoring,Mumbai,76.8,7.0,75.0,Yes
+S50999,2026-01-08,Class 12,Maths,Live Class,Pune,90.4,12.8,89.1,Yes
+S51000,2026-01-08,Class 9,Chemistry,Live Class,Lucknow,86.0,2.9,70.1,Yes
+S51001,2026-01-08,Class 9,Biology,Recorded,Bengaluru,69.4,10.1,58.7,No
+S51002,2026-01-08,Class 9,Maths,Live Class,Lucknow,98.3,16.2,94.8,Yes
+S51003,2026-01-08,Class 10,Biology,1:1 Tutoring,Mumbai,94.0,16.7,78.3,Yes
+S51004,2026-01-10,Class 9,Physics,Live Class,Hyderabad,100.0,10.9,88.2,Yes
+S51005,2026-01-10,Class 9,Chemistry,Live Class,Mumbai,77.2,11.5,72.7,Yes
+S51006,2026-01-10,Class 10,Maths,Live Class,Pune,81.0,7.9,65.3,Yes
+S51007,2026-01-11,Class 10,Chemistry,Recorded,Hyderabad,92.7,14.4,70.3,Yes
+S51008,2026-01-11,Class 12,Maths,Recorded,Delhi,84.1,17.1,68.3,Yes
+S51009,2026-01-12,Class 12,Physics,Live Class,Bengaluru,79.9,24.1,75.4,No
+S51010,2026-01-12,Class 10,Physics,Recorded,Chennai,76.6,20.1,83.8,No
+S51011,2026-01-13,Class 12,Physics,Live Class,Delhi,73.8,19.9,69.8,Yes
+S51012,2026-01-13,Class 12,Maths,Recorded,Pune,68.9,10.3,54.7,Yes
+S51013,2026-01-13,Class 11,Physics,Recorded,Lucknow,69.0,2.4,69.4,No
+S51014,2026-01-14,Class 11,Physics,Recorded,Kolkata,83.7,7.0,76.1,No
+S51015,2026-01-14,Class 12,Physics,Live Class,Pune,73.7,9.9,65.1,No
+S51016,2026-01-14,Class 9,Biology,Recorded,Pune,58.3,5.0,65.3,No
+S51017,2026-01-15,Class 12,Maths,Recorded,Chennai,78.8,5.8,65.8,Yes
+S51018,2026-01-15,Class 9,Chemistry,Recorded,Chennai,100.0,2.1,87.4,Yes
+S51019,2026-01-15,Class 10,Physics,Live Class,Lucknow,97.1,4.3,70.6,No
+S51020,2026-01-16,Class 12,Biology,Live Class,Mumbai,49.9,4.1,43.7,No
+S51021,2026-01-17,Class 12,Maths,Recorded,Hyderabad,66.2,31.3,70.0,Yes
+S51022,2026-01-17,Class 9,Maths,Recorded,Pune,88.9,3.1,68.2,Yes
+S51023,2026-01-17,Class 10,Chemistry,Recorded,Hyderabad,79.1,8.0,66.9,Yes
+S51024,2026-01-17,Class 12,Chemistry,Live Class,Hyderabad,79.0,14.3,64.4,No
+S51025,2026-01-18,Class 9,Physics,Recorded,Pune,76.2,10.7,61.4,No
+S51026,2026-01-18,Class 10,Maths,Recorded,Kolkata,78.9,4.5,52.0,Yes
+S51027,2026-01-18,Class 11,Chemistry,Recorded,Delhi,63.8,5.2,52.3,No
+S51028,2026-01-18,Class 9,Biology,Recorded,Pune,94.6,5.5,85.3,Yes
+S51029,2026-01-18,Class 11,Chemistry,Live Class,Hyderabad,63.5,14.3,60.7,Yes
+S51030,2026-01-18,Class 10,Biology,Live Class,Lucknow,76.1,3.3,52.8,No
+S51031,2026-01-19,Class 11,Chemistry,Live Class,Lucknow,99.5,6.7,68.1,Yes
+S51032,2026-01-19,Class 12,Maths,Recorded,Lucknow,93.2,14.4,69.0,Yes
+S51033,2026-01-19,Class 11,Physics,1:1 Tutoring,Hyderabad,78.0,3.8,67.5,No
+S51034,2026-01-20,Class 12,Physics,Live Class,Bengaluru,78.0,7.0,57.0,Yes
+S51035,2026-01-20,Class 9,Maths,Recorded,Bengaluru,69.7,10.7,73.0,Yes
+S51036,2026-01-20,Class 12,Maths,Recorded,Pune,71.1,3.3,51.7,No
+S51037,2026-01-20,Class 11,Biology,1:1 Tutoring,Delhi,74.8,6.6,66.4,Yes
+S51038,2026-01-20,Class 12,Biology,Live Class,Mumbai,96.8,5.0,84.4,Yes
+S51039,2026-01-21,Class 12,Physics,Recorded,Pune,72.0,5.0,60.2,Yes
+S51040,2026-01-21,Class 11,Physics,1:1 Tutoring,Pune,86.0,5.3,83.9,Yes
+S51041,2026-01-21,Class 11,Physics,1:1 Tutoring,Lucknow,84.1,4.2,69.7,No
+S51042,2026-01-21,Class 11,Chemistry,Live Class,Bengaluru,83.8,21.4,82.5,No
+S51043,2026-01-22,Class 12,Maths,Live Class,Mumbai,74.2,3.1,79.3,No
+S51044,2026-01-22,Class 9,Physics,Recorded,Lucknow,88.4,6.9,60.9,Yes
+S51045,2026-01-22,Class 11,Chemistry,1:1 Tutoring,Pune,80.4,2.9,73.6,Yes
+S51046,2026-01-22,Class 12,Chemistry,Live Class,Pune,79.5,5.8,54.7,Yes
+S51047,2026-01-22,Class 12,Chemistry,1:1 Tutoring,Lucknow,71.6,3.3,64.9,Yes
+S51048,2026-01-22,Class 10,Physics,Live Class,Chennai,48.2,7.7,45.5,Yes
+S51049,2026-01-23,Class 9,Biology,Live Class,Pune,88.4,14.5,74.6,Yes
+S51050,2026-01-24,Class 10,Physics,Live Class,Mumbai,88.8,2.8,56.2,Yes
+S51051,2026-01-24,Class 12,Chemistry,Live Class,Bengaluru,71.2,7.7,43.1,No
+S51052,2026-01-24,Class 10,Physics,Live Class,Hyderabad,75.8,23.0,78.0,No
+S51053,2026-01-24,Class 10,Biology,Live Class,Bengaluru,82.3,3.9,65.3,Yes
+S51054,2026-01-24,Class 9,Maths,Live Class,Kolkata,64.7,12.2,72.8,Yes
+S51055,2026-01-25,Class 12,Maths,1:1 Tutoring,Pune,88.2,11.1,79.1,Yes
+S51056,2026-01-25,Class 10,Chemistry,Recorded,Pune,88.2,6.1,69.2,Yes
+S51057,2026-01-26,Class 10,Physics,Live Class,Kolkata,90.2,6.6,62.0,Yes
+S51058,2026-01-26,Class 9,Physics,Live Class,Mumbai,91.2,10.0,59.9,Yes
+S51059,2026-01-26,Class 11,Chemistry,Recorded,Kolkata,51.9,12.5,57.0,No
+S51060,2026-01-26,Class 10,Chemistry,Recorded,Pune,85.6,1.2,54.0,Yes
+S51061,2026-01-27,Class 12,Physics,Live Class,Bengaluru,72.2,16.0,79.2,Yes
+S51062,2026-01-27,Class 12,Physics,Live Class,Kolkata,93.8,5.9,83.3,Yes
+S51063,2026-01-27,Class 11,Maths,Recorded,Hyderabad,93.1,9.0,77.0,Yes
+S51064,2026-01-27,Class 9,Biology,Live Class,Lucknow,89.7,5.3,79.3,No
+S51065,2026-01-27,Class 11,Biology,Recorded,Kolkata,77.2,9.4,64.6,Yes
+S51066,2026-01-28,Class 12,Maths,Live Class,Pune,100.0,15.1,74.3,Yes
+S51067,2026-01-28,Class 12,Physics,Live Class,Mumbai,77.7,7.0,85.4,Yes
+S51068,2026-01-28,Class 10,Maths,Live Class,Hyderabad,63.9,20.5,63.9,Yes
+S51069,2026-01-28,Class 9,Physics,Recorded,Hyderabad,91.9,0.9,78.1,Yes
+S51070,2026-01-28,Class 9,Physics,Recorded,Bengaluru,58.3,17.4,54.6,Yes
+S51071,2026-01-29,Class 9,Physics,1:1 Tutoring,Hyderabad,100.0,14.3,88.1,No
+S51072,2026-01-29,Class 11,Physics,1:1 Tutoring,Pune,92.6,5.2,83.3,No
+S51073,2026-01-29,Class 11,Chemistry,Recorded,Hyderabad,96.9,4.1,56.3,No
+S51074,2026-01-29,Class 10,Maths,Live Class,Pune,93.0,7.1,57.8,Yes
+S51075,2026-01-29,Class 12,Physics,Live Class,Delhi,84.1,3.8,58.9,No
+S51076,2026-01-29,Class 9,Maths,1:1 Tutoring,Chennai,60.2,6.2,58.6,No
+S51077,2026-01-30,Class 11,Biology,1:1 Tutoring,Lucknow,70.2,4.0,65.4,Yes
+S51078,2026-01-31,Class 12,Chemistry,Live Class,Lucknow,86.4,7.3,61.5,No
+S51079,2026-01-31,Class 10,Biology,Live Class,Lucknow,75.8,10.7,58.9,No
+S51080,2026-01-31,Class 11,Maths,Live Class,Mumbai,83.7,9.3,59.0,Yes
+S51081,2026-01-31,Class 9,Biology,Live Class,Hyderabad,69.1,11.9,54.1,No
+S51082,2026-01-31,Class 10,Chemistry,Recorded,Kolkata,67.7,9.0,64.0,Yes
+S51083,2026-01-31,Class 10,Maths,Live Class,Mumbai,82.7,9.3,63.1,Yes
+S51084,2026-01-31,Class 11,Chemistry,Recorded,Delhi,88.9,5.2,58.4,Yes
+S51085,2026-01-31,Class 10,Biology,Recorded,Pune,78.7,5.8,53.4,Yes
+S51086,2026-01-31,Class 12,Physics,Live Class,Lucknow,65.0,19.7,58.9,Yes
+S51087,2026-02-01,Class 10,Maths,Live Class,Pune,55.5,6.3,39.4,Yes
+S51088,2026-02-01,Class 9,Physics,1:1 Tutoring,Chennai,100.0,6.3,81.4,Yes
+S51089,2026-02-02,Class 11,Chemistry,Recorded,Chennai,62.7,14.5,65.4,No
+S51090,2026-02-02,Class 9,Maths,Live Class,Kolkata,66.4,13.5,51.1,Yes
+S51091,2026-02-02,Class 10,Maths,Recorded,Delhi,68.4,13.7,59.1,Yes
+S51092,2026-02-02,Class 12,Chemistry,Recorded,Delhi,90.9,21.1,75.2,Yes
+S51093,2026-02-02,Class 12,Chemistry,Recorded,Mumbai,68.0,8.2,67.5,Yes
+S51094,2026-02-02,Class 12,Chemistry,1:1 Tutoring,Kolkata,86.1,8.0,67.8,Yes
+S51095,2026-02-02,Class 10,Chemistry,Recorded,Chennai,82.6,9.6,64.8,Yes
+S51096,2026-02-03,Class 11,Physics,Recorded,Mumbai,62.6,24.6,58.7,No
+S51097,2026-02-03,Class 9,Biology,Recorded,Hyderabad,80.6,11.7,59.6,Yes
+S51098,2026-02-03,Class 12,Chemistry,Live Class,Mumbai,61.4,7.0,50.8,Yes
+S51099,2026-02-03,Class 10,Physics,Recorded,Mumbai,76.2,5.6,91.6,Yes
+S51100,2026-02-04,Class 9,Physics,Live Class,Kolkata,88.7,4.7,77.6,Yes
+S51101,2026-02-04,Class 12,Physics,Live Class,Pune,75.1,14.5,70.5,Yes
+S51102,2026-02-04,Class 10,Biology,Live Class,Hyderabad,65.7,14.3,65.5,Yes
+S51103,2026-02-04,Class 9,Biology,Recorded,Pune,72.5,9.0,49.4,Yes
+S51104,2026-02-05,Class 11,Physics,Recorded,Chennai,75.7,1.5,51.2,Yes
+S51105,2026-02-05,Class 10,Chemistry,Live Class,Delhi,82.9,6.6,72.9,No
+S51106,2026-02-06,Class 11,Maths,Recorded,Hyderabad,46.4,11.9,53.1,No
+S51107,2026-02-06,Class 12,Physics,Live Class,Delhi,52.6,9.9,64.3,Yes
+S51108,2026-02-06,Class 10,Physics,Live Class,Hyderabad,85.0,5.1,66.4,Yes
+S51109,2026-02-06,Class 10,Chemistry,1:1 Tutoring,Bengaluru,76.5,6.9,74.4,Yes
+S51110,2026-02-07,Class 9,Biology,Recorded,Lucknow,78.3,5.9,64.8,Yes
+S51111,2026-02-07,Class 12,Chemistry,Live Class,Bengaluru,81.1,12.5,73.7,Yes
+S51112,2026-02-07,Class 10,Maths,1:1 Tutoring,Delhi,75.8,9.4,74.0,Yes
+S51113,2026-02-07,Class 9,Biology,Recorded,Delhi,71.8,13.6,75.2,Yes
+S51114,2026-02-08,Class 10,Physics,1:1 Tutoring,Pune,79.5,5.7,65.6,No
+S51115,2026-02-08,Class 12,Chemistry,Live Class,Kolkata,87.2,4.0,64.6,Yes
+S51116,2026-02-08,Class 9,Chemistry,1:1 Tutoring,Mumbai,82.7,5.9,65.7,No
+S51117,2026-02-08,Class 9,Biology,Recorded,Delhi,78.2,16.7,70.1,Yes
+S51118,2026-02-08,Class 12,Maths,Recorded,Chennai,63.5,12.4,65.1,Yes
+S51119,2026-02-09,Class 9,Chemistry,Live Class,Bengaluru,81.2,2.1,63.5,Yes
+S51120,2026-02-09,Class 9,Chemistry,1:1 Tutoring,Delhi,61.9,5.0,44.6,Yes
+S51121,2026-02-09,Class 11,Biology,Recorded,Lucknow,68.6,10.8,56.1,Yes
+S51122,2026-02-09,Class 9,Physics,Recorded,Lucknow,80.0,17.8,66.9,Yes
+S51123,2026-02-09,Class 12,Biology,Live Class,Mumbai,79.5,4.6,60.6,Yes
+S51124,2026-02-09,Class 12,Maths,Live Class,Mumbai,93.1,24.7,76.0,Yes
+S51125,2026-02-10,Class 12,Maths,Live Class,Mumbai,90.1,,67.2,No
+S51126,2026-02-10,Class 11,Maths,Live Class,Kolkata,84.7,13.1,79.1,No
+S51127,2026-02-10,Class 12,Biology,Live Class,Bengaluru,73.4,0.9,63.8,Yes
+S51128,2026-02-11,Class 9,Physics,Recorded,Kolkata,77.7,2.6,74.1,Yes
+S51129,2026-02-11,Class 12,Chemistry,Recorded,Hyderabad,74.6,22.9,57.8,No
+S51130,2026-02-12,Class 12,Physics,1:1 Tutoring,Hyderabad,100.0,11.6,73.6,Yes
+S51131,2026-02-12,Class 12,Physics,Live Class,Kolkata,84.3,33.4,71.7,Yes
+S51132,2026-02-13,Class 11,Physics,Live Class,Delhi,68.9,9.9,70.9,Yes
+S51133,2026-02-13,Class 11,Maths,Live Class,Pune,66.2,5.2,64.2,No
+S51134,2026-02-14,Class 9,Maths,Recorded,Hyderabad,95.1,6.7,66.6,No
+S51135,2026-02-14,Class 9,Physics,Live Class,Chennai,65.9,5.4,53.1,Yes
+S51136,2026-02-14,Class 11,Maths,Live Class,Delhi,83.0,8.2,69.7,No
+S51137,2026-02-14,Class 12,Chemistry,Live Class,Chennai,80.4,4.4,75.5,Yes
+S51138,2026-02-14,Class 11,Maths,Recorded,Bengaluru,92.7,22.7,94.1,No
+S51139,2026-02-14,Class 10,Maths,1:1 Tutoring,Bengaluru,65.9,16.3,64.7,No
+S51140,2026-02-14,Class 11,Maths,Live Class,Bengaluru,84.4,9.5,76.6,No
+S51141,2026-02-15,Class 10,Biology,Live Class,Delhi,80.8,1.5,60.6,Yes
+S51142,2026-02-15,Class 9,Biology,Recorded,Bengaluru,89.0,12.6,86.8,Yes
+S51143,2026-02-15,Class 11,Biology,1:1 Tutoring,Hyderabad,96.8,13.9,100.0,No
+S51144,2026-02-15,Class 12,Chemistry,Live Class,Bengaluru,79.4,6.0,69.3,Yes
+S51145,2026-02-16,Class 9,Physics,Live Class,Pune,74.9,8.9,69.5,No
+S51146,2026-02-16,Class 10,Chemistry,Recorded,Delhi,90.2,8.6,47.9,No
+S51147,2026-02-17,Class 9,Biology,Recorded,Lucknow,58.5,9.5,62.1,Yes
+S51148,2026-02-17,Class 10,Chemistry,Live Class,Hyderabad,80.6,,52.1,No
+S51149,2026-02-18,Class 10,Chemistry,1:1 Tutoring,Lucknow,64.5,8.5,59.9,Yes
+S51150,2026-02-18,Class 9,Physics,Recorded,Hyderabad,61.3,4.2,62.9,No
+S51151,2026-02-18,Class 11,Maths,Recorded,Lucknow,56.2,8.6,41.3,No
+S51152,2026-02-18,Class 12,Chemistry,Recorded,Pune,55.2,3.8,73.2,Yes
+S51153,2026-02-18,Class 11,Chemistry,Live Class,Chennai,89.5,15.0,69.5,Yes
+S51154,2026-02-18,Class 12,Maths,1:1 Tutoring,Lucknow,90.1,7.0,82.8,No
+S51155,2026-02-18,Class 12,Biology,1:1 Tutoring,Kolkata,79.5,9.3,67.5,Yes
+S51156,2026-02-19,Class 12,Maths,Live Class,Hyderabad,92.4,17.5,83.3,Yes
+S51157,2026-02-19,Class 12,Chemistry,Recorded,Bengaluru,78.5,6.9,59.3,Yes
+S51158,2026-02-19,Class 9,Chemistry,Recorded,Pune,71.3,6.5,60.5,No
+S51159,2026-02-19,Class 12,Physics,Live Class,Chennai,63.2,11.5,39.6,No
+S51160,2026-02-20,Class 9,Biology,Recorded,Delhi,88.7,11.5,80.4,Yes
+S51161,2026-02-20,Class 11,Biology,Live Class,Bengaluru,89.4,4.6,74.1,Yes
+S51162,2026-02-20,Class 12,Physics,Live Class,Bengaluru,95.6,18.9,76.3,Yes
+S51163,2026-02-20,Class 11,Maths,Live Class,Pune,67.1,3.9,54.8,No
+S51164,2026-02-21,Class 11,Maths,Recorded,Kolkata,74.2,6.2,52.4,No
+S51165,2026-02-21,Class 11,Maths,Recorded,Chennai,59.5,5.7,48.6,No
+S51166,2026-02-21,Class 10,Physics,Live Class,Bengaluru,94.0,7.7,74.0,Yes
+S51167,2026-02-21,Class 9,Physics,Live Class,Kolkata,88.0,18.3,78.3,Yes
+S51168,2026-02-21,Class 11,Maths,Live Class,Kolkata,85.3,16.5,79.8,Yes
+S51169,2026-02-21,Class 9,Physics,Live Class,Kolkata,78.0,2.0,71.6,Yes
+S51170,2026-02-22,Class 11,Maths,Recorded,Lucknow,76.2,6.4,72.0,Yes
+S51171,2026-02-22,Class 12,Maths,Recorded,Chennai,73.2,10.6,67.9,Yes
+S51172,2026-02-22,Class 9,Biology,1:1 Tutoring,Delhi,93.3,8.4,81.1,No
+S51173,2026-02-22,Class 9,Maths,1:1 Tutoring,Delhi,69.5,,63.4,Yes
+S51174,2026-02-23,Class 12,Biology,Live Class,Pune,90.5,3.1,78.7,Yes
+S51175,2026-02-23,Class 12,Maths,Recorded,Lucknow,82.2,5.8,59.0,Yes
+S51176,2026-02-23,Class 11,Maths,Recorded,Bengaluru,64.3,4.2,49.4,No
+S51177,2026-02-23,Class 10,Maths,Recorded,Pune,58.2,6.1,57.9,No
+S51178,2026-02-23,Class 12,Biology,Live Class,Kolkata,67.4,12.5,50.1,Yes
+S51179,2026-02-23,Class 9,Maths,Live Class,Pune,77.7,6.6,61.1,Yes
+S51180,2026-02-23,Class 10,Biology,Recorded,Mumbai,60.4,5.6,42.0,No
+S51181,2026-02-23,Class 11,Physics,Recorded,Lucknow,86.9,4.4,59.1,Yes
+S51182,2026-02-24,Class 9,Physics,Live Class,Kolkata,94.0,2.4,100.0,No
+S51183,2026-02-24,Class 10,Chemistry,Live Class,Pune,85.8,4.4,51.6,Yes
+S51184,2026-02-24,Class 11,Biology,Recorded,Pune,54.9,16.4,68.4,Yes
+S51185,2026-02-24,Class 9,Chemistry,Recorded,Chennai,45.8,2.2,41.6,No
+S51186,2026-02-24,Class 9,Maths,Live Class,Chennai,90.3,,68.3,Yes
+S51187,2026-02-25,Class 10,Maths,Recorded,Mumbai,98.9,,57.0,Yes
+S51188,2026-02-25,Class 12,Biology,Live Class,Bengaluru,72.7,13.4,71.2,Yes
+S51189,2026-02-25,Class 10,Maths,Live Class,Delhi,85.5,7.1,64.3,Yes
+S51190,2026-02-25,Class 11,Biology,Live Class,Delhi,74.5,14.8,67.5,Yes
+S51191,2026-02-25,Class 10,Maths,Live Class,Bengaluru,69.4,4.8,73.8,Yes
+S51192,2026-02-25,Class 10,Maths,Recorded,Kolkata,92.0,5.0,57.2,Yes
+S51193,2026-02-26,Class 11,Maths,Live Class,Chennai,70.6,3.9,40.0,No
+S51194,2026-02-26,Class 12,Maths,Live Class,Kolkata,90.1,14.3,75.3,No
+S51195,2026-02-26,Class 9,Biology,Recorded,Lucknow,100.0,16.3,92.0,Yes
+S51196,2026-02-26,Class 9,Maths,Recorded,Hyderabad,76.6,2.0,62.1,Yes
+S51197,2026-02-26,Class 10,Biology,Recorded,Hyderabad,100.0,8.9,87.9,Yes
+S51198,2026-02-26,Class 10,Biology,Live Class,Delhi,60.1,6.0,65.8,Yes
+S51199,2026-02-27,Class 11,Physics,Recorded,Lucknow,91.0,3.7,71.3,Yes
+S51200,2026-02-27,Class 11,Chemistry,1:1 Tutoring,Chennai,78.4,20.0,71.6,Yes
+S51201,2026-02-27,Class 12,Maths,Live Class,Mumbai,100.0,8.0,76.2,Yes
+S51202,2026-02-28,Class 12,Maths,1:1 Tutoring,Chennai,78.9,10.8,83.3,Yes
+S51203,2026-02-28,Class 9,Chemistry,Recorded,Lucknow,67.3,8.8,65.2,No
+S51204,2026-02-28,Class 9,Biology,Recorded,Bengaluru,100.0,18.3,81.0,Yes
+S51205,2026-02-28,Class 9,Physics,Live Class,Hyderabad,57.0,14.7,63.1,No
+S51206,2026-03-01,Class 12,Chemistry,Live Class,Mumbai,84.4,10.4,69.3,No
+S51207,2026-03-01,Class 9,Chemistry,Recorded,Hyderabad,67.7,2.4,64.5,Yes
+S51208,2026-03-01,Class 11,Physics,1:1 Tutoring,Kolkata,97.5,3.9,75.4,Yes
+S51209,2026-03-03,Class 9,Biology,Live Class,Bengaluru,76.8,5.2,77.5,No
+S51210,2026-03-03,Class 9,Physics,Recorded,Kolkata,90.2,3.9,71.7,Yes
+S51211,2026-03-03,Class 9,Biology,Recorded,Bengaluru,77.7,7.6,66.5,Yes
+S51212,2026-03-03,Class 12,Biology,1:1 Tutoring,Bengaluru,62.9,4.8,46.6,Yes
+S51213,2026-03-03,Class 9,Physics,Live Class,Chennai,48.3,7.4,32.2,Yes
+S51214,2026-03-04,Class 12,Chemistry,Live Class,Kolkata,100.0,11.9,75.8,Yes
+S51215,2026-03-04,Class 9,Physics,Live Class,Delhi,81.5,5.5,61.2,Yes
+S51216,2026-03-04,Class 9,Biology,Live Class,Lucknow,62.2,5.2,73.6,No
+S51217,2026-03-04,Class 9,Maths,1:1 Tutoring,Bengaluru,73.9,8.7,63.1,No
+S51218,2026-03-05,Class 10,Chemistry,Live Class,Bengaluru,92.0,9.2,63.5,Yes
+S51219,2026-03-05,Class 10,Biology,Live Class,Delhi,57.5,5.6,61.6,Yes
+S51220,2026-03-06,Class 11,Physics,Recorded,Hyderabad,100.0,4.6,54.8,Yes
+S51221,2026-03-06,Class 11,Physics,Recorded,Lucknow,74.8,8.2,64.5,Yes
+S51222,2026-03-06,Class 11,Chemistry,1:1 Tutoring,Mumbai,73.1,6.2,56.1,Yes
+S51223,2026-03-07,Class 10,Physics,Live Class,Pune,96.1,5.6,46.8,No
+S51224,2026-03-07,Class 10,Maths,Live Class,Pune,81.1,7.7,50.0,Yes
+S51225,2026-03-07,Class 9,Maths,Live Class,Mumbai,64.3,6.6,56.5,Yes
+S51226,2026-03-07,Class 10,Biology,Live Class,Hyderabad,91.0,13.4,73.8,Yes
+S51227,2026-03-07,Class 9,Maths,Recorded,Hyderabad,84.5,2.0,61.8,No
+S51228,2026-03-07,Class 10,Physics,Live Class,Pune,93.9,20.9,71.4,Yes
+S51229,2026-03-07,Class 10,Biology,Recorded,Hyderabad,65.3,3.3,56.6,No
+S51230,2026-03-07,Class 11,Maths,Live Class,Pune,62.5,14.5,64.1,Yes
+S51231,2026-03-07,Class 9,Physics,1:1 Tutoring,Chennai,86.9,20.4,82.6,Yes
+S51232,2026-03-08,Class 11,Maths,Recorded,Delhi,72.1,0.6,72.1,Yes
+S51233,2026-03-08,Class 10,Chemistry,Live Class,Lucknow,48.1,4.6,57.8,Yes
+S51234,2026-03-08,Class 10,Chemistry,Recorded,Bengaluru,70.0,2.1,49.2,No
+S51235,2026-03-08,Class 12,Biology,Live Class,Delhi,86.9,6.1,61.6,Yes
+S51236,2026-03-09,Class 10,Maths,Recorded,Pune,68.0,14.7,55.7,Yes
+S51237,2026-03-09,Class 11,Chemistry,Recorded,Bengaluru,95.9,15.5,78.4,Yes
+S51238,2026-03-09,Class 9,Biology,1:1 Tutoring,Kolkata,71.1,4.3,74.5,No
+S51239,2026-03-09,Class 9,Chemistry,Live Class,Mumbai,76.7,10.2,79.4,No
+S51240,2026-03-09,Class 11,Biology,1:1 Tutoring,Bengaluru,55.4,12.0,64.3,Yes
+S51241,2026-03-09,Class 9,Physics,Live Class,Lucknow,66.9,18.3,60.3,Yes
+S51242,2026-03-09,Class 12,Chemistry,Live Class,Delhi,75.4,5.4,52.3,Yes
+S51243,2026-03-09,Class 9,Biology,Live Class,Mumbai,86.1,6.8,52.9,Yes
+S51244,2026-03-10,Class 11,Maths,1:1 Tutoring,Pune,80.6,12.8,90.1,Yes
+S51245,2026-03-10,Class 10,Chemistry,Live Class,Mumbai,92.9,8.1,68.3,Yes
+S51246,2026-03-10,Class 12,Maths,Live Class,Lucknow,47.6,5.7,45.0,No
+S51247,2026-03-10,Class 10,Chemistry,Live Class,Pune,78.4,5.3,79.6,Yes
+S51248,2026-03-10,Class 12,Biology,Live Class,Delhi,76.0,7.0,57.5,Yes
+S51249,2026-03-10,Class 11,Maths,1:1 Tutoring,Lucknow,63.4,9.7,64.3,Yes
+S51250,2026-03-11,Class 9,Biology,Recorded,Mumbai,77.4,19.4,75.1,Yes
+S51251,2026-03-11,Class 9,Biology,Recorded,Delhi,67.6,2.3,40.1,Yes
+S51252,2026-03-11,Class 10,Biology,Live Class,Lucknow,84.0,16.2,60.3,Yes
+S51253,2026-03-11,Class 10,Biology,Live Class,Mumbai,73.2,7.4,91.3,Yes
+S51254,2026-03-11,Class 12,Chemistry,Live Class,Mumbai,85.1,7.1,70.7,No
+S51255,2026-03-12,Class 11,Chemistry,Live Class,Pune,65.3,20.3,48.9,Yes
+S51256,2026-03-12,Class 12,Chemistry,Recorded,Chennai,95.7,9.7,68.6,No
+S51257,2026-03-12,Class 11,Maths,1:1 Tutoring,Lucknow,83.6,13.5,75.7,No
+S51258,2026-03-12,Class 9,Chemistry,Live Class,Hyderabad,100.0,6.8,79.4,Yes
+S51259,2026-03-12,Class 11,Chemistry,1:1 Tutoring,Kolkata,76.1,7.4,68.8,No
+S51260,2026-03-13,Class 11,Maths,Recorded,Bengaluru,71.0,11.5,53.3,No
+S51261,2026-03-14,Class 12,Biology,Live Class,Mumbai,79.9,4.8,63.8,No
+S51262,2026-03-14,Class 10,Biology,Live Class,Lucknow,71.5,1.4,67.9,Yes
+S51263,2026-03-15,Class 9,Biology,Live Class,Chennai,63.5,8.9,53.5,Yes
+S51264,2026-03-15,Class 10,Biology,1:1 Tutoring,Chennai,78.2,2.8,57.5,Yes
+S51265,2026-03-15,Class 9,Maths,Live Class,Chennai,77.1,5.6,53.2,Yes
+S51266,2026-03-15,Class 10,Physics,Live Class,Kolkata,68.9,6.9,39.5,Yes
+S51267,2026-03-16,Class 11,Biology,Recorded,Delhi,72.6,5.0,71.8,No
+S51268,2026-03-16,Class 11,Biology,Live Class,Mumbai,64.4,8.3,61.9,No
+S51269,2026-03-17,Class 11,Maths,1:1 Tutoring,Hyderabad,80.0,,73.6,Yes
+S51270,2026-03-17,Class 9,Chemistry,Recorded,Pune,59.2,3.4,55.2,Yes
+S51271,2026-03-17,Class 12,Maths,1:1 Tutoring,Bengaluru,100.0,16.3,97.0,No
+S51272,2026-03-17,Class 10,Biology,Recorded,Hyderabad,78.4,6.2,60.6,Yes
+S51273,2026-03-17,Class 12,Physics,Recorded,Kolkata,91.2,9.9,60.1,Yes
+S51274,2026-03-17,Class 9,Chemistry,Live Class,Hyderabad,61.2,4.3,64.9,No
+S51275,2026-03-17,Class 11,Maths,Live Class,Kolkata,82.8,17.6,52.3,Yes
+S51276,2026-03-17,Class 11,Maths,Recorded,Bengaluru,76.1,4.9,59.0,Yes
+S51277,2026-03-18,Class 12,Chemistry,Live Class,Kolkata,91.8,8.4,81.8,Yes
+S51278,2026-03-18,Class 12,Biology,Live Class,Delhi,90.2,12.9,87.1,Yes
+S51279,2026-03-18,Class 11,Maths,1:1 Tutoring,Lucknow,55.0,6.5,59.0,No
+S51280,2026-03-18,Class 9,Chemistry,Live Class,Lucknow,94.1,4.8,69.5,Yes
+S51281,2026-03-18,Class 9,Physics,Recorded,Mumbai,57.1,7.3,54.0,Yes
+S51282,2026-03-18,Class 11,Biology,Live Class,Bengaluru,96.8,6.5,70.1,Yes
+S51283,2026-03-18,Class 11,Chemistry,Recorded,Chennai,77.3,13.5,66.9,Yes
+S51284,2026-03-18,Class 10,Maths,Recorded,Bengaluru,61.2,26.4,80.9,Yes
+S51285,2026-03-19,Class 10,Maths,Live Class,Delhi,87.9,4.5,71.7,No
+S51286,2026-03-19,Class 9,Biology,Recorded,Kolkata,78.5,4.7,78.5,Yes
+S51287,2026-03-19,Class 10,Maths,Live Class,Bengaluru,64.1,12.5,66.5,No
+S51288,2026-03-19,Class 10,Maths,Recorded,Bengaluru,67.6,8.4,57.2,Yes
+S51289,2026-03-19,Class 9,Maths,Live Class,Lucknow,84.7,7.5,65.3,Yes
+S51290,2026-03-20,Class 9,Maths,Recorded,Bengaluru,58.8,13.8,79.3,Yes
+S51291,2026-03-20,Class 9,Chemistry,Live Class,Bengaluru,65.9,7.2,53.5,No
+S51292,2026-03-20,Class 11,Maths,Recorded,Bengaluru,100.0,13.6,87.5,Yes
+S51293,2026-03-21,Class 12,Maths,1:1 Tutoring,Pune,67.2,18.4,63.8,Yes
+S51294,2026-03-21,Class 11,Chemistry,Recorded,Bengaluru,83.2,13.3,75.4,No
+S51295,2026-03-21,Class 11,Maths,Recorded,Lucknow,84.3,12.9,67.6,Yes
+S51296,2026-03-21,Class 10,Maths,1:1 Tutoring,Pune,91.5,23.9,82.7,Yes
+S51297,2026-03-21,Class 12,Maths,Live Class,Hyderabad,90.4,8.4,63.1,Yes
+S51298,2026-03-22,Class 12,Biology,Live Class,Delhi,42.5,9.7,43.3,No
+S51299,2026-03-22,Class 10,Chemistry,1:1 Tutoring,Delhi,71.2,14.2,73.0,Yes
+S51300,2026-03-22,Class 9,Chemistry,Recorded,Lucknow,94.6,3.1,81.8,Yes
+S51301,2026-03-22,Class 10,Physics,Recorded,Bengaluru,66.9,10.4,64.9,No
+S51302,2026-03-23,Class 12,Maths,Recorded,Pune,100.0,5.5,65.4,Yes
+S51303,2026-03-23,Class 9,Maths,Live Class,Delhi,81.5,7.2,70.0,No
+S51304,2026-03-23,Class 10,Maths,Recorded,Hyderabad,60.9,9.2,35.4,No
+S51305,2026-03-23,Class 11,Physics,Live Class,Mumbai,86.0,5.5,66.3,No
+S51306,2026-03-23,Class 10,Maths,Recorded,Lucknow,100.0,12.9,98.0,Yes
+S51307,2026-03-23,Class 12,Biology,Live Class,Pune,68.6,5.2,37.4,Yes
+S51308,2026-03-24,Class 10,Physics,Live Class,Bengaluru,85.9,4.4,63.4,Yes
+S51309,2026-03-24,Class 12,Chemistry,Live Class,Hyderabad,65.6,8.3,68.4,No
+S51310,2026-03-24,Class 9,Chemistry,Live Class,Mumbai,69.8,2.8,75.0,Yes
+S51311,2026-03-24,Class 12,Chemistry,Live Class,Bengaluru,79.6,7.1,76.4,No
+S51312,2026-03-24,Class 10,Physics,1:1 Tutoring,Kolkata,85.3,12.3,72.8,No
+S51313,2026-03-24,Class 10,Chemistry,1:1 Tutoring,Delhi,83.0,5.2,86.4,No
+S51314,2026-03-25,Class 10,Biology,Live Class,Hyderabad,81.0,6.2,79.5,Yes
+S51315,2026-03-26,Class 11,Physics,Live Class,Chennai,100.0,18.1,78.0,Yes
+S51316,2026-03-26,Class 10,Physics,Recorded,Lucknow,62.8,23.0,67.9,Yes
+S51317,2026-03-26,Class 9,Biology,Live Class,Chennai,51.8,6.6,44.3,No
+S51318,2026-03-26,Class 12,Biology,Live Class,Pune,85.9,10.6,67.4,Yes
+S51319,2026-03-27,Class 11,Biology,1:1 Tutoring,Hyderabad,80.7,9.2,85.4,No
+S51320,2026-03-27,Class 12,Physics,Live Class,Hyderabad,57.8,7.1,44.9,Yes
+S51321,2026-03-27,Class 9,Biology,1:1 Tutoring,Delhi,100.0,8.8,92.2,Yes
+S51322,2026-03-27,Class 12,Maths,Recorded,Kolkata,68.2,3.9,61.3,No
+S51323,2026-03-28,Class 11,Maths,Recorded,Bengaluru,58.2,24.1,69.2,Yes
+S51324,2026-03-28,Class 12,Biology,Recorded,Mumbai,84.0,9.7,63.4,Yes
+S51325,2026-03-28,Class 11,Biology,Recorded,Delhi,87.1,,72.7,Yes
+S51326,2026-03-28,Class 9,Biology,Live Class,Delhi,100.0,,77.0,Yes
+S51327,2026-03-28,Class 10,Chemistry,Recorded,Kolkata,56.4,9.5,54.5,No
+S51328,2026-03-29,Class 10,Maths,Live Class,Lucknow,60.1,10.7,44.2,No
+S51329,2026-03-29,Class 10,Chemistry,Recorded,Hyderabad,74.2,4.2,61.3,Yes
+S51330,2026-03-30,Class 10,Chemistry,Live Class,Pune,71.9,9.9,60.0,No
+S51331,2026-03-30,Class 11,Physics,Live Class,Bengaluru,77.0,6.9,71.7,No
+S51332,2026-03-31,Class 9,Chemistry,1:1 Tutoring,Delhi,68.1,4.7,65.7,No
+S51333,2026-03-31,Class 10,Chemistry,Recorded,Kolkata,56.1,4.7,52.4,No
+S51334,2026-03-31,Class 12,Physics,Live Class,Bengaluru,71.8,14.6,61.4,No
+S51335,2026-03-31,Class 10,Biology,Recorded,Pune,88.1,8.6,64.4,Yes
+S51336,2026-03-31,Class 9,Chemistry,Live Class,Bengaluru,89.2,12.8,66.3,Yes
+S51337,2026-03-31,Class 9,Maths,Recorded,Kolkata,68.8,15.1,71.4,Yes
+S51338,2026-03-31,Class 12,Physics,Recorded,Bengaluru,85.7,12.6,58.0,No
+S51339,2026-03-31,Class 10,Maths,Live Class,Pune,83.9,20.8,62.0,Yes
+S51340,2026-03-31,Class 10,Maths,Recorded,Kolkata,71.1,11.8,66.4,No
+S51341,2026-03-31,Class 12,Maths,Live Class,Delhi,73.1,5.1,73.8,Yes
+S51342,2026-04-01,Class 9,Maths,Live Class,Bengaluru,78.7,2.4,64.8,Yes
+S51343,2026-04-01,Class 12,Maths,1:1 Tutoring,Kolkata,100.0,5.5,77.6,Yes
+S51344,2026-04-01,Class 9,Biology,Live Class,Kolkata,80.4,5.2,83.3,Yes
+S51345,2026-04-02,Class 10,Maths,Live Class,Chennai,65.5,8.5,62.4,Yes
+S51346,2026-04-02,Class 10,Physics,1:1 Tutoring,Lucknow,75.8,4.5,62.6,No
+S51347,2026-04-02,Class 12,Chemistry,Recorded,Bengaluru,70.2,9.6,63.8,Yes
+S51348,2026-04-02,Class 11,Chemistry,Live Class,Lucknow,94.2,4.6,79.1,Yes
+S51349,2026-04-02,Class 12,Maths,Recorded,Chennai,47.6,4.9,45.8,No
+S51350,2026-04-03,Class 12,Maths,Live Class,Lucknow,62.6,14.6,69.0,Yes
+S51351,2026-04-03,Class 9,Physics,Recorded,Bengaluru,89.8,4.3,64.7,No
+S51352,2026-04-03,Class 11,Biology,Recorded,Delhi,84.0,7.7,68.5,Yes
+S51353,2026-04-03,Class 10,Chemistry,Recorded,Bengaluru,78.5,6.3,66.7,No
+S51354,2026-04-03,Class 12,Maths,Recorded,Hyderabad,88.3,11.1,48.9,Yes
+S51355,2026-04-03,Class 11,Maths,Live Class,Kolkata,59.3,17.2,72.9,Yes
+S51356,2026-04-04,Class 11,Chemistry,Recorded,Kolkata,83.3,11.2,74.2,Yes
+S51357,2026-04-05,Class 10,Physics,Live Class,Kolkata,62.0,5.2,59.6,No
+S51358,2026-04-05,Class 11,Chemistry,Recorded,Delhi,60.0,8.9,58.6,No
+S51359,2026-04-05,Class 12,Chemistry,Live Class,Hyderabad,85.2,14.6,69.5,Yes
+S51360,2026-04-06,Class 9,Physics,Live Class,Lucknow,66.9,7.9,71.5,No
+S51361,2026-04-06,Class 10,Biology,Live Class,Chennai,73.1,12.3,64.8,No
+S51362,2026-04-06,Class 12,Maths,Recorded,Delhi,87.0,11.0,78.0,Yes
+S51363,2026-04-06,Class 11,Physics,Recorded,Mumbai,63.4,5.7,41.0,No
+S51364,2026-04-06,Class 11,Chemistry,Live Class,Chennai,86.8,18.6,92.5,No
+S51365,2026-04-06,Class 11,Physics,1:1 Tutoring,Mumbai,100.0,8.6,82.5,Yes
+S51366,2026-04-06,Class 10,Maths,Live Class,Hyderabad,75.3,3.8,63.2,Yes
+S51367,2026-04-06,Class 9,Biology,Live Class,Mumbai,91.7,4.4,59.1,No
+S51368,2026-04-07,Class 10,Maths,Recorded,Chennai,89.1,12.7,64.0,Yes
+S51369,2026-04-07,Class 12,Physics,Live Class,Bengaluru,60.3,,58.3,No
+S51370,2026-04-07,Class 9,Maths,Live Class,Bengaluru,58.8,5.0,24.1,Yes
+S51371,2026-04-07,Class 10,Chemistry,Live Class,Kolkata,78.2,13.1,78.6,Yes
+S51372,2026-04-08,Class 9,Maths,Live Class,Mumbai,48.0,13.3,47.0,No
+S51373,2026-04-08,Class 9,Biology,Live Class,Pune,78.8,10.4,58.6,No
+S51374,2026-04-08,Class 11,Maths,Live Class,Kolkata,81.9,8.6,66.3,Yes
+S51375,2026-04-08,Class 9,Chemistry,Live Class,Kolkata,84.8,5.0,82.3,Yes
+S51376,2026-04-08,Class 12,Biology,Live Class,Kolkata,84.6,5.4,67.3,Yes
+S51377,2026-04-08,Class 10,Biology,Recorded,Hyderabad,97.1,11.7,84.6,Yes
+S51378,2026-04-08,Class 11,Biology,Live Class,Bengaluru,73.5,3.2,47.6,No
+S51379,2026-04-09,Class 11,Biology,Recorded,Pune,97.4,10.9,68.9,Yes
+S51380,2026-04-09,Class 12,Maths,Live Class,Pune,85.8,6.6,74.5,Yes
+S51381,2026-04-09,Class 10,Physics,Live Class,Mumbai,85.7,16.2,61.8,Yes
+S51382,2026-04-09,Class 10,Maths,Live Class,Hyderabad,76.1,5.3,37.6,No
+S51383,2026-04-10,Class 12,Physics,Live Class,Lucknow,91.8,14.4,67.5,Yes
+S51384,2026-04-10,Class 11,Biology,Live Class,Hyderabad,67.6,15.3,60.1,Yes
+S51385,2026-04-11,Class 10,Biology,Recorded,Hyderabad,88.6,6.9,65.8,No
+S51386,2026-04-11,Class 9,Biology,Live Class,Bengaluru,94.1,7.7,77.3,No
+S51387,2026-04-11,Class 12,Chemistry,Live Class,Delhi,68.8,11.5,67.5,No
+S51388,2026-04-11,Class 9,Biology,Live Class,Hyderabad,64.8,6.9,53.2,No
+S51389,2026-04-11,Class 9,Chemistry,Recorded,Lucknow,67.6,8.6,64.5,Yes
+S51390,2026-04-11,Class 12,Maths,Live Class,Delhi,77.7,10.1,63.8,No
+S51391,2026-04-12,Class 10,Biology,Live Class,Pune,83.5,11.8,69.6,Yes
+S51392,2026-04-12,Class 9,Maths,Recorded,Delhi,90.7,21.5,69.0,Yes
+S51393,2026-04-12,Class 9,Physics,Live Class,Kolkata,100.0,22.1,88.1,Yes
+S51394,2026-04-12,Class 10,Maths,1:1 Tutoring,Mumbai,100.0,8.0,76.7,No
+S51395,2026-04-13,Class 10,Biology,Live Class,Delhi,82.2,15.2,81.2,No
+S51396,2026-04-13,Class 10,Chemistry,Live Class,Bengaluru,72.8,5.8,47.5,No
+S51397,2026-04-13,Class 10,Maths,Live Class,Chennai,61.2,,67.7,No
+S51398,2026-04-13,Class 11,Maths,Recorded,Chennai,90.0,10.7,60.4,No
+S51399,2026-04-13,Class 10,Maths,Recorded,Mumbai,85.7,7.2,70.8,Yes
+S51400,2026-04-14,Class 10,Biology,Live Class,Lucknow,74.4,5.5,50.8,No
+S51401,2026-04-15,Class 12,Physics,Recorded,Mumbai,76.0,,52.8,Yes
+S51402,2026-04-15,Class 11,Biology,Recorded,Mumbai,76.7,10.3,71.2,No
+S51403,2026-04-15,Class 11,Maths,Live Class,Chennai,41.8,7.4,32.6,No
+S51404,2026-04-15,Class 10,Chemistry,Recorded,Mumbai,77.5,8.2,72.2,Yes
+S51405,2026-04-16,Class 11,Biology,Recorded,Lucknow,83.0,14.4,89.1,Yes
+S51406,2026-04-16,Class 11,Maths,Live Class,Mumbai,76.6,12.8,72.7,No
+S51407,2026-04-16,Class 10,Chemistry,Live Class,Lucknow,63.3,8.5,43.8,No
+S51408,2026-04-16,Class 10,Biology,Live Class,Pune,79.0,1.9,66.6,Yes
+S51409,2026-04-16,Class 12,Physics,Live Class,Mumbai,85.1,3.3,63.6,Yes
+S51410,2026-04-17,Class 10,Chemistry,Recorded,Kolkata,100.0,12.7,78.4,No
+S51411,2026-04-17,Class 11,Physics,Live Class,Lucknow,93.3,6.3,69.8,Yes
+S51412,2026-04-17,Class 9,Biology,Live Class,Delhi,86.7,11.9,80.1,No
+S51413,2026-04-17,Class 11,Physics,Recorded,Chennai,77.6,12.1,81.9,No
+S51414,2026-04-18,Class 9,Physics,Live Class,Bengaluru,59.4,16.7,64.1,No
+S51415,2026-04-18,Class 12,Chemistry,Live Class,Delhi,71.7,6.8,73.6,No
+S51416,2026-04-18,Class 10,Biology,Live Class,Bengaluru,58.9,5.8,50.1,Yes
+S51417,2026-04-18,Class 11,Biology,Recorded,Lucknow,76.9,,86.0,Yes
+S51418,2026-04-18,Class 11,Biology,Recorded,Kolkata,93.4,11.7,64.9,No
+S51419,2026-04-18,Class 10,Physics,1:1 Tutoring,Delhi,93.2,8.4,67.7,Yes
+S51420,2026-04-19,Class 9,Biology,Live Class,Bengaluru,91.2,6.5,66.1,Yes
+S51421,2026-04-19,Class 10,Chemistry,1:1 Tutoring,Chennai,78.6,6.1,77.0,Yes
+S51422,2026-04-19,Class 11,Maths,Live Class,Pune,92.4,7.3,79.5,Yes
+S51423,2026-04-20,Class 12,Chemistry,Live Class,Hyderabad,74.5,6.9,48.1,Yes
+S51424,2026-04-20,Class 12,Biology,Recorded,Pune,50.6,9.0,55.0,Yes
+S51425,2026-04-20,Class 12,Chemistry,Live Class,Mumbai,80.3,15.5,73.7,Yes
+S51426,2026-04-20,Class 12,Chemistry,Live Class,Hyderabad,78.9,23.8,97.6,Yes
+S51427,2026-04-21,Class 12,Maths,Recorded,Hyderabad,53.6,9.1,51.6,Yes
+S51428,2026-04-21,Class 10,Physics,1:1 Tutoring,Hyderabad,70.8,9.8,55.8,Yes
+S51429,2026-04-21,Class 9,Maths,Live Class,Bengaluru,43.6,5.1,32.3,No
+S51430,2026-04-21,Class 12,Maths,Live Class,Kolkata,71.6,17.2,65.5,No
+S51431,2026-04-21,Class 10,Physics,Live Class,Lucknow,95.5,13.6,80.5,Yes
+S51432,2026-04-22,Class 11,Physics,Recorded,Lucknow,69.2,6.8,62.0,Yes
+S51433,2026-04-22,Class 12,Biology,Live Class,Delhi,97.0,7.8,72.4,Yes
+S51434,2026-04-23,Class 12,Biology,Live Class,Lucknow,81.6,1.7,55.4,Yes
+S51435,2026-04-23,Class 9,Maths,1:1 Tutoring,Mumbai,67.8,6.3,64.7,No
+S51436,2026-04-23,Class 12,Physics,Live Class,Delhi,53.1,9.2,54.5,Yes
+S51437,2026-04-23,Class 12,Chemistry,Recorded,Pune,89.0,6.9,91.8,Yes
+S51438,2026-04-23,Class 9,Biology,1:1 Tutoring,Mumbai,87.8,7.0,73.7,Yes
+S51439,2026-04-23,Class 11,Biology,Live Class,Pune,57.2,19.9,52.6,Yes
+S51440,2026-04-23,Class 9,Physics,Live Class,Pune,72.3,11.3,59.9,Yes
+S51441,2026-04-24,Class 9,Maths,Recorded,Lucknow,94.0,6.1,68.6,Yes
+S51442,2026-04-24,Class 11,Biology,Recorded,Kolkata,67.7,16.3,45.7,Yes
+S51443,2026-04-24,Class 10,Physics,Live Class,Kolkata,83.9,8.6,67.2,Yes
+S51444,2026-04-24,Class 11,Maths,Live Class,Pune,50.7,8.5,54.1,No
+S51445,2026-04-24,Class 9,Biology,Live Class,Chennai,65.2,11.5,62.1,No
+S51446,2026-04-25,Class 9,Physics,Live Class,Kolkata,88.6,7.2,59.7,Yes
+S51447,2026-04-25,Class 11,Maths,Recorded,Kolkata,61.5,18.7,61.1,No
+S51448,2026-04-25,Class 9,Chemistry,1:1 Tutoring,Bengaluru,57.9,4.9,62.1,Yes
+S51449,2026-04-26,Class 11,Chemistry,Live Class,Delhi,58.6,,63.6,Yes
+S51450,2026-04-27,Class 9,Chemistry,Live Class,Hyderabad,73.0,3.1,62.0,No
+S51451,2026-04-27,Class 9,Physics,1:1 Tutoring,Chennai,56.0,16.8,54.0,Yes
+S51452,2026-04-28,Class 9,Physics,Recorded,Mumbai,76.7,15.2,74.5,Yes
+S51453,2026-04-28,Class 10,Physics,Live Class,Delhi,86.2,12.9,85.2,Yes
+S51454,2026-04-28,Class 9,Maths,Live Class,Delhi,100.0,6.3,71.2,Yes
+S51455,2026-04-28,Class 12,Physics,Live Class,Chennai,72.6,17.0,44.1,No
+S51456,2026-04-28,Class 9,Maths,Live Class,Kolkata,100.0,8.2,82.3,Yes
+S51457,2026-04-28,Class 9,Chemistry,Live Class,Hyderabad,86.3,4.3,75.7,No
+S51458,2026-04-28,Class 11,Chemistry,Live Class,Hyderabad,75.2,13.2,66.9,Yes
+S51459,2026-04-28,Class 11,Chemistry,1:1 Tutoring,Bengaluru,85.7,11.9,72.9,Yes
+S51460,2026-04-29,Class 11,Physics,Recorded,Kolkata,99.9,7.7,84.9,Yes
+S51461,2026-04-29,Class 12,Biology,Recorded,Kolkata,99.5,6.2,81.0,No
+S51462,2026-04-29,Class 11,Maths,Live Class,Mumbai,89.0,13.5,73.2,Yes
+S51463,2026-04-29,Class 11,Maths,Recorded,Mumbai,77.0,2.9,60.0,Yes
+S51464,2026-04-29,Class 10,Chemistry,Live Class,Hyderabad,90.1,6.3,71.3,Yes
+S51465,2026-04-29,Class 9,Physics,1:1 Tutoring,Mumbai,81.4,7.2,81.5,No
+S51466,2026-04-29,Class 12,Physics,Live Class,Pune,80.7,11.1,69.4,Yes
+S51467,2026-04-29,Class 12,Chemistry,Live Class,Hyderabad,82.0,15.0,60.4,Yes
+S51468,2026-04-29,Class 11,Biology,Live Class,Pune,100.0,15.9,74.1,No
+S51469,2026-04-30,Class 11,Chemistry,Recorded,Pune,61.3,10.2,60.3,No
+S51470,2026-04-30,Class 10,Physics,1:1 Tutoring,Mumbai,77.2,3.3,71.4,Yes
+S51471,2026-04-30,Class 11,Physics,Recorded,Pune,62.8,1.5,49.1,Yes
+S51472,2026-04-30,Class 11,Maths,Live Class,Delhi,90.6,9.0,78.1,Yes
+S51473,2026-04-30,Class 10,Chemistry,Live Class,Pune,94.1,6.1,65.4,Yes
+S51474,2026-04-30,Class 10,Chemistry,1:1 Tutoring,Mumbai,97.5,6.8,87.9,Yes
+S51475,2026-04-30,Class 11,Maths,Live Class,Hyderabad,73.3,22.2,86.7,Yes
+S51476,2026-05-01,Class 12,Physics,Recorded,Delhi,79.1,14.0,76.6,Yes
+S51477,2026-05-01,Class 10,Biology,Live Class,Hyderabad,89.2,11.6,73.0,No
+S51478,2026-05-01,Class 9,Chemistry,Live Class,Bengaluru,80.9,7.3,71.0,Yes
+S51479,2026-05-01,Class 9,Chemistry,Live Class,Pune,82.5,6.2,46.5,No
+S51480,2026-05-02,Class 9,Physics,Live Class,Chennai,81.2,11.8,81.7,Yes
+S51481,2026-05-02,Class 9,Maths,Live Class,Chennai,82.2,0.9,54.4,Yes
+S51482,2026-05-02,Class 12,Maths,1:1 Tutoring,Pune,76.8,16.4,66.1,Yes
+S51483,2026-05-02,Class 9,Maths,Live Class,Hyderabad,84.6,11.5,65.7,Yes
+S51484,2026-05-02,Class 11,Chemistry,Recorded,Kolkata,57.7,2.8,43.2,No
+S51485,2026-05-03,Class 9,Physics,Live Class,Lucknow,72.4,1.3,57.3,No
+S51486,2026-05-03,Class 9,Maths,Live Class,Mumbai,59.6,6.3,52.0,Yes
+S51487,2026-05-03,Class 9,Maths,Recorded,Delhi,77.1,8.0,62.8,No
+S51488,2026-05-03,Class 11,Chemistry,Recorded,Kolkata,68.0,6.2,68.7,No
+S51489,2026-05-04,Class 11,Chemistry,Live Class,Pune,86.0,12.6,73.7,No
+S51490,2026-05-04,Class 11,Biology,Live Class,Delhi,96.2,5.0,64.6,Yes
+S51491,2026-05-04,Class 11,Physics,1:1 Tutoring,Pune,60.8,3.2,57.3,No
+S51492,2026-05-04,Class 9,Maths,Live Class,Chennai,67.4,2.4,47.9,Yes
+S51493,2026-05-04,Class 11,Physics,Live Class,Mumbai,83.1,12.8,77.9,Yes
+S51494,2026-05-04,Class 9,Chemistry,Live Class,Hyderabad,98.8,5.2,61.2,Yes
+S51495,2026-05-04,Class 12,Biology,Live Class,Bengaluru,89.4,6.7,64.1,No
+S51496,2026-05-05,Class 9,Physics,Live Class,Mumbai,84.7,14.4,85.2,Yes
+S51497,2026-05-05,Class 9,Physics,Recorded,Kolkata,77.6,2.2,57.1,Yes
+S51498,2026-05-05,Class 9,Chemistry,Live Class,Pune,72.2,4.7,60.3,No
+S51499,2026-05-05,Class 10,Biology,Recorded,Hyderabad,83.9,13.7,absent,No
+S51500,2026-05-05,Class 12,Maths,Live Class,Bengaluru,85.5,10.4,53.6,No
+S51501,2026-05-06,Class 9,Chemistry,Live Class,Chennai,80.7,2.2,63.0,No
+S51502,2026-05-06,Class 9,Maths,Live Class,Lucknow,70.2,9.7,69.9,Yes
+S51503,2026-05-07,Class 10,Physics,Recorded,Pune,55.7,5.1,53.4,No
+S51504,2026-05-07,Class 9,Biology,Live Class,Hyderabad,66.4,4.5,61.7,No
+S51505,2026-05-07,Class 9,Biology,Live Class,Kolkata,73.1,8.8,53.7,Yes
+S51506,2026-05-07,Class 11,Physics,Live Class,Delhi,62.0,12.2,59.3,Yes
+S51507,2026-05-08,Class 9,Maths,Live Class,Delhi,83.0,24.6,73.0,Yes
+S51508,2026-05-08,Class 11,Maths,Live Class,Bengaluru,58.3,8.4,55.0,Yes
+S51509,2026-05-08,Class 9,Chemistry,Recorded,Pune,74.1,9.5,50.7,Yes
+S51510,2026-05-08,Class 10,Maths,1:1 Tutoring,Delhi,83.4,12.8,69.3,No
+S51511,2026-05-08,Class 10,Biology,1:1 Tutoring,Delhi,89.9,9.2,80.0,No
+S51512,2026-05-08,Class 12,Maths,Live Class,Kolkata,81.8,13.4,62.8,Yes
+S51513,2026-05-09,Class 12,Maths,Live Class,Pune,95.5,14.7,80.3,Yes
+S51514,2026-05-09,Class 10,Physics,Recorded,Lucknow,70.0,5.4,72.2,Yes
+S51515,2026-05-09,Class 10,Chemistry,Recorded,Kolkata,67.4,12.1,63.7,Yes
+S51516,2026-05-09,Class 12,Biology,Recorded,Bengaluru,93.8,5.7,70.2,Yes
+S51517,2026-05-09,Class 11,Maths,Live Class,Bengaluru,65.9,13.4,67.0,No
+S51518,2026-05-09,Class 10,Chemistry,Live Class,Hyderabad,76.2,5.4,53.3,No
+S51519,2026-05-09,Class 9,Maths,Live Class,Lucknow,53.9,1.8,44.6,Yes
+S51520,2026-05-10,Class 12,Biology,Recorded,Bengaluru,94.3,7.4,61.0,No
+S51521,2026-05-10,Class 10,Physics,Live Class,Chennai,88.5,6.6,60.0,No
+S51522,2026-05-10,Class 9,Biology,Live Class,Chennai,67.7,14.3,78.2,No
+S51523,2026-05-10,Class 10,Maths,Live Class,Hyderabad,53.7,,44.0,No
+S51524,2026-05-10,Class 11,Maths,1:1 Tutoring,Kolkata,81.9,7.5,71.2,Yes
+S51525,2026-05-11,Class 9,Biology,Recorded,Hyderabad,82.2,8.9,63.1,No
+S51526,2026-05-11,Class 12,Physics,1:1 Tutoring,Kolkata,94.8,13.5,76.8,Yes
+S51527,2026-05-11,Class 10,Maths,Recorded,Hyderabad,100.0,6.2,70.0,Yes
+S51528,2026-05-12,Class 11,Maths,Live Class,Lucknow,81.7,5.5,62.0,Yes
+S51529,2026-05-12,Class 11,Biology,1:1 Tutoring,Bengaluru,75.3,11.3,73.6,Yes
+S51530,2026-05-12,Class 12,Chemistry,Live Class,Lucknow,75.0,2.6,56.5,Yes
+S51531,2026-05-12,Class 12,Biology,Recorded,Delhi,74.1,3.5,63.0,No
+S51532,2026-05-12,Class 10,Biology,Live Class,Chennai,59.0,11.9,56.2,No
+S51533,2026-05-12,Class 9,Biology,Live Class,Mumbai,65.6,3.9,53.2,Yes
+S51534,2026-05-13,Class 11,Chemistry,Live Class,Hyderabad,77.1,9.7,62.7,Yes
+S51535,2026-05-13,Class 12,Chemistry,Live Class,Lucknow,55.1,13.6,72.0,No
+S51536,2026-05-13,Class 12,Biology,Live Class,Chennai,59.7,3.6,42.4,No
+S51537,2026-05-13,Class 11,Maths,1:1 Tutoring,Hyderabad,95.5,5.3,74.8,Yes
+S51538,2026-05-14,Class 11,Chemistry,Live Class,Chennai,68.8,9.4,66.8,Yes
+S51539,2026-05-14,Class 11,Biology,Live Class,Mumbai,89.6,13.4,77.2,Yes
+S51540,2026-05-14,Class 9,Chemistry,Recorded,Kolkata,93.8,8.5,62.6,No
+S51541,2026-05-15,Class 9,Maths,Live Class,Pune,78.4,10.6,56.0,No
+S51542,2026-05-15,Class 10,Physics,Live Class,Bengaluru,90.0,10.8,70.5,Yes
+S51543,2026-05-15,Class 12,Physics,Recorded,Bengaluru,75.8,5.6,71.8,No
+S51544,2026-05-15,Class 10,Physics,1:1 Tutoring,Mumbai,66.0,14.0,74.7,Yes
+S51545,2026-05-16,Class 10,Physics,Recorded,Kolkata,76.8,8.3,63.0,Yes
+S51546,2026-05-16,Class 12,Physics,Recorded,Lucknow,79.3,17.3,67.0,Yes
+S51547,2026-05-16,Class 11,Chemistry,Recorded,Pune,80.1,4.0,60.6,No
+S51548,2026-05-16,Class 9,Maths,1:1 Tutoring,Delhi,79.4,3.6,66.5,Yes
+S51549,2026-05-16,Class 11,Biology,Live Class,Pune,72.8,4.7,47.3,No
+S51550,2026-05-16,Class 9,Chemistry,1:1 Tutoring,Delhi,93.3,10.0,65.8,Yes
+S51551,2026-05-16,Class 12,Physics,Recorded,Mumbai,75.6,4.8,60.3,No
+S51552,2026-05-16,Class 12,Chemistry,1:1 Tutoring,Kolkata,72.5,10.0,85.4,No
+S51553,2026-05-16,Class 11,Chemistry,Recorded,Mumbai,91.5,5.7,70.7,Yes
+S51554,2026-05-17,Class 12,Physics,Recorded,Chennai,64.3,2.0,38.8,Yes
+S51555,2026-05-17,Class 12,Biology,Recorded,Pune,78.3,2.0,50.8,No
+S51556,2026-05-17,Class 10,Maths,Live Class,Kolkata,99.2,5.8,71.5,Yes
+S51557,2026-05-17,Class 9,Physics,Live Class,Pune,79.3,6.7,55.0,No
+S51558,2026-05-17,Class 10,Biology,Live Class,Bengaluru,98.5,8.4,75.4,No
+S51559,2026-05-17,Class 11,Chemistry,Live Class,Pune,74.8,5.8,54.8,Yes
+S51560,2026-05-18,Class 9,Physics,Recorded,Lucknow,71.3,18.8,60.5,Yes
+S51561,2026-05-18,Class 11,Chemistry,Live Class,Kolkata,76.2,14.8,55.6,Yes
+S51562,2026-05-18,Class 10,Physics,1:1 Tutoring,Delhi,70.6,11.4,72.4,Yes
+S51563,2026-05-18,Class 11,Physics,Live Class,Bengaluru,73.5,10.4,66.3,No
+S51564,2026-05-18,Class 12,Chemistry,Recorded,Lucknow,72.3,1.5,61.0,No
+S51565,2026-05-19,Class 11,Maths,Live Class,Kolkata,89.8,11.3,77.2,Yes
+S51566,2026-05-20,Class 11,Biology,Recorded,Mumbai,84.1,9.3,66.4,Yes
+S51567,2026-05-21,Class 11,Chemistry,Recorded,Bengaluru,75.6,7.6,73.3,Yes
+S51568,2026-05-21,Class 10,Physics,1:1 Tutoring,Pune,68.0,4.0,54.2,Yes
+S51569,2026-05-22,Class 10,Chemistry,Recorded,Delhi,100.0,7.8,80.4,Yes
+S51570,2026-05-22,Class 12,Chemistry,Live Class,Mumbai,75.7,8.7,59.9,No
+S51571,2026-05-22,Class 11,Chemistry,Recorded,Lucknow,98.3,7.3,68.6,Yes
+S51572,2026-05-22,Class 10,Physics,Live Class,Kolkata,62.0,26.2,61.9,Yes
+S51573,2026-05-22,Class 9,Physics,Recorded,Hyderabad,68.2,3.4,61.9,Yes
+S51574,2026-05-23,Class 12,Physics,Live Class,Pune,95.8,8.5,74.2,Yes
+S51575,2026-05-23,Class 10,Biology,Live Class,Mumbai,63.1,10.5,68.6,Yes
+S51576,2026-05-23,Class 12,Physics,Recorded,Bengaluru,63.5,4.6,47.8,No
+S51577,2026-05-23,Class 10,Physics,Live Class,Lucknow,77.8,9.0,66.7,No
+S51578,2026-05-23,Class 11,Biology,Recorded,Kolkata,68.3,9.5,52.5,No
+S51579,2026-05-24,Class 9,Chemistry,1:1 Tutoring,Pune,74.4,11.2,75.3,No
+S51580,2026-05-24,Class 9,Physics,Recorded,Lucknow,80.7,9.2,78.7,Yes
+S51581,2026-05-24,Class 11,Maths,Live Class,Mumbai,90.8,5.4,60.3,Yes
+S51582,2026-05-24,Class 11,Physics,Live Class,Bengaluru,81.1,5.2,73.7,Yes
+S51583,2026-05-24,Class 11,Chemistry,Live Class,Mumbai,82.7,5.1,56.0,Yes
+S51584,2026-05-24,Class 11,Physics,Live Class,Pune,97.2,6.9,85.4,Yes
+S51585,2026-05-24,Class 9,Maths,Recorded,Pune,98.5,4.8,73.2,Yes
+S51586,2026-05-25,Class 12,Biology,Recorded,Lucknow,73.6,3.9,65.0,No
+S51587,2026-05-25,Class 10,Chemistry,Recorded,Delhi,52.5,9.4,44.4,No
+S51588,2026-05-25,Class 11,Maths,Recorded,Bengaluru,64.4,13.2,75.7,Yes
+S51589,2026-05-25,Class 9,Maths,Recorded,Lucknow,93.6,7.9,70.7,Yes
+S51590,2026-05-25,Class 9,Chemistry,Recorded,Lucknow,71.9,8.9,58.4,Yes
+S51591,2026-05-25,Class 11,Chemistry,Live Class,Chennai,68.6,11.2,70.9,Yes
+S51592,2026-05-25,Class 12,Maths,Recorded,Hyderabad,72.3,7.1,54.8,No
+S51593,2026-05-26,Class 9,Chemistry,Live Class,Mumbai,100.0,9.6,73.2,No
+S51594,2026-05-26,Class 9,Maths,Live Class,Hyderabad,79.4,13.1,65.1,Yes
+S51595,2026-05-26,Class 9,Physics,Recorded,Bengaluru,73.3,,53.5,No
+S51596,2026-05-26,Class 11,Chemistry,Live Class,Chennai,68.8,,67.6,No
+S51597,2026-05-26,Class 10,Physics,Recorded,Lucknow,63.2,9.7,73.8,No
+S51598,2026-05-27,Class 12,Chemistry,Recorded,Chennai,100.0,11.4,68.4,No
+S51599,2026-05-27,Class 10,Maths,Live Class,Pune,78.1,7.7,78.3,Yes
+S51600,2026-05-27,Class 12,Maths,Live Class,Pune,80.7,2.7,72.3,No
+S51601,2026-05-28,Class 9,Biology,Recorded,Chennai,74.2,2.0,56.3,Yes
+S51602,2026-05-28,Class 11,Physics,Live Class,Pune,93.6,25.1,87.7,Yes
+S51603,2026-05-28,Class 12,Biology,1:1 Tutoring,Delhi,64.5,11.5,84.3,Yes
+S51604,2026-05-28,Class 11,Chemistry,1:1 Tutoring,Delhi,51.6,6.9,52.7,No
+S51605,2026-05-28,Class 9,Biology,Live Class,Chennai,70.5,21.9,64.9,Yes
+S51606,2026-05-28,Class 9,Physics,Recorded,Delhi,83.4,5.4,57.1,No
+S51607,2026-05-28,Class 11,Maths,Live Class,Delhi,100.0,7.6,92.7,No
+S51608,2026-05-28,Class 9,Biology,Recorded,Chennai,77.6,5.2,71.9,Yes
+S51609,2026-05-29,Class 9,Maths,1:1 Tutoring,Pune,66.5,6.1,57.7,Yes
+S51610,2026-05-29,Class 11,Chemistry,Recorded,Kolkata,75.4,13.3,65.7,Yes
+S51611,2026-05-30,Class 11,Maths,Recorded,Chennai,67.6,8.4,66.3,No
+S51612,2026-05-30,Class 12,Biology,Live Class,Kolkata,67.6,4.1,55.7,Yes
+S51613,2026-05-30,Class 10,Maths,Recorded,Mumbai,79.9,5.8,74.7,Yes
+S51614,2026-05-30,Class 9,Maths,1:1 Tutoring,Pune,82.8,8.1,73.8,Yes
+S51615,2026-05-30,Class 10,Biology,Live Class,Lucknow,69.4,6.0,70.9,Yes
+S51616,2026-05-30,Class 11,Biology,Live Class,Mumbai,94.1,9.9,76.5,Yes
+S51617,2026-05-30,Class 10,Chemistry,1:1 Tutoring,Hyderabad,77.6,10.3,74.2,Yes
+S51618,2026-05-30,Class 9,Chemistry,Live Class,Mumbai,80.3,10.0,62.2,No
+S51619,2026-05-31,Class 11,Chemistry,Recorded,Mumbai,71.4,5.9,63.9,No
+S51620,2026-05-31,Class 12,Physics,Recorded,Mumbai,83.9,8.4,75.2,Yes
+S51621,2026-05-31,Class 11,Biology,Live Class,Chennai,84.4,22.4,63.1,No
+S51622,2026-06-01,Class 11,Physics,1:1 Tutoring,Lucknow,88.0,3.7,78.1,Yes
+S51623,2026-06-01,Class 11,Physics,Live Class,Kolkata,67.2,5.7,70.3,Yes
+S51624,2026-06-01,Class 11,Maths,Live Class,Bengaluru,87.6,5.4,76.2,Yes
+S51625,2026-06-01,Class 10,Physics,Recorded,Hyderabad,70.7,12.1,68.1,No
+S51626,2026-06-01,Class 9,Maths,Live Class,Lucknow,80.1,6.4,63.7,Yes
+S51627,2026-06-01,Class 9,Biology,Live Class,Delhi,89.2,5.2,59.5,Yes
+S51628,2026-06-01,Class 10,Maths,Live Class,Lucknow,100.0,1.4,63.6,Yes
+S51629,2026-06-02,Class 10,Physics,Live Class,Lucknow,72.4,11.6,62.0,No
+S51630,2026-06-02,Class 11,Maths,Recorded,Mumbai,63.1,8.4,49.9,Yes
+S51631,2026-06-02,Class 10,Biology,1:1 Tutoring,Chennai,80.7,5.1,72.0,Yes
+S51632,2026-06-02,Class 11,Biology,Live Class,Kolkata,96.0,24.6,79.4,Yes
+S51633,2026-06-02,Class 11,Biology,Live Class,Bengaluru,74.1,6.6,60.4,No
+S51634,2026-06-02,Class 11,Physics,Recorded,Hyderabad,100.0,18.3,92.3,No
+S51635,2026-06-02,Class 10,Physics,1:1 Tutoring,Kolkata,52.2,16.1,66.6,No
+S51636,2026-06-02,Class 10,Maths,Live Class,Delhi,99.9,4.8,79.7,Yes
+S51637,2026-06-02,Class 10,Biology,Recorded,Hyderabad,95.2,11.8,60.9,Yes
+S51638,2026-06-02,Class 11,Maths,Recorded,Delhi,94.4,17.3,83.6,Yes
+S51639,2026-06-03,Class 9,Chemistry,Recorded,Kolkata,67.1,8.6,54.1,Yes
+S51640,2026-06-03,Class 11,Physics,Recorded,Chennai,97.9,9.6,89.5,Yes
+S51641,2026-06-03,Class 11,Chemistry,Live Class,Delhi,95.3,8.4,60.9,Yes
+S51642,2026-06-04,Class 9,Biology,1:1 Tutoring,Mumbai,96.4,1.4,69.4,Yes
+S51643,2026-06-04,Class 9,Biology,Live Class,Hyderabad,75.6,2.7,68.5,No
+S51644,2026-06-04,Class 10,Biology,1:1 Tutoring,Hyderabad,75.4,3.8,85.8,No
+S51645,2026-06-04,Class 11,Biology,1:1 Tutoring,Kolkata,97.1,11.8,70.0,Yes
+S51646,2026-06-05,Class 10,Maths,Recorded,Pune,83.7,14.2,70.1,Yes
+S51647,2026-06-05,Class 11,Biology,Live Class,Lucknow,73.7,11.4,59.5,No
+S51648,2026-06-06,Class 11,Biology,1:1 Tutoring,Pune,67.1,2.9,77.7,Yes
+S51649,2026-06-06,Class 11,Chemistry,Live Class,Kolkata,82.5,7.3,85.2,No
+S51650,2026-06-06,Class 10,Maths,Live Class,Hyderabad,59.7,15.3,64.7,No
+S51651,2026-06-07,Class 9,Biology,Recorded,Mumbai,86.9,12.7,80.8,No
+S51652,2026-06-07,Class 10,Physics,Live Class,Kolkata,81.0,7.0,61.6,Yes
+S51653,2026-06-07,Class 10,Maths,1:1 Tutoring,Lucknow,56.9,7.3,52.5,Yes
+S51654,2026-06-07,Class 12,Physics,Live Class,Bengaluru,85.2,5.9,72.7,Yes
+S51655,2026-06-07,Class 12,Biology,Live Class,Bengaluru,95.8,5.0,68.6,Yes
+S51656,2026-06-08,Class 9,Chemistry,Live Class,Bengaluru,82.3,11.9,77.1,Yes
+S51657,2026-06-08,Class 9,Maths,Live Class,Bengaluru,60.1,12.5,58.5,Yes
+S51658,2026-06-08,Class 10,Biology,Recorded,Lucknow,70.3,3.5,71.3,No
+S51659,2026-06-08,Class 11,Physics,Recorded,Hyderabad,90.6,11.6,72.7,Yes
+S51660,2026-06-08,Class 9,Maths,Live Class,Pune,60.5,,55.0,No
+S51661,2026-06-08,Class 10,Biology,Recorded,Hyderabad,73.5,4.0,70.0,No
+S51662,2026-06-09,Class 10,Biology,Live Class,Pune,94.9,1.9,71.7,Yes
+S51663,2026-06-09,Class 11,Biology,Recorded,Chennai,74.8,4.1,74.2,No
+S51664,2026-06-09,Class 12,Biology,1:1 Tutoring,Lucknow,70.6,8.3,63.8,No
+S51665,2026-06-10,Class 10,Biology,Live Class,Delhi,90.1,5.5,62.1,Yes
+S51666,2026-06-10,Class 9,Chemistry,Live Class,Kolkata,100.0,1.1,79.6,Yes
+S51667,2026-06-10,Class 9,Maths,Live Class,Hyderabad,84.4,9.8,74.3,No
+S51668,2026-06-11,Class 11,Physics,Live Class,Lucknow,60.0,3.0,49.9,No
+S51669,2026-06-11,Class 11,Physics,1:1 Tutoring,Chennai,56.0,13.3,55.7,Yes
+S51670,2026-06-11,Class 12,Physics,Recorded,Kolkata,75.2,17.6,64.6,No
+S51671,2026-06-11,Class 9,Biology,Recorded,Mumbai,53.3,12.6,57.1,Yes
+S51672,2026-06-12,Class 12,Biology,Recorded,Chennai,77.5,3.2,60.5,No
+S51673,2026-06-12,Class 12,Chemistry,Recorded,Chennai,91.5,7.9,62.4,Yes
+S51674,2026-06-12,Class 12,Physics,Live Class,Hyderabad,41.2,3.8,39.2,Yes
+S51675,2026-06-13,Class 12,Physics,Live Class,Lucknow,76.2,10.6,71.0,Yes
+S51676,2026-06-13,Class 9,Biology,Live Class,Chennai,83.3,6.6,76.7,Yes
+S51677,2026-06-13,Class 10,Physics,Live Class,Lucknow,71.1,5.4,73.9,No
+S51678,2026-06-13,Class 9,Chemistry,Live Class,Pune,84.2,8.9,62.3,Yes
+S51679,2026-06-13,Class 11,Physics,Recorded,Kolkata,85.8,8.3,59.9,Yes
+S51680,2026-06-14,Class 10,Maths,Live Class,Pune,93.5,5.3,75.7,Yes
+S51681,2026-06-14,Class 11,Biology,Live Class,Chennai,100.0,5.4,71.1,No
+S51682,2026-06-14,Class 12,Biology,Recorded,Mumbai,83.2,6.1,73.1,Yes
+S51683,2026-06-14,Class 12,Physics,1:1 Tutoring,Mumbai,66.0,8.5,74.1,Yes
+S51684,2026-06-14,Class 12,Biology,Live Class,Delhi,64.2,18.0,61.8,Yes
+S51685,2026-06-14,Class 9,Biology,Recorded,Lucknow,61.2,6.9,55.9,Yes
+S51686,2026-06-15,Class 10,Maths,Live Class,Bengaluru,88.7,8.6,56.8,Yes
+S51687,2026-06-15,Class 10,Physics,Live Class,Lucknow,83.5,25.6,64.9,Yes
+S51688,2026-06-15,Class 11,Maths,Live Class,Pune,85.3,5.1,72.7,Yes
+S51689,2026-06-16,Class 10,Maths,Recorded,Bengaluru,81.5,8.6,84.8,No
+S51690,2026-06-16,Class 10,Physics,Live Class,Mumbai,100.0,11.2,62.4,Yes
+S51691,2026-06-16,Class 12,Physics,Recorded,Mumbai,94.1,6.0,58.8,Yes
+S51692,2026-06-16,Class 12,Physics,Live Class,Pune,93.0,12.0,69.9,Yes
+S51693,2026-06-17,Class 11,Maths,Live Class,Mumbai,69.1,15.3,71.4,No
+S51694,2026-06-17,Class 10,Chemistry,1:1 Tutoring,Lucknow,74.1,3.4,50.4,No
+S51695,2026-06-17,Class 10,Physics,1:1 Tutoring,Pune,60.3,8.2,63.1,Yes
+S51696,2026-06-17,Class 10,Physics,Recorded,Kolkata,69.5,3.9,70.0,Yes
+S51697,2026-06-17,Class 9,Biology,Live Class,Lucknow,79.9,17.3,51.9,No
+S51698,2026-06-17,Class 11,Biology,Live Class,Kolkata,61.4,21.3,55.4,Yes
+S51699,2026-06-18,Class 11,Physics,Recorded,Lucknow,69.7,2.1,63.4,Yes
+S51700,2026-06-18,Class 9,Biology,1:1 Tutoring,Kolkata,100.0,17.7,95.9,Yes
+S51701,2026-06-18,Class 10,Chemistry,Live Class,Delhi,76.1,3.2,54.0,No
+S51702,2026-06-18,Class 9,Physics,Live Class,Kolkata,57.5,5.6,61.5,Yes
+S51703,2026-06-18,Class 9,Maths,Live Class,Pune,61.1,4.5,63.0,No
+S51704,2026-06-18,Class 12,Physics,Recorded,Bengaluru,77.4,2.9,49.5,Yes
+S51705,2026-06-18,Class 11,Chemistry,Recorded,Delhi,90.6,9.7,70.5,Yes
+S51706,2026-06-18,Class 12,Chemistry,1:1 Tutoring,Bengaluru,77.4,8.8,66.0,No
+S51707,2026-06-19,Class 10,Physics,Recorded,Pune,90.9,20.7,75.5,Yes
+S51708,2026-06-19,Class 9,Chemistry,Recorded,Pune,83.1,7.6,68.6,Yes
+S51709,2026-06-19,Class 10,Chemistry,Live Class,Pune,62.9,6.8,47.7,Yes
+S51710,2026-06-19,Class 9,Physics,Live Class,Delhi,93.3,1.2,51.3,Yes
+S51711,2026-06-19,Class 10,Biology,1:1 Tutoring,Delhi,72.3,7.0,55.6,No
+S51712,2026-06-19,Class 11,Biology,Live Class,Kolkata,100.0,18.8,69.7,Yes
+S51713,2026-06-20,Class 11,Physics,Live Class,Kolkata,70.4,4.7,57.4,No
+S51714,2026-06-20,Class 11,Physics,Recorded,Delhi,76.7,7.9,71.8,Yes
+S51715,2026-06-21,Class 9,Physics,Live Class,Pune,71.0,13.7,60.4,Yes
+S51716,2026-06-21,Class 10,Maths,Live Class,Chennai,74.9,12.8,60.0,Yes
+S51717,2026-06-21,Class 10,Biology,Recorded,Chennai,85.2,2.5,60.1,Yes
+S51718,2026-06-21,Class 9,Biology,Recorded,Delhi,76.1,3.4,67.4,No
+S51719,2026-06-21,Class 12,Biology,1:1 Tutoring,Lucknow,95.4,3.1,74.3,Yes
+S51720,2026-06-22,Class 12,Maths,Live Class,Hyderabad,84.7,10.6,69.5,Yes
+S51721,2026-06-22,Class 10,Maths,Live Class,Hyderabad,100.0,,72.6,Yes
+S51722,2026-06-22,Class 11,Chemistry,Recorded,Mumbai,79.7,2.7,61.7,No
+S51723,2026-06-22,Class 10,Chemistry,1:1 Tutoring,Lucknow,97.0,3.7,73.2,Yes
+S51724,2026-06-23,Class 11,Physics,Live Class,Delhi,95.7,18.6,88.7,Yes
+S51725,2026-06-23,Class 11,Biology,Live Class,Lucknow,76.7,24.5,74.3,No
+S51726,2026-06-23,Class 9,Biology,Recorded,Mumbai,100.0,17.8,90.7,Yes
+S51727,2026-06-23,Class 12,Chemistry,Recorded,Hyderabad,100.0,13.3,81.5,Yes
+S51728,2026-06-23,Class 11,Physics,1:1 Tutoring,Lucknow,86.5,9.6,77.6,Yes
+S51729,2026-06-24,Class 12,Physics,Recorded,Kolkata,76.0,3.8,46.3,Yes
+S51730,2026-06-24,Class 12,Physics,1:1 Tutoring,Kolkata,77.7,4.8,66.7,Yes
+S51731,2026-06-24,Class 11,Chemistry,Live Class,Hyderabad,76.5,6.8,55.1,Yes
+S51732,2026-06-24,Class 12,Biology,Recorded,Mumbai,82.9,,73.2,Yes
+S51733,2026-06-24,Class 12,Maths,Recorded,Bengaluru,62.9,,60.6,Yes
+S51734,2026-06-24,Class 10,Biology,Live Class,Kolkata,79.7,6.5,67.8,Yes
+S51735,2026-06-24,Class 12,Maths,Recorded,Hyderabad,70.4,4.5,57.6,No
+S51736,2026-06-24,Class 10,Chemistry,Recorded,Kolkata,100.0,34.3,100.0,Yes
+S51737,2026-06-24,Class 11,Biology,Recorded,Mumbai,89.8,7.4,52.2,No
+S51738,2026-06-24,Class 12,Chemistry,Recorded,Lucknow,100.0,4.1,78.2,Yes
+S51739,2026-06-25,Class 10,Physics,Live Class,Bengaluru,100.0,5.7,69.6,No
+S51740,2026-06-25,Class 12,Maths,1:1 Tutoring,Hyderabad,85.7,3.0,62.2,Yes
+S51741,2026-06-25,Class 9,Biology,Live Class,Bengaluru,100.0,8.8,68.6,Yes
+S51742,2026-06-26,Class 12,Maths,Recorded,Lucknow,84.3,7.3,66.4,Yes
+S51743,2026-06-26,Class 11,Maths,Recorded,Hyderabad,87.9,1.2,67.3,Yes
+S51744,2026-06-26,Class 9,Chemistry,Recorded,Lucknow,65.7,4.5,66.2,Yes
+S51745,2026-06-27,Class 11,Maths,1:1 Tutoring,Lucknow,80.2,7.3,65.2,Yes
+S51746,2026-06-27,Class 12,Physics,Recorded,Lucknow,99.2,,69.1,Yes
+S51747,2026-06-27,Class 12,Chemistry,Recorded,Kolkata,86.1,7.6,76.6,Yes
+S51748,2026-06-27,Class 9,Maths,Recorded,Lucknow,73.8,10.6,73.7,Yes
+S51749,2026-06-27,Class 10,Chemistry,Recorded,Kolkata,79.2,4.5,54.0,No
+S51750,2026-06-27,Class 11,Maths,Live Class,Lucknow,68.7,6.4,53.1,Yes
+S51751,2026-06-27,Class 12,Chemistry,Live Class,Bengaluru,69.6,13.0,66.3,No
+S51752,2026-06-27,Class 10,Chemistry,Recorded,Pune,58.8,8.8,53.6,Yes
+S51753,2026-06-28,Class 9,Chemistry,Live Class,Lucknow,94.7,6.6,76.8,No
+S51754,2026-06-28,Class 12,Maths,Recorded,Pune,94.5,16.3,70.1,Yes
+S51755,2026-06-28,Class 12,Chemistry,Recorded,Bengaluru,77.6,17.9,64.4,Yes
+S51756,2026-06-28,Class 9,Biology,Recorded,Kolkata,60.2,9.5,83.6,Yes
+S51757,2026-06-28,Class 12,Maths,Live Class,Lucknow,75.7,6.5,72.1,Yes
+S51758,2026-06-29,Class 11,Physics,1:1 Tutoring,Kolkata,100.0,2.4,90.8,No
+S51759,2026-06-29,Class 9,Biology,Recorded,Chennai,60.4,4.3,57.8,No
+S51760,2026-06-29,Class 10,Biology,1:1 Tutoring,Kolkata,72.0,10.4,63.6,No
+S51761,2026-06-29,Class 10,Physics,Recorded,Pune,72.5,10.2,73.7,Yes
+S51762,2026-06-29,Class 10,Chemistry,Recorded,Kolkata,90.4,14.2,87.2,Yes
+S51763,2026-06-29,Class 12,Chemistry,Live Class,Mumbai,61.2,11.2,57.3,No
+S51764,2026-06-29,Class 12,Physics,Live Class,Bengaluru,82.8,18.3,70.6,No
+S51765,2026-06-30,Class 12,Maths,Recorded,Lucknow,67.5,2.4,61.4,Yes
+S51766,2026-06-30,Class 12,Biology,Recorded,Bengaluru,74.1,15.6,66.6,No
+S51767,2026-06-30,Class 11,Biology,Live Class,Kolkata,62.0,5.5,42.7,Yes
+S51768,2026-06-30,Class 11,Chemistry,Live Class,Lucknow,86.5,7.0,73.8,No
+S51769,2026-07-01,Class 9,Maths,Live Class,Pune,72.2,1.5,65.1,No
+S51770,2026-07-01,Class 9,Biology,Recorded,Hyderabad,70.8,8.2,46.0,No
+S51771,2026-07-01,Class 9,Maths,Recorded,Mumbai,94.6,8.0,87.6,Yes
+S51772,2026-07-01,Class 11,Chemistry,Live Class,Chennai,84.0,5.1,55.6,No
+S51773,2026-07-01,Class 9,Maths,Live Class,Kolkata,100.0,6.2,62.4,Yes
+S51774,2026-07-01,Class 10,Maths,Recorded,Chennai,85.1,9.2,60.3,Yes
+S51775,2026-07-01,Class 12,Chemistry,Live Class,Delhi,80.3,8.2,65.2,Yes
+S51776,2026-07-02,Class 12,Physics,Live Class,Delhi,80.9,5.1,63.1,Yes
+S51777,2026-07-02,Class 12,Biology,Live Class,Delhi,100.0,13.6,62.6,No
+S51778,2026-07-02,Class 9,Maths,Recorded,Mumbai,96.8,8.4,73.9,Yes
+S51779,2026-07-02,Class 10,Biology,Live Class,Kolkata,75.2,12.4,69.3,No
+S51780,2026-07-02,Class 12,Maths,Live Class,Mumbai,83.7,7.0,60.0,Yes
+S51781,2026-07-02,Class 12,Maths,Recorded,Hyderabad,71.9,9.7,42.0,Yes
+S51782,2026-07-02,Class 9,Biology,Live Class,Delhi,88.6,13.3,62.1,No
+S51783,2026-07-02,Class 12,Physics,Live Class,Mumbai,72.1,20.2,62.5,No
+S51784,2026-07-03,Class 10,Biology,Live Class,Kolkata,71.4,4.1,65.2,Yes
+S51785,2026-07-03,Class 10,Chemistry,Live Class,Bengaluru,85.4,7.5,62.8,Yes
+S51786,2026-07-03,Class 9,Physics,1:1 Tutoring,Bengaluru,98.3,10.1,84.3,Yes
+S51787,2026-07-03,Class 12,Chemistry,1:1 Tutoring,Mumbai,91.2,9.8,100.0,Yes
+S51788,2026-07-03,Class 11,Biology,Recorded,Kolkata,89.7,5.0,67.5,Yes
+S51789,2026-07-04,Class 10,Physics,Live Class,Pune,79.8,6.8,62.4,No
+S51790,2026-07-04,Class 9,Maths,Recorded,Delhi,45.2,9.1,57.9,No
+S51791,2026-07-04,Class 10,Chemistry,Recorded,Bengaluru,76.8,13.0,77.6,No
+S51792,2026-07-04,Class 10,Chemistry,Live Class,Pune,76.2,13.1,78.2,Yes
+S51793,2026-07-04,Class 9,Biology,Live Class,Hyderabad,86.7,9.5,69.3,Yes
+S51794,2026-07-05,Class 9,Biology,Recorded,Lucknow,100.0,2.9,59.8,Yes
+S51795,2026-07-05,Class 9,Chemistry,Recorded,Kolkata,89.8,22.0,61.0,Yes
+S51796,2026-07-05,Class 11,Maths,Live Class,Lucknow,54.6,5.8,44.5,No
+S51797,2026-07-05,Class 11,Chemistry,Live Class,Hyderabad,79.4,6.6,60.8,No
+S51798,2026-07-05,Class 12,Biology,1:1 Tutoring,Chennai,75.8,6.2,57.2,Yes
+S51799,2026-07-05,Class 9,Chemistry,Live Class,Bengaluru,89.2,4.7,53.9,Yes

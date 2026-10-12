@@ -1,0 +1,2009 @@
+lead_id,created_date,city,lead_source,product,counsellor,stage,deal_value,calls_made
+L100000,2025-10-01,Kolkata,Referral,Foundation,Counsellor G,Won,20355.0,4
+L100001,2025-10-01,Kolkata,Webinar,NEET Pro,Counsellor E,Contacted,42885.0,3
+L100002,2025-10-01,Chennai,Webinar,Boards Crash,Counsellor G,Negotiation,5664.0,3
+L100003,2025-10-01,Pune,Organic,Foundation,Counsellor H,Lost,17563.0,7
+L100004,2025-10-01,Hyderabad,Paid Social,Foundation,Counsellor A,Demo Booked,16785.0,3
+L100005,2025-10-01,Delhi,Webinar,Boards Crash,Counsellor G,Won,5549.0,1
+L100006,2025-10-02,Mumbai,Organic,Foundation,Counsellor F,Negotiation,14488.0,6
+L100007,2025-10-02,Delhi,Webinar,Tutoring 1:1,Counsellor D,Lost,27104.0,3
+L100008,2025-10-02,Delhi,Webinar,Foundation,Counsellor E,Negotiation,19410.0,4
+L100009,2025-10-02,Mumbai,Paid Social,Foundation,Counsellor B,Lost,18303.0,6
+L100010,2025-10-02,Delhi,Paid Social,Foundation,Counsellor H,Negotiation,16780.0,2
+L100011,2025-10-02,Delhi,Organic,Foundation,Counsellor D,Negotiation,16747.0,2
+L100012,2025-10-03,Delhi,Organic,Foundation,Counsellor B,Won,15694.0,3
+L100013,2025-10-03,Delhi,Paid Social,Tutoring 1:1,Counsellor D,Demo Booked,24921.0,5
+L100014,2025-10-03,Bengaluru,Paid Social,Foundation,Counsellor D,Lost,15516.0,5
+L100015,2025-10-03,Mumbai,Paid Social,Tutoring 1:1,Counsellor C,Demo Booked,31465.0,4
+L100016,2025-10-03,Bengaluru,School Partnership,Tutoring 1:1,Counsellor E,Negotiation,35152.0,4
+L100017,2025-10-03,Delhi,Webinar,NEET Pro,Counsellor F,Demo Booked,42990.0,4
+L100018,2025-10-03,Bengaluru,Referral,JEE Pro,Counsellor E,Lost,39396.0,2
+L100019,2025-10-04,Hyderabad,School Partnership,JEE Pro,Counsellor G,Lost,43056.0,1
+L100020,2025-10-04,,Organic,Foundation,Counsellor D,Won,15362.0,4
+L100021,2025-10-04,Bengaluru,Organic,NEET Pro,Counsellor G,Contacted,33318.0,4
+L100022,2025-10-04,Pune,Referral,NEET Pro,Counsellor D,Contacted,33003.0,1
+L100023,2025-10-04,Delhi,Organic,Tutoring 1:1,Counsellor B,Won,30799.0,6
+L100024,2025-10-04,Pune,Organic,Foundation,Counsellor F,Contacted,18619.0,5
+L100025,2025-10-04,Delhi,Paid Social,Tutoring 1:1,Counsellor B,Contacted,25860.0,5
+L100026,2025-10-05,Delhi,Paid Social,JEE Pro,Counsellor A,Negotiation,49433.0,7
+L100027,2025-10-05,Mumbai,School Partnership,Tutoring 1:1,Counsellor F,Contacted,25687.0,3
+L100028,2025-10-05,Bengaluru,Referral,Foundation,Counsellor C,Contacted,18071.0,4
+L100029,2025-10-05,Lucknow,Paid Social,JEE Pro,Counsellor F,Lost,44504.0,2
+L100030,2025-10-05,Bengaluru,Paid Social,Foundation,Counsellor D,Lost,14627.0,3
+L100031,2025-10-06,Chennai,Organic,Boards Crash,Counsellor G,Lost,5450.0,2
+L100032,2025-10-06,Hyderabad,Organic,Foundation,Counsellor D,Negotiation,18235.0,8
+L100033,2025-10-06,Kolkata,Organic,NEET Pro,Counsellor H,Won,42838.0,4
+L100034,2025-10-06,Bengaluru,Referral,JEE Pro,Counsellor F,Negotiation,45056.0,4
+L100035,2025-10-07,Chennai,Organic,Boards Crash,Counsellor C,Won,6387.0,5
+L100036,2025-10-07,Mumbai,Paid Social,NEET Pro,Counsellor B,Contacted,33169.0,3
+L100037,2025-10-07,Delhi,Organic,Foundation,Counsellor A,Lost,14814.0,6
+L100038,2025-10-07,Bengaluru,Webinar,Foundation,Counsellor G,Lost,20594.0,4
+L100039,2025-10-07,Bengaluru,Organic,Foundation,Counsellor C,Won,15462.0,4
+L100040,2025-10-07,Pune,Organic,JEE Pro,Counsellor E,Demo Booked,39696.0,5
+L100041,2025-10-07,Lucknow,Webinar,Boards Crash,Counsellor C,Lost,6818.0,2
+L100042,2025-10-07,Delhi,Paid Social,JEE Pro,Counsellor G,Negotiation,34346.0,4
+L100043,2025-10-07,Kolkata,Webinar,Tutoring 1:1,Counsellor A,Lost,34293.0,3
+L100044,2025-10-08,Hyderabad,Referral,NEET Pro,Counsellor H,Negotiation,42463.0,5
+L100045,2025-10-08,Mumbai,Referral,Tutoring 1:1,Counsellor F,Won,28646.0,2
+L100046,2025-10-08,Mumbai,Organic,JEE Pro,Counsellor A,Lost,37634.0,6
+L100047,2025-10-08,Mumbai,Paid Social,JEE Pro,Counsellor E,Contacted,42358.0,1
+L100048,2025-10-08,Delhi,Paid Social,Boards Crash,Counsellor H,Lost,6779.0,4
+L100049,2025-10-08,Kolkata,Webinar,Tutoring 1:1,Counsellor E,Contacted,26426.0,4
+L100050,2025-10-09,Delhi,Paid Social,Boards Crash,Counsellor E,Contacted,5393.0,2
+L100051,2025-10-09,Mumbai,Paid Social,NEET Pro,Counsellor G,Lost,39996.0,2
+L100052,2025-10-09,Bengaluru,Organic,Tutoring 1:1,Counsellor E,Negotiation,33721.0,2
+L100053,2025-10-09,Lucknow,Paid Social,JEE Pro,Counsellor E,Contacted,40604.0,3
+L100054,2025-10-09,Bengaluru,Paid Social,Tutoring 1:1,Counsellor B,Lost,28935.0,2
+L100055,2025-10-09,Hyderabad,Organic,JEE Pro,Counsellor H,Won,49775.0,6
+L100056,2025-10-10,Hyderabad,Webinar,Tutoring 1:1,Counsellor D,Lost,30417.0,5
+L100057,2025-10-11,Delhi,Paid Social,Foundation,Counsellor G,Lost,20062.0,5
+L100058,2025-10-11,Lucknow,School Partnership,Tutoring 1:1,Counsellor B,Lost,32081.0,5
+L100059,2025-10-12,Bengaluru,Paid Social,NEET Pro,Counsellor E,Lost,40770.0,5
+L100060,2025-10-12,Delhi,Referral,JEE Pro,Counsellor H,Won,40893.0,4
+L100061,2025-10-12,Delhi,Referral,Tutoring 1:1,Counsellor E,Lost,31853.0,6
+L100062,2025-10-12,Hyderabad,Referral,Foundation,Counsellor A,Lost,20393.0,6
+L100063,2025-10-12,Mumbai,Organic,JEE Pro,Counsellor D,Lost,36018.0,4
+L100064,2025-10-12,Hyderabad,Paid Social,Foundation,Counsellor A,Demo Booked,16342.0,6
+L100065,2025-10-12,Pune,Organic,JEE Pro,Counsellor D,Contacted,37143.0,3
+L100066,2025-10-12,Bengaluru,Paid Social,Boards Crash,Counsellor D,Won,6744.0,3
+L100067,2025-10-12,Mumbai,Organic,Boards Crash,Counsellor F,Contacted,5577.0,2
+L100068,2025-10-12,Delhi,School Partnership,Foundation,Counsellor E,Lost,17629.0,2
+L100069,2025-10-13,Hyderabad,Organic,NEET Pro,Counsellor E,Demo Booked,40218.0,5
+L100070,2025-10-13,Mumbai,Referral,Tutoring 1:1,Counsellor G,Won,35482.0,5
+L100071,2025-10-14,Delhi,Paid Social,Foundation,Counsellor C,Contacted,14426.0,5
+L100072,2025-10-14,Bengaluru,Webinar,Tutoring 1:1,Counsellor H,Negotiation,26220.0,1
+L100073,2025-10-14,Delhi,Referral,NEET Pro,Counsellor F,Won,45895.0,2
+L100074,2025-10-14,Mumbai,Organic,NEET Pro,Counsellor D,Contacted,39316.0,4
+L100075,2025-10-14,Delhi,Webinar,NEET Pro,Counsellor E,Negotiation,37879.0,3
+L100076,2025-10-14,Delhi,School Partnership,Boards Crash,Counsellor A,Lost,7065.0,6
+L100077,2025-10-14,Hyderabad,School Partnership,Foundation,Counsellor A,Won,15171.0,3
+L100078,2025-10-14,Delhi,Paid Social,Tutoring 1:1,Counsellor H,Contacted,24186.0,6
+L100079,2025-10-15,Pune,Organic,Tutoring 1:1,Counsellor F,Won,34880.0,5
+L100080,2025-10-15,Delhi,Organic,Tutoring 1:1,Counsellor D,Contacted,33841.0,4
+L100081,2025-10-15,Delhi,School Partnership,JEE Pro,Counsellor D,Lost,42631.0,7
+L100082,2025-10-15,Delhi,Paid Social,Boards Crash,Counsellor G,Demo Booked,5438.0,6
+L100083,2025-10-15,Chennai,Organic,Boards Crash,Counsellor H,Lost,6667.0,7
+L100084,2025-10-15,Hyderabad,Webinar,NEET Pro,Counsellor C,Negotiation,34523.0,6
+L100085,2025-10-16,Lucknow,Referral,Boards Crash,Counsellor H,Negotiation,5824.0,4
+L100086,2025-10-16,Bengaluru,Paid Social,Boards Crash,Counsellor A,Contacted,5211.0,5
+L100087,2025-10-16,Lucknow,Paid Social,Foundation,Counsellor A,Contacted,17330.0,1
+L100088,2025-10-16,Bengaluru,Paid Social,Foundation,Counsellor H,Lost,14441.0,3
+L100089,2025-10-17,Chennai,Organic,NEET Pro,Counsellor C,Contacted,39348.0,2
+L100090,2025-10-17,Bengaluru,Organic,NEET Pro,Counsellor D,Lost,39243.0,1
+L100091,2025-10-17,Pune,Webinar,NEET Pro,Counsellor F,Lost,47716.0,3
+L100092,2025-10-17,Hyderabad,Paid Social,JEE Pro,Counsellor B,Lost,39968.0,3
+L100093,2025-10-17,Hyderabad,Paid Social,JEE Pro,Counsellor B,Lost,42535.0,3
+L100094,2025-10-17,Delhi,Paid Social,Boards Crash,Counsellor F,Demo Booked,5163.0,6
+L100095,2025-10-17,Delhi,Webinar,NEET Pro,Counsellor G,Negotiation,36514.0,7
+L100096,2025-10-17,Bengaluru,Organic,NEET Pro,Counsellor A,Lost,35674.0,3
+L100097,2025-10-18,Bengaluru,Paid Social,Boards Crash,Counsellor F,Won,7136.0,4
+L100098,2025-10-18,Hyderabad,Organic,Foundation,Counsellor B,Contacted,15319.0,5
+L100099,2025-10-18,Delhi,Organic,JEE Pro,Counsellor H,Negotiation,44390.0,5
+L100100,2025-10-18,Bengaluru,School Partnership,NEET Pro,Counsellor A,Won,45313.0,3
+L100101,2025-10-18,Bengaluru,Referral,Tutoring 1:1,Counsellor C,Won,35308.0,5
+L100102,2025-10-19,Bengaluru,Paid Social,NEET Pro,Counsellor H,Won,43283.0,8
+L100103,2025-10-19,Bengaluru,Paid Social,Tutoring 1:1,Counsellor F,Contacted,26169.0,5
+L100104,2025-10-19,Mumbai,Webinar,Foundation,Counsellor F,Lost,21024.0,7
+L100105,2025-10-19,Chennai,Paid Social,JEE Pro,Counsellor E,Lost,42272.0,2
+L100106,2025-10-19,Mumbai,Paid Social,JEE Pro,Counsellor C,Contacted,42466.0,6
+L100107,2025-10-19,Kolkata,Referral,JEE Pro,Counsellor F,Lost,48591.0,7
+L100108,2025-10-19,Bengaluru,Paid Social,Boards Crash,Counsellor E,Lost,4839.0,4
+L100109,2025-10-20,Hyderabad,Paid Social,Tutoring 1:1,Counsellor H,Negotiation,32634.0,9
+L100110,2025-10-20,Pune,Webinar,JEE Pro,Counsellor D,Lost,46386.0,2
+L100111,2025-10-20,Lucknow,School Partnership,Tutoring 1:1,Counsellor C,Lost,32043.0,0
+L100112,2025-10-20,Hyderabad,Organic,JEE Pro,Counsellor A,Won,36859.0,3
+L100113,2025-10-20,Hyderabad,School Partnership,NEET Pro,Counsellor B,Lost,46616.0,1
+L100114,2025-10-21,Lucknow,Organic,Tutoring 1:1,Counsellor C,Negotiation,26874.0,5
+L100115,2025-10-21,Bengaluru,Webinar,Boards Crash,Counsellor G,Lost,5578.0,3
+L100116,2025-10-21,Kolkata,Webinar,NEET Pro,Counsellor F,Lost,45356.0,4
+L100117,2025-10-21,Hyderabad,Organic,NEET Pro,Counsellor B,Demo Booked,46730.0,3
+L100118,2025-10-21,Kolkata,Paid Social,JEE Pro,Counsellor A,Won,38028.0,2
+L100119,2025-10-21,Delhi,Webinar,Foundation,Counsellor E,Lost,17849.0,1
+L100120,2025-10-22,Bengaluru,Organic,Foundation,Counsellor E,Contacted,20520.0,5
+L100121,2025-10-22,Bengaluru,Referral,JEE Pro,Counsellor H,Won,42641.0,4
+L100122,2025-10-22,Hyderabad,Webinar,Tutoring 1:1,Counsellor E,Lost,26732.0,4
+L100123,2025-10-23,Delhi,Paid Social,Tutoring 1:1,Counsellor G,Lost,28456.0,4
+L100124,2025-10-23,Chennai,Referral,JEE Pro,Counsellor C,Won,44222.0,3
+L100125,2025-10-23,Bengaluru,Organic,JEE Pro,Counsellor F,Lost,45764.0,3
+L100126,2025-10-23,Pune,Organic,JEE Pro,Counsellor H,Lost,38779.0,5
+L100127,2025-10-23,Mumbai,Paid Social,JEE Pro,Counsellor A,Lost,36785.0,6
+L100128,2025-10-23,Delhi,Organic,JEE Pro,Counsellor A,Lost,46714.0,0
+L100129,2025-10-23,,Paid Social,Tutoring 1:1,Counsellor H,Won,27643.0,5
+L100130,2025-10-23,Delhi,School Partnership,NEET Pro,Counsellor B,Lost,35935.0,3
+L100131,2025-10-23,Delhi,Paid Social,Foundation,Counsellor D,Lost,16476.0,6
+L100132,2025-10-24,Bengaluru,Paid Social,Tutoring 1:1,Counsellor H,Lost,26771.0,0
+L100133,2025-10-24,Bengaluru,Organic,Tutoring 1:1,Counsellor C,Won,25605.0,2
+L100134,2025-10-24,Lucknow,School Partnership,Foundation,Counsellor G,Lost,17175.0,4
+L100135,2025-10-24,Delhi,Paid Social,Tutoring 1:1,Counsellor A,Negotiation,26259.0,2
+L100136,2025-10-24,Hyderabad,School Partnership,JEE Pro,Counsellor G,Contacted,44473.0,7
+L100137,2025-10-24,Hyderabad,Paid Social,Tutoring 1:1,Counsellor B,Won,25241.0,2
+L100138,2025-10-24,Delhi,Paid Social,NEET Pro,Counsellor F,Won,37706.0,6
+L100139,2025-10-24,Chennai,Webinar,JEE Pro,Counsellor A,Demo Booked,49533.0,6
+L100140,2025-10-24,Delhi,Referral,JEE Pro,Counsellor H,Won,41299.0,5
+L100141,2025-10-25,Bengaluru,Paid Social,Tutoring 1:1,Counsellor E,Won,34704.0,6
+L100142,2025-10-25,Bengaluru,Paid Social,Boards Crash,Counsellor E,Contacted,5347.0,5
+L100143,2025-10-25,Delhi,Webinar,JEE Pro,Counsellor D,Lost,46801.0,8
+L100144,2025-10-25,Bengaluru,Paid Social,NEET Pro,Counsellor H,Won,33381.0,2
+L100145,2025-10-25,Hyderabad,School Partnership,NEET Pro,Counsellor C,Negotiation,47220.0,4
+L100146,2025-10-26,Mumbai,Organic,Foundation,Counsellor H,Demo Booked,21326.0,7
+L100147,2025-10-26,Bengaluru,Paid Social,Foundation,Counsellor G,Demo Booked,19382.0,2
+L100148,2025-10-26,Chennai,Paid Social,Tutoring 1:1,Counsellor A,Lost,26433.0,1
+L100149,2025-10-27,Kolkata,School Partnership,JEE Pro,Counsellor A,Contacted,46327.0,3
+L100150,2025-10-27,Mumbai,Organic,Foundation,Counsellor E,Lost,20192.0,6
+L100151,2025-10-27,,Webinar,JEE Pro,Counsellor D,Lost,44592.0,3
+L100152,2025-10-27,Mumbai,Referral,Boards Crash,Counsellor C,Won,6663.0,8
+L100153,2025-10-27,Bengaluru,Referral,Tutoring 1:1,Counsellor G,Won,27044.0,6
+L100154,2025-10-27,Kolkata,Referral,Boards Crash,Counsellor C,Lost,6674.0,3
+L100155,2025-10-28,Lucknow,School Partnership,Tutoring 1:1,Counsellor G,Demo Booked,26704.0,2
+L100156,2025-10-28,Bengaluru,Paid Social,Tutoring 1:1,Counsellor A,Lost,30072.0,5
+L100157,2025-10-29,Mumbai,Paid Social,NEET Pro,Counsellor F,Lost,38327.0,3
+L100158,2025-10-29,Bengaluru,Organic,Boards Crash,Counsellor E,Lost,5312.0,3
+L100159,2025-10-29,Chennai,Organic,NEET Pro,Counsellor E,Negotiation,36123.0,1
+L100160,2025-10-29,Bengaluru,Organic,NEET Pro,Counsellor H,Lost,46159.0,3
+L100161,2025-10-29,Pune,School Partnership,NEET Pro,Counsellor B,Contacted,32986.0,3
+L100162,2025-10-29,Bengaluru,Webinar,Foundation,Counsellor A,Won,17939.0,3
+L100163,2025-10-30,Hyderabad,Organic,Foundation,Counsellor D,Lost,17874.0,6
+L100164,2025-10-30,Hyderabad,Referral,NEET Pro,Counsellor E,Won,33778.0,5
+L100165,2025-10-30,Kolkata,Paid Social,Foundation,Counsellor F,Lost,15002.0,1
+L100166,2025-10-30,Bengaluru,Paid Social,NEET Pro,Counsellor D,Contacted,38987.0,5
+L100167,2025-10-30,Mumbai,Referral,Boards Crash,Counsellor G,Contacted,5660.0,2
+L100168,2025-10-30,Bengaluru,Paid Social,JEE Pro,Counsellor E,Contacted,37949.0,2
+L100169,2025-10-30,Bengaluru,School Partnership,JEE Pro,Counsellor E,Lost,37888.0,4
+L100170,2025-10-31,Bengaluru,Paid Social,NEET Pro,Counsellor B,Contacted,35663.0,2
+L100171,2025-10-31,Bengaluru,Referral,Boards Crash,Counsellor H,Won,6331.0,6
+L100172,2025-10-31,Chennai,Referral,NEET Pro,Counsellor A,Won,47636.0,2
+L100173,2025-10-31,Mumbai,Organic,Boards Crash,Counsellor E,Demo Booked,5536.0,5
+L100174,2025-11-01,Delhi,Organic,NEET Pro,Counsellor B,Lost,38394.0,7
+L100175,2025-11-01,Mumbai,Paid Social,NEET Pro,Counsellor G,Lost,43159.0,6
+L100176,2025-11-01,Bengaluru,Webinar,JEE Pro,Counsellor A,Won,38760.0,4
+L100177,2025-11-02,Bengaluru,Webinar,Tutoring 1:1,Counsellor H,Won,25520.0,1
+L100178,2025-11-02,Hyderabad,Referral,Boards Crash,Counsellor C,Won,6358.0,8
+L100179,2025-11-02,Hyderabad,Organic,Boards Crash,Counsellor B,Lost,5651.0,0
+L100180,2025-11-02,Hyderabad,School Partnership,JEE Pro,Counsellor A,Lost,33664.0,2
+L100181,2025-11-02,Lucknow,Webinar,Tutoring 1:1,Counsellor B,Lost,27941.0,1
+L100182,2025-11-02,Lucknow,Webinar,Foundation,Counsellor B,Won,20732.0,7
+L100183,2025-11-02,Pune,Paid Social,NEET Pro,Counsellor H,Lost,32850.0,0
+L100184,2025-11-02,Mumbai,School Partnership,Tutoring 1:1,Counsellor C,Won,34695.0,3
+L100185,2025-11-02,Kolkata,Organic,Tutoring 1:1,Counsellor C,Lost,31374.0,2
+L100186,2025-11-02,Delhi,Organic,Boards Crash,Counsellor F,Lost,6799.0,1
+L100187,2025-11-02,Pune,Organic,Boards Crash,Counsellor D,Lost,6147.0,7
+L100188,2025-11-03,Delhi,Organic,Boards Crash,Counsellor G,Contacted,6505.0,4
+L100189,2025-11-03,Lucknow,Organic,JEE Pro,Counsellor D,Won,48491.0,2
+L100190,2025-11-03,Bengaluru,Organic,Tutoring 1:1,Counsellor F,Demo Booked,26062.0,4
+L100191,2025-11-03,Kolkata,Paid Social,Foundation,Counsellor G,Lost,15193.0,5
+L100192,2025-11-03,Mumbai,Organic,JEE Pro,Counsellor H,Demo Booked,43198.0,4
+L100193,2025-11-03,Pune,Paid Social,JEE Pro,Counsellor A,Demo Booked,41648.0,3
+L100194,2025-11-03,Mumbai,Organic,NEET Pro,Counsellor E,Negotiation,40326.0,1
+L100195,2025-11-03,Pune,Referral,Boards Crash,Counsellor D,Lost,5664.0,3
+L100196,2025-11-03,Hyderabad,Organic,Tutoring 1:1,Counsellor D,Lost,35759.0,3
+L100197,2025-11-03,Hyderabad,Paid Social,Tutoring 1:1,Counsellor D,Lost,31248.0,7
+L100198,2025-11-04,Lucknow,School Partnership,Boards Crash,Counsellor D,Lost,6266.0,1
+L100199,2025-11-04,Bengaluru,Paid Social,JEE Pro,Counsellor A,Contacted,34079.0,4
+L100200,2025-11-04,Chennai,Webinar,Foundation,Counsellor E,Lost,16392.0,6
+L100201,2025-11-04,Mumbai,Referral,Tutoring 1:1,Counsellor D,Demo Booked,27390.0,4
+L100202,2025-11-04,Hyderabad,Referral,Tutoring 1:1,Counsellor A,Contacted,35913.0,2
+L100203,2025-11-05,Hyderabad,Organic,Tutoring 1:1,Counsellor G,Negotiation,25652.0,3
+L100204,2025-11-05,Delhi,Paid Social,JEE Pro,Counsellor H,Lost,42086.0,5
+L100205,2025-11-05,Mumbai,Organic,JEE Pro,Counsellor A,Lost,45886.0,3
+L100206,2025-11-05,Lucknow,Webinar,Foundation,Counsellor F,Contacted,18875.0,3
+L100207,2025-11-05,Mumbai,School Partnership,Foundation,Counsellor C,Lost,19884.0,3
+L100208,2025-11-06,Chennai,Webinar,NEET Pro,Counsellor B,Lost,37783.0,4
+L100209,2025-11-06,Bengaluru,Organic,Tutoring 1:1,Counsellor E,Negotiation,25956.0,5
+L100210,2025-11-06,Mumbai,Paid Social,NEET Pro,Counsellor D,Contacted,35644.0,3
+L100211,2025-11-06,Hyderabad,Paid Social,NEET Pro,Counsellor E,Contacted,40792.0,7
+L100212,2025-11-06,Delhi,Organic,JEE Pro,Counsellor F,Demo Booked,42334.0,8
+L100213,2025-11-06,Bengaluru,Referral,Foundation,Counsellor G,Won,17326.0,3
+L100214,2025-11-06,Kolkata,Webinar,Tutoring 1:1,Counsellor F,Lost,35027.0,4
+L100215,2025-11-06,Kolkata,Paid Social,Boards Crash,Counsellor C,Won,5762.0,6
+L100216,2025-11-07,Delhi,Webinar,NEET Pro,Counsellor D,Negotiation,35399.0,6
+L100217,2025-11-07,Bengaluru,Webinar,Tutoring 1:1,Counsellor A,Lost,31213.0,7
+L100218,2025-11-07,Pune,Organic,JEE Pro,Counsellor D,Won,43376.0,3
+L100219,2025-11-07,Kolkata,Webinar,Foundation,Counsellor C,Lost,20051.0,4
+L100220,2025-11-07,Pune,Webinar,Boards Crash,Counsellor A,Lost,6144.0,3
+L100221,2025-11-07,Pune,Organic,JEE Pro,Counsellor G,Won,33733.0,4
+L100222,2025-11-07,Delhi,Paid Social,NEET Pro,Counsellor C,Lost,39743.0,3
+L100223,2025-11-07,Hyderabad,Referral,JEE Pro,Counsellor D,Negotiation,36696.0,10
+L100224,2025-11-08,Mumbai,Referral,Foundation,Counsellor E,Lost,16091.0,4
+L100225,2025-11-08,Delhi,Organic,Boards Crash,Counsellor D,Contacted,6648.0,3
+L100226,2025-11-08,Delhi,Referral,Foundation,Counsellor A,Lost,21333.0,1
+L100227,2025-11-08,Hyderabad,Referral,Tutoring 1:1,Counsellor G,Won,34468.0,5
+L100228,2025-11-09,Lucknow,Webinar,NEET Pro,Counsellor H,Contacted,35768.0,5
+L100229,2025-11-09,Mumbai,Webinar,Boards Crash,Counsellor E,Lost,5823.0,3
+L100230,2025-11-09,Delhi,Paid Social,NEET Pro,Counsellor H,Won,45771.0,5
+L100231,2025-11-09,Hyderabad,Referral,Foundation,Counsellor B,Won,20458.0,6
+L100232,2025-11-09,Hyderabad,Webinar,NEET Pro,Counsellor A,Lost,32928.0,3
+L100233,2025-11-09,Delhi,Webinar,Foundation,Counsellor D,Won,16405.0,5
+L100234,2025-11-10,Hyderabad,Organic,NEET Pro,Counsellor G,Negotiation,41477.0,2
+L100235,2025-11-10,Hyderabad,Organic,Foundation,Counsellor H,Contacted,15808.0,5
+L100236,2025-11-10,Kolkata,Referral,NEET Pro,Counsellor H,Negotiation,32325.0,6
+L100237,2025-11-10,Bengaluru,Organic,Tutoring 1:1,Counsellor A,Negotiation,26651.0,3
+L100238,2025-11-10,Hyderabad,Paid Social,NEET Pro,Counsellor A,Lost,40663.0,4
+L100239,2025-11-10,Delhi,School Partnership,NEET Pro,Counsellor G,Lost,43433.0,9
+L100240,2025-11-10,Pune,Paid Social,JEE Pro,Counsellor H,Contacted,46003.0,6
+L100241,2025-11-10,Hyderabad,Organic,Foundation,Counsellor C,Contacted,18475.0,1
+L100242,2025-11-11,,Paid Social,JEE Pro,Counsellor G,Won,43657.0,7
+L100243,2025-11-11,Pune,Referral,Foundation,Counsellor F,Demo Booked,18150.0,8
+L100244,2025-11-11,Bengaluru,Organic,Boards Crash,Counsellor F,Won,6706.0,3
+L100245,2025-11-11,Bengaluru,Paid Social,Tutoring 1:1,Counsellor B,Lost,31804.0,0
+L100246,2025-11-12,Kolkata,Organic,Foundation,Counsellor C,Lost,19314.0,7
+L100247,2025-11-12,Bengaluru,Referral,NEET Pro,Counsellor F,Demo Booked,46450.0,4
+L100248,2025-11-12,Chennai,Webinar,Boards Crash,Counsellor D,Contacted,5082.0,7
+L100249,2025-11-12,Hyderabad,Paid Social,JEE Pro,Counsellor G,Contacted,34243.0,4
+L100250,2025-11-12,Delhi,Paid Social,JEE Pro,Counsellor H,Lost,42536.0,3
+L100251,2025-11-12,Hyderabad,Paid Social,JEE Pro,Counsellor A,Lost,41098.0,6
+L100252,2025-11-13,Bengaluru,Organic,NEET Pro,Counsellor F,Lost,46532.0,4
+L100253,2025-11-13,Hyderabad,Organic,JEE Pro,Counsellor H,Lost,38783.0,3
+L100254,2025-11-13,Chennai,Paid Social,JEE Pro,Counsellor H,Won,44965.0,2
+L100255,2025-11-13,Bengaluru,Paid Social,Boards Crash,Counsellor A,Won,6469.0,4
+L100256,2025-11-13,Chennai,Organic,Foundation,Counsellor G,Contacted,16117.0,5
+L100257,2025-11-13,Delhi,Webinar,Tutoring 1:1,Counsellor A,Lost,24101.0,3
+L100258,2025-11-13,Delhi,Paid Social,Foundation,Counsellor C,Contacted,17414.0,3
+L100259,2025-11-13,Chennai,Organic,Tutoring 1:1,Counsellor G,Lost,26422.0,10
+L100260,2025-11-13,Kolkata,Organic,Tutoring 1:1,Counsellor A,Won,26287.0,3
+L100261,2025-11-13,Delhi,Webinar,Foundation,Counsellor E,Negotiation,17715.0,5
+L100262,2025-11-14,Lucknow,Organic,Boards Crash,Counsellor E,Demo Booked,5230.0,7
+L100263,2025-11-14,Bengaluru,Organic,JEE Pro,Counsellor A,Lost,43008.0,4
+L100264,2025-11-14,Hyderabad,Organic,Boards Crash,Counsellor E,Won,6278.0,4
+L100265,2025-11-14,Mumbai,Organic,Foundation,Counsellor F,Lost,17786.0,6
+L100266,2025-11-14,Chennai,School Partnership,JEE Pro,Counsellor D,Contacted,43081.0,2
+L100267,2025-11-14,Bengaluru,Organic,Boards Crash,Counsellor E,Contacted,5274.0,4
+L100268,2025-11-14,Delhi,Paid Social,Tutoring 1:1,Counsellor A,Demo Booked,30906.0,1
+L100269,2025-11-14,Mumbai,Webinar,Foundation,Counsellor H,Negotiation,20547.0,3
+L100270,2025-11-14,Bengaluru,Referral,NEET Pro,Counsellor H,Lost,45578.0,4
+L100271,2025-11-15,Hyderabad,Organic,Tutoring 1:1,Counsellor H,Contacted,25321.0,0
+L100272,2025-11-15,Pune,Paid Social,Boards Crash,Counsellor G,Demo Booked,5579.0,1
+L100273,2025-11-15,Chennai,Webinar,NEET Pro,Counsellor H,Won,43480.0,3
+L100274,2025-11-15,Bengaluru,Paid Social,JEE Pro,Counsellor D,Contacted,43527.0,3
+L100275,2025-11-15,Mumbai,Referral,JEE Pro,Counsellor E,Won,40096.0,3
+L100276,2025-11-16,Lucknow,Organic,Tutoring 1:1,Counsellor D,Won,34000.0,3
+L100277,2025-11-16,Bengaluru,Referral,Tutoring 1:1,Counsellor G,Demo Booked,34741.0,3
+L100278,2025-11-16,Hyderabad,Webinar,NEET Pro,Counsellor A,Demo Booked,41000.0,5
+L100279,2025-11-16,Delhi,Webinar,Foundation,Counsellor F,Lost,16198.0,5
+L100280,2025-11-17,Chennai,Referral,JEE Pro,Counsellor C,Demo Booked,49772.0,4
+L100281,2025-11-17,Hyderabad,Paid Social,NEET Pro,Counsellor C,Contacted,39687.0,5
+L100282,2025-11-17,Chennai,Organic,Boards Crash,Counsellor F,Negotiation,5630.0,3
+L100283,2025-11-17,Bengaluru,Paid Social,NEET Pro,Counsellor F,Lost,34029.0,3
+L100284,2025-11-18,Hyderabad,Webinar,Boards Crash,Counsellor F,Contacted,7062.0,4
+L100285,2025-11-18,Delhi,Organic,Tutoring 1:1,Counsellor C,Lost,32286.0,4
+L100286,2025-11-18,Bengaluru,Organic,JEE Pro,Counsellor F,Lost,34796.0,4
+L100287,2025-11-18,Delhi,Paid Social,NEET Pro,Counsellor D,Contacted,34906.0,2
+L100288,2025-11-18,Kolkata,Referral,NEET Pro,Counsellor G,Negotiation,46790.0,11
+L100289,2025-11-18,Mumbai,Webinar,Foundation,Counsellor A,Lost,14944.0,5
+L100290,2025-11-19,,Organic,Boards Crash,Counsellor D,Won,6422.0,2
+L100291,2025-11-19,Delhi,Organic,NEET Pro,Counsellor B,Negotiation,41107.0,2
+L100292,2025-11-19,Mumbai,Webinar,JEE Pro,Counsellor H,Lost,42000.0,2
+L100293,2025-11-19,Mumbai,Referral,Tutoring 1:1,Counsellor E,Lost,32298.0,6
+L100294,2025-11-19,Chennai,Referral,Tutoring 1:1,Counsellor B,Won,28037.0,5
+L100295,2025-11-20,Pune,School Partnership,NEET Pro,Counsellor G,Contacted,42016.0,4
+L100296,2025-11-20,Delhi,School Partnership,Tutoring 1:1,Counsellor D,Lost,34523.0,6
+L100297,2025-11-20,Mumbai,Webinar,Foundation,Counsellor G,Negotiation,18523.0,4
+L100298,2025-11-20,Delhi,Webinar,Boards Crash,Counsellor E,Demo Booked,6060.0,5
+L100299,2025-11-20,Mumbai,Paid Social,Boards Crash,Counsellor B,Lost,6268.0,8
+L100300,2025-11-20,Bengaluru,Referral,NEET Pro,Counsellor D,Lost,34980.0,9
+L100301,2025-11-21,Lucknow,Organic,Tutoring 1:1,Counsellor E,Lost,28002.0,8
+L100302,2025-11-21,Delhi,Webinar,Foundation,Counsellor F,Won,19557.0,8
+L100303,2025-11-21,Bengaluru,Webinar,Tutoring 1:1,Counsellor C,Demo Booked,30815.0,4
+L100304,2025-11-21,Delhi,Referral,NEET Pro,Counsellor B,Lost,33888.0,8
+L100305,2025-11-21,Chennai,Paid Social,NEET Pro,Counsellor B,Contacted,45888.0,2
+L100306,2025-11-22,Delhi,Paid Social,JEE Pro,Counsellor D,Demo Booked,40510.0,5
+L100307,2025-11-22,Delhi,Paid Social,Boards Crash,Counsellor C,Lost,5393.0,3
+L100308,2025-11-22,Lucknow,Organic,Foundation,Counsellor H,Lost,15477.0,7
+L100309,2025-11-22,Kolkata,Webinar,NEET Pro,Counsellor F,Lost,46799.0,5
+L100310,2025-11-22,Delhi,Paid Social,Foundation,Counsellor H,Lost,19660.0,3
+L100311,2025-11-23,Bengaluru,Paid Social,Boards Crash,Counsellor H,Won,5543.0,3
+L100312,2025-11-23,Delhi,Paid Social,Boards Crash,Counsellor A,Lost,5262.0,9
+L100313,2025-11-23,Delhi,Referral,Boards Crash,Counsellor A,Won,6844.0,4
+L100314,2025-11-23,Chennai,Paid Social,NEET Pro,Counsellor A,Demo Booked,34347.0,4
+L100315,2025-11-23,Mumbai,Webinar,Tutoring 1:1,Counsellor C,Lost,30262.0,5
+L100316,2025-11-23,,School Partnership,Foundation,Counsellor C,Contacted,19211.0,2
+L100317,2025-11-23,Lucknow,Paid Social,Boards Crash,Counsellor F,Won,7051.0,10
+L100318,2025-11-23,Pune,Organic,Tutoring 1:1,Counsellor B,Contacted,32235.0,5
+L100319,2025-11-24,Delhi,Webinar,Foundation,Counsellor D,Won,15175.0,1
+L100320,2025-11-24,Delhi,School Partnership,Foundation,Counsellor G,Negotiation,18146.0,4
+L100321,2025-11-24,Mumbai,Organic,Tutoring 1:1,Counsellor D,Demo Booked,34934.0,7
+L100322,2025-11-24,Hyderabad,Referral,Foundation,Counsellor D,Won,16345.0,2
+L100323,2025-11-25,Pune,Webinar,JEE Pro,Counsellor G,Won,35079.0,1
+L100324,2025-11-25,Pune,School Partnership,JEE Pro,Counsellor F,Contacted,34584.0,5
+L100325,2025-11-25,Delhi,Organic,Boards Crash,Counsellor A,Won,6802.0,6
+L100326,2025-11-25,Kolkata,Organic,NEET Pro,Counsellor B,Lost,46939.0,1
+L100327,2025-11-25,Delhi,School Partnership,Boards Crash,Counsellor H,Won,5907.0,1
+L100328,2025-11-25,Kolkata,Organic,JEE Pro,Counsellor D,Contacted,38743.0,3
+L100329,2025-11-25,Bengaluru,Organic,JEE Pro,Counsellor C,Contacted,40278.0,3
+L100330,2025-11-25,Pune,Paid Social,JEE Pro,Counsellor D,Lost,36592.0,4
+L100331,2025-11-26,Hyderabad,Paid Social,NEET Pro,Counsellor G,Lost,38981.0,6
+L100332,2025-11-26,Bengaluru,Webinar,Boards Crash,Counsellor G,Won,5933.0,6
+L100333,2025-11-26,Delhi,Organic,Foundation,Counsellor G,Contacted,18242.0,6
+L100334,2025-11-26,Delhi,School Partnership,JEE Pro,Counsellor H,Demo Booked,35365.0,0
+L100335,2025-11-27,Mumbai,Organic,Tutoring 1:1,Counsellor G,Contacted,35693.0,4
+L100336,2025-11-27,Chennai,Webinar,Boards Crash,Counsellor C,Negotiation,6302.0,6
+L100337,2025-11-27,Lucknow,Organic,JEE Pro,Counsellor E,Negotiation,43221.0,5
+L100338,2025-11-27,Hyderabad,Paid Social,Foundation,Counsellor D,Demo Booked,20352.0,5
+L100339,2025-11-27,Bengaluru,Organic,Boards Crash,Counsellor F,Contacted,4917.0,2
+L100340,2025-11-27,Lucknow,Paid Social,NEET Pro,Counsellor B,Contacted,41382.0,3
+L100341,2025-11-27,Lucknow,Paid Social,NEET Pro,Counsellor A,Lost,37911.0,4
+L100342,2025-11-28,Bengaluru,Referral,Tutoring 1:1,Counsellor C,Won,31693.0,1
+L100343,2025-11-28,Hyderabad,Paid Social,Boards Crash,Counsellor D,Contacted,7052.0,1
+L100344,2025-11-28,Hyderabad,Organic,Boards Crash,Counsellor H,Negotiation,4967.0,5
+L100345,2025-11-28,Hyderabad,School Partnership,Tutoring 1:1,Counsellor F,Contacted,950000.0,7
+L100346,2025-11-28,Kolkata,Webinar,NEET Pro,Counsellor H,Negotiation,37618.0,9
+L100347,2025-11-28,Bengaluru,School Partnership,Foundation,Counsellor C,Contacted,18244.0,5
+L100348,2025-11-28,Delhi,Organic,JEE Pro,Counsellor F,Lost,47517.0,0
+L100349,2025-11-28,Delhi,Paid Social,NEET Pro,Counsellor F,Lost,43740.0,1
+L100350,2025-11-29,Hyderabad,Organic,Boards Crash,Counsellor D,Lost,6118.0,2
+L100351,2025-11-29,Bengaluru,Organic,JEE Pro,Counsellor E,Lost,36840.0,5
+L100352,2025-11-29,Delhi,Organic,JEE Pro,Counsellor C,Won,42059.0,3
+L100353,2025-11-29,Bengaluru,Paid Social,JEE Pro,Counsellor F,Contacted,40994.0,5
+L100354,2025-11-30,Bengaluru,Organic,JEE Pro,Counsellor H,Contacted,35499.0,5
+L100355,2025-11-30,Mumbai,Organic,Tutoring 1:1,Counsellor G,Lost,34978.0,5
+L100356,2025-12-01,Bengaluru,Webinar,NEET Pro,Counsellor D,Won,45461.0,8
+L100357,2025-12-01,Mumbai,Paid Social,Tutoring 1:1,Counsellor C,Negotiation,31360.0,4
+L100358,2025-12-01,Bengaluru,Organic,Foundation,Counsellor A,Contacted,16178.0,10
+L100359,2025-12-02,Kolkata,Referral,Boards Crash,Counsellor E,Lost,6184.0,4
+L100360,2025-12-02,Bengaluru,Organic,NEET Pro,Counsellor C,Demo Booked,37173.0,7
+L100361,2025-12-02,Kolkata,Paid Social,NEET Pro,Counsellor A,Lost,42372.0,3
+L100362,2025-12-02,Hyderabad,Organic,JEE Pro,Counsellor C,Lost,34225.0,4
+L100363,2025-12-02,Bengaluru,Paid Social,Boards Crash,Counsellor G,Lost,6248.0,2
+L100364,2025-12-03,Delhi,Referral,Boards Crash,Counsellor G,Lost,6143.0,5
+L100365,2025-12-03,Delhi,Paid Social,NEET Pro,Counsellor G,Lost,46805.0,4
+L100366,2025-12-03,Mumbai,Paid Social,NEET Pro,Counsellor E,Won,41137.0,7
+L100367,2025-12-03,Hyderabad,Webinar,Boards Crash,Counsellor F,Lost,6678.0,4
+L100368,2025-12-03,Bengaluru,Webinar,Foundation,Counsellor A,Negotiation,15999.0,4
+L100369,2025-12-03,Bengaluru,Organic,Boards Crash,Counsellor F,Demo Booked,6126.0,3
+L100370,2025-12-04,Hyderabad,Organic,NEET Pro,Counsellor F,Contacted,37180.0,2
+L100371,2025-12-04,Bengaluru,Organic,JEE Pro,Counsellor E,Contacted,50155.0,3
+L100372,2025-12-04,Pune,School Partnership,Foundation,Counsellor H,Demo Booked,21295.0,5
+L100373,2025-12-04,Delhi,School Partnership,Boards Crash,Counsellor C,Lost,5389.0,6
+L100374,2025-12-04,Bengaluru,Organic,JEE Pro,Counsellor C,Negotiation,44075.0,1
+L100375,2025-12-04,Kolkata,School Partnership,Tutoring 1:1,Counsellor G,Lost,24855.0,11
+L100376,2025-12-05,Delhi,Organic,JEE Pro,Counsellor A,Lost,42812.0,7
+L100377,2025-12-05,Lucknow,Paid Social,Tutoring 1:1,Counsellor B,Lost,35820.0,4
+L100378,2025-12-05,Chennai,Paid Social,Boards Crash,Counsellor B,Lost,5135.0,6
+L100379,2025-12-05,Chennai,School Partnership,Boards Crash,Counsellor E,Negotiation,6551.0,6
+L100380,2025-12-05,Chennai,Organic,Tutoring 1:1,Counsellor C,Lost,30186.0,2
+L100381,2025-12-05,Bengaluru,Paid Social,Foundation,Counsellor A,Negotiation,21552.0,1
+L100382,2025-12-05,Bengaluru,Paid Social,JEE Pro,Counsellor C,Lost,40462.0,9
+L100383,2025-12-05,Delhi,Organic,Foundation,Counsellor F,Lost,20356.0,2
+L100384,2025-12-05,Delhi,Organic,Boards Crash,Counsellor F,Lost,6232.0,4
+L100385,2025-12-06,Delhi,Paid Social,NEET Pro,Counsellor E,Contacted,44799.0,3
+L100386,2025-12-06,Mumbai,Webinar,NEET Pro,Counsellor C,Negotiation,45635.0,8
+L100387,2025-12-06,Kolkata,Webinar,Boards Crash,Counsellor F,Lost,6355.0,4
+L100388,2025-12-06,Kolkata,Webinar,Foundation,Counsellor E,Won,16920.0,1
+L100389,2025-12-06,Chennai,Webinar,Boards Crash,Counsellor B,Won,6231.0,6
+L100390,2025-12-06,Hyderabad,Referral,JEE Pro,Counsellor C,Lost,46874.0,3
+L100391,2025-12-06,,Webinar,JEE Pro,Counsellor D,Lost,47383.0,2
+L100392,2025-12-06,Bengaluru,Referral,Tutoring 1:1,Counsellor C,Lost,31581.0,2
+L100393,2025-12-07,Bengaluru,Referral,Tutoring 1:1,Counsellor F,Negotiation,29470.0,1
+L100394,2025-12-07,Mumbai,Paid Social,Boards Crash,Counsellor G,Contacted,5001.0,1
+L100395,2025-12-07,Chennai,Organic,NEET Pro,Counsellor D,Lost,33851.0,2
+L100396,2025-12-07,Delhi,Webinar,NEET Pro,Counsellor G,Won,42327.0,4
+L100397,2025-12-07,Bengaluru,Organic,JEE Pro,Counsellor F,Won,40247.0,1
+L100398,2025-12-07,Bengaluru,School Partnership,Tutoring 1:1,Counsellor B,Negotiation,32121.0,4
+L100399,2025-12-07,Bengaluru,Paid Social,JEE Pro,Counsellor A,Lost,42349.0,5
+L100400,2025-12-08,Pune,Paid Social,Boards Crash,Counsellor F,Negotiation,5757.0,3
+L100401,2025-12-08,Delhi,School Partnership,Foundation,Counsellor C,Contacted,15873.0,2
+L100402,2025-12-08,Pune,Organic,Tutoring 1:1,Counsellor A,Demo Booked,34167.0,2
+L100403,2025-12-08,Chennai,Paid Social,NEET Pro,Counsellor A,Demo Booked,36347.0,6
+L100404,2025-12-08,Kolkata,Organic,Tutoring 1:1,Counsellor B,Lost,31573.0,6
+L100405,2025-12-08,Chennai,School Partnership,NEET Pro,Counsellor F,Lost,33628.0,4
+L100406,2025-12-09,Delhi,Paid Social,JEE Pro,Counsellor F,Lost,49785.0,4
+L100407,2025-12-09,Bengaluru,Webinar,JEE Pro,Counsellor D,Negotiation,36164.0,9
+L100408,2025-12-10,Delhi,Organic,JEE Pro,Counsellor B,Lost,42065.0,1
+L100409,2025-12-10,Bengaluru,Webinar,NEET Pro,Counsellor F,Lost,44991.0,3
+L100410,2025-12-10,Chennai,Referral,JEE Pro,Counsellor E,Won,37512.0,2
+L100411,2025-12-10,Bengaluru,Referral,Tutoring 1:1,Counsellor G,Contacted,31743.0,3
+L100412,2025-12-11,Hyderabad,School Partnership,NEET Pro,Counsellor D,Lost,38529.0,3
+L100413,2025-12-11,Delhi,Paid Social,JEE Pro,Counsellor A,Contacted,49767.0,8
+L100414,2025-12-11,Mumbai,Paid Social,Boards Crash,Counsellor F,Lost,5121.0,4
+L100415,2025-12-11,Delhi,Referral,Foundation,Counsellor E,Won,15778.0,2
+L100416,2025-12-11,Kolkata,Webinar,Tutoring 1:1,Counsellor B,Contacted,30542.0,2
+L100417,2025-12-11,Bengaluru,Paid Social,Tutoring 1:1,Counsellor G,Contacted,32176.0,3
+L100418,2025-12-11,Delhi,Referral,Tutoring 1:1,Counsellor E,Won,30910.0,7
+L100419,2025-12-12,Bengaluru,Organic,JEE Pro,Counsellor H,Won,36666.0,5
+L100420,2025-12-12,Delhi,Paid Social,NEET Pro,Counsellor E,Lost,39846.0,5
+L100421,2025-12-12,Pune,Webinar,NEET Pro,Counsellor A,Contacted,33038.0,2
+L100422,2025-12-12,Lucknow,Organic,Foundation,Counsellor D,Lost,19247.0,3
+L100423,2025-12-12,Bengaluru,Referral,Boards Crash,Counsellor A,Lost,5589.0,6
+L100424,2025-12-13,Pune,Organic,JEE Pro,Counsellor E,Won,49747.0,7
+L100425,2025-12-13,Kolkata,School Partnership,Boards Crash,Counsellor D,Negotiation,5760.0,7
+L100426,2025-12-13,Bengaluru,Paid Social,Foundation,Counsellor H,Negotiation,14772.0,6
+L100427,2025-12-13,Bengaluru,Paid Social,Boards Crash,Counsellor G,Contacted,4829.0,5
+L100428,2025-12-13,Pune,Referral,Boards Crash,Counsellor G,Lost,5591.0,3
+L100429,2025-12-13,Bengaluru,Paid Social,JEE Pro,Counsellor A,Contacted,37996.0,0
+L100430,2025-12-14,Chennai,Referral,NEET Pro,Counsellor B,Won,47209.0,2
+L100431,2025-12-14,Mumbai,Organic,Tutoring 1:1,Counsellor H,Demo Booked,33364.0,6
+L100432,2025-12-14,Lucknow,Paid Social,Foundation,Counsellor D,Lost,17045.0,4
+L100433,2025-12-14,Mumbai,Paid Social,Foundation,Counsellor F,Lost,16272.0,6
+L100434,2025-12-15,Bengaluru,School Partnership,NEET Pro,Counsellor G,Lost,33084.0,1
+L100435,2025-12-15,Hyderabad,Organic,JEE Pro,Counsellor A,Lost,35676.0,2
+L100436,2025-12-15,Mumbai,Paid Social,Boards Crash,Counsellor C,Demo Booked,6582.0,5
+L100437,2025-12-15,Bengaluru,Referral,Foundation,Counsellor F,Lost,14809.0,5
+L100438,2025-12-16,Pune,Paid Social,JEE Pro,Counsellor A,Lost,46788.0,3
+L100439,2025-12-16,Chennai,Organic,Boards Crash,Counsellor D,Lost,5747.0,6
+L100440,2025-12-16,Lucknow,Paid Social,JEE Pro,Counsellor D,Demo Booked,45076.0,2
+L100441,2025-12-16,Hyderabad,Organic,Boards Crash,Counsellor B,Lost,6279.0,7
+L100442,2025-12-16,Mumbai,Organic,Tutoring 1:1,Counsellor F,Demo Booked,25305.0,1
+L100443,2025-12-16,Bengaluru,Webinar,NEET Pro,Counsellor F,Negotiation,44091.0,5
+L100444,2025-12-17,Lucknow,Organic,NEET Pro,Counsellor B,Lost,46040.0,4
+L100445,2025-12-17,Kolkata,Paid Social,JEE Pro,Counsellor F,Demo Booked,35456.0,5
+L100446,2025-12-17,Hyderabad,Webinar,NEET Pro,Counsellor G,Won,47532.0,5
+L100447,2025-12-17,Hyderabad,Referral,Boards Crash,Counsellor E,Negotiation,6735.0,6
+L100448,2025-12-17,Pune,Paid Social,Boards Crash,Counsellor C,Negotiation,6253.0,2
+L100449,2025-12-18,Delhi,Webinar,Boards Crash,Counsellor C,Lost,6471.0,4
+L100450,2025-12-18,Bengaluru,Paid Social,Tutoring 1:1,Counsellor E,Lost,24554.0,4
+L100451,2025-12-18,Lucknow,Referral,Foundation,Counsellor B,Won,16036.0,4
+L100452,2025-12-18,Bengaluru,Webinar,Boards Crash,Counsellor C,Contacted,6974.0,1
+L100453,2025-12-18,Delhi,Referral,NEET Pro,Counsellor A,Contacted,45808.0,5
+L100454,2025-12-18,Mumbai,Referral,Boards Crash,Counsellor A,Negotiation,5322.0,5
+L100455,2025-12-18,Bengaluru,Paid Social,Foundation,Counsellor B,Contacted,18339.0,4
+L100456,2025-12-19,Delhi,Paid Social,Foundation,Counsellor G,Lost,16880.0,2
+L100457,2025-12-19,Pune,Paid Social,Tutoring 1:1,Counsellor C,Contacted,26245.0,5
+L100458,2025-12-19,Hyderabad,Referral,Foundation,Counsellor A,Lost,20028.0,7
+L100459,2025-12-19,Mumbai,Paid Social,Foundation,Counsellor C,Contacted,19266.0,6
+L100460,2025-12-19,Bengaluru,Paid Social,Boards Crash,Counsellor F,Demo Booked,4964.0,3
+L100461,2025-12-19,Delhi,Webinar,NEET Pro,Counsellor A,Lost,42696.0,1
+L100462,2025-12-19,Bengaluru,Paid Social,Boards Crash,Counsellor B,Demo Booked,4830.0,3
+L100463,2025-12-19,Delhi,Paid Social,NEET Pro,Counsellor G,Contacted,33533.0,2
+L100464,2025-12-19,Delhi,Webinar,Foundation,Counsellor B,Lost,17382.0,6
+L100465,2025-12-20,Delhi,Paid Social,NEET Pro,Counsellor B,Won,32563.0,2
+L100466,2025-12-20,Delhi,Webinar,JEE Pro,Counsellor C,Won,42336.0,5
+L100467,2025-12-20,Kolkata,Webinar,JEE Pro,Counsellor A,Demo Booked,45076.0,9
+L100468,2025-12-20,Mumbai,Paid Social,Foundation,Counsellor B,Lost,16261.0,4
+L100469,2025-12-20,Chennai,Referral,NEET Pro,Counsellor B,Demo Booked,43155.0,6
+L100470,2025-12-20,Delhi,Organic,Boards Crash,Counsellor B,Lost,4971.0,3
+L100471,2025-12-20,Bengaluru,Paid Social,Boards Crash,Counsellor D,Lost,5012.0,2
+L100472,2025-12-21,Delhi,Webinar,NEET Pro,Counsellor G,Contacted,39971.0,5
+L100473,2025-12-21,Pune,Paid Social,JEE Pro,Counsellor E,Lost,34079.0,9
+L100474,2025-12-22,Delhi,Paid Social,Tutoring 1:1,Counsellor G,Contacted,33099.0,2
+L100475,2025-12-22,Pune,Referral,Tutoring 1:1,Counsellor A,Lost,34697.0,7
+L100476,2025-12-22,Hyderabad,Referral,NEET Pro,Counsellor B,Won,32108.0,4
+L100477,2025-12-23,Delhi,Paid Social,Tutoring 1:1,Counsellor B,Contacted,33590.0,5
+L100478,2025-12-23,Bengaluru,Paid Social,JEE Pro,Counsellor B,Lost,43170.0,1
+L100479,2025-12-23,Bengaluru,Organic,Foundation,Counsellor A,Negotiation,21417.0,2
+L100480,2025-12-23,Mumbai,Organic,NEET Pro,Counsellor A,Contacted,44808.0,4
+L100481,2025-12-23,Hyderabad,Organic,Foundation,Counsellor D,Contacted,20904.0,5
+L100482,2025-12-23,Delhi,Paid Social,JEE Pro,Counsellor G,Negotiation,47958.0,2
+L100483,2025-12-24,Lucknow,School Partnership,NEET Pro,Counsellor H,Lost,45648.0,5
+L100484,2025-12-24,Bengaluru,Paid Social,JEE Pro,Counsellor B,Negotiation,46325.0,6
+L100485,2025-12-24,Kolkata,Paid Social,Tutoring 1:1,Counsellor G,Lost,34875.0,4
+L100486,2025-12-24,Bengaluru,Paid Social,Foundation,Counsellor C,Lost,15023.0,4
+L100487,2025-12-24,Lucknow,Paid Social,Tutoring 1:1,Counsellor G,Lost,33651.0,2
+L100488,2025-12-25,Bengaluru,School Partnership,JEE Pro,Counsellor H,Won,44990.0,3
+L100489,2025-12-25,Chennai,Webinar,Tutoring 1:1,Counsellor H,Lost,28355.0,5
+L100490,2025-12-25,Delhi,Paid Social,Foundation,Counsellor F,Demo Booked,17549.0,2
+L100491,2025-12-25,Delhi,Organic,Foundation,Counsellor B,Lost,15211.0,3
+L100492,2025-12-25,Bengaluru,Webinar,NEET Pro,Counsellor B,Negotiation,36974.0,2
+L100493,2025-12-25,Bengaluru,Paid Social,Boards Crash,Counsellor F,Won,6515.0,1
+L100494,2025-12-26,Delhi,Referral,Tutoring 1:1,Counsellor G,Demo Booked,30616.0,8
+L100495,2025-12-26,Chennai,Organic,Boards Crash,Counsellor D,Negotiation,7025.0,4
+L100496,2025-12-26,Lucknow,Webinar,NEET Pro,Counsellor H,Lost,36083.0,4
+L100497,2025-12-26,Bengaluru,Paid Social,Foundation,Counsellor C,Won,16049.0,5
+L100498,2025-12-26,Mumbai,Paid Social,Tutoring 1:1,Counsellor E,Negotiation,32848.0,6
+L100499,2025-12-26,Bengaluru,Organic,Tutoring 1:1,Counsellor G,Contacted,35480.0,3
+L100500,2025-12-26,Bengaluru,Paid Social,Foundation,Counsellor A,Negotiation,17043.0,2
+L100501,2025-12-27,Hyderabad,Webinar,NEET Pro,Counsellor E,Contacted,38297.0,3
+L100502,2025-12-27,Mumbai,Webinar,NEET Pro,Counsellor C,Contacted,32874.0,9
+L100503,2025-12-27,Chennai,Paid Social,Boards Crash,Counsellor E,Demo Booked,5363.0,4
+L100504,2025-12-27,,Webinar,NEET Pro,Counsellor F,Lost,46550.0,1
+L100505,2025-12-27,Bengaluru,Paid Social,Tutoring 1:1,Counsellor C,Lost,35723.0,5
+L100506,2025-12-27,Hyderabad,Paid Social,Tutoring 1:1,Counsellor H,Lost,29891.0,9
+L100507,2025-12-27,Pune,Paid Social,Boards Crash,Counsellor H,Demo Booked,6850.0,3
+L100508,2025-12-28,Kolkata,Organic,Foundation,Counsellor A,Negotiation,15958.0,7
+L100509,2025-12-28,Mumbai,Paid Social,NEET Pro,Counsellor F,Won,42368.0,3
+L100510,2025-12-28,Mumbai,Referral,JEE Pro,Counsellor G,Lost,48945.0,4
+L100511,2025-12-28,Mumbai,Webinar,Boards Crash,Counsellor F,Won,5640.0,8
+L100512,2025-12-28,Delhi,Organic,Foundation,Counsellor C,Negotiation,18993.0,1
+L100513,2025-12-28,Mumbai,Referral,JEE Pro,Counsellor G,Won,46100.0,4
+L100514,2025-12-29,Chennai,Webinar,JEE Pro,Counsellor A,Lost,35964.0,2
+L100515,2025-12-29,Delhi,Paid Social,Foundation,Counsellor H,Lost,16266.0,4
+L100516,2025-12-29,Mumbai,Organic,Foundation,Counsellor A,Lost,18670.0,4
+L100517,2025-12-29,Delhi,Referral,JEE Pro,Counsellor B,Won,37952.0,3
+L100518,2025-12-29,Pune,Organic,Boards Crash,Counsellor F,Lost,5185.0,3
+L100519,2025-12-29,Delhi,Referral,JEE Pro,Counsellor C,Won,36306.0,5
+L100520,2025-12-29,Delhi,Paid Social,NEET Pro,Counsellor G,Lost,44525.0,4
+L100521,2025-12-30,Kolkata,Referral,Tutoring 1:1,Counsellor H,Won,29520.0,1
+L100522,2025-12-31,Delhi,Organic,Foundation,Counsellor A,Lost,18401.0,4
+L100523,2025-12-31,Pune,Paid Social,JEE Pro,Counsellor F,Lost,44279.0,1
+L100524,2025-12-31,Mumbai,Paid Social,Tutoring 1:1,Counsellor A,Lost,27901.0,5
+L100525,2025-12-31,Bengaluru,Referral,NEET Pro,Counsellor H,Demo Booked,42518.0,7
+L100526,2025-12-31,Delhi,Organic,Tutoring 1:1,Counsellor B,Demo Booked,29422.0,2
+L100527,2026-01-01,Bengaluru,School Partnership,JEE Pro,Counsellor C,Negotiation,35154.0,7
+L100528,2026-01-01,Delhi,Organic,Tutoring 1:1,Counsellor F,Won,30283.0,3
+L100529,2026-01-01,Delhi,Paid Social,Boards Crash,Counsellor H,Lost,5998.0,5
+L100530,2026-01-01,Delhi,Organic,NEET Pro,Counsellor E,Won,43021.0,6
+L100531,2026-01-02,Pune,Organic,JEE Pro,Counsellor D,Lost,49724.0,4
+L100532,2026-01-02,Chennai,Paid Social,Foundation,Counsellor A,Contacted,14746.0,3
+L100533,2026-01-02,Kolkata,Webinar,NEET Pro,Counsellor G,Contacted,41864.0,7
+L100534,2026-01-02,Kolkata,Referral,Tutoring 1:1,Counsellor F,Won,32442.0,3
+L100535,2026-01-03,Chennai,Organic,Boards Crash,Counsellor H,Negotiation,5951.0,3
+L100536,2026-01-03,Chennai,Organic,Boards Crash,Counsellor B,Won,5836.0,5
+L100537,2026-01-03,Bengaluru,Paid Social,Tutoring 1:1,Counsellor E,Contacted,32538.0,2
+L100538,2026-01-03,Chennai,Webinar,Boards Crash,Counsellor A,Won,6099.0,5
+L100539,2026-01-03,Bengaluru,Paid Social,Tutoring 1:1,Counsellor D,Contacted,28997.0,2
+L100540,2026-01-03,Delhi,School Partnership,Boards Crash,Counsellor D,Negotiation,6373.0,5
+L100541,2026-01-04,Kolkata,Referral,Boards Crash,Counsellor D,Lost,6256.0,0
+L100542,2026-01-04,Bengaluru,Referral,JEE Pro,Counsellor C,Lost,35079.0,5
+L100543,2026-01-05,Lucknow,Webinar,JEE Pro,Counsellor B,Won,39628.0,4
+L100544,2026-01-05,Chennai,Webinar,JEE Pro,Counsellor A,Negotiation,48617.0,2
+L100545,2026-01-05,Bengaluru,Paid Social,Tutoring 1:1,Counsellor A,Contacted,25909.0,2
+L100546,2026-01-05,Hyderabad,Organic,NEET Pro,Counsellor C,Demo Booked,40347.0,1
+L100547,2026-01-05,Chennai,Paid Social,Tutoring 1:1,Counsellor H,Lost,31645.0,2
+L100548,2026-01-05,Mumbai,Paid Social,Boards Crash,Counsellor D,Lost,5088.0,3
+L100549,2026-01-06,Mumbai,Organic,Tutoring 1:1,Counsellor F,Lost,26402.0,3
+L100550,2026-01-06,Mumbai,Paid Social,Foundation,Counsellor G,Won,16724.0,5
+L100551,2026-01-06,Mumbai,Referral,Tutoring 1:1,Counsellor A,Lost,31193.0,2
+L100552,2026-01-06,Mumbai,Organic,Tutoring 1:1,Counsellor F,Demo Booked,25515.0,5
+L100553,2026-01-06,Hyderabad,Organic,JEE Pro,Counsellor E,Lost,46484.0,3
+L100554,2026-01-06,Lucknow,Organic,JEE Pro,Counsellor G,Negotiation,45059.0,5
+L100555,2026-01-06,Bengaluru,Organic,JEE Pro,Counsellor B,Lost,47094.0,5
+L100556,2026-01-07,Bengaluru,School Partnership,Foundation,Counsellor E,Contacted,16136.0,4
+L100557,2026-01-07,Bengaluru,Organic,Tutoring 1:1,Counsellor G,Negotiation,30499.0,3
+L100558,2026-01-07,Bengaluru,Organic,Boards Crash,Counsellor A,Lost,6861.0,7
+L100559,2026-01-08,Bengaluru,Organic,Tutoring 1:1,Counsellor C,Demo Booked,29239.0,0
+L100560,2026-01-08,Chennai,Paid Social,Boards Crash,Counsellor A,Lost,6169.0,4
+L100561,2026-01-08,Delhi,Organic,NEET Pro,Counsellor A,Lost,38563.0,3
+L100562,2026-01-08,Hyderabad,Paid Social,NEET Pro,Counsellor A,Lost,43840.0,1
+L100563,2026-01-08,Delhi,Organic,JEE Pro,Counsellor F,Won,44148.0,5
+L100564,2026-01-08,Lucknow,Organic,JEE Pro,Counsellor C,Lost,46224.0,4
+L100565,2026-01-09,Bengaluru,Webinar,Foundation,Counsellor H,Lost,21380.0,8
+L100566,2026-01-09,Delhi,Organic,Tutoring 1:1,Counsellor C,Lost,33344.0,5
+L100567,2026-01-09,Delhi,Referral,JEE Pro,Counsellor F,Won,43219.0,2
+L100568,2026-01-09,Bengaluru,Paid Social,Boards Crash,Counsellor E,Lost,5411.0,2
+L100569,2026-01-09,Bengaluru,Paid Social,Tutoring 1:1,Counsellor H,Lost,30158.0,2
+L100570,2026-01-09,Delhi,Webinar,JEE Pro,Counsellor E,Lost,49499.0,6
+L100571,2026-01-10,Bengaluru,Organic,NEET Pro,Counsellor A,Lost,47760.0,3
+L100572,2026-01-10,Bengaluru,School Partnership,Tutoring 1:1,Counsellor C,Lost,25473.0,8
+L100573,2026-01-10,Chennai,Webinar,Boards Crash,Counsellor C,Lost,6414.0,5
+L100574,2026-01-10,Delhi,Referral,Boards Crash,Counsellor F,Negotiation,4854.0,4
+L100575,2026-01-10,Bengaluru,Organic,JEE Pro,Counsellor G,Negotiation,35411.0,7
+L100576,2026-01-10,Hyderabad,Referral,JEE Pro,Counsellor A,Lost,39840.0,5
+L100577,2026-01-10,Mumbai,Referral,Foundation,Counsellor D,Demo Booked,15095.0,5
+L100578,2026-01-10,Hyderabad,Webinar,NEET Pro,Counsellor H,Demo Booked,42411.0,3
+L100579,2026-01-11,Delhi,Organic,JEE Pro,Counsellor B,Won,41976.0,3
+L100580,2026-01-11,Bengaluru,School Partnership,Foundation,Counsellor E,Lost,17175.0,4
+L100581,2026-01-11,Hyderabad,Webinar,Tutoring 1:1,Counsellor C,Won,34214.0,1
+L100582,2026-01-11,Delhi,Organic,Foundation,Counsellor D,Lost,16963.0,1
+L100583,2026-01-11,Pune,Paid Social,Foundation,Counsellor C,Contacted,16179.0,3
+L100584,2026-01-11,Delhi,Organic,Tutoring 1:1,Counsellor H,Lost,27409.0,7
+L100585,2026-01-11,Bengaluru,Webinar,NEET Pro,Counsellor F,Won,32358.0,3
+L100586,2026-01-12,Bengaluru,School Partnership,Tutoring 1:1,Counsellor E,Won,32668.0,2
+L100587,2026-01-12,Delhi,School Partnership,Boards Crash,Counsellor G,Lost,6348.0,2
+L100588,2026-01-12,Bengaluru,Referral,JEE Pro,Counsellor E,Contacted,40584.0,3
+L100589,2026-01-12,Mumbai,Referral,Tutoring 1:1,Counsellor F,Won,33807.0,3
+L100590,2026-01-12,Delhi,Referral,Foundation,Counsellor H,Won,16784.0,1
+L100591,2026-01-12,Lucknow,Paid Social,NEET Pro,Counsellor F,Contacted,35427.0,2
+L100592,2026-01-12,Bengaluru,School Partnership,JEE Pro,Counsellor A,Contacted,34159.0,4
+L100593,2026-01-12,Chennai,Referral,Boards Crash,Counsellor F,Won,5226.0,2
+L100594,2026-01-13,Delhi,Paid Social,Foundation,Counsellor B,Lost,17635.0,1
+L100595,2026-01-13,Mumbai,Paid Social,NEET Pro,Counsellor H,Lost,37288.0,5
+L100596,2026-01-13,Lucknow,Organic,Boards Crash,Counsellor C,Lost,5866.0,0
+L100597,2026-01-13,Kolkata,Referral,Boards Crash,Counsellor C,Contacted,4929.0,1
+L100598,2026-01-13,Chennai,Referral,JEE Pro,Counsellor H,Negotiation,34041.0,2
+L100599,2026-01-14,Mumbai,Paid Social,NEET Pro,Counsellor C,Lost,42817.0,4
+L100600,2026-01-14,Delhi,Webinar,NEET Pro,Counsellor H,Lost,38645.0,4
+L100601,2026-01-14,Hyderabad,Webinar,Boards Crash,Counsellor H,Demo Booked,6686.0,6
+L100602,2026-01-14,Hyderabad,Paid Social,JEE Pro,Counsellor G,Negotiation,47810.0,4
+L100603,2026-01-14,Bengaluru,Organic,JEE Pro,Counsellor H,Lost,39672.0,8
+L100604,2026-01-15,Bengaluru,Organic,Boards Crash,Counsellor G,Negotiation,5899.0,2
+L100605,2026-01-15,Chennai,Organic,Tutoring 1:1,Counsellor F,Won,33180.0,6
+L100606,2026-01-16,Kolkata,Paid Social,Foundation,Counsellor H,Lost,15362.0,4
+L100607,2026-01-16,Pune,Paid Social,NEET Pro,Counsellor G,Lost,44893.0,2
+L100608,2026-01-17,Bengaluru,School Partnership,JEE Pro,Counsellor A,Contacted,39764.0,3
+L100609,2026-01-17,Lucknow,Organic,Foundation,Counsellor F,Lost,16193.0,2
+L100610,2026-01-17,Delhi,Webinar,Foundation,Counsellor H,Negotiation,17773.0,3
+L100611,2026-01-18,Bengaluru,Referral,Tutoring 1:1,Counsellor C,Lost,31770.0,5
+L100612,2026-01-18,Delhi,Webinar,NEET Pro,Counsellor H,Lost,45411.0,3
+L100613,2026-01-18,Delhi,Paid Social,JEE Pro,Counsellor E,Negotiation,47415.0,3
+L100614,2026-01-18,Bengaluru,Organic,NEET Pro,Counsellor F,Demo Booked,32566.0,4
+L100615,2026-01-19,Pune,Webinar,NEET Pro,Counsellor B,Contacted,34623.0,3
+L100616,2026-01-19,Pune,Organic,Boards Crash,Counsellor D,Lost,5611.0,6
+L100617,2026-01-19,Bengaluru,Organic,JEE Pro,Counsellor A,Lost,34606.0,7
+L100618,2026-01-19,Mumbai,Webinar,Boards Crash,Counsellor E,Lost,5874.0,3
+L100619,2026-01-19,Pune,Referral,Tutoring 1:1,Counsellor C,Won,29429.0,4
+L100620,2026-01-19,Delhi,Organic,Foundation,Counsellor E,Contacted,18169.0,5
+L100621,2026-01-19,Mumbai,Organic,NEET Pro,Counsellor G,Lost,37597.0,2
+L100622,2026-01-20,Delhi,School Partnership,JEE Pro,Counsellor F,Lost,37616.0,5
+L100623,2026-01-20,Mumbai,Organic,Foundation,Counsellor B,Won,18640.0,5
+L100624,2026-01-20,Delhi,Referral,Tutoring 1:1,Counsellor E,Negotiation,24677.0,5
+L100625,2026-01-20,Pune,Organic,NEET Pro,Counsellor A,Lost,32639.0,2
+L100626,2026-01-20,Bengaluru,Webinar,Tutoring 1:1,Counsellor E,Lost,32935.0,6
+L100627,2026-01-20,Bengaluru,Organic,NEET Pro,Counsellor B,Demo Booked,35054.0,3
+L100628,2026-01-20,Chennai,Paid Social,NEET Pro,Counsellor D,Lost,34546.0,0
+L100629,2026-01-20,Bengaluru,Organic,Boards Crash,Counsellor G,Contacted,5392.0,2
+L100630,2026-01-20,Mumbai,Paid Social,Foundation,Counsellor C,Lost,18538.0,4
+L100631,2026-01-21,Hyderabad,Webinar,Foundation,Counsellor H,Lost,16122.0,4
+L100632,2026-01-21,Delhi,Organic,Foundation,Counsellor A,Negotiation,19174.0,4
+L100633,2026-01-22,Chennai,Organic,Tutoring 1:1,Counsellor C,Contacted,31680.0,2
+L100634,2026-01-22,Delhi,Webinar,Foundation,Counsellor F,Lost,17309.0,5
+L100635,2026-01-22,Bengaluru,Referral,Tutoring 1:1,Counsellor H,Won,35125.0,5
+L100636,2026-01-22,Bengaluru,Paid Social,NEET Pro,Counsellor B,Lost,44091.0,4
+L100637,2026-01-23,Chennai,Referral,Boards Crash,Counsellor D,Lost,5133.0,3
+L100638,2026-01-23,Bengaluru,Paid Social,JEE Pro,Counsellor A,Lost,37452.0,5
+L100639,2026-01-23,Chennai,Webinar,NEET Pro,Counsellor F,Won,33749.0,4
+L100640,2026-01-23,Mumbai,Organic,NEET Pro,Counsellor A,Won,43388.0,4
+L100641,2026-01-23,Chennai,Webinar,JEE Pro,Counsellor F,Lost,36821.0,6
+L100642,2026-01-23,Bengaluru,Referral,Boards Crash,Counsellor G,Contacted,5885.0,6
+L100643,2026-01-23,Pune,Referral,Foundation,Counsellor D,Won,15067.0,2
+L100644,2026-01-23,Lucknow,Paid Social,Tutoring 1:1,Counsellor F,Demo Booked,34521.0,5
+L100645,2026-01-23,Hyderabad,Referral,JEE Pro,Counsellor G,Won,46133.0,4
+L100646,2026-01-23,Bengaluru,Referral,Boards Crash,Counsellor B,Lost,6395.0,9
+L100647,2026-01-23,Lucknow,Paid Social,JEE Pro,Counsellor H,Lost,45337.0,4
+L100648,2026-01-24,Pune,Organic,Tutoring 1:1,Counsellor G,Won,28347.0,4
+L100649,2026-01-24,Bengaluru,School Partnership,Boards Crash,Counsellor D,Contacted,5255.0,6
+L100650,2026-01-24,Lucknow,Referral,Boards Crash,Counsellor A,Won,4843.0,1
+L100651,2026-01-24,Bengaluru,Organic,Tutoring 1:1,Counsellor C,Lost,28918.0,4
+L100652,2026-01-25,Bengaluru,Referral,Boards Crash,Counsellor G,Won,6979.0,3
+L100653,2026-01-25,Bengaluru,Organic,Foundation,Counsellor H,Demo Booked,14598.0,1
+L100654,2026-01-25,Mumbai,Paid Social,NEET Pro,Counsellor H,Lost,35104.0,5
+L100655,2026-01-26,Delhi,Webinar,JEE Pro,Counsellor F,Won,42446.0,1
+L100656,2026-01-26,Bengaluru,Paid Social,Tutoring 1:1,Counsellor B,Lost,24885.0,4
+L100657,2026-01-26,Mumbai,Organic,Tutoring 1:1,Counsellor C,Contacted,27564.0,2
+L100658,2026-01-26,Chennai,Paid Social,JEE Pro,Counsellor A,Lost,46227.0,4
+L100659,2026-01-26,Bengaluru,Organic,Foundation,Counsellor B,Lost,15945.0,3
+L100660,2026-01-26,Hyderabad,Organic,Tutoring 1:1,Counsellor E,Demo Booked,27657.0,11
+L100661,2026-01-26,Bengaluru,Organic,JEE Pro,Counsellor D,Won,38338.0,1
+L100662,2026-01-26,Mumbai,Organic,Foundation,Counsellor A,Negotiation,15879.0,1
+L100663,2026-01-26,Delhi,Organic,Boards Crash,Counsellor D,Contacted,6735.0,7
+L100664,2026-01-26,Delhi,Paid Social,Tutoring 1:1,Counsellor C,Demo Booked,35392.0,3
+L100665,2026-01-27,Bengaluru,Organic,Boards Crash,Counsellor G,Negotiation,6217.0,3
+L100666,2026-01-27,Mumbai,Referral,Foundation,Counsellor E,Contacted,16233.0,8
+L100667,2026-01-27,Mumbai,School Partnership,Boards Crash,Counsellor F,Negotiation,5384.0,2
+L100668,2026-01-27,Hyderabad,Organic,Boards Crash,Counsellor F,Lost,6455.0,2
+L100669,2026-01-27,Bengaluru,Paid Social,Boards Crash,Counsellor E,Contacted,6526.0,6
+L100670,2026-01-27,Lucknow,Paid Social,Foundation,Counsellor F,Contacted,20280.0,3
+L100671,2026-01-28,Bengaluru,Organic,Foundation,Counsellor H,Demo Booked,15381.0,8
+L100672,2026-01-28,Bengaluru,Organic,Foundation,Counsellor D,Lost,15833.0,4
+L100673,2026-01-28,Hyderabad,Webinar,NEET Pro,Counsellor E,Lost,37454.0,5
+L100674,2026-01-28,Bengaluru,Paid Social,Foundation,Counsellor E,Lost,17485.0,1
+L100675,2026-01-28,Delhi,Webinar,Tutoring 1:1,Counsellor G,Lost,33765.0,4
+L100676,2026-01-28,Mumbai,Organic,Boards Crash,Counsellor E,Demo Booked,5010.0,4
+L100677,2026-01-29,Kolkata,Paid Social,JEE Pro,Counsellor A,Lost,38618.0,4
+L100678,2026-01-29,Pune,Webinar,Foundation,Counsellor B,Contacted,15230.0,3
+L100679,2026-01-29,Delhi,Webinar,Tutoring 1:1,Counsellor A,Demo Booked,33658.0,8
+L100680,2026-01-29,Hyderabad,Organic,Tutoring 1:1,Counsellor D,Negotiation,32527.0,3
+L100681,2026-01-29,Bengaluru,Paid Social,JEE Pro,Counsellor G,Contacted,47170.0,3
+L100682,2026-01-29,Chennai,Paid Social,Tutoring 1:1,Counsellor E,Lost,27809.0,5
+L100683,2026-01-30,Hyderabad,Webinar,JEE Pro,Counsellor F,Won,42421.0,5
+L100684,2026-01-30,Chennai,Organic,Tutoring 1:1,Counsellor A,Lost,34639.0,7
+L100685,2026-01-30,Bengaluru,Organic,Tutoring 1:1,Counsellor C,Lost,24244.0,1
+L100686,2026-01-31,Mumbai,Webinar,NEET Pro,Counsellor B,Demo Booked,44803.0,3
+L100687,2026-01-31,Kolkata,Paid Social,NEET Pro,Counsellor A,Lost,44282.0,1
+L100688,2026-01-31,Bengaluru,Paid Social,NEET Pro,Counsellor G,Contacted,38955.0,5
+L100689,2026-01-31,Pune,School Partnership,Tutoring 1:1,Counsellor A,Contacted,33294.0,4
+L100690,2026-01-31,Hyderabad,Paid Social,NEET Pro,Counsellor C,Contacted,44125.0,4
+L100691,2026-01-31,Kolkata,Organic,Tutoring 1:1,Counsellor C,Won,26156.0,4
+L100692,2026-01-31,Bengaluru,Paid Social,NEET Pro,Counsellor F,Lost,47486.0,4
+L100693,2026-02-01,Kolkata,Organic,Boards Crash,Counsellor H,Lost,7056.0,6
+L100694,2026-02-01,Mumbai,Organic,Boards Crash,Counsellor B,Won,5415.0,3
+L100695,2026-02-01,Bengaluru,Paid Social,Tutoring 1:1,Counsellor B,Lost,35455.0,2
+L100696,2026-02-01,Bengaluru,School Partnership,JEE Pro,Counsellor E,Demo Booked,42764.0,6
+L100697,2026-02-01,Pune,Paid Social,Boards Crash,Counsellor B,Contacted,6024.0,5
+L100698,2026-02-02,Delhi,Referral,Tutoring 1:1,Counsellor B,Won,33294.0,3
+L100699,2026-02-02,Delhi,Paid Social,Tutoring 1:1,Counsellor G,Contacted,34983.0,9
+L100700,2026-02-02,Delhi,Paid Social,Boards Crash,Counsellor E,Lost,5415.0,5
+L100701,2026-02-03,Hyderabad,Webinar,Boards Crash,Counsellor B,Contacted,5093.0,4
+L100702,2026-02-03,Bengaluru,Paid Social,Foundation,Counsellor A,Contacted,20439.0,4
+L100703,2026-02-03,Bengaluru,Webinar,Boards Crash,Counsellor B,Demo Booked,5861.0,4
+L100704,2026-02-03,Hyderabad,Paid Social,Foundation,Counsellor C,Contacted,18368.0,2
+L100705,2026-02-03,Chennai,Organic,JEE Pro,Counsellor F,Demo Booked,41649.0,5
+L100706,2026-02-04,Hyderabad,Paid Social,Foundation,Counsellor F,Won,20723.0,2
+L100707,2026-02-04,Chennai,Paid Social,NEET Pro,Counsellor G,Won,41089.0,3
+L100708,2026-02-04,Delhi,Organic,Tutoring 1:1,Counsellor E,Lost,32452.0,5
+L100709,2026-02-04,Delhi,Referral,NEET Pro,Counsellor H,Lost,44289.0,4
+L100710,2026-02-05,Delhi,Webinar,Tutoring 1:1,Counsellor G,Contacted,24034.0,4
+L100711,2026-02-05,Delhi,Organic,NEET Pro,Counsellor A,Lost,40969.0,3
+L100712,2026-02-05,Delhi,Paid Social,Boards Crash,Counsellor B,Demo Booked,6250.0,2
+L100713,2026-02-05,Kolkata,Referral,JEE Pro,Counsellor C,Lost,35344.0,3
+L100714,2026-02-05,Delhi,Paid Social,NEET Pro,Counsellor A,Won,34674.0,5
+L100715,2026-02-05,Delhi,Organic,Boards Crash,Counsellor E,Won,4962.0,4
+L100716,2026-02-05,,Paid Social,Tutoring 1:1,Counsellor D,Negotiation,28972.0,6
+L100717,2026-02-06,Lucknow,Paid Social,JEE Pro,Counsellor C,Lost,46631.0,4
+L100718,2026-02-06,Delhi,Referral,Foundation,Counsellor F,Won,16167.0,6
+L100719,2026-02-06,Hyderabad,Paid Social,JEE Pro,Counsellor F,Lost,48250.0,6
+L100720,2026-02-07,Delhi,Organic,Boards Crash,Counsellor B,Contacted,4962.0,2
+L100721,2026-02-07,Pune,Webinar,Tutoring 1:1,Counsellor B,Lost,28137.0,2
+L100722,2026-02-07,Delhi,School Partnership,Tutoring 1:1,Counsellor C,Lost,26785.0,3
+L100723,2026-02-07,Bengaluru,Organic,NEET Pro,Counsellor E,Contacted,47320.0,3
+L100724,2026-02-07,Mumbai,Organic,Tutoring 1:1,Counsellor B,Contacted,26004.0,5
+L100725,2026-02-08,Delhi,Organic,NEET Pro,Counsellor B,Contacted,45633.0,8
+L100726,2026-02-08,Delhi,Webinar,Tutoring 1:1,Counsellor D,Won,30220.0,3
+L100727,2026-02-08,Delhi,School Partnership,Boards Crash,Counsellor B,Demo Booked,5448.0,2
+L100728,2026-02-08,Bengaluru,Organic,Tutoring 1:1,Counsellor B,Contacted,29015.0,5
+L100729,2026-02-08,Kolkata,Paid Social,Tutoring 1:1,Counsellor G,Demo Booked,25573.0,3
+L100730,2026-02-08,Mumbai,Organic,JEE Pro,Counsellor G,Won,43817.0,3
+L100731,2026-02-09,Hyderabad,Paid Social,Foundation,Counsellor F,Won,19201.0,5
+L100732,2026-02-09,Mumbai,School Partnership,Foundation,Counsellor D,Won,17585.0,4
+L100733,2026-02-09,Delhi,Organic,JEE Pro,Counsellor E,Lost,46906.0,7
+L100734,2026-02-09,Mumbai,Organic,Tutoring 1:1,Counsellor F,Lost,33198.0,2
+L100735,2026-02-09,Mumbai,Paid Social,NEET Pro,Counsellor D,Lost,42796.0,9
+L100736,2026-02-09,Chennai,Paid Social,Boards Crash,Counsellor A,Negotiation,6605.0,4
+L100737,2026-02-09,Delhi,Referral,Boards Crash,Counsellor F,Won,5829.0,4
+L100738,2026-02-09,Bengaluru,Paid Social,Foundation,Counsellor H,Lost,15521.0,6
+L100739,2026-02-10,Bengaluru,Organic,Tutoring 1:1,Counsellor H,Lost,30340.0,1
+L100740,2026-02-10,Delhi,Paid Social,Boards Crash,Counsellor C,Contacted,5908.0,5
+L100741,2026-02-10,Mumbai,School Partnership,JEE Pro,Counsellor C,Contacted,36095.0,3
+L100742,2026-02-10,Mumbai,Webinar,JEE Pro,Counsellor C,Won,45291.0,4
+L100743,2026-02-10,Kolkata,Organic,Tutoring 1:1,Counsellor A,Lost,29329.0,7
+L100744,2026-02-11,Hyderabad,Webinar,JEE Pro,Counsellor C,Negotiation,44949.0,1
+L100745,2026-02-11,Bengaluru,Paid Social,NEET Pro,Counsellor C,Negotiation,35059.0,6
+L100746,2026-02-12,Delhi,Webinar,Boards Crash,Counsellor E,Negotiation,5360.0,2
+L100747,2026-02-12,Delhi,Organic,Tutoring 1:1,Counsellor G,Lost,25131.0,5
+L100748,2026-02-12,Bengaluru,Webinar,Foundation,Counsellor A,Contacted,20936.0,4
+L100749,2026-02-12,Mumbai,Organic,NEET Pro,Counsellor C,Negotiation,43042.0,5
+L100750,2026-02-12,Kolkata,Paid Social,Foundation,Counsellor B,Lost,16624.0,4
+L100751,2026-02-12,Bengaluru,Referral,JEE Pro,Counsellor G,Won,34474.0,4
+L100752,2026-02-13,Mumbai,Paid Social,Boards Crash,Counsellor C,Demo Booked,5608.0,6
+L100753,2026-02-13,Bengaluru,Organic,JEE Pro,Counsellor B,Lost,46705.0,6
+L100754,2026-02-13,Kolkata,Organic,JEE Pro,Counsellor G,Demo Booked,48705.0,7
+L100755,2026-02-13,Mumbai,Organic,NEET Pro,Counsellor E,Lost,34665.0,3
+L100756,2026-02-13,Bengaluru,Organic,NEET Pro,Counsellor B,Lost,46791.0,3
+L100757,2026-02-14,Mumbai,Organic,Boards Crash,Counsellor C,Lost,5285.0,3
+L100758,2026-02-14,Delhi,Organic,Tutoring 1:1,Counsellor E,Won,24421.0,2
+L100759,2026-02-14,Bengaluru,Paid Social,Boards Crash,Counsellor E,Contacted,5118.0,4
+L100760,2026-02-15,Hyderabad,Paid Social,Tutoring 1:1,Counsellor A,Won,24222.0,3
+L100761,2026-02-15,Delhi,Paid Social,Tutoring 1:1,Counsellor C,Demo Booked,26892.0,2
+L100762,2026-02-15,Chennai,Organic,NEET Pro,Counsellor H,Contacted,44319.0,6
+L100763,2026-02-16,Chennai,Organic,Tutoring 1:1,Counsellor E,Lost,29744.0,6
+L100764,2026-02-16,Pune,Paid Social,Foundation,Counsellor C,Lost,20105.0,8
+L100765,2026-02-16,Delhi,Webinar,JEE Pro,Counsellor F,Negotiation,35159.0,5
+L100766,2026-02-16,Chennai,Organic,Boards Crash,Counsellor D,Lost,6596.0,2
+L100767,2026-02-16,Bengaluru,Paid Social,NEET Pro,Counsellor F,Contacted,34182.0,4
+L100768,2026-02-16,Kolkata,Webinar,Boards Crash,Counsellor C,Lost,5575.0,2
+L100769,2026-02-17,Delhi,Paid Social,Boards Crash,Counsellor D,Demo Booked,7043.0,5
+L100770,2026-02-17,Pune,Webinar,Boards Crash,Counsellor A,Won,6553.0,3
+L100771,2026-02-17,Bengaluru,School Partnership,Boards Crash,Counsellor A,Lost,6553.0,3
+L100772,2026-02-17,Mumbai,Paid Social,NEET Pro,Counsellor E,Lost,42331.0,1
+L100773,2026-02-17,Bengaluru,Referral,Foundation,Counsellor G,Won,17049.0,1
+L100774,2026-02-17,Delhi,Organic,JEE Pro,Counsellor B,Negotiation,44144.0,1
+L100775,2026-02-17,Mumbai,Organic,Tutoring 1:1,Counsellor A,Demo Booked,29163.0,3
+L100776,2026-02-17,Bengaluru,Paid Social,NEET Pro,Counsellor D,Lost,44648.0,3
+L100777,2026-02-17,Hyderabad,Referral,Boards Crash,Counsellor D,Lost,6418.0,5
+L100778,2026-02-17,Mumbai,School Partnership,JEE Pro,Counsellor E,Contacted,48541.0,5
+L100779,2026-02-18,Bengaluru,Organic,Boards Crash,Counsellor G,Negotiation,6808.0,6
+L100780,2026-02-18,Mumbai,Referral,JEE Pro,Counsellor H,Demo Booked,47697.0,4
+L100781,2026-02-18,Mumbai,Paid Social,NEET Pro,Counsellor H,Negotiation,33516.0,5
+L100782,2026-02-18,Bengaluru,Organic,Boards Crash,Counsellor D,Won,4850.0,3
+L100783,2026-02-18,Hyderabad,School Partnership,Tutoring 1:1,Counsellor F,Contacted,28586.0,3
+L100784,2026-02-18,Hyderabad,Referral,Foundation,Counsellor G,Won,21204.0,4
+L100785,2026-02-18,Chennai,Organic,NEET Pro,Counsellor A,Lost,41700.0,3
+L100786,2026-02-19,Chennai,School Partnership,NEET Pro,Counsellor C,Negotiation,41252.0,2
+L100787,2026-02-19,Delhi,Organic,Foundation,Counsellor H,Lost,20342.0,2
+L100788,2026-02-19,Hyderabad,Organic,NEET Pro,Counsellor E,Demo Booked,42141.0,5
+L100789,2026-02-19,Hyderabad,Paid Social,Foundation,Counsellor A,Demo Booked,15210.0,5
+L100790,2026-02-19,Bengaluru,School Partnership,Foundation,Counsellor E,Won,17811.0,4
+L100791,2026-02-19,Kolkata,Organic,NEET Pro,Counsellor A,Won,45876.0,1
+L100792,2026-02-20,Delhi,School Partnership,NEET Pro,Counsellor C,Lost,44902.0,6
+L100793,2026-02-20,Delhi,Referral,JEE Pro,Counsellor F,Lost,34635.0,2
+L100794,2026-02-20,Hyderabad,Organic,Boards Crash,Counsellor F,Lost,7197.0,4
+L100795,2026-02-21,Mumbai,Paid Social,Tutoring 1:1,Counsellor H,Won,30253.0,5
+L100796,2026-02-21,Delhi,Paid Social,Boards Crash,Counsellor H,Lost,5495.0,4
+L100797,2026-02-21,Pune,Paid Social,Tutoring 1:1,Counsellor F,Lost,29167.0,2
+L100798,2026-02-21,Bengaluru,Referral,Boards Crash,Counsellor D,Lost,7063.0,2
+L100799,2026-02-21,Hyderabad,Referral,Boards Crash,Counsellor H,Negotiation,6951.0,7
+L100800,2026-02-21,Bengaluru,School Partnership,JEE Pro,Counsellor H,Negotiation,39571.0,5
+L100801,2026-02-21,Chennai,Organic,JEE Pro,Counsellor F,Lost,44310.0,4
+L100802,2026-02-21,Chennai,Webinar,Tutoring 1:1,Counsellor G,Demo Booked,24862.0,7
+L100803,2026-02-21,Hyderabad,Paid Social,NEET Pro,Counsellor A,Demo Booked,44676.0,3
+L100804,2026-02-22,Chennai,Webinar,Tutoring 1:1,Counsellor A,Demo Booked,24904.0,4
+L100805,2026-02-22,Kolkata,Webinar,Foundation,Counsellor E,Won,19558.0,4
+L100806,2026-02-22,Hyderabad,School Partnership,Boards Crash,Counsellor A,Lost,5561.0,5
+L100807,2026-02-22,Kolkata,Organic,Boards Crash,Counsellor G,Contacted,5165.0,2
+L100808,2026-02-22,Chennai,Paid Social,Boards Crash,Counsellor F,Negotiation,5146.0,2
+L100809,2026-02-22,Bengaluru,School Partnership,Foundation,Counsellor D,Won,21402.0,5
+L100810,2026-02-22,Kolkata,School Partnership,Tutoring 1:1,Counsellor D,Demo Booked,26666.0,6
+L100811,2026-02-23,Bengaluru,Paid Social,NEET Pro,Counsellor F,Won,39517.0,4
+L100812,2026-02-23,Mumbai,School Partnership,Boards Crash,Counsellor C,Negotiation,5175.0,6
+L100813,2026-02-23,Delhi,Paid Social,Foundation,Counsellor D,Lost,17930.0,2
+L100814,2026-02-23,Hyderabad,Paid Social,Tutoring 1:1,Counsellor F,Won,33842.0,5
+L100815,2026-02-23,Hyderabad,Webinar,Boards Crash,Counsellor A,Demo Booked,5398.0,3
+L100816,2026-02-24,Chennai,Paid Social,Foundation,Counsellor G,Negotiation,19542.0,5
+L100817,2026-02-24,Pune,Paid Social,Boards Crash,Counsellor G,Lost,5653.0,4
+L100818,2026-02-24,Bengaluru,Paid Social,Tutoring 1:1,Counsellor B,Lost,25495.0,8
+L100819,2026-02-24,Bengaluru,Paid Social,Boards Crash,Counsellor B,Contacted,6750.0,4
+L100820,2026-02-24,Bengaluru,Organic,JEE Pro,Counsellor E,Won,39377.0,3
+L100821,2026-02-25,Hyderabad,Organic,Foundation,Counsellor B,Negotiation,19000.0,3
+L100822,2026-02-25,Delhi,Webinar,Tutoring 1:1,Counsellor G,Lost,35427.0,3
+L100823,2026-02-25,Lucknow,Paid Social,NEET Pro,Counsellor B,Negotiation,43564.0,2
+L100824,2026-02-25,Bengaluru,Referral,NEET Pro,Counsellor C,Negotiation,37291.0,1
+L100825,2026-02-25,Lucknow,Webinar,Boards Crash,Counsellor C,Demo Booked,6276.0,5
+L100826,2026-02-25,Kolkata,Organic,Boards Crash,Counsellor C,Contacted,6598.0,6
+L100827,2026-02-25,Kolkata,Organic,Tutoring 1:1,Counsellor D,Lost,26588.0,9
+L100828,2026-02-25,Hyderabad,Organic,NEET Pro,Counsellor A,Lost,47279.0,3
+L100829,2026-02-26,Chennai,Paid Social,Boards Crash,Counsellor B,Lost,5345.0,1
+L100830,2026-02-26,Bengaluru,Webinar,JEE Pro,Counsellor H,Lost,34226.0,2
+L100831,2026-02-26,Pune,Paid Social,NEET Pro,Counsellor B,Lost,40517.0,5
+L100832,2026-02-26,Chennai,Paid Social,JEE Pro,Counsellor C,Contacted,41566.0,5
+L100833,2026-02-27,Hyderabad,Referral,NEET Pro,Counsellor D,Negotiation,34481.0,4
+L100834,2026-02-27,Hyderabad,Organic,Tutoring 1:1,Counsellor H,Demo Booked,29799.0,3
+L100835,2026-02-27,Bengaluru,Organic,NEET Pro,Counsellor A,Demo Booked,36351.0,6
+L100836,2026-02-27,Mumbai,Referral,Foundation,Counsellor E,Lost,20256.0,3
+L100837,2026-02-28,Mumbai,Webinar,Boards Crash,Counsellor D,Lost,5980.0,3
+L100838,2026-02-28,Delhi,Organic,NEET Pro,Counsellor F,Negotiation,40392.0,1
+L100839,2026-02-28,Bengaluru,Referral,Boards Crash,Counsellor A,Lost,5146.0,6
+L100840,2026-02-28,Chennai,Organic,Foundation,Counsellor F,Lost,21216.0,3
+L100841,2026-02-28,Pune,Paid Social,NEET Pro,Counsellor B,Demo Booked,36053.0,2
+L100842,2026-03-01,Delhi,Paid Social,Tutoring 1:1,Counsellor G,Demo Booked,31004.0,5
+L100843,2026-03-01,Mumbai,Organic,Boards Crash,Counsellor A,Lost,6664.0,6
+L100844,2026-03-01,Mumbai,Paid Social,NEET Pro,Counsellor F,Lost,40324.0,5
+L100845,2026-03-01,Lucknow,Referral,NEET Pro,Counsellor G,Contacted,37120.0,4
+L100846,2026-03-01,Mumbai,Paid Social,JEE Pro,Counsellor A,Lost,44407.0,5
+L100847,2026-03-01,Kolkata,Organic,Foundation,Counsellor G,Lost,19565.0,7
+L100848,2026-03-01,Pune,Referral,NEET Pro,Counsellor H,Demo Booked,34219.0,5
+L100849,2026-03-01,Bengaluru,Organic,Foundation,Counsellor H,Demo Booked,16239.0,5
+L100850,2026-03-02,Mumbai,School Partnership,Tutoring 1:1,Counsellor E,Won,26197.0,2
+L100851,2026-03-02,Chennai,Organic,NEET Pro,Counsellor G,Won,32364.0,5
+L100852,2026-03-02,Pune,Organic,NEET Pro,Counsellor A,Demo Booked,41938.0,4
+L100853,2026-03-02,Chennai,Organic,NEET Pro,Counsellor E,Lost,47983.0,2
+L100854,2026-03-02,Bengaluru,School Partnership,JEE Pro,Counsellor C,Won,38180.0,4
+L100855,2026-03-03,Kolkata,Organic,NEET Pro,Counsellor D,Lost,47004.0,1
+L100856,2026-03-03,Delhi,Referral,Tutoring 1:1,Counsellor C,Won,28623.0,6
+L100857,2026-03-03,Pune,School Partnership,NEET Pro,Counsellor E,Lost,46611.0,4
+L100858,2026-03-03,Kolkata,School Partnership,Foundation,Counsellor G,Won,15078.0,3
+L100859,2026-03-03,Delhi,Organic,Foundation,Counsellor F,Demo Booked,16686.0,3
+L100860,2026-03-03,Mumbai,Paid Social,JEE Pro,Counsellor E,Demo Booked,47823.0,5
+L100861,2026-03-04,Mumbai,Referral,JEE Pro,Counsellor H,Lost,48865.0,0
+L100862,2026-03-04,Chennai,Referral,JEE Pro,Counsellor D,Won,47079.0,2
+L100863,2026-03-04,Mumbai,Paid Social,Tutoring 1:1,Counsellor C,Won,32186.0,4
+L100864,2026-03-04,Bengaluru,Paid Social,NEET Pro,Counsellor C,Lost,36967.0,4
+L100865,2026-03-04,Mumbai,Organic,JEE Pro,Counsellor H,Lost,50147.0,2
+L100866,2026-03-04,Bengaluru,Organic,JEE Pro,Counsellor G,Won,43237.0,1
+L100867,2026-03-04,Bengaluru,Paid Social,Foundation,Counsellor H,Negotiation,20298.0,3
+L100868,2026-03-04,Mumbai,Organic,JEE Pro,Counsellor G,Negotiation,40296.0,4
+L100869,2026-03-05,Mumbai,Organic,Tutoring 1:1,Counsellor H,Negotiation,35252.0,3
+L100870,2026-03-05,Bengaluru,Paid Social,Tutoring 1:1,Counsellor E,Lost,31472.0,6
+L100871,2026-03-05,Delhi,Organic,JEE Pro,Counsellor F,Lost,45552.0,4
+L100872,2026-03-05,Delhi,Organic,Boards Crash,Counsellor E,Demo Booked,5143.0,3
+L100873,2026-03-05,Delhi,School Partnership,Foundation,Counsellor E,Demo Booked,17381.0,3
+L100874,2026-03-05,Mumbai,Paid Social,Boards Crash,Counsellor A,Contacted,5032.0,3
+L100875,2026-03-06,Bengaluru,Organic,Foundation,Counsellor H,Lost,16950.0,2
+L100876,2026-03-06,Bengaluru,Referral,Boards Crash,Counsellor D,Won,6163.0,1
+L100877,2026-03-06,Bengaluru,Organic,Foundation,Counsellor D,Lost,16491.0,4
+L100878,2026-03-06,Hyderabad,Organic,NEET Pro,Counsellor E,Won,32103.0,10
+L100879,2026-03-06,Chennai,School Partnership,Boards Crash,Counsellor G,Lost,5834.0,6
+L100880,2026-03-06,Kolkata,Webinar,Boards Crash,Counsellor C,Won,6620.0,2
+L100881,2026-03-06,Bengaluru,Referral,Tutoring 1:1,Counsellor A,Lost,28552.0,3
+L100882,2026-03-06,Pune,Organic,Tutoring 1:1,Counsellor B,Won,33328.0,7
+L100883,2026-03-06,Pune,Paid Social,JEE Pro,Counsellor B,Lost,40121.0,6
+L100884,2026-03-07,Pune,Organic,Tutoring 1:1,Counsellor B,Won,30596.0,5
+L100885,2026-03-07,Kolkata,Organic,Boards Crash,Counsellor E,Demo Booked,5526.0,3
+L100886,2026-03-08,Delhi,Organic,Tutoring 1:1,Counsellor C,Negotiation,25040.0,2
+L100887,2026-03-08,Mumbai,Organic,Foundation,Counsellor F,Demo Booked,20027.0,10
+L100888,2026-03-08,,Referral,Tutoring 1:1,Counsellor D,Lost,30159.0,7
+L100889,2026-03-09,Bengaluru,Organic,Tutoring 1:1,Counsellor B,Lost,33531.0,6
+L100890,2026-03-09,Mumbai,Organic,JEE Pro,Counsellor H,Negotiation,46783.0,3
+L100891,2026-03-09,Delhi,School Partnership,JEE Pro,Counsellor G,Negotiation,46682.0,7
+L100892,2026-03-09,Lucknow,Paid Social,NEET Pro,Counsellor D,Won,38092.0,4
+L100893,2026-03-10,Hyderabad,Paid Social,Foundation,Counsellor E,Contacted,16514.0,4
+L100894,2026-03-10,Pune,Organic,NEET Pro,Counsellor E,Won,35611.0,1
+L100895,2026-03-10,Bengaluru,Webinar,Tutoring 1:1,Counsellor B,Won,29619.0,4
+L100896,2026-03-10,Hyderabad,Referral,Tutoring 1:1,Counsellor B,Won,31240.0,8
+L100897,2026-03-11,Pune,Paid Social,Tutoring 1:1,Counsellor A,Negotiation,34341.0,1
+L100898,2026-03-11,Mumbai,Referral,NEET Pro,Counsellor B,Contacted,47966.0,6
+L100899,2026-03-11,Delhi,Organic,Boards Crash,Counsellor D,Demo Booked,6551.0,5
+L100900,2026-03-11,Mumbai,Organic,NEET Pro,Counsellor B,Lost,41080.0,4
+L100901,2026-03-12,Mumbai,Paid Social,NEET Pro,Counsellor G,Lost,36616.0,1
+L100902,2026-03-12,Delhi,School Partnership,Boards Crash,Counsellor B,Lost,6200.0,2
+L100903,2026-03-12,Delhi,Webinar,Boards Crash,Counsellor H,Demo Booked,5481.0,2
+L100904,2026-03-12,Hyderabad,Referral,JEE Pro,Counsellor H,Won,48221.0,2
+L100905,2026-03-12,Chennai,Paid Social,Foundation,Counsellor G,Demo Booked,16038.0,4
+L100906,2026-03-12,Delhi,Organic,Boards Crash,Counsellor C,Lost,5783.0,5
+L100907,2026-03-12,Chennai,Webinar,Tutoring 1:1,Counsellor B,Negotiation,26694.0,4
+L100908,2026-03-12,Bengaluru,Organic,Foundation,Counsellor E,Lost,15969.0,7
+L100909,2026-03-12,Hyderabad,Organic,Boards Crash,Counsellor H,Contacted,6634.0,3
+L100910,2026-03-12,Delhi,Referral,Foundation,Counsellor F,Won,15859.0,2
+L100911,2026-03-13,Mumbai,Webinar,Foundation,Counsellor B,Won,16715.0,2
+L100912,2026-03-13,Delhi,Webinar,Boards Crash,Counsellor B,Negotiation,4905.0,5
+L100913,2026-03-13,Bengaluru,Paid Social,Boards Crash,Counsellor D,Demo Booked,6986.0,4
+L100914,2026-03-13,Bengaluru,Organic,Boards Crash,Counsellor G,Won,6957.0,2
+L100915,2026-03-14,Lucknow,Organic,Boards Crash,Counsellor F,Won,5702.0,3
+L100916,2026-03-14,Delhi,Webinar,NEET Pro,Counsellor G,Won,46721.0,1
+L100917,2026-03-14,,School Partnership,Boards Crash,Counsellor C,Demo Booked,5349.0,4
+L100918,2026-03-15,Mumbai,Organic,NEET Pro,Counsellor C,Won,36046.0,11
+L100919,2026-03-15,Chennai,Webinar,NEET Pro,Counsellor C,Lost,40898.0,5
+L100920,2026-03-15,Mumbai,Paid Social,Foundation,Counsellor G,Demo Booked,15962.0,5
+L100921,2026-03-15,Lucknow,Paid Social,Foundation,Counsellor D,Won,20927.0,5
+L100922,2026-03-15,Mumbai,Paid Social,Boards Crash,Counsellor G,Demo Booked,7129.0,4
+L100923,2026-03-15,Delhi,Organic,JEE Pro,Counsellor H,Lost,35658.0,3
+L100924,2026-03-16,Bengaluru,Paid Social,Foundation,Counsellor D,Lost,17623.0,4
+L100925,2026-03-16,Bengaluru,Organic,Tutoring 1:1,Counsellor D,Lost,29091.0,7
+L100926,2026-03-16,Bengaluru,Referral,Foundation,Counsellor A,Lost,21519.0,5
+L100927,2026-03-16,Hyderabad,Paid Social,Boards Crash,Counsellor A,Contacted,7167.0,3
+L100928,2026-03-16,Delhi,Webinar,Tutoring 1:1,Counsellor A,Won,24740.0,2
+L100929,2026-03-16,Pune,Webinar,JEE Pro,Counsellor C,Lost,49645.0,4
+L100930,2026-03-16,Bengaluru,Paid Social,JEE Pro,Counsellor A,Lost,44464.0,4
+L100931,2026-03-16,Chennai,Organic,Tutoring 1:1,Counsellor E,Negotiation,29659.0,3
+L100932,2026-03-16,Bengaluru,School Partnership,NEET Pro,Counsellor A,Won,38982.0,4
+L100933,2026-03-17,Delhi,Paid Social,Tutoring 1:1,Counsellor E,Contacted,34266.0,3
+L100934,2026-03-17,Delhi,Organic,Tutoring 1:1,Counsellor C,Lost,25542.0,4
+L100935,2026-03-17,Delhi,Organic,JEE Pro,Counsellor H,Lost,40288.0,7
+L100936,2026-03-17,Delhi,School Partnership,Tutoring 1:1,Counsellor H,Lost,25201.0,4
+L100937,2026-03-18,Pune,Paid Social,Boards Crash,Counsellor E,Lost,5753.0,5
+L100938,2026-03-18,Bengaluru,Organic,Boards Crash,Counsellor G,Lost,6721.0,3
+L100939,2026-03-18,Delhi,Paid Social,Foundation,Counsellor G,Won,20393.0,1
+L100940,2026-03-18,Bengaluru,Paid Social,Foundation,Counsellor A,Won,15418.0,5
+L100941,2026-03-18,Kolkata,Paid Social,NEET Pro,Counsellor G,Demo Booked,35981.0,2
+L100942,2026-03-19,Bengaluru,School Partnership,Foundation,Counsellor A,Demo Booked,19445.0,4
+L100943,2026-03-19,Mumbai,School Partnership,JEE Pro,Counsellor D,Won,36498.0,4
+L100944,2026-03-19,Pune,Organic,JEE Pro,Counsellor H,Demo Booked,34432.0,0
+L100945,2026-03-19,Delhi,Organic,Tutoring 1:1,Counsellor D,Lost,34412.0,1
+L100946,2026-03-20,Bengaluru,Paid Social,NEET Pro,Counsellor C,Lost,32379.0,2
+L100947,2026-03-20,Delhi,Webinar,NEET Pro,Counsellor D,Lost,46255.0,2
+L100948,2026-03-20,Chennai,Referral,Tutoring 1:1,Counsellor B,Won,31188.0,6
+L100949,2026-03-20,Bengaluru,Referral,Foundation,Counsellor A,Won,17247.0,5
+L100950,2026-03-20,Pune,Paid Social,Foundation,Counsellor C,Lost,16561.0,4
+L100951,2026-03-21,Bengaluru,Organic,JEE Pro,Counsellor A,Lost,40195.0,4
+L100952,2026-03-21,Bengaluru,Webinar,NEET Pro,Counsellor E,Lost,46350.0,3
+L100953,2026-03-21,Kolkata,Organic,Tutoring 1:1,Counsellor A,Won,30953.0,5
+L100954,2026-03-21,Hyderabad,Referral,Tutoring 1:1,Counsellor H,Contacted,25739.0,5
+L100955,2026-03-21,Delhi,Organic,NEET Pro,Counsellor B,Negotiation,40997.0,4
+L100956,2026-03-22,Hyderabad,Paid Social,Tutoring 1:1,Counsellor B,Won,27745.0,4
+L100957,2026-03-22,Bengaluru,School Partnership,Boards Crash,Counsellor A,Lost,6965.0,5
+L100958,2026-03-22,Chennai,Paid Social,JEE Pro,Counsellor E,Contacted,36281.0,7
+L100959,2026-03-22,Mumbai,Organic,Tutoring 1:1,Counsellor D,Negotiation,29943.0,3
+L100960,2026-03-23,Chennai,Paid Social,Tutoring 1:1,Counsellor B,Demo Booked,24283.0,6
+L100961,2026-03-23,Mumbai,Referral,Tutoring 1:1,Counsellor B,Demo Booked,27165.0,7
+L100962,2026-03-23,Mumbai,Organic,NEET Pro,Counsellor C,Contacted,43340.0,2
+L100963,2026-03-23,Pune,Organic,NEET Pro,Counsellor H,Demo Booked,41823.0,9
+L100964,2026-03-23,Mumbai,Organic,Foundation,Counsellor H,Lost,21017.0,4
+L100965,2026-03-24,Bengaluru,Paid Social,JEE Pro,Counsellor D,Negotiation,36213.0,3
+L100966,2026-03-24,Hyderabad,Paid Social,NEET Pro,Counsellor D,Contacted,39438.0,6
+L100967,2026-03-24,Delhi,Paid Social,Boards Crash,Counsellor A,Lost,5046.0,5
+L100968,2026-03-24,Hyderabad,Organic,Boards Crash,Counsellor A,Won,6470.0,3
+L100969,2026-03-24,Lucknow,Referral,Boards Crash,Counsellor F,Lost,5051.0,4
+L100970,2026-03-25,Hyderabad,Organic,JEE Pro,Counsellor A,Lost,49124.0,5
+L100971,2026-03-25,Pune,School Partnership,Tutoring 1:1,Counsellor F,Won,29844.0,5
+L100972,2026-03-25,Delhi,School Partnership,JEE Pro,Counsellor D,Demo Booked,42661.0,3
+L100973,2026-03-25,Bengaluru,Paid Social,Boards Crash,Counsellor H,Negotiation,5684.0,2
+L100974,2026-03-25,Bengaluru,Paid Social,Foundation,Counsellor F,Demo Booked,17270.0,4
+L100975,2026-03-25,Bengaluru,Webinar,Tutoring 1:1,Counsellor B,Negotiation,34483.0,5
+L100976,2026-03-25,Bengaluru,Organic,NEET Pro,Counsellor H,Lost,44148.0,3
+L100977,2026-03-27,Delhi,Webinar,Tutoring 1:1,Counsellor C,Demo Booked,28653.0,2
+L100978,2026-03-27,Delhi,Organic,Boards Crash,Counsellor G,Won,6760.0,7
+L100979,2026-03-27,Hyderabad,Referral,Foundation,Counsellor F,Lost,17126.0,7
+L100980,2026-03-27,Kolkata,Paid Social,Tutoring 1:1,Counsellor E,Lost,24966.0,5
+L100981,2026-03-28,Kolkata,Referral,NEET Pro,Counsellor F,Demo Booked,35658.0,3
+L100982,2026-03-28,Kolkata,School Partnership,NEET Pro,Counsellor A,Demo Booked,38790.0,2
+L100983,2026-03-28,Pune,Organic,Foundation,Counsellor E,Negotiation,17585.0,3
+L100984,2026-03-28,Kolkata,Webinar,Tutoring 1:1,Counsellor A,Negotiation,26105.0,5
+L100985,2026-03-28,Mumbai,Paid Social,NEET Pro,Counsellor H,Lost,43262.0,4
+L100986,2026-03-29,Delhi,Paid Social,Foundation,Counsellor A,Negotiation,16117.0,4
+L100987,2026-03-29,Bengaluru,Paid Social,Foundation,Counsellor H,Contacted,19080.0,6
+L100988,2026-03-29,Bengaluru,Organic,Boards Crash,Counsellor A,Lost,6065.0,6
+L100989,2026-03-30,Pune,Organic,Foundation,Counsellor A,Demo Booked,19064.0,4
+L100990,2026-03-30,Bengaluru,Referral,JEE Pro,Counsellor B,Negotiation,48599.0,4
+L100991,2026-03-30,Pune,Organic,JEE Pro,Counsellor D,Negotiation,45551.0,8
+L100992,2026-03-30,Delhi,Referral,Foundation,Counsellor B,Won,18828.0,5
+L100993,2026-03-31,Bengaluru,School Partnership,NEET Pro,Counsellor H,Lost,42922.0,2
+L100994,2026-03-31,Pune,School Partnership,JEE Pro,Counsellor G,Lost,42282.0,2
+L100995,2026-04-01,Hyderabad,Webinar,NEET Pro,Counsellor A,Won,47889.0,3
+L100996,2026-04-02,Lucknow,Webinar,NEET Pro,Counsellor C,Negotiation,45065.0,3
+L100997,2026-04-02,Mumbai,Organic,Tutoring 1:1,Counsellor C,Demo Booked,25890.0,7
+L100998,2026-04-02,Chennai,School Partnership,NEET Pro,Counsellor C,Demo Booked,34475.0,3
+L100999,2026-04-02,Mumbai,Organic,Boards Crash,Counsellor G,Lost,5846.0,3
+L101000,2026-04-03,Delhi,Webinar,Tutoring 1:1,Counsellor C,Lost,35067.0,2
+L101001,2026-04-03,,Webinar,Tutoring 1:1,Counsellor A,Won,25716.0,2
+L101002,2026-04-03,Hyderabad,Referral,Tutoring 1:1,Counsellor B,Demo Booked,26863.0,4
+L101003,2026-04-03,Chennai,Paid Social,Tutoring 1:1,Counsellor E,Lost,35995.0,4
+L101004,2026-04-03,Pune,Organic,JEE Pro,Counsellor A,Lost,46158.0,0
+L101005,2026-04-03,Chennai,Paid Social,Tutoring 1:1,Counsellor H,Lost,30531.0,5
+L101006,2026-04-04,Mumbai,Organic,NEET Pro,Counsellor A,Contacted,34658.0,3
+L101007,2026-04-04,Mumbai,Organic,NEET Pro,Counsellor E,Lost,32510.0,6
+L101008,2026-04-04,Mumbai,Organic,Tutoring 1:1,Counsellor A,Contacted,27965.0,6
+L101009,2026-04-04,Chennai,Webinar,NEET Pro,Counsellor A,Lost,35042.0,5
+L101010,2026-04-04,Delhi,School Partnership,Tutoring 1:1,Counsellor G,Lost,34605.0,3
+L101011,2026-04-04,Bengaluru,Organic,Boards Crash,Counsellor A,Won,6041.0,2
+L101012,2026-04-04,Delhi,Organic,NEET Pro,Counsellor A,Won,40090.0,3
+L101013,2026-04-05,Hyderabad,Organic,Boards Crash,Counsellor D,Lost,6269.0,4
+L101014,2026-04-05,Pune,Organic,Foundation,Counsellor E,Contacted,17953.0,4
+L101015,2026-04-05,Chennai,Organic,JEE Pro,Counsellor A,Negotiation,37595.0,9
+L101016,2026-04-05,Hyderabad,Paid Social,NEET Pro,Counsellor B,Contacted,43740.0,3
+L101017,2026-04-05,Pune,Paid Social,JEE Pro,Counsellor F,Contacted,45996.0,2
+L101018,2026-04-05,Pune,Paid Social,JEE Pro,Counsellor A,Lost,48870.0,3
+L101019,2026-04-05,Pune,Organic,Boards Crash,Counsellor C,Contacted,5973.0,3
+L101020,2026-04-05,Mumbai,Referral,JEE Pro,Counsellor H,Won,35799.0,3
+L101021,2026-04-05,Chennai,Organic,Boards Crash,Counsellor C,Lost,7111.0,3
+L101022,2026-04-05,Chennai,Paid Social,Tutoring 1:1,Counsellor A,Lost,24180.0,5
+L101023,2026-04-05,Bengaluru,Paid Social,Tutoring 1:1,Counsellor G,Lost,25881.0,7
+L101024,2026-04-06,Bengaluru,School Partnership,Boards Crash,Counsellor E,Lost,6497.0,1
+L101025,2026-04-06,Lucknow,Organic,Boards Crash,Counsellor F,Demo Booked,6871.0,6
+L101026,2026-04-06,Hyderabad,Referral,Foundation,Counsellor A,Lost,21190.0,3
+L101027,2026-04-07,Bengaluru,Paid Social,Foundation,Counsellor G,Lost,18687.0,3
+L101028,2026-04-07,Chennai,Webinar,Boards Crash,Counsellor H,Negotiation,5463.0,4
+L101029,2026-04-07,Bengaluru,Paid Social,Boards Crash,Counsellor B,Lost,4874.0,5
+L101030,2026-04-07,Mumbai,Paid Social,NEET Pro,Counsellor F,Negotiation,43757.0,3
+L101031,2026-04-07,Delhi,Webinar,NEET Pro,Counsellor C,Lost,42268.0,4
+L101032,2026-04-07,Delhi,Referral,JEE Pro,Counsellor A,Won,35554.0,5
+L101033,2026-04-08,Bengaluru,Organic,Foundation,Counsellor F,Won,19776.0,4
+L101034,2026-04-08,Bengaluru,Organic,Tutoring 1:1,Counsellor E,Demo Booked,35398.0,2
+L101035,2026-04-08,Delhi,School Partnership,Tutoring 1:1,Counsellor E,Won,26236.0,2
+L101036,2026-04-08,Bengaluru,Organic,Boards Crash,Counsellor F,Contacted,6248.0,4
+L101037,2026-04-08,Hyderabad,Paid Social,NEET Pro,Counsellor G,Negotiation,38690.0,4
+L101038,2026-04-09,Delhi,School Partnership,Foundation,Counsellor B,Won,18829.0,3
+L101039,2026-04-09,Kolkata,Organic,Tutoring 1:1,Counsellor D,Lost,25412.0,1
+L101040,2026-04-09,Chennai,Organic,JEE Pro,Counsellor E,Demo Booked,48689.0,3
+L101041,2026-04-10,Chennai,Organic,NEET Pro,Counsellor H,Demo Booked,36700.0,2
+L101042,2026-04-10,Kolkata,Organic,Tutoring 1:1,Counsellor A,Won,31697.0,6
+L101043,2026-04-10,Kolkata,Paid Social,Tutoring 1:1,Counsellor B,Contacted,26810.0,5
+L101044,2026-04-10,Bengaluru,Paid Social,NEET Pro,Counsellor G,Negotiation,34878.0,5
+L101045,2026-04-10,Lucknow,Paid Social,Boards Crash,Counsellor F,Contacted,7101.0,5
+L101046,2026-04-10,Mumbai,Organic,Boards Crash,Counsellor H,Demo Booked,5419.0,5
+L101047,2026-04-10,Mumbai,Webinar,Foundation,Counsellor G,Negotiation,21273.0,5
+L101048,2026-04-10,Hyderabad,Webinar,NEET Pro,Counsellor F,Contacted,45771.0,4
+L101049,2026-04-10,Bengaluru,Paid Social,Boards Crash,Counsellor H,Demo Booked,6137.0,3
+L101050,2026-04-11,Mumbai,Organic,NEET Pro,Counsellor H,Demo Booked,40991.0,7
+L101051,2026-04-11,Bengaluru,Paid Social,Tutoring 1:1,Counsellor D,Contacted,24363.0,5
+L101052,2026-04-11,Chennai,Referral,NEET Pro,Counsellor G,Won,44327.0,4
+L101053,2026-04-11,Mumbai,Paid Social,Tutoring 1:1,Counsellor H,Demo Booked,32195.0,4
+L101054,2026-04-11,Bengaluru,Webinar,Tutoring 1:1,Counsellor D,Won,31031.0,3
+L101055,2026-04-12,Lucknow,Paid Social,JEE Pro,Counsellor E,Lost,47266.0,3
+L101056,2026-04-12,Mumbai,Paid Social,JEE Pro,Counsellor H,Contacted,41508.0,6
+L101057,2026-04-12,Kolkata,Organic,JEE Pro,Counsellor F,Contacted,40026.0,5
+L101058,2026-04-12,Pune,Paid Social,Boards Crash,Counsellor E,Contacted,6578.0,5
+L101059,2026-04-12,,Webinar,Tutoring 1:1,Counsellor C,Won,29938.0,3
+L101060,2026-04-12,Mumbai,Referral,NEET Pro,Counsellor F,Won,41701.0,7
+L101061,2026-04-12,Delhi,Organic,Boards Crash,Counsellor H,Won,5166.0,5
+L101062,2026-04-12,Bengaluru,School Partnership,NEET Pro,Counsellor B,Negotiation,35215.0,4
+L101063,2026-04-13,Hyderabad,Referral,Tutoring 1:1,Counsellor A,Won,26190.0,2
+L101064,2026-04-13,Bengaluru,Paid Social,Foundation,Counsellor G,Lost,20180.0,4
+L101065,2026-04-13,Delhi,Paid Social,Boards Crash,Counsellor H,Demo Booked,7185.0,6
+L101066,2026-04-13,Chennai,Webinar,Foundation,Counsellor F,Demo Booked,21411.0,5
+L101067,2026-04-13,Chennai,Organic,JEE Pro,Counsellor E,Demo Booked,42877.0,1
+L101068,2026-04-13,Pune,Referral,NEET Pro,Counsellor A,Won,44555.0,6
+L101069,2026-04-13,Bengaluru,Referral,Boards Crash,Counsellor E,Demo Booked,5089.0,4
+L101070,2026-04-14,Chennai,Paid Social,NEET Pro,Counsellor B,Demo Booked,37269.0,1
+L101071,2026-04-14,Bengaluru,Webinar,Boards Crash,Counsellor B,Negotiation,7054.0,1
+L101072,2026-04-14,Chennai,Paid Social,JEE Pro,Counsellor D,Demo Booked,38585.0,7
+L101073,2026-04-14,Kolkata,Paid Social,Tutoring 1:1,Counsellor F,Lost,25902.0,1
+L101074,2026-04-14,Lucknow,Organic,JEE Pro,Counsellor H,Negotiation,40889.0,7
+L101075,2026-04-14,Lucknow,School Partnership,Foundation,Counsellor B,Negotiation,19931.0,6
+L101076,2026-04-15,Mumbai,Paid Social,Foundation,Counsellor C,Negotiation,21508.0,1
+L101077,2026-04-15,Delhi,Referral,Tutoring 1:1,Counsellor G,Lost,24385.0,6
+L101078,2026-04-15,Chennai,Paid Social,Tutoring 1:1,Counsellor B,Lost,31641.0,2
+L101079,2026-04-15,Delhi,School Partnership,NEET Pro,Counsellor F,Demo Booked,45443.0,3
+L101080,2026-04-16,Delhi,School Partnership,Tutoring 1:1,Counsellor D,Won,33791.0,3
+L101081,2026-04-16,Mumbai,Organic,Tutoring 1:1,Counsellor B,Demo Booked,35032.0,3
+L101082,2026-04-16,Bengaluru,School Partnership,JEE Pro,Counsellor A,Lost,44454.0,5
+L101083,2026-04-16,Mumbai,Referral,Tutoring 1:1,Counsellor G,Demo Booked,34187.0,4
+L101084,2026-04-16,Bengaluru,Organic,Boards Crash,Counsellor C,Lost,5766.0,6
+L101085,2026-04-16,Mumbai,Paid Social,Foundation,Counsellor F,Contacted,18654.0,6
+L101086,2026-04-16,Chennai,Organic,JEE Pro,Counsellor D,Won,42824.0,7
+L101087,2026-04-17,Chennai,Paid Social,NEET Pro,Counsellor C,Lost,39074.0,3
+L101088,2026-04-18,Lucknow,Organic,Tutoring 1:1,Counsellor D,Demo Booked,29381.0,4
+L101089,2026-04-18,Kolkata,Paid Social,JEE Pro,Counsellor F,Demo Booked,45481.0,3
+L101090,2026-04-18,Kolkata,Paid Social,JEE Pro,Counsellor A,Won,36138.0,6
+L101091,2026-04-18,Delhi,Referral,JEE Pro,Counsellor F,Lost,47604.0,7
+L101092,2026-04-18,Chennai,Webinar,NEET Pro,Counsellor H,Demo Booked,43356.0,9
+L101093,2026-04-19,Bengaluru,School Partnership,Boards Crash,Counsellor D,Won,5284.0,1
+L101094,2026-04-19,Bengaluru,Paid Social,JEE Pro,Counsellor B,Lost,39460.0,2
+L101095,2026-04-19,Bengaluru,Paid Social,NEET Pro,Counsellor F,Won,45462.0,1
+L101096,2026-04-19,Delhi,Organic,Boards Crash,Counsellor C,Won,5817.0,4
+L101097,2026-04-19,Bengaluru,Paid Social,JEE Pro,Counsellor G,Lost,47840.0,3
+L101098,2026-04-19,Hyderabad,School Partnership,NEET Pro,Counsellor C,Contacted,38377.0,6
+L101099,2026-04-20,Bengaluru,Organic,NEET Pro,Counsellor H,Lost,47890.0,8
+L101100,2026-04-20,Hyderabad,Webinar,Tutoring 1:1,Counsellor E,Won,28690.0,5
+L101101,2026-04-20,Mumbai,Referral,Foundation,Counsellor G,Contacted,21482.0,5
+L101102,2026-04-20,Hyderabad,Organic,JEE Pro,Counsellor D,Lost,40060.0,6
+L101103,2026-04-20,Hyderabad,Webinar,Foundation,Counsellor A,Contacted,17427.0,8
+L101104,2026-04-21,Kolkata,Organic,Boards Crash,Counsellor B,Lost,5218.0,2
+L101105,2026-04-21,Mumbai,Webinar,Boards Crash,Counsellor G,Won,6687.0,4
+L101106,2026-04-21,Mumbai,Organic,Boards Crash,Counsellor C,Lost,4988.0,2
+L101107,2026-04-21,Delhi,Organic,Boards Crash,Counsellor H,Won,6676.0,4
+L101108,2026-04-22,Mumbai,Webinar,Boards Crash,Counsellor E,Contacted,5996.0,3
+L101109,2026-04-22,Bengaluru,Paid Social,Boards Crash,Counsellor D,Won,6867.0,6
+L101110,2026-04-22,Lucknow,Organic,Tutoring 1:1,Counsellor F,Won,31451.0,4
+L101111,2026-04-23,Chennai,Paid Social,Boards Crash,Counsellor H,Lost,7073.0,5
+L101112,2026-04-23,Bengaluru,Organic,NEET Pro,Counsellor H,Demo Booked,40237.0,3
+L101113,2026-04-23,Bengaluru,Paid Social,Foundation,Counsellor B,Lost,16029.0,4
+L101114,2026-04-23,Delhi,Referral,NEET Pro,Counsellor B,Won,46780.0,4
+L101115,2026-04-23,Mumbai,Webinar,JEE Pro,Counsellor A,Won,48619.0,4
+L101116,2026-04-23,,Organic,JEE Pro,Counsellor G,Demo Booked,47715.0,2
+L101117,2026-04-23,Delhi,Paid Social,Boards Crash,Counsellor D,Lost,6239.0,2
+L101118,2026-04-23,Hyderabad,School Partnership,Tutoring 1:1,Counsellor A,Lost,27157.0,3
+L101119,2026-04-24,Delhi,Paid Social,NEET Pro,Counsellor A,Lost,32278.0,2
+L101120,2026-04-24,Delhi,Webinar,NEET Pro,Counsellor G,Demo Booked,44994.0,5
+L101121,2026-04-24,Bengaluru,Organic,Tutoring 1:1,Counsellor B,Lost,31915.0,5
+L101122,2026-04-24,Mumbai,Webinar,JEE Pro,Counsellor B,Won,41002.0,6
+L101123,2026-04-24,Bengaluru,Paid Social,NEET Pro,Counsellor D,Contacted,40222.0,5
+L101124,2026-04-25,Pune,Webinar,JEE Pro,Counsellor A,Contacted,46845.0,2
+L101125,2026-04-25,Mumbai,Webinar,Boards Crash,Counsellor H,Lost,5355.0,4
+L101126,2026-04-25,Delhi,Webinar,NEET Pro,Counsellor G,Lost,32330.0,2
+L101127,2026-04-25,Hyderabad,Organic,NEET Pro,Counsellor E,Won,33510.0,6
+L101128,2026-04-26,Chennai,Referral,JEE Pro,Counsellor C,Negotiation,50207.0,2
+L101129,2026-04-26,Bengaluru,Organic,Foundation,Counsellor H,Lost,15904.0,2
+L101130,2026-04-26,Delhi,Organic,Tutoring 1:1,Counsellor A,Won,35728.0,4
+L101131,2026-04-26,Lucknow,Paid Social,NEET Pro,Counsellor E,Lost,32450.0,7
+L101132,2026-04-26,Pune,Paid Social,NEET Pro,Counsellor G,Demo Booked,42753.0,9
+L101133,2026-04-27,Delhi,Referral,Boards Crash,Counsellor D,Demo Booked,6065.0,5
+L101134,2026-04-27,Delhi,School Partnership,JEE Pro,Counsellor F,Lost,41911.0,6
+L101135,2026-04-27,Pune,Organic,Tutoring 1:1,Counsellor A,Contacted,24002.0,6
+L101136,2026-04-27,Bengaluru,Organic,JEE Pro,Counsellor C,Negotiation,43135.0,6
+L101137,2026-04-27,Bengaluru,Paid Social,Tutoring 1:1,Counsellor A,Negotiation,31398.0,3
+L101138,2026-04-27,Mumbai,Webinar,NEET Pro,Counsellor H,Lost,45350.0,3
+L101139,2026-04-27,Mumbai,Paid Social,NEET Pro,Counsellor G,Lost,45290.0,4
+L101140,2026-04-28,Mumbai,Paid Social,Foundation,Counsellor H,Lost,20238.0,6
+L101141,2026-04-28,Kolkata,Webinar,JEE Pro,Counsellor F,Contacted,34593.0,2
+L101142,2026-04-28,Chennai,Referral,Tutoring 1:1,Counsellor B,Won,34523.0,3
+L101143,2026-04-28,Delhi,Organic,Boards Crash,Counsellor E,Won,6056.0,3
+L101144,2026-04-28,Delhi,Organic,Foundation,Counsellor E,Lost,20658.0,5
+L101145,2026-04-28,Pune,Paid Social,Tutoring 1:1,Counsellor H,Won,34902.0,2
+L101146,2026-04-28,Delhi,Webinar,Tutoring 1:1,Counsellor H,Negotiation,24973.0,4
+L101147,2026-04-29,Pune,Paid Social,Tutoring 1:1,Counsellor F,Lost,28921.0,2
+L101148,2026-04-29,Hyderabad,Organic,Tutoring 1:1,Counsellor H,Lost,30068.0,7
+L101149,2026-04-29,Pune,Paid Social,Boards Crash,Counsellor C,Lost,6245.0,2
+L101150,2026-04-29,Hyderabad,Paid Social,NEET Pro,Counsellor D,Lost,47013.0,3
+L101151,2026-04-29,Bengaluru,Paid Social,Foundation,Counsellor G,Contacted,14652.0,8
+L101152,2026-04-30,Hyderabad,Paid Social,Boards Crash,Counsellor C,Contacted,6246.0,6
+L101153,2026-04-30,Mumbai,School Partnership,JEE Pro,Counsellor F,Won,41860.0,1
+L101154,2026-04-30,Bengaluru,Paid Social,NEET Pro,Counsellor D,Negotiation,34148.0,2
+L101155,2026-04-30,Bengaluru,Paid Social,Tutoring 1:1,Counsellor A,Lost,32216.0,3
+L101156,2026-05-01,Delhi,Referral,JEE Pro,Counsellor G,Won,45832.0,3
+L101157,2026-05-01,Bengaluru,Webinar,NEET Pro,Counsellor G,Lost,33835.0,5
+L101158,2026-05-01,Bengaluru,Referral,NEET Pro,Counsellor E,Lost,33669.0,2
+L101159,2026-05-01,Pune,Paid Social,Foundation,Counsellor C,Demo Booked,17913.0,3
+L101160,2026-05-01,Lucknow,Webinar,Foundation,Counsellor B,Won,21288.0,7
+L101161,2026-05-02,Lucknow,Paid Social,Foundation,Counsellor G,Demo Booked,20384.0,6
+L101162,2026-05-02,Mumbai,School Partnership,Boards Crash,Counsellor E,Contacted,6395.0,5
+L101163,2026-05-02,Mumbai,Organic,Foundation,Counsellor G,Negotiation,17253.0,2
+L101164,2026-05-02,Bengaluru,Organic,Tutoring 1:1,Counsellor A,Won,35414.0,5
+L101165,2026-05-02,Bengaluru,Webinar,Boards Crash,Counsellor H,Lost,5938.0,5
+L101166,2026-05-02,Kolkata,Organic,Foundation,Counsellor G,Demo Booked,15398.0,6
+L101167,2026-05-03,Mumbai,Webinar,Boards Crash,Counsellor A,Demo Booked,6236.0,3
+L101168,2026-05-03,Mumbai,Referral,Foundation,Counsellor F,Demo Booked,15070.0,2
+L101169,2026-05-03,Kolkata,Paid Social,Foundation,Counsellor F,Lost,20630.0,4
+L101170,2026-05-03,Pune,Organic,JEE Pro,Counsellor C,Lost,42049.0,7
+L101171,2026-05-03,Hyderabad,Webinar,Boards Crash,Counsellor C,Contacted,6570.0,2
+L101172,2026-05-03,Bengaluru,Organic,JEE Pro,Counsellor E,Negotiation,47895.0,2
+L101173,2026-05-03,Mumbai,School Partnership,Boards Crash,Counsellor G,Lost,6693.0,2
+L101174,2026-05-03,Pune,Webinar,JEE Pro,Counsellor B,Won,46895.0,3
+L101175,2026-05-03,,Paid Social,Tutoring 1:1,Counsellor A,Lost,33427.0,0
+L101176,2026-05-03,Chennai,Organic,Boards Crash,Counsellor G,Negotiation,5726.0,5
+L101177,2026-05-04,Mumbai,Webinar,Foundation,Counsellor H,Won,14607.0,8
+L101178,2026-05-04,Mumbai,Paid Social,Tutoring 1:1,Counsellor A,Demo Booked,27046.0,6
+L101179,2026-05-04,Bengaluru,Organic,Boards Crash,Counsellor H,Lost,6361.0,6
+L101180,2026-05-05,Mumbai,Paid Social,Boards Crash,Counsellor E,Contacted,5559.0,11
+L101181,2026-05-05,Mumbai,Organic,Foundation,Counsellor E,Contacted,21501.0,4
+L101182,2026-05-05,Chennai,Paid Social,Boards Crash,Counsellor D,Won,5557.0,2
+L101183,2026-05-05,Chennai,Referral,JEE Pro,Counsellor E,Demo Booked,45502.0,2
+L101184,2026-05-05,Bengaluru,School Partnership,JEE Pro,Counsellor B,Lost,35658.0,3
+L101185,2026-05-05,Bengaluru,Webinar,NEET Pro,Counsellor E,Contacted,39284.0,3
+L101186,2026-05-05,Delhi,Organic,Boards Crash,Counsellor E,Negotiation,6725.0,5
+L101187,2026-05-06,Kolkata,Paid Social,Tutoring 1:1,Counsellor H,Demo Booked,34923.0,2
+L101188,2026-05-06,Bengaluru,Paid Social,JEE Pro,Counsellor B,Demo Booked,34813.0,5
+L101189,2026-05-06,Kolkata,School Partnership,NEET Pro,Counsellor A,Lost,44876.0,4
+L101190,2026-05-06,Mumbai,Organic,JEE Pro,Counsellor F,Contacted,49816.0,3
+L101191,2026-05-06,Pune,Paid Social,Foundation,Counsellor G,Negotiation,14567.0,3
+L101192,2026-05-06,Delhi,School Partnership,Tutoring 1:1,Counsellor D,Lost,33766.0,6
+L101193,2026-05-06,Delhi,Paid Social,Foundation,Counsellor C,Lost,14709.0,4
+L101194,2026-05-06,Bengaluru,Organic,Foundation,Counsellor F,Won,19278.0,5
+L101195,2026-05-06,Mumbai,Paid Social,JEE Pro,Counsellor D,Won,50197.0,5
+L101196,2026-05-07,Kolkata,Paid Social,JEE Pro,Counsellor F,Contacted,35035.0,7
+L101197,2026-05-08,Mumbai,School Partnership,JEE Pro,Counsellor G,Lost,46137.0,4
+L101198,2026-05-08,Mumbai,Organic,Tutoring 1:1,Counsellor G,Lost,25326.0,5
+L101199,2026-05-08,Chennai,Organic,JEE Pro,Counsellor A,Contacted,43409.0,5
+L101200,2026-05-08,Kolkata,Organic,JEE Pro,Counsellor E,Lost,39423.0,5
+L101201,2026-05-08,Delhi,Referral,Tutoring 1:1,Counsellor B,Won,30698.0,5
+L101202,2026-05-08,Chennai,Organic,Tutoring 1:1,Counsellor C,Demo Booked,33098.0,7
+L101203,2026-05-09,Kolkata,School Partnership,NEET Pro,Counsellor F,Lost,35095.0,5
+L101204,2026-05-09,Delhi,Webinar,Foundation,Counsellor E,Negotiation,16556.0,3
+L101205,2026-05-09,Bengaluru,School Partnership,Foundation,Counsellor F,Won,15232.0,5
+L101206,2026-05-09,Hyderabad,Organic,Tutoring 1:1,Counsellor F,Negotiation,28893.0,0
+L101207,2026-05-09,Mumbai,Organic,Boards Crash,Counsellor B,Lost,4994.0,2
+L101208,2026-05-09,Mumbai,Paid Social,Boards Crash,Counsellor E,Lost,4869.0,8
+L101209,2026-05-10,,School Partnership,Tutoring 1:1,Counsellor F,Won,32796.0,3
+L101210,2026-05-10,Kolkata,Webinar,Tutoring 1:1,Counsellor E,Contacted,32450.0,3
+L101211,2026-05-10,Pune,Organic,Boards Crash,Counsellor C,Demo Booked,4870.0,6
+L101212,2026-05-11,Delhi,Referral,Boards Crash,Counsellor G,Demo Booked,6369.0,4
+L101213,2026-05-11,Delhi,School Partnership,Tutoring 1:1,Counsellor A,Negotiation,32099.0,7
+L101214,2026-05-11,Lucknow,School Partnership,Tutoring 1:1,Counsellor F,Lost,28126.0,3
+L101215,2026-05-12,Lucknow,Referral,Boards Crash,Counsellor C,Won,5507.0,5
+L101216,2026-05-12,Bengaluru,Webinar,NEET Pro,Counsellor H,Lost,35676.0,2
+L101217,2026-05-12,Mumbai,Webinar,JEE Pro,Counsellor B,Lost,43725.0,6
+L101218,2026-05-12,Delhi,Paid Social,Foundation,Counsellor G,Contacted,15360.0,3
+L101219,2026-05-12,Delhi,Organic,NEET Pro,Counsellor D,Won,40774.0,4
+L101220,2026-05-12,Mumbai,Referral,JEE Pro,Counsellor B,Negotiation,40420.0,0
+L101221,2026-05-13,Hyderabad,Organic,Boards Crash,Counsellor D,Won,6030.0,2
+L101222,2026-05-13,Delhi,Paid Social,Boards Crash,Counsellor D,Won,6621.0,5
+L101223,2026-05-13,Delhi,School Partnership,Foundation,Counsellor D,Contacted,16022.0,2
+L101224,2026-05-13,Pune,Paid Social,Tutoring 1:1,Counsellor D,Lost,27754.0,5
+L101225,2026-05-13,Hyderabad,Paid Social,Boards Crash,Counsellor H,Contacted,5956.0,1
+L101226,2026-05-13,Delhi,School Partnership,Foundation,Counsellor B,Lost,16743.0,6
+L101227,2026-05-14,Bengaluru,Organic,JEE Pro,Counsellor D,Negotiation,45067.0,4
+L101228,2026-05-14,Delhi,School Partnership,JEE Pro,Counsellor G,Contacted,35992.0,3
+L101229,2026-05-14,Chennai,School Partnership,JEE Pro,Counsellor B,Won,48993.0,4
+L101230,2026-05-14,Pune,Paid Social,JEE Pro,Counsellor E,Lost,49440.0,4
+L101231,2026-05-15,Bengaluru,Paid Social,Boards Crash,Counsellor H,Lost,5103.0,3
+L101232,2026-05-15,Hyderabad,Organic,Tutoring 1:1,Counsellor D,Won,29839.0,5
+L101233,2026-05-15,Bengaluru,School Partnership,Foundation,Counsellor F,Negotiation,16889.0,3
+L101234,2026-05-15,Chennai,Organic,Boards Crash,Counsellor F,Won,5626.0,7
+L101235,2026-05-15,Chennai,Organic,Foundation,Counsellor H,Lost,15841.0,2
+L101236,2026-05-15,Bengaluru,Webinar,NEET Pro,Counsellor E,Contacted,40610.0,5
+L101237,2026-05-16,Delhi,Paid Social,Boards Crash,Counsellor D,Negotiation,6726.0,5
+L101238,2026-05-16,Delhi,Referral,Tutoring 1:1,Counsellor F,Lost,26844.0,2
+L101239,2026-05-16,Bengaluru,Referral,NEET Pro,Counsellor E,Won,44542.0,6
+L101240,2026-05-16,Hyderabad,Organic,Tutoring 1:1,Counsellor G,Lost,32979.0,5
+L101241,2026-05-17,Delhi,Organic,Boards Crash,Counsellor C,Contacted,6313.0,3
+L101242,2026-05-17,Bengaluru,Paid Social,NEET Pro,Counsellor G,Lost,46201.0,6
+L101243,2026-05-17,Bengaluru,Organic,NEET Pro,Counsellor H,Won,41635.0,7
+L101244,2026-05-17,Hyderabad,Paid Social,Foundation,Counsellor A,Lost,20159.0,1
+L101245,2026-05-17,Hyderabad,Referral,NEET Pro,Counsellor C,Lost,47287.0,5
+L101246,2026-05-17,Bengaluru,Referral,Boards Crash,Counsellor A,Won,6850.0,1
+L101247,2026-05-17,Mumbai,Referral,NEET Pro,Counsellor H,Lost,41215.0,4
+L101248,2026-05-18,Hyderabad,Organic,Boards Crash,Counsellor A,Lost,5499.0,4
+L101249,2026-05-18,Hyderabad,Organic,Foundation,Counsellor C,Won,18749.0,3
+L101250,2026-05-18,Hyderabad,Webinar,Tutoring 1:1,Counsellor C,Lost,32654.0,2
+L101251,2026-05-18,Kolkata,Organic,Foundation,Counsellor G,Negotiation,19581.0,5
+L101252,2026-05-18,Delhi,Paid Social,Tutoring 1:1,Counsellor H,Contacted,28774.0,3
+L101253,2026-05-18,Pune,Organic,Boards Crash,Counsellor F,Contacted,6599.0,4
+L101254,2026-05-18,Mumbai,School Partnership,Foundation,Counsellor A,Lost,16791.0,6
+L101255,2026-05-19,Bengaluru,Organic,JEE Pro,Counsellor G,Lost,35751.0,3
+L101256,2026-05-19,Hyderabad,Paid Social,Tutoring 1:1,Counsellor A,Lost,35498.0,3
+L101257,2026-05-19,Delhi,Paid Social,JEE Pro,Counsellor B,Demo Booked,49030.0,2
+L101258,2026-05-19,Hyderabad,Referral,Foundation,Counsellor A,Won,17452.0,2
+L101259,2026-05-19,Delhi,School Partnership,JEE Pro,Counsellor H,Lost,42843.0,5
+L101260,2026-05-19,Mumbai,Referral,Boards Crash,Counsellor A,Won,4837.0,4
+L101261,2026-05-19,Mumbai,Paid Social,Tutoring 1:1,Counsellor D,Won,35428.0,2
+L101262,2026-05-19,Hyderabad,Organic,Tutoring 1:1,Counsellor B,Demo Booked,28249.0,1
+L101263,2026-05-20,Delhi,Referral,Tutoring 1:1,Counsellor A,Lost,31336.0,3
+L101264,2026-05-20,Hyderabad,School Partnership,NEET Pro,Counsellor C,Lost,34158.0,3
+L101265,2026-05-20,Bengaluru,Organic,Foundation,Counsellor F,Lost,15397.0,5
+L101266,2026-05-20,Kolkata,Webinar,JEE Pro,Counsellor B,Lost,43459.0,1
+L101267,2026-05-20,Bengaluru,Organic,Tutoring 1:1,Counsellor A,Lost,32081.0,4
+L101268,2026-05-21,,Paid Social,Foundation,Counsellor E,Lost,21448.0,4
+L101269,2026-05-21,Bengaluru,Paid Social,Tutoring 1:1,Counsellor F,Demo Booked,32397.0,3
+L101270,2026-05-21,Mumbai,Referral,Tutoring 1:1,Counsellor H,Won,31333.0,1
+L101271,2026-05-21,Delhi,School Partnership,JEE Pro,Counsellor F,Demo Booked,43757.0,3
+L101272,2026-05-21,Mumbai,Referral,NEET Pro,Counsellor A,Lost,36399.0,5
+L101273,2026-05-21,Delhi,Paid Social,NEET Pro,Counsellor B,Lost,37917.0,4
+L101274,2026-05-22,Delhi,Referral,NEET Pro,Counsellor F,Won,42010.0,6
+L101275,2026-05-22,Pune,Paid Social,Boards Crash,Counsellor A,Contacted,5127.0,5
+L101276,2026-05-23,Chennai,Paid Social,Foundation,Counsellor G,Lost,16577.0,2
+L101277,2026-05-23,Bengaluru,Paid Social,NEET Pro,Counsellor B,Lost,34687.0,6
+L101278,2026-05-23,Chennai,Paid Social,Boards Crash,Counsellor E,Contacted,4887.0,6
+L101279,2026-05-23,Mumbai,Organic,Boards Crash,Counsellor F,Lost,5883.0,4
+L101280,2026-05-23,Kolkata,Organic,NEET Pro,Counsellor C,Lost,37971.0,4
+L101281,2026-05-24,Chennai,Organic,Foundation,Counsellor F,Lost,18429.0,3
+L101282,2026-05-24,Bengaluru,Paid Social,JEE Pro,Counsellor H,Contacted,40292.0,9
+L101283,2026-05-24,Delhi,Organic,NEET Pro,Counsellor H,Lost,33167.0,3
+L101284,2026-05-25,Chennai,Webinar,Foundation,Counsellor D,Contacted,20600.0,3
+L101285,2026-05-25,Mumbai,Webinar,JEE Pro,Counsellor C,Lost,34259.0,2
+L101286,2026-05-25,Chennai,Paid Social,Tutoring 1:1,Counsellor B,Negotiation,24259.0,4
+L101287,2026-05-25,Pune,Referral,NEET Pro,Counsellor A,Won,32358.0,5
+L101288,2026-05-25,Lucknow,School Partnership,Foundation,Counsellor A,Negotiation,20084.0,4
+L101289,2026-05-26,Hyderabad,Paid Social,NEET Pro,Counsellor F,Negotiation,37895.0,4
+L101290,2026-05-26,Bengaluru,Paid Social,NEET Pro,Counsellor G,Lost,47139.0,3
+L101291,2026-05-26,Chennai,Paid Social,Foundation,Counsellor G,Won,16682.0,8
+L101292,2026-05-26,Bengaluru,Referral,Tutoring 1:1,Counsellor H,Contacted,28905.0,2
+L101293,2026-05-27,Bengaluru,School Partnership,Foundation,Counsellor F,Lost,19432.0,3
+L101294,2026-05-27,Delhi,Organic,Tutoring 1:1,Counsellor E,Negotiation,35371.0,3
+L101295,2026-05-27,Bengaluru,School Partnership,Foundation,Counsellor D,Negotiation,20973.0,4
+L101296,2026-05-27,Bengaluru,Referral,Tutoring 1:1,Counsellor B,Won,28507.0,6
+L101297,2026-05-27,Hyderabad,Webinar,Foundation,Counsellor C,Lost,19300.0,5
+L101298,2026-05-27,Chennai,Referral,Foundation,Counsellor B,Lost,14841.0,3
+L101299,2026-05-27,Delhi,Webinar,JEE Pro,Counsellor F,Won,43210.0,3
+L101300,2026-05-27,Delhi,Paid Social,JEE Pro,Counsellor D,Negotiation,44451.0,5
+L101301,2026-05-27,Hyderabad,Referral,NEET Pro,Counsellor G,Won,36435.0,4
+L101302,2026-05-28,Delhi,Organic,Foundation,Counsellor F,Won,19123.0,6
+L101303,2026-05-28,Mumbai,Paid Social,Boards Crash,Counsellor B,Demo Booked,5534.0,3
+L101304,2026-05-28,Chennai,Referral,JEE Pro,Counsellor D,Contacted,46479.0,2
+L101305,2026-05-28,Bengaluru,Organic,JEE Pro,Counsellor F,Demo Booked,34807.0,7
+L101306,2026-05-28,Mumbai,Organic,Tutoring 1:1,Counsellor A,Lost,30257.0,4
+L101307,2026-05-28,Bengaluru,Webinar,Tutoring 1:1,Counsellor G,Contacted,35401.0,5
+L101308,2026-05-29,Kolkata,Webinar,Boards Crash,Counsellor E,Lost,6309.0,1
+L101309,2026-05-29,Bengaluru,Referral,Foundation,Counsellor H,Contacted,21170.0,4
+L101310,2026-05-29,Pune,Paid Social,Tutoring 1:1,Counsellor G,Lost,35368.0,3
+L101311,2026-05-29,Delhi,Referral,Tutoring 1:1,Counsellor D,Demo Booked,33156.0,5
+L101312,2026-05-29,Chennai,Organic,JEE Pro,Counsellor A,Negotiation,47109.0,4
+L101313,2026-05-29,Delhi,Referral,NEET Pro,Counsellor D,Lost,43754.0,7
+L101314,2026-05-29,Mumbai,Paid Social,Tutoring 1:1,Counsellor E,Demo Booked,30124.0,6
+L101315,2026-05-30,Bengaluru,Referral,NEET Pro,Counsellor A,Negotiation,44634.0,10
+L101316,2026-05-30,Delhi,Paid Social,Foundation,Counsellor A,Lost,20078.0,3
+L101317,2026-05-30,Delhi,Organic,Foundation,Counsellor B,Contacted,20607.0,3
+L101318,2026-05-30,Chennai,Referral,Tutoring 1:1,Counsellor D,Negotiation,24084.0,3
+L101319,2026-05-30,Mumbai,Paid Social,Boards Crash,Counsellor F,Lost,4888.0,5
+L101320,2026-05-30,Pune,Referral,Boards Crash,Counsellor A,Contacted,5913.0,3
+L101321,2026-05-30,Pune,Paid Social,NEET Pro,Counsellor C,Lost,43482.0,7
+L101322,2026-05-30,Bengaluru,Organic,Foundation,Counsellor H,Won,17418.0,3
+L101323,2026-05-30,Delhi,Paid Social,JEE Pro,Counsellor H,Contacted,40013.0,3
+L101324,2026-05-31,Pune,Referral,Boards Crash,Counsellor H,Lost,4849.0,4
+L101325,2026-05-31,Kolkata,School Partnership,JEE Pro,Counsellor C,Contacted,43793.0,4
+L101326,2026-05-31,Mumbai,Webinar,Foundation,Counsellor F,Lost,21277.0,7
+L101327,2026-06-01,Delhi,Organic,Boards Crash,Counsellor G,Contacted,6278.0,2
+L101328,2026-06-01,Mumbai,Webinar,Boards Crash,Counsellor E,Lost,5388.0,1
+L101329,2026-06-01,Bengaluru,Organic,NEET Pro,Counsellor C,Won,42172.0,5
+L101330,2026-06-01,Bengaluru,Referral,Boards Crash,Counsellor B,Won,5688.0,4
+L101331,2026-06-01,Delhi,Paid Social,JEE Pro,Counsellor G,Lost,39750.0,3
+L101332,2026-06-01,Bengaluru,Paid Social,Tutoring 1:1,Counsellor G,Negotiation,24673.0,11
+L101333,2026-06-01,Bengaluru,Paid Social,Foundation,Counsellor D,Negotiation,19541.0,3
+L101334,2026-06-02,Pune,Paid Social,Boards Crash,Counsellor F,Lost,4802.0,6
+L101335,2026-06-02,Kolkata,Referral,Boards Crash,Counsellor B,Won,6817.0,5
+L101336,2026-06-02,Kolkata,Referral,Foundation,Counsellor D,Contacted,14447.0,6
+L101337,2026-06-02,Mumbai,Referral,Foundation,Counsellor B,Lost,20005.0,6
+L101338,2026-06-02,Chennai,Paid Social,Tutoring 1:1,Counsellor B,Won,28195.0,2
+L101339,2026-06-02,Bengaluru,Referral,JEE Pro,Counsellor C,Won,39466.0,6
+L101340,2026-06-02,Hyderabad,Paid Social,Tutoring 1:1,Counsellor E,Demo Booked,29883.0,9
+L101341,2026-06-02,Delhi,Referral,Foundation,Counsellor A,Negotiation,15728.0,4
+L101342,2026-06-03,Chennai,Paid Social,NEET Pro,Counsellor B,Lost,35311.0,3
+L101343,2026-06-03,Delhi,Paid Social,NEET Pro,Counsellor G,Demo Booked,43423.0,7
+L101344,2026-06-03,Bengaluru,Organic,Foundation,Counsellor A,Lost,20942.0,6
+L101345,2026-06-03,Kolkata,Paid Social,JEE Pro,Counsellor H,Won,35962.0,7
+L101346,2026-06-04,Pune,Organic,Tutoring 1:1,Counsellor A,Demo Booked,27302.0,7
+L101347,2026-06-04,Hyderabad,Paid Social,Boards Crash,Counsellor G,Lost,7155.0,4
+L101348,2026-06-04,Kolkata,Organic,Foundation,Counsellor H,Negotiation,19347.0,5
+L101349,2026-06-04,Bengaluru,Referral,Foundation,Counsellor A,Negotiation,21002.0,5
+L101350,2026-06-05,Hyderabad,Webinar,Foundation,Counsellor B,Contacted,17176.0,3
+L101351,2026-06-05,Mumbai,Paid Social,JEE Pro,Counsellor H,Won,46507.0,3
+L101352,2026-06-05,Chennai,Organic,Foundation,Counsellor B,Won,19514.0,3
+L101353,2026-06-05,Delhi,Referral,Boards Crash,Counsellor G,Contacted,6586.0,3
+L101354,2026-06-05,Delhi,Organic,Boards Crash,Counsellor E,Won,5943.0,3
+L101355,2026-06-05,Delhi,Webinar,Boards Crash,Counsellor G,Contacted,5504.0,2
+L101356,2026-06-05,Mumbai,Organic,JEE Pro,Counsellor D,Lost,39723.0,4
+L101357,2026-06-05,Lucknow,Paid Social,Boards Crash,Counsellor F,Lost,5144.0,2
+L101358,2026-06-05,Hyderabad,Paid Social,Foundation,Counsellor G,Contacted,14967.0,2
+L101359,2026-06-05,Kolkata,Organic,NEET Pro,Counsellor B,Won,38082.0,2
+L101360,2026-06-06,,Paid Social,Tutoring 1:1,Counsellor A,Won,34283.0,5
+L101361,2026-06-06,Delhi,Organic,JEE Pro,Counsellor C,Lost,39159.0,4
+L101362,2026-06-06,Chennai,Referral,Foundation,Counsellor F,Won,18437.0,4
+L101363,2026-06-06,Mumbai,School Partnership,Foundation,Counsellor D,Won,20331.0,2
+L101364,2026-06-06,Bengaluru,Paid Social,Foundation,Counsellor H,Lost,15157.0,3
+L101365,2026-06-06,Kolkata,Webinar,Foundation,Counsellor B,Lost,17067.0,3
+L101366,2026-06-06,,Organic,JEE Pro,Counsellor F,Lost,39816.0,6
+L101367,2026-06-06,Delhi,Paid Social,Boards Crash,Counsellor A,Contacted,6508.0,7
+L101368,2026-06-06,Hyderabad,Paid Social,JEE Pro,Counsellor F,Lost,48789.0,2
+L101369,2026-06-06,Pune,Organic,Boards Crash,Counsellor H,Negotiation,4818.0,4
+L101370,2026-06-07,Bengaluru,Webinar,Boards Crash,Counsellor A,Contacted,6107.0,6
+L101371,2026-06-07,Hyderabad,Referral,Boards Crash,Counsellor D,Won,4807.0,3
+L101372,2026-06-07,Bengaluru,Organic,NEET Pro,Counsellor G,Won,36812.0,4
+L101373,2026-06-07,Hyderabad,Organic,NEET Pro,Counsellor E,Lost,38400.0,3
+L101374,2026-06-07,Hyderabad,Webinar,Tutoring 1:1,Counsellor F,Negotiation,27371.0,3
+L101375,2026-06-07,Mumbai,School Partnership,Foundation,Counsellor A,Won,17372.0,6
+L101376,2026-06-07,Delhi,Referral,Boards Crash,Counsellor F,Demo Booked,5667.0,5
+L101377,2026-06-07,Mumbai,Webinar,JEE Pro,Counsellor G,Demo Booked,41982.0,5
+L101378,2026-06-08,Lucknow,School Partnership,Foundation,Counsellor B,Negotiation,16200.0,9
+L101379,2026-06-08,Delhi,Referral,Foundation,Counsellor G,Won,17209.0,6
+L101380,2026-06-08,Mumbai,Referral,Boards Crash,Counsellor D,Lost,5326.0,4
+L101381,2026-06-08,Bengaluru,Organic,JEE Pro,Counsellor A,Lost,40660.0,5
+L101382,2026-06-08,Delhi,Paid Social,Foundation,Counsellor A,Contacted,19499.0,6
+L101383,2026-06-09,Bengaluru,Referral,JEE Pro,Counsellor B,Negotiation,34113.0,2
+L101384,2026-06-09,Chennai,School Partnership,Tutoring 1:1,Counsellor A,Negotiation,35984.0,6
+L101385,2026-06-09,Delhi,Paid Social,JEE Pro,Counsellor F,Negotiation,36101.0,7
+L101386,2026-06-10,Chennai,Paid Social,Boards Crash,Counsellor H,Lost,6701.0,5
+L101387,2026-06-10,Bengaluru,Organic,NEET Pro,Counsellor A,Lost,36600.0,3
+L101388,2026-06-10,Hyderabad,Referral,Foundation,Counsellor G,Won,14912.0,2
+L101389,2026-06-10,Hyderabad,Paid Social,NEET Pro,Counsellor A,Negotiation,44627.0,1
+L101390,2026-06-10,Hyderabad,Webinar,NEET Pro,Counsellor F,Won,41041.0,5
+L101391,2026-06-11,Kolkata,Organic,Tutoring 1:1,Counsellor A,Demo Booked,27156.0,3
+L101392,2026-06-11,Bengaluru,Referral,NEET Pro,Counsellor B,Won,38085.0,5
+L101393,2026-06-11,Kolkata,Referral,JEE Pro,Counsellor B,Won,48120.0,3
+L101394,2026-06-11,Bengaluru,Paid Social,JEE Pro,Counsellor D,Lost,45473.0,3
+L101395,2026-06-11,Delhi,Organic,JEE Pro,Counsellor G,Lost,38277.0,6
+L101396,2026-06-11,Pune,Paid Social,Boards Crash,Counsellor B,Lost,5369.0,2
+L101397,2026-06-11,Mumbai,Referral,Tutoring 1:1,Counsellor G,Lost,30789.0,3
+L101398,2026-06-11,Chennai,Organic,Boards Crash,Counsellor H,Won,5089.0,5
+L101399,2026-06-12,Pune,Organic,Tutoring 1:1,Counsellor E,Lost,26747.0,5
+L101400,2026-06-12,Delhi,Paid Social,Tutoring 1:1,Counsellor B,Demo Booked,33665.0,7
+L101401,2026-06-12,Delhi,Organic,Tutoring 1:1,Counsellor C,Negotiation,32705.0,8
+L101402,2026-06-12,Bengaluru,Webinar,Boards Crash,Counsellor C,Won,4861.0,6
+L101403,2026-06-13,Bengaluru,Webinar,Tutoring 1:1,Counsellor G,Won,29368.0,4
+L101404,2026-06-13,Hyderabad,School Partnership,Foundation,Counsellor H,Lost,17270.0,1
+L101405,2026-06-13,Pune,Webinar,Tutoring 1:1,Counsellor F,Contacted,32865.0,8
+L101406,2026-06-13,Bengaluru,Referral,NEET Pro,Counsellor H,Demo Booked,38811.0,4
+L101407,2026-06-13,,Organic,Foundation,Counsellor A,Negotiation,16036.0,1
+L101408,2026-06-13,Pune,Webinar,JEE Pro,Counsellor G,Contacted,47739.0,2
+L101409,2026-06-13,Hyderabad,Referral,Tutoring 1:1,Counsellor B,Won,26322.0,1
+L101410,2026-06-13,Delhi,Referral,JEE Pro,Counsellor C,Won,44477.0,8
+L101411,2026-06-14,Chennai,Referral,JEE Pro,Counsellor F,Lost,38344.0,6
+L101412,2026-06-14,Delhi,Webinar,NEET Pro,Counsellor A,Lost,41901.0,6
+L101413,2026-06-14,Delhi,Organic,NEET Pro,Counsellor E,Demo Booked,34763.0,4
+L101414,2026-06-14,Mumbai,Referral,Tutoring 1:1,Counsellor H,Won,34513.0,4
+L101415,2026-06-14,Delhi,Paid Social,Tutoring 1:1,Counsellor D,Demo Booked,28435.0,4
+L101416,2026-06-14,Delhi,Paid Social,NEET Pro,Counsellor H,Lost,950000.0,3
+L101417,2026-06-14,Mumbai,Paid Social,JEE Pro,Counsellor E,Lost,46198.0,6
+L101418,2026-06-14,Bengaluru,Organic,NEET Pro,Counsellor D,Negotiation,39483.0,6
+L101419,2026-06-15,Hyderabad,Paid Social,Foundation,Counsellor B,Demo Booked,18280.0,2
+L101420,2026-06-15,Mumbai,Paid Social,Tutoring 1:1,Counsellor G,Won,25426.0,3
+L101421,2026-06-15,Hyderabad,Paid Social,NEET Pro,Counsellor E,Lost,40656.0,6
+L101422,2026-06-15,Delhi,Webinar,Tutoring 1:1,Counsellor F,Won,30381.0,3
+L101423,2026-06-15,Bengaluru,Referral,Foundation,Counsellor B,Demo Booked,20845.0,6
+L101424,2026-06-15,Hyderabad,Referral,JEE Pro,Counsellor G,Won,39512.0,7
+L101425,2026-06-15,Delhi,School Partnership,Boards Crash,Counsellor H,Won,5167.0,2
+L101426,2026-06-15,Mumbai,Organic,NEET Pro,Counsellor C,Won,38493.0,5
+L101427,2026-06-15,Delhi,Paid Social,Tutoring 1:1,Counsellor G,Lost,33425.0,3
+L101428,2026-06-16,Delhi,Organic,NEET Pro,Counsellor D,Lost,32184.0,2
+L101429,2026-06-16,Delhi,Paid Social,Foundation,Counsellor D,Won,14661.0,1
+L101430,2026-06-16,Mumbai,School Partnership,Tutoring 1:1,Counsellor F,Contacted,35985.0,4
+L101431,2026-06-16,Hyderabad,Organic,NEET Pro,Counsellor H,Negotiation,40888.0,1
+L101432,2026-06-16,Bengaluru,Webinar,JEE Pro,Counsellor F,Demo Booked,45671.0,6
+L101433,2026-06-16,Delhi,Webinar,Boards Crash,Counsellor F,Contacted,5918.0,2
+L101434,2026-06-17,Mumbai,Paid Social,JEE Pro,Counsellor F,Lost,36880.0,8
+L101435,2026-06-17,Hyderabad,Webinar,Tutoring 1:1,Counsellor E,Won,32008.0,3
+L101436,2026-06-17,Delhi,Paid Social,Foundation,Counsellor E,Lost,16137.0,0
+L101437,2026-06-18,Bengaluru,Paid Social,Foundation,Counsellor F,Negotiation,17653.0,2
+L101438,2026-06-18,Mumbai,Paid Social,JEE Pro,Counsellor A,Lost,37128.0,4
+L101439,2026-06-18,Mumbai,Organic,Boards Crash,Counsellor F,Lost,6979.0,6
+L101440,2026-06-18,Lucknow,Paid Social,NEET Pro,Counsellor A,Won,38297.0,5
+L101441,2026-06-19,Mumbai,Paid Social,Tutoring 1:1,Counsellor H,Contacted,32333.0,7
+L101442,2026-06-20,Bengaluru,School Partnership,Boards Crash,Counsellor G,Contacted,5237.0,5
+L101443,2026-06-20,Hyderabad,Paid Social,Boards Crash,Counsellor G,Lost,6262.0,5
+L101444,2026-06-20,Bengaluru,Organic,Tutoring 1:1,Counsellor H,Lost,27544.0,4
+L101445,2026-06-20,Delhi,School Partnership,Tutoring 1:1,Counsellor B,Contacted,25426.0,5
+L101446,2026-06-20,Bengaluru,Organic,Boards Crash,Counsellor B,Contacted,5559.0,7
+L101447,2026-06-20,Hyderabad,School Partnership,Boards Crash,Counsellor A,Lost,4953.0,6
+L101448,2026-06-21,Bengaluru,Webinar,JEE Pro,Counsellor E,Contacted,43724.0,5
+L101449,2026-06-21,Chennai,Referral,Foundation,Counsellor H,Demo Booked,18399.0,3
+L101450,2026-06-21,Bengaluru,Paid Social,NEET Pro,Counsellor D,Lost,45660.0,5
+L101451,2026-06-21,Lucknow,Organic,Tutoring 1:1,Counsellor F,Lost,24325.0,0
+L101452,2026-06-21,Chennai,Organic,JEE Pro,Counsellor A,Lost,40459.0,3
+L101453,2026-06-21,Mumbai,Organic,Boards Crash,Counsellor E,Lost,7163.0,5
+L101454,2026-06-21,Mumbai,Paid Social,Boards Crash,Counsellor C,Negotiation,5633.0,5
+L101455,2026-06-21,Delhi,Paid Social,JEE Pro,Counsellor D,Won,34583.0,3
+L101456,2026-06-23,Kolkata,School Partnership,Tutoring 1:1,Counsellor E,Lost,33599.0,1
+L101457,2026-06-23,Bengaluru,Paid Social,Foundation,Counsellor H,Negotiation,15071.0,3
+L101458,2026-06-23,Delhi,School Partnership,Boards Crash,Counsellor F,Demo Booked,6514.0,8
+L101459,2026-06-23,Bengaluru,Referral,Tutoring 1:1,Counsellor A,Won,30312.0,7
+L101460,2026-06-23,Delhi,Organic,Boards Crash,Counsellor D,Negotiation,6904.0,4
+L101461,2026-06-23,Bengaluru,Paid Social,JEE Pro,Counsellor B,Lost,42224.0,5
+L101462,2026-06-23,Chennai,Organic,Tutoring 1:1,Counsellor G,Negotiation,32150.0,4
+L101463,2026-06-24,,Organic,Tutoring 1:1,Counsellor C,Lost,27086.0,10
+L101464,2026-06-24,Bengaluru,School Partnership,JEE Pro,Counsellor F,Contacted,50115.0,6
+L101465,2026-06-25,Delhi,Paid Social,Tutoring 1:1,Counsellor H,Lost,26508.0,1
+L101466,2026-06-25,Bengaluru,Organic,Boards Crash,Counsellor F,Contacted,6808.0,3
+L101467,2026-06-25,Bengaluru,Organic,Boards Crash,Counsellor F,Demo Booked,6437.0,5
+L101468,2026-06-25,Bengaluru,Referral,Foundation,Counsellor E,Lost,17868.0,1
+L101469,2026-06-25,Hyderabad,Paid Social,NEET Pro,Counsellor E,Demo Booked,37975.0,8
+L101470,2026-06-25,Bengaluru,Organic,Boards Crash,Counsellor H,Won,5005.0,3
+L101471,2026-06-25,Pune,Referral,Foundation,Counsellor C,Won,20111.0,1
+L101472,2026-06-26,Lucknow,Organic,NEET Pro,Counsellor A,Negotiation,35639.0,3
+L101473,2026-06-26,Chennai,Webinar,Boards Crash,Counsellor B,Won,6894.0,7
+L101474,2026-06-26,Bengaluru,Paid Social,Tutoring 1:1,Counsellor C,Won,34656.0,6
+L101475,2026-06-26,Kolkata,Paid Social,Foundation,Counsellor A,Negotiation,15914.0,4
+L101476,2026-06-26,Mumbai,Paid Social,JEE Pro,Counsellor F,Lost,38487.0,4
+L101477,2026-06-26,Chennai,Referral,Boards Crash,Counsellor B,Won,6506.0,3
+L101478,2026-06-27,Delhi,School Partnership,NEET Pro,Counsellor G,Demo Booked,44233.0,2
+L101479,2026-06-27,Hyderabad,Webinar,Foundation,Counsellor B,Contacted,14751.0,3
+L101480,2026-06-27,Hyderabad,Organic,JEE Pro,Counsellor D,Lost,47473.0,7
+L101481,2026-06-27,Bengaluru,Paid Social,NEET Pro,Counsellor E,Contacted,45062.0,5
+L101482,2026-06-27,Hyderabad,Organic,Boards Crash,Counsellor G,Lost,6295.0,4
+L101483,2026-06-27,Kolkata,Organic,NEET Pro,Counsellor C,Demo Booked,46258.0,2
+L101484,2026-06-27,Pune,Organic,JEE Pro,Counsellor G,Won,49995.0,7
+L101485,2026-06-27,Pune,Organic,NEET Pro,Counsellor H,Demo Booked,35280.0,4
+L101486,2026-06-27,Bengaluru,School Partnership,JEE Pro,Counsellor A,Lost,49444.0,1
+L101487,2026-06-27,Kolkata,Referral,Foundation,Counsellor H,Won,20605.0,6
+L101488,2026-06-28,Delhi,Webinar,JEE Pro,Counsellor B,Lost,43472.0,5
+L101489,2026-06-28,Kolkata,Referral,JEE Pro,Counsellor E,Lost,35456.0,3
+L101490,2026-06-28,Bengaluru,Paid Social,NEET Pro,Counsellor G,Negotiation,47386.0,4
+L101491,2026-06-28,Delhi,Paid Social,Boards Crash,Counsellor B,Lost,6584.0,8
+L101492,2026-06-29,Delhi,Paid Social,NEET Pro,Counsellor D,Contacted,37921.0,5
+L101493,2026-06-29,Hyderabad,Organic,Boards Crash,Counsellor C,Negotiation,5574.0,3
+L101494,2026-06-29,Hyderabad,Paid Social,Tutoring 1:1,Counsellor A,Contacted,35411.0,10
+L101495,2026-06-29,Pune,Webinar,JEE Pro,Counsellor A,Won,37477.0,5
+L101496,2026-06-29,Bengaluru,Organic,NEET Pro,Counsellor C,Won,45125.0,5
+L101497,2026-06-29,Delhi,Organic,JEE Pro,Counsellor F,Lost,41052.0,4
+L101498,2026-06-29,Kolkata,Paid Social,JEE Pro,Counsellor A,Won,45304.0,5
+L101499,2026-06-30,Bengaluru,Referral,JEE Pro,Counsellor D,Lost,47402.0,5
+L101500,2026-06-30,Pune,Referral,NEET Pro,Counsellor E,Lost,33592.0,2
+L101501,2026-06-30,Delhi,Referral,Boards Crash,Counsellor H,Negotiation,5425.0,4
+L101502,2026-06-30,Hyderabad,Organic,Boards Crash,Counsellor D,Lost,5074.0,7
+L101503,2026-06-30,Bengaluru,Organic,JEE Pro,Counsellor C,Lost,40356.0,4
+L101504,2026-06-30,Chennai,Paid Social,NEET Pro,Counsellor B,Demo Booked,34269.0,6
+L101505,2026-06-30,Bengaluru,Organic,Tutoring 1:1,Counsellor G,Lost,34986.0,3
+L101506,2026-06-30,Delhi,Webinar,Tutoring 1:1,Counsellor H,Lost,33452.0,7
+L101507,2026-07-01,Delhi,School Partnership,NEET Pro,Counsellor D,Demo Booked,41301.0,4
+L101508,2026-07-01,Delhi,Referral,Foundation,Counsellor G,Won,15774.0,3
+L101509,2026-07-01,Mumbai,Organic,JEE Pro,Counsellor F,Demo Booked,37137.0,2
+L101510,2026-07-01,Mumbai,Organic,Foundation,Counsellor G,Contacted,18664.0,5
+L101511,2026-07-01,Kolkata,Webinar,NEET Pro,Counsellor C,Won,46521.0,0
+L101512,2026-07-01,Lucknow,School Partnership,JEE Pro,Counsellor D,Lost,49270.0,4
+L101513,2026-07-01,Pune,Paid Social,Tutoring 1:1,Counsellor G,Contacted,35150.0,6
+L101514,2026-07-02,Kolkata,Paid Social,JEE Pro,Counsellor A,Negotiation,39021.0,4
+L101515,2026-07-02,Bengaluru,Paid Social,JEE Pro,Counsellor B,Won,45322.0,5
+L101516,2026-07-02,Bengaluru,Referral,Foundation,Counsellor B,Lost,18135.0,8
+L101517,2026-07-02,Bengaluru,Webinar,Boards Crash,Counsellor B,Lost,6133.0,3
+L101518,2026-07-02,Bengaluru,Paid Social,NEET Pro,Counsellor B,Won,42834.0,3
+L101519,2026-07-02,Kolkata,Organic,Foundation,Counsellor A,Lost,16521.0,3
+L101520,2026-07-02,Bengaluru,Organic,JEE Pro,Counsellor A,Won,38097.0,3
+L101521,2026-07-02,Delhi,Organic,NEET Pro,Counsellor D,Lost,38597.0,7
+L101522,2026-07-03,Delhi,Webinar,JEE Pro,Counsellor F,Demo Booked,37517.0,5
+L101523,2026-07-03,Bengaluru,Referral,NEET Pro,Counsellor F,Demo Booked,45767.0,2
+L101524,2026-07-03,Delhi,School Partnership,Tutoring 1:1,Counsellor G,Negotiation,28392.0,7
+L101525,2026-07-03,Delhi,Organic,Tutoring 1:1,Counsellor D,Lost,24462.0,1
+L101526,2026-07-03,Delhi,Paid Social,NEET Pro,Counsellor E,Negotiation,42129.0,6
+L101527,2026-07-03,Bengaluru,Webinar,Tutoring 1:1,Counsellor G,Lost,35833.0,3
+L101528,2026-07-03,Bengaluru,Referral,NEET Pro,Counsellor C,Demo Booked,40786.0,6
+L101529,2026-07-03,Chennai,Organic,NEET Pro,Counsellor E,Demo Booked,36528.0,7
+L101530,2026-07-04,Kolkata,Paid Social,JEE Pro,Counsellor D,Negotiation,48756.0,4
+L101531,2026-07-04,Kolkata,Referral,NEET Pro,Counsellor E,Demo Booked,42076.0,0
+L101532,2026-07-04,Delhi,Referral,NEET Pro,Counsellor A,Lost,41906.0,1
+L101533,2026-07-04,Chennai,Paid Social,Foundation,Counsellor D,Contacted,17716.0,5
+L101534,2026-07-04,Pune,Organic,Boards Crash,Counsellor F,Contacted,6651.0,2
+L101535,2026-07-05,Delhi,School Partnership,Boards Crash,Counsellor A,Contacted,6409.0,6
+L101536,2026-07-05,Delhi,Paid Social,NEET Pro,Counsellor A,Contacted,40740.0,4
+L101537,2026-07-05,Kolkata,Referral,Foundation,Counsellor E,Won,16807.0,7
+L101538,2026-07-05,Bengaluru,Paid Social,JEE Pro,Counsellor H,Contacted,46774.0,7
+L101539,2026-07-05,Mumbai,Organic,Boards Crash,Counsellor B,Negotiation,6986.0,6
+L101540,2026-07-06,Pune,Organic,NEET Pro,Counsellor A,Lost,33461.0,1
+L101541,2026-07-06,Chennai,Organic,Tutoring 1:1,Counsellor A,Negotiation,24314.0,1
+L101542,2026-07-06,Chennai,Organic,Boards Crash,Counsellor B,Contacted,5039.0,2
+L101543,2026-07-07,Delhi,Organic,Foundation,Counsellor A,Demo Booked,20686.0,4
+L101544,2026-07-07,Bengaluru,Paid Social,Boards Crash,Counsellor E,Contacted,6282.0,1
+L101545,2026-07-07,Delhi,Paid Social,Foundation,Counsellor B,Lost,17261.0,4
+L101546,2026-07-08,Delhi,Paid Social,Boards Crash,Counsellor D,Contacted,7141.0,4
+L101547,2026-07-08,Mumbai,Webinar,Tutoring 1:1,Counsellor E,Won,35333.0,3
+L101548,2026-07-08,Kolkata,Organic,Tutoring 1:1,Counsellor A,Won,29089.0,2
+L101549,2026-07-08,Lucknow,Organic,Foundation,Counsellor C,Contacted,17061.0,2
+L101550,2026-07-09,Delhi,Webinar,Boards Crash,Counsellor A,Lost,6079.0,5
+L101551,2026-07-09,Delhi,Paid Social,Tutoring 1:1,Counsellor C,Lost,31112.0,4
+L101552,2026-07-09,Bengaluru,Paid Social,Foundation,Counsellor G,Lost,20462.0,1
+L101553,2026-07-09,Pune,Organic,JEE Pro,Counsellor D,Demo Booked,48357.0,5
+L101554,2026-07-09,Mumbai,Paid Social,Boards Crash,Counsellor C,Contacted,5484.0,4
+L101555,2026-07-10,Bengaluru,Organic,NEET Pro,Counsellor H,Contacted,45668.0,6
+L101556,2026-07-10,Mumbai,Webinar,JEE Pro,Counsellor D,Lost,34900.0,3
+L101557,2026-07-10,Mumbai,Webinar,Boards Crash,Counsellor C,Demo Booked,5300.0,8
+L101558,2026-07-10,Pune,Paid Social,Tutoring 1:1,Counsellor F,Negotiation,29036.0,2
+L101559,2026-07-10,Bengaluru,Organic,NEET Pro,Counsellor C,Lost,33214.0,3
+L101560,2026-07-10,Mumbai,Webinar,Foundation,Counsellor G,Contacted,16897.0,5
+L101561,2026-07-10,Mumbai,Organic,Boards Crash,Counsellor C,Negotiation,4865.0,4
+L101562,2026-07-10,Bengaluru,Referral,NEET Pro,Counsellor C,Won,44890.0,4
+L101563,2026-07-10,Bengaluru,Webinar,Boards Crash,Counsellor C,Lost,6423.0,2
+L101564,2026-07-11,Delhi,Webinar,JEE Pro,Counsellor E,Demo Booked,37969.0,6
+L101565,2026-07-11,Delhi,Webinar,Foundation,Counsellor C,Contacted,18167.0,5
+L101566,2026-07-11,Mumbai,Paid Social,Tutoring 1:1,Counsellor B,Lost,28677.0,1
+L101567,2026-07-12,Kolkata,Webinar,JEE Pro,Counsellor G,Negotiation,47369.0,5
+L101568,2026-07-12,Chennai,Paid Social,NEET Pro,Counsellor G,Lost,36703.0,1
+L101569,2026-07-12,Bengaluru,Organic,Tutoring 1:1,Counsellor H,Contacted,26836.0,3
+L101570,2026-07-12,Lucknow,Paid Social,Tutoring 1:1,Counsellor G,Lost,33318.0,5
+L101571,2026-07-12,Delhi,Paid Social,Tutoring 1:1,Counsellor D,Contacted,33075.0,6
+L101572,2026-07-12,Kolkata,Webinar,Tutoring 1:1,Counsellor A,Negotiation,32443.0,3
+L101573,2026-07-12,Delhi,Webinar,NEET Pro,Counsellor G,Demo Booked,33022.0,1
+L101574,2026-07-13,Kolkata,Organic,JEE Pro,Counsellor C,Demo Booked,34294.0,5
+L101575,2026-07-13,Hyderabad,Organic,Boards Crash,Counsellor A,Negotiation,7032.0,5
+L101576,2026-07-13,Bengaluru,Paid Social,JEE Pro,Counsellor D,Lost,49937.0,3
+L101577,2026-07-13,Pune,Paid Social,Foundation,Counsellor D,Lost,15874.0,3
+L101578,2026-07-13,Bengaluru,School Partnership,Boards Crash,Counsellor F,Lost,5980.0,5
+L101579,2026-07-14,Mumbai,School Partnership,JEE Pro,Counsellor G,Lost,41384.0,3
+L101580,2026-07-14,Bengaluru,School Partnership,Tutoring 1:1,Counsellor A,Lost,27405.0,4
+L101581,2026-07-14,Mumbai,Referral,JEE Pro,Counsellor A,Demo Booked,34921.0,1
+L101582,2026-07-14,Bengaluru,Referral,JEE Pro,Counsellor H,Negotiation,37851.0,3
+L101583,2026-07-14,Hyderabad,Organic,NEET Pro,Counsellor H,Negotiation,47374.0,3
+L101584,2026-07-15,Kolkata,Paid Social,NEET Pro,Counsellor D,Negotiation,39084.0,5
+L101585,2026-07-15,Mumbai,Organic,Tutoring 1:1,Counsellor D,Contacted,26473.0,3
+L101586,2026-07-16,Pune,Webinar,NEET Pro,Counsellor F,Won,33210.0,5
+L101587,2026-07-16,Delhi,Organic,Boards Crash,Counsellor D,Won,6350.0,4
+L101588,2026-07-16,Hyderabad,Organic,JEE Pro,Counsellor D,Negotiation,47720.0,3
+L101589,2026-07-16,Mumbai,Paid Social,JEE Pro,Counsellor H,Contacted,37833.0,3
+L101590,2026-07-17,Chennai,Paid Social,NEET Pro,Counsellor C,Lost,44071.0,9
+L101591,2026-07-17,Bengaluru,Referral,JEE Pro,Counsellor H,Demo Booked,33963.0,4
+L101592,2026-07-17,Pune,Organic,NEET Pro,Counsellor A,Negotiation,34068.0,2
+L101593,2026-07-17,Bengaluru,Organic,Tutoring 1:1,Counsellor B,Demo Booked,31665.0,3
+L101594,2026-07-17,Pune,Webinar,Tutoring 1:1,Counsellor H,Negotiation,25131.0,4
+L101595,2026-07-17,Bengaluru,Webinar,Foundation,Counsellor D,Demo Booked,17748.0,2
+L101596,2026-07-17,Hyderabad,Referral,NEET Pro,Counsellor A,Lost,39753.0,2
+L101597,2026-07-17,Bengaluru,Paid Social,Foundation,Counsellor F,Contacted,14602.0,2
+L101598,2026-07-17,Kolkata,Organic,Foundation,Counsellor B,Negotiation,20321.0,4
+L101599,2026-07-18,Bengaluru,Webinar,Boards Crash,Counsellor D,Lost,6572.0,2
+L101600,2026-07-18,,Webinar,JEE Pro,Counsellor A,Negotiation,46884.0,3
+L101601,2026-07-18,Pune,Paid Social,Boards Crash,Counsellor H,Demo Booked,6366.0,1
+L101602,2026-07-18,Mumbai,Organic,NEET Pro,Counsellor B,Contacted,36507.0,2
+L101603,2026-07-18,Pune,Organic,Boards Crash,Counsellor B,Negotiation,6468.0,8
+L101604,2026-07-19,Kolkata,Paid Social,NEET Pro,Counsellor D,Negotiation,41146.0,2
+L101605,2026-07-19,Bengaluru,Paid Social,Tutoring 1:1,Counsellor H,Lost,31483.0,9
+L101606,2026-07-19,Bengaluru,Organic,Foundation,Counsellor F,Lost,19816.0,3
+L101607,2026-07-19,Hyderabad,Paid Social,JEE Pro,Counsellor E,Lost,38461.0,3
+L101608,2026-07-19,Pune,Paid Social,JEE Pro,Counsellor E,Negotiation,48954.0,1
+L101609,2026-07-19,Bengaluru,Organic,JEE Pro,Counsellor E,Contacted,41364.0,6
+L101610,2026-07-19,Chennai,Paid Social,Foundation,Counsellor F,Negotiation,16676.0,4
+L101611,2026-07-20,Bengaluru,Paid Social,Foundation,Counsellor F,Won,18200.0,0
+L101612,2026-07-20,Kolkata,Paid Social,JEE Pro,Counsellor F,Lost,49949.0,7
+L101613,2026-07-20,Hyderabad,Referral,Boards Crash,Counsellor C,Contacted,6491.0,1
+L101614,2026-07-21,Delhi,Paid Social,NEET Pro,Counsellor D,Lost,33525.0,1
+L101615,2026-07-21,Delhi,Organic,JEE Pro,Counsellor D,Demo Booked,38236.0,4
+L101616,2026-07-21,Delhi,Webinar,Foundation,Counsellor D,Won,19249.0,7
+L101617,2026-07-21,Mumbai,Paid Social,Foundation,Counsellor B,Contacted,21295.0,8
+L101618,2026-07-21,Mumbai,Paid Social,JEE Pro,Counsellor D,Negotiation,42652.0,2
+L101619,2026-07-21,Bengaluru,Referral,NEET Pro,Counsellor G,Contacted,40651.0,5
+L101620,2026-07-21,Bengaluru,Webinar,Tutoring 1:1,Counsellor B,Lost,24009.0,2
+L101621,2026-07-22,Mumbai,Webinar,Foundation,Counsellor C,Contacted,15502.0,8
+L101622,2026-07-22,Bengaluru,Webinar,NEET Pro,Counsellor B,Won,44894.0,2
+L101623,2026-07-22,Bengaluru,Referral,NEET Pro,Counsellor B,Lost,35872.0,7
+L101624,2026-07-22,Delhi,Referral,NEET Pro,Counsellor G,Won,40583.0,5
+L101625,2026-07-22,Bengaluru,Organic,NEET Pro,Counsellor H,Lost,42925.0,4
+L101626,2026-07-22,Pune,Referral,JEE Pro,Counsellor D,Won,43605.0,5
+L101627,2026-07-22,Delhi,Organic,NEET Pro,Counsellor C,Lost,44259.0,5
+L101628,2026-07-23,Hyderabad,Organic,JEE Pro,Counsellor D,Demo Booked,44424.0,4
+L101629,2026-07-23,Bengaluru,Organic,JEE Pro,Counsellor H,Lost,38803.0,4
+L101630,2026-07-23,Hyderabad,Paid Social,NEET Pro,Counsellor H,Negotiation,41369.0,3
+L101631,2026-07-23,Lucknow,Organic,Foundation,Counsellor D,Lost,19412.0,3
+L101632,2026-07-23,Kolkata,Referral,JEE Pro,Counsellor E,Contacted,34765.0,3
+L101633,2026-07-24,Kolkata,Referral,Foundation,Counsellor F,Lost,21354.0,3
+L101634,2026-07-24,Delhi,Webinar,Tutoring 1:1,Counsellor D,Demo Booked,31432.0,3
+L101635,2026-07-24,Mumbai,Organic,Tutoring 1:1,Counsellor G,Contacted,950000.0,3
+L101636,2026-07-24,Chennai,Referral,Foundation,Counsellor A,Lost,20611.0,4
+L101637,2026-07-24,Bengaluru,Webinar,Tutoring 1:1,Counsellor E,Demo Booked,24376.0,2
+L101638,2026-07-25,Mumbai,Organic,Foundation,Counsellor E,Lost,14994.0,3
+L101639,2026-07-25,Kolkata,Organic,Boards Crash,Counsellor H,Demo Booked,6854.0,2
+L101640,2026-07-25,Delhi,Organic,Boards Crash,Counsellor D,Contacted,5390.0,4
+L101641,2026-07-26,Mumbai,Paid Social,NEET Pro,Counsellor G,Lost,46588.0,5
+L101642,2026-07-26,Bengaluru,Organic,JEE Pro,Counsellor G,Contacted,50055.0,5
+L101643,2026-07-26,Hyderabad,Paid Social,Boards Crash,Counsellor H,Lost,6645.0,1
+L101644,2026-07-26,Bengaluru,Paid Social,JEE Pro,Counsellor E,Lost,44093.0,8
+L101645,2026-07-26,Delhi,Referral,NEET Pro,Counsellor E,Won,39025.0,6
+L101646,2026-07-26,Bengaluru,Paid Social,NEET Pro,Counsellor E,Won,46540.0,8
+L101647,2026-07-26,Hyderabad,Referral,Tutoring 1:1,Counsellor B,Won,31546.0,4
+L101648,2026-07-26,Delhi,Organic,JEE Pro,Counsellor E,Lost,35172.0,4
+L101649,2026-07-26,Lucknow,Referral,Boards Crash,Counsellor B,Won,6543.0,3
+L101650,2026-07-26,Kolkata,Referral,Tutoring 1:1,Counsellor H,Won,27978.0,4
+L101651,2026-07-26,Chennai,Referral,NEET Pro,Counsellor B,Won,34173.0,7
+L101652,2026-07-26,Hyderabad,Organic,JEE Pro,Counsellor C,Lost,39757.0,6
+L101653,2026-07-27,Bengaluru,School Partnership,Foundation,Counsellor E,Won,20582.0,4
+L101654,2026-07-27,Delhi,Paid Social,Foundation,Counsellor F,Contacted,19744.0,5
+L101655,2026-07-27,Delhi,Organic,Tutoring 1:1,Counsellor H,Lost,28561.0,6
+L101656,2026-07-27,Bengaluru,Paid Social,NEET Pro,Counsellor B,Demo Booked,45182.0,1
+L101657,2026-07-28,Mumbai,Paid Social,JEE Pro,Counsellor E,Contacted,42999.0,1
+L101658,2026-07-28,Kolkata,Paid Social,JEE Pro,Counsellor G,Lost,39293.0,6
+L101659,2026-07-28,Mumbai,Organic,Foundation,Counsellor D,Won,15135.0,1
+L101660,2026-07-28,Bengaluru,Organic,NEET Pro,Counsellor E,Contacted,42908.0,3
+L101661,2026-07-28,Kolkata,Paid Social,JEE Pro,Counsellor A,Lost,37763.0,3
+L101662,2026-07-28,Lucknow,Webinar,NEET Pro,Counsellor C,Lost,40091.0,4
+L101663,2026-07-29,Mumbai,Paid Social,NEET Pro,Counsellor D,Contacted,35832.0,5
+L101664,2026-07-30,Bengaluru,Organic,NEET Pro,Counsellor G,Lost,42100.0,4
+L101665,2026-07-30,Kolkata,Paid Social,Tutoring 1:1,Counsellor B,Negotiation,24705.0,2
+L101666,2026-07-30,Mumbai,Organic,JEE Pro,Counsellor A,Lost,38285.0,4
+L101667,2026-07-31,Pune,Organic,Boards Crash,Counsellor D,Won,6301.0,5
+L101668,2026-07-31,Hyderabad,School Partnership,JEE Pro,Counsellor D,Lost,47761.0,4
+L101669,2026-08-01,Pune,Organic,Boards Crash,Counsellor D,Won,6550.0,5
+L101670,2026-08-01,Bengaluru,Paid Social,NEET Pro,Counsellor A,Lost,36610.0,7
+L101671,2026-08-01,Hyderabad,Paid Social,NEET Pro,Counsellor H,Contacted,38359.0,5
+L101672,2026-08-01,Hyderabad,Organic,Tutoring 1:1,Counsellor C,Negotiation,30015.0,5
+L101673,2026-08-02,Kolkata,School Partnership,JEE Pro,Counsellor D,Won,49502.0,4
+L101674,2026-08-02,Bengaluru,School Partnership,Tutoring 1:1,Counsellor C,Lost,26127.0,3
+L101675,2026-08-02,Mumbai,Organic,Foundation,Counsellor H,Won,20079.0,2
+L101676,2026-08-02,Delhi,Paid Social,Boards Crash,Counsellor H,Lost,5073.0,3
+L101677,2026-08-02,,Paid Social,Foundation,Counsellor A,Negotiation,20444.0,3
+L101678,2026-08-02,Bengaluru,Organic,NEET Pro,Counsellor A,Demo Booked,33774.0,4
+L101679,2026-08-02,Bengaluru,Referral,NEET Pro,Counsellor C,Lost,38120.0,6
+L101680,2026-08-03,Chennai,Webinar,JEE Pro,Counsellor F,Negotiation,39811.0,3
+L101681,2026-08-03,Kolkata,Webinar,Tutoring 1:1,Counsellor F,Contacted,32006.0,6
+L101682,2026-08-03,Delhi,Referral,JEE Pro,Counsellor A,Lost,38911.0,8
+L101683,2026-08-04,Delhi,Organic,Tutoring 1:1,Counsellor D,Won,33672.0,4
+L101684,2026-08-04,Delhi,Organic,NEET Pro,Counsellor H,Contacted,47767.0,3
+L101685,2026-08-04,Bengaluru,Paid Social,Foundation,Counsellor A,Lost,19572.0,1
+L101686,2026-08-04,Bengaluru,Referral,Foundation,Counsellor H,Lost,14553.0,7
+L101687,2026-08-04,Lucknow,Paid Social,Tutoring 1:1,Counsellor C,Negotiation,25152.0,3
+L101688,2026-08-04,Bengaluru,Paid Social,Tutoring 1:1,Counsellor F,Lost,33646.0,5
+L101689,2026-08-04,Kolkata,Webinar,Foundation,Counsellor E,Contacted,17341.0,6
+L101690,2026-08-05,Hyderabad,Organic,Foundation,Counsellor A,Demo Booked,18090.0,2
+L101691,2026-08-05,Kolkata,Organic,Tutoring 1:1,Counsellor H,Demo Booked,34143.0,6
+L101692,2026-08-05,Delhi,Organic,Foundation,Counsellor C,Lost,19539.0,4
+L101693,2026-08-05,Bengaluru,School Partnership,Boards Crash,Counsellor B,Won,6065.0,2
+L101694,2026-08-05,Hyderabad,Organic,JEE Pro,Counsellor A,Contacted,38644.0,8
+L101695,2026-08-06,Lucknow,Organic,Boards Crash,Counsellor A,Lost,4993.0,2
+L101696,2026-08-06,Delhi,Paid Social,NEET Pro,Counsellor H,Demo Booked,33807.0,5
+L101697,2026-08-06,Bengaluru,Referral,Boards Crash,Counsellor G,Won,4927.0,3
+L101698,2026-08-06,Mumbai,Organic,Foundation,Counsellor F,Demo Booked,17279.0,3
+L101699,2026-08-06,Bengaluru,Webinar,Boards Crash,Counsellor E,Won,7074.0,1
+L101700,2026-08-07,Delhi,Organic,JEE Pro,Counsellor B,Lost,35457.0,2
+L101701,2026-08-07,Kolkata,Referral,JEE Pro,Counsellor C,Won,42252.0,0
+L101702,2026-08-07,Delhi,Organic,JEE Pro,Counsellor H,Negotiation,43948.0,7
+L101703,2026-08-07,Mumbai,Webinar,Foundation,Counsellor D,Lost,21178.0,4
+L101704,2026-08-08,Hyderabad,Organic,JEE Pro,Counsellor C,Won,50315.0,4
+L101705,2026-08-08,Bengaluru,Referral,Tutoring 1:1,Counsellor C,Lost,31869.0,3
+L101706,2026-08-08,Bengaluru,Webinar,Boards Crash,Counsellor E,Negotiation,6192.0,3
+L101707,2026-08-09,Lucknow,Organic,NEET Pro,Counsellor F,Demo Booked,43318.0,4
+L101708,2026-08-09,Pune,Organic,NEET Pro,Counsellor B,Demo Booked,38973.0,3
+L101709,2026-08-09,Chennai,Paid Social,Tutoring 1:1,Counsellor G,Lost,33365.0,2
+L101710,2026-08-09,Mumbai,Paid Social,Boards Crash,Counsellor D,Lost,6809.0,6
+L101711,2026-08-09,Mumbai,Paid Social,JEE Pro,Counsellor C,Contacted,37212.0,2
+L101712,2026-08-09,Bengaluru,Webinar,Foundation,Counsellor D,Demo Booked,18205.0,4
+L101713,2026-08-09,Delhi,Paid Social,NEET Pro,Counsellor H,Lost,37013.0,3
+L101714,2026-08-10,Bengaluru,Paid Social,Foundation,Counsellor E,Lost,15301.0,2
+L101715,2026-08-10,Mumbai,Paid Social,Foundation,Counsellor D,Lost,17430.0,5
+L101716,2026-08-10,Delhi,Paid Social,NEET Pro,Counsellor H,Lost,41678.0,3
+L101717,2026-08-10,Bengaluru,Paid Social,JEE Pro,Counsellor D,Contacted,42297.0,4
+L101718,2026-08-10,Bengaluru,Organic,Boards Crash,Counsellor A,Won,5722.0,4
+L101719,2026-08-10,Mumbai,Organic,Foundation,Counsellor C,Won,18402.0,8
+L101720,2026-08-10,Bengaluru,Organic,Boards Crash,Counsellor H,Demo Booked,6012.0,0
+L101721,2026-08-10,Bengaluru,Organic,NEET Pro,Counsellor A,Negotiation,32436.0,7
+L101722,2026-08-11,Bengaluru,Webinar,Boards Crash,Counsellor F,Demo Booked,6456.0,5
+L101723,2026-08-11,Pune,Organic,Boards Crash,Counsellor B,Demo Booked,6693.0,4
+L101724,2026-08-11,Hyderabad,Organic,Tutoring 1:1,Counsellor A,Lost,29539.0,3
+L101725,2026-08-11,Mumbai,Paid Social,NEET Pro,Counsellor C,Lost,42423.0,4
+L101726,2026-08-11,Bengaluru,Paid Social,Tutoring 1:1,Counsellor C,Lost,26902.0,5
+L101727,2026-08-11,Mumbai,Organic,NEET Pro,Counsellor D,Lost,43670.0,4
+L101728,2026-08-12,Bengaluru,Paid Social,Boards Crash,Counsellor G,Contacted,5892.0,5
+L101729,2026-08-12,Delhi,Paid Social,Boards Crash,Counsellor D,Won,6338.0,7
+L101730,2026-08-13,Mumbai,Referral,Foundation,Counsellor D,Won,19243.0,2
+L101731,2026-08-13,Bengaluru,School Partnership,Foundation,Counsellor G,Won,17510.0,6
+L101732,2026-08-13,Mumbai,Webinar,Boards Crash,Counsellor G,Negotiation,5249.0,4
+L101733,2026-08-13,Mumbai,Paid Social,JEE Pro,Counsellor C,Demo Booked,49358.0,4
+L101734,2026-08-13,Bengaluru,Paid Social,NEET Pro,Counsellor B,Lost,45256.0,2
+L101735,2026-08-13,Bengaluru,Paid Social,NEET Pro,Counsellor G,Lost,38132.0,3
+L101736,2026-08-13,Mumbai,Organic,JEE Pro,Counsellor E,Demo Booked,39958.0,6
+L101737,2026-08-13,Chennai,School Partnership,Tutoring 1:1,Counsellor C,Won,34170.0,3
+L101738,2026-08-13,Bengaluru,Organic,Tutoring 1:1,Counsellor G,Lost,33027.0,3
+L101739,2026-08-13,Mumbai,Organic,JEE Pro,Counsellor D,Won,38259.0,6
+L101740,2026-08-14,Delhi,Referral,Tutoring 1:1,Counsellor G,Won,33855.0,3
+L101741,2026-08-14,Delhi,Paid Social,NEET Pro,Counsellor A,Negotiation,37420.0,5
+L101742,2026-08-14,Chennai,Organic,Boards Crash,Counsellor C,Lost,6820.0,9
+L101743,2026-08-14,Hyderabad,School Partnership,Tutoring 1:1,Counsellor H,Contacted,25326.0,6
+L101744,2026-08-15,Delhi,Paid Social,Foundation,Counsellor E,Contacted,21222.0,6
+L101745,2026-08-15,Mumbai,Paid Social,Foundation,Counsellor C,Demo Booked,17035.0,4
+L101746,2026-08-15,Lucknow,Organic,JEE Pro,Counsellor C,Demo Booked,49073.0,4
+L101747,2026-08-15,Pune,Webinar,NEET Pro,Counsellor F,Negotiation,35946.0,6
+L101748,2026-08-15,Delhi,Organic,NEET Pro,Counsellor H,Lost,37971.0,6
+L101749,2026-08-16,Mumbai,Paid Social,Foundation,Counsellor E,Contacted,16225.0,6
+L101750,2026-08-16,Mumbai,Webinar,Foundation,Counsellor C,Lost,18622.0,2
+L101751,2026-08-16,Bengaluru,School Partnership,Tutoring 1:1,Counsellor D,Negotiation,27043.0,3
+L101752,2026-08-16,Lucknow,School Partnership,Tutoring 1:1,Counsellor H,Negotiation,32096.0,3
+L101753,2026-08-16,Bengaluru,Webinar,JEE Pro,Counsellor B,Won,45019.0,4
+L101754,2026-08-16,Bengaluru,Organic,Boards Crash,Counsellor H,Lost,6642.0,5
+L101755,2026-08-16,Bengaluru,Organic,NEET Pro,Counsellor G,Won,39253.0,2
+L101756,2026-08-17,Chennai,Paid Social,JEE Pro,Counsellor C,Contacted,40789.0,1
+L101757,2026-08-17,Chennai,Organic,NEET Pro,Counsellor D,Won,36007.0,4
+L101758,2026-08-17,Hyderabad,School Partnership,Tutoring 1:1,Counsellor E,Negotiation,29837.0,5
+L101759,2026-08-17,Mumbai,Organic,Boards Crash,Counsellor B,Demo Booked,6068.0,5
+L101760,2026-08-17,Mumbai,Paid Social,Tutoring 1:1,Counsellor F,Negotiation,27330.0,3
+L101761,2026-08-17,Delhi,Organic,JEE Pro,Counsellor A,Lost,42972.0,5
+L101762,2026-08-17,Chennai,Organic,JEE Pro,Counsellor H,Negotiation,36490.0,3
+L101763,2026-08-17,Mumbai,Paid Social,NEET Pro,Counsellor E,Demo Booked,38696.0,4
+L101764,2026-08-18,Pune,Organic,JEE Pro,Counsellor D,Won,39060.0,6
+L101765,2026-08-18,Hyderabad,Webinar,JEE Pro,Counsellor E,Negotiation,42566.0,1
+L101766,2026-08-18,Hyderabad,Referral,NEET Pro,Counsellor A,Demo Booked,44405.0,3
+L101767,2026-08-19,Hyderabad,Paid Social,Tutoring 1:1,Counsellor C,Lost,24370.0,5
+L101768,2026-08-19,Kolkata,Webinar,Tutoring 1:1,Counsellor D,Lost,29278.0,7
+L101769,2026-08-19,Pune,Webinar,Boards Crash,Counsellor B,Contacted,5041.0,7
+L101770,2026-08-19,Hyderabad,Paid Social,JEE Pro,Counsellor D,Lost,39555.0,3
+L101771,2026-08-20,Delhi,Webinar,JEE Pro,Counsellor G,Lost,45967.0,5
+L101772,2026-08-20,Delhi,School Partnership,Tutoring 1:1,Counsellor B,Contacted,31624.0,6
+L101773,2026-08-20,Bengaluru,Referral,Boards Crash,Counsellor F,Won,6520.0,6
+L101774,2026-08-20,Pune,Paid Social,Tutoring 1:1,Counsellor A,Demo Booked,33770.0,1
+L101775,2026-08-20,Mumbai,School Partnership,Tutoring 1:1,Counsellor B,Lost,28084.0,4
+L101776,2026-08-20,Bengaluru,School Partnership,Boards Crash,Counsellor C,Negotiation,5695.0,1
+L101777,2026-08-20,Mumbai,Paid Social,NEET Pro,Counsellor G,Contacted,35013.0,4
+L101778,2026-08-21,Pune,Organic,Tutoring 1:1,Counsellor F,Contacted,27933.0,3
+L101779,2026-08-21,Chennai,Webinar,Boards Crash,Counsellor A,Won,6284.0,9
+L101780,2026-08-22,Chennai,Referral,Boards Crash,Counsellor G,Negotiation,6408.0,6
+L101781,2026-08-22,Pune,Organic,NEET Pro,Counsellor G,Negotiation,43360.0,4
+L101782,2026-08-22,Bengaluru,Paid Social,JEE Pro,Counsellor F,Lost,42618.0,3
+L101783,2026-08-22,Mumbai,Paid Social,Tutoring 1:1,Counsellor G,Lost,24608.0,6
+L101784,2026-08-22,Hyderabad,School Partnership,JEE Pro,Counsellor E,Demo Booked,44443.0,5
+L101785,2026-08-22,Hyderabad,Paid Social,JEE Pro,Counsellor A,Lost,47830.0,0
+L101786,2026-08-22,Delhi,Organic,Foundation,Counsellor F,Contacted,20683.0,0
+L101787,2026-08-23,Bengaluru,Organic,Foundation,Counsellor H,Lost,14564.0,3
+L101788,2026-08-23,Chennai,Paid Social,Tutoring 1:1,Counsellor C,Demo Booked,28525.0,0
+L101789,2026-08-23,Kolkata,School Partnership,Foundation,Counsellor H,Lost,17937.0,4
+L101790,2026-08-23,Pune,Organic,JEE Pro,Counsellor D,Negotiation,44083.0,6
+L101791,2026-08-23,Delhi,Paid Social,Boards Crash,Counsellor B,Demo Booked,6710.0,5
+L101792,2026-08-24,Delhi,School Partnership,Foundation,Counsellor E,Lost,14598.0,5
+L101793,2026-08-24,Pune,Organic,Boards Crash,Counsellor F,Contacted,6961.0,7
+L101794,2026-08-24,Hyderabad,Organic,Tutoring 1:1,Counsellor G,Demo Booked,29235.0,6
+L101795,2026-08-24,Hyderabad,Webinar,Foundation,Counsellor D,Negotiation,21357.0,3
+L101796,2026-08-24,Bengaluru,Organic,NEET Pro,Counsellor H,Negotiation,44623.0,3
+L101797,2026-08-25,Bengaluru,School Partnership,JEE Pro,Counsellor B,Lost,40261.0,2
+L101798,2026-08-25,Kolkata,Webinar,JEE Pro,Counsellor F,Contacted,49569.0,1
+L101799,2026-08-25,Chennai,Organic,Foundation,Counsellor B,Lost,17747.0,6
+L101800,2026-08-25,Delhi,Paid Social,Foundation,Counsellor F,Lost,15181.0,6
+L101801,2026-08-25,Pune,Paid Social,NEET Pro,Counsellor B,Won,35211.0,7
+L101802,2026-08-25,Bengaluru,Referral,Boards Crash,Counsellor F,Contacted,6087.0,4
+L101803,2026-08-26,Mumbai,Paid Social,Boards Crash,Counsellor F,Contacted,6620.0,2
+L101804,2026-08-26,Delhi,Paid Social,JEE Pro,Counsellor D,Negotiation,38826.0,5
+L101805,2026-08-26,Mumbai,Organic,Tutoring 1:1,Counsellor E,Lost,35254.0,3
+L101806,2026-08-26,Bengaluru,Organic,Tutoring 1:1,Counsellor H,Demo Booked,27077.0,1
+L101807,2026-08-26,Delhi,Organic,Foundation,Counsellor H,Negotiation,21437.0,3
+L101808,2026-08-26,Mumbai,School Partnership,NEET Pro,Counsellor E,Contacted,42378.0,4
+L101809,2026-08-27,Mumbai,Webinar,NEET Pro,Counsellor C,Contacted,43753.0,7
+L101810,2026-08-27,Bengaluru,Paid Social,Foundation,Counsellor C,Demo Booked,17184.0,6
+L101811,2026-08-28,Hyderabad,Referral,Tutoring 1:1,Counsellor D,Contacted,30382.0,8
+L101812,2026-08-28,Bengaluru,Paid Social,Boards Crash,Counsellor E,Negotiation,5647.0,5
+L101813,2026-08-28,,Organic,JEE Pro,Counsellor C,Contacted,42086.0,8
+L101814,2026-08-28,Delhi,Paid Social,JEE Pro,Counsellor D,Demo Booked,47746.0,3
+L101815,2026-08-29,Bengaluru,School Partnership,Boards Crash,Counsellor D,Lost,6642.0,3
+L101816,2026-08-29,Delhi,Paid Social,JEE Pro,Counsellor B,Negotiation,47456.0,1
+L101817,2026-08-29,Mumbai,Paid Social,Tutoring 1:1,Counsellor E,Demo Booked,28953.0,4
+L101818,2026-08-29,Mumbai,School Partnership,JEE Pro,Counsellor F,Lost,38592.0,3
+L101819,2026-08-29,Hyderabad,Organic,Foundation,Counsellor G,Lost,18662.0,4
+L101820,2026-08-29,Bengaluru,Webinar,JEE Pro,Counsellor G,Lost,49598.0,5
+L101821,2026-08-29,Delhi,Organic,Tutoring 1:1,Counsellor F,Demo Booked,32470.0,4
+L101822,2026-08-30,Mumbai,Referral,Foundation,Counsellor B,Lost,16075.0,4
+L101823,2026-08-30,Lucknow,Webinar,NEET Pro,Counsellor A,Lost,44680.0,7
+L101824,2026-08-30,Chennai,Webinar,Tutoring 1:1,Counsellor C,Contacted,34631.0,4
+L101825,2026-08-30,Mumbai,School Partnership,JEE Pro,Counsellor C,Contacted,45980.0,5
+L101826,2026-08-30,Delhi,Referral,Tutoring 1:1,Counsellor C,Contacted,32708.0,4
+L101827,2026-08-31,Bengaluru,School Partnership,Foundation,Counsellor F,Contacted,19276.0,7
+L101828,2026-08-31,Hyderabad,Organic,Foundation,Counsellor B,Won,18475.0,7
+L101829,2026-08-31,Mumbai,Paid Social,JEE Pro,Counsellor G,Won,40223.0,3
+L101830,2026-08-31,Mumbai,Organic,Boards Crash,Counsellor E,Won,6523.0,3
+L101831,2026-08-31,Kolkata,Organic,JEE Pro,Counsellor G,Demo Booked,40678.0,8
+L101832,2026-09-01,Mumbai,Paid Social,NEET Pro,Counsellor D,Lost,34836.0,6
+L101833,2026-09-01,Kolkata,Referral,Foundation,Counsellor C,Lost,20849.0,6
+L101834,2026-09-01,Delhi,Webinar,Tutoring 1:1,Counsellor H,Won,34991.0,2
+L101835,2026-09-01,Delhi,Organic,Boards Crash,Counsellor D,Won,5102.0,6
+L101836,2026-09-01,Chennai,School Partnership,JEE Pro,Counsellor G,Contacted,47114.0,5
+L101837,2026-09-02,Mumbai,Organic,NEET Pro,Counsellor A,Lost,41930.0,2
+L101838,2026-09-02,,Organic,NEET Pro,Counsellor G,Lost,37291.0,4
+L101839,2026-09-02,Bengaluru,Webinar,Foundation,Counsellor E,Lost,16774.0,1
+L101840,2026-09-03,Chennai,Webinar,JEE Pro,Counsellor F,Won,36052.0,6
+L101841,2026-09-03,Bengaluru,Referral,Boards Crash,Counsellor C,Lost,5871.0,4
+L101842,2026-09-03,Kolkata,Paid Social,NEET Pro,Counsellor B,Negotiation,35393.0,4
+L101843,2026-09-03,Mumbai,Paid Social,Boards Crash,Counsellor E,Contacted,6414.0,4
+L101844,2026-09-03,Bengaluru,Webinar,Tutoring 1:1,Counsellor A,Lost,35344.0,3
+L101845,2026-09-03,Delhi,Paid Social,Boards Crash,Counsellor E,Lost,5514.0,6
+L101846,2026-09-03,Mumbai,Webinar,Boards Crash,Counsellor G,Demo Booked,5420.0,5
+L101847,2026-09-03,Mumbai,Webinar,Tutoring 1:1,Counsellor B,Lost,30258.0,3
+L101848,2026-09-04,Mumbai,Paid Social,NEET Pro,Counsellor E,Lost,33850.0,5
+L101849,2026-09-04,Bengaluru,Webinar,Foundation,Counsellor A,Contacted,15421.0,2
+L101850,2026-09-04,Lucknow,Paid Social,JEE Pro,Counsellor D,Lost,36577.0,4
+L101851,2026-09-04,Delhi,Referral,Foundation,Counsellor F,Lost,20368.0,4
+L101852,2026-09-04,Kolkata,Referral,NEET Pro,Counsellor D,Demo Booked,40049.0,2
+L101853,2026-09-04,Chennai,Paid Social,Tutoring 1:1,Counsellor F,Demo Booked,33446.0,5
+L101854,2026-09-04,Lucknow,Paid Social,Tutoring 1:1,Counsellor H,Contacted,33997.0,2
+L101855,2026-09-05,Bengaluru,Referral,Foundation,Counsellor H,Won,16572.0,5
+L101856,2026-09-05,Chennai,Paid Social,Tutoring 1:1,Counsellor C,Lost,26103.0,5
+L101857,2026-09-05,Mumbai,Organic,NEET Pro,Counsellor E,Lost,32968.0,2
+L101858,2026-09-06,Hyderabad,School Partnership,Foundation,Counsellor H,Negotiation,19687.0,6
+L101859,2026-09-06,Delhi,School Partnership,NEET Pro,Counsellor A,Negotiation,40614.0,3
+L101860,2026-09-06,Bengaluru,Organic,NEET Pro,Counsellor E,Lost,45625.0,4
+L101861,2026-09-06,Mumbai,School Partnership,JEE Pro,Counsellor A,Lost,44616.0,4
+L101862,2026-09-07,Chennai,Paid Social,Boards Crash,Counsellor A,Lost,5207.0,3
+L101863,2026-09-07,Delhi,Organic,NEET Pro,Counsellor H,Won,39754.0,7
+L101864,2026-09-07,Lucknow,Webinar,Tutoring 1:1,Counsellor H,Lost,28867.0,2
+L101865,2026-09-08,Hyderabad,Paid Social,Tutoring 1:1,Counsellor F,Lost,25439.0,3
+L101866,2026-09-08,Bengaluru,Referral,Foundation,Counsellor E,Won,15418.0,4
+L101867,2026-09-08,Chennai,Webinar,Foundation,Counsellor B,Lost,19479.0,3
+L101868,2026-09-08,Bengaluru,Paid Social,Boards Crash,Counsellor C,Contacted,6387.0,4
+L101869,2026-09-08,Bengaluru,Organic,JEE Pro,Counsellor D,Won,40660.0,2
+L101870,2026-09-09,Mumbai,Webinar,JEE Pro,Counsellor C,Lost,35698.0,5
+L101871,2026-09-09,Chennai,Referral,Boards Crash,Counsellor B,Contacted,5417.0,8
+L101872,2026-09-09,Bengaluru,School Partnership,Boards Crash,Counsellor G,Demo Booked,5854.0,4
+L101873,2026-09-09,Delhi,Organic,JEE Pro,Counsellor G,Contacted,46015.0,4
+L101874,2026-09-10,Bengaluru,Webinar,Foundation,Counsellor H,Won,17387.0,4
+L101875,2026-09-10,Bengaluru,Webinar,Boards Crash,Counsellor F,Contacted,6611.0,1
+L101876,2026-09-10,Delhi,Paid Social,Foundation,Counsellor G,Negotiation,17027.0,6
+L101877,2026-09-10,Mumbai,Paid Social,Tutoring 1:1,Counsellor H,Lost,31228.0,2
+L101878,2026-09-10,Mumbai,Paid Social,NEET Pro,Counsellor G,Lost,43970.0,3
+L101879,2026-09-10,Bengaluru,Organic,Foundation,Counsellor F,Won,17418.0,1
+L101880,2026-09-10,Delhi,Organic,NEET Pro,Counsellor G,Lost,39509.0,5
+L101881,2026-09-10,Mumbai,Paid Social,Foundation,Counsellor D,Lost,14790.0,7
+L101882,2026-09-11,Chennai,Organic,Tutoring 1:1,Counsellor C,Lost,25350.0,4
+L101883,2026-09-11,Delhi,Webinar,Boards Crash,Counsellor H,Negotiation,6434.0,3
+L101884,2026-09-11,Hyderabad,Paid Social,NEET Pro,Counsellor H,Lost,33546.0,3
+L101885,2026-09-11,Mumbai,Paid Social,JEE Pro,Counsellor D,Lost,36762.0,2
+L101886,2026-09-11,Kolkata,Organic,Boards Crash,Counsellor A,Lost,5965.0,3
+L101887,2026-09-11,Hyderabad,Paid Social,JEE Pro,Counsellor F,Lost,49186.0,4
+L101888,2026-09-11,Lucknow,Webinar,Foundation,Counsellor A,Won,21579.0,4
+L101889,2026-09-11,Hyderabad,Paid Social,Foundation,Counsellor B,Lost,19979.0,3
+L101890,2026-09-12,Delhi,Paid Social,Tutoring 1:1,Counsellor A,Negotiation,28340.0,5
+L101891,2026-09-12,Delhi,Paid Social,NEET Pro,Counsellor C,Lost,34845.0,5
+L101892,2026-09-12,Pune,Paid Social,JEE Pro,Counsellor D,Contacted,40455.0,3
+L101893,2026-09-12,Delhi,Webinar,Foundation,Counsellor E,Contacted,14854.0,4
+L101894,2026-09-12,Chennai,Organic,Boards Crash,Counsellor F,Negotiation,5483.0,3
+L101895,2026-09-13,Mumbai,Paid Social,Foundation,Counsellor C,Lost,19497.0,5
+L101896,2026-09-13,Chennai,Referral,Foundation,Counsellor D,Lost,18857.0,2
+L101897,2026-09-13,Bengaluru,Organic,JEE Pro,Counsellor G,Negotiation,49224.0,4
+L101898,2026-09-13,Kolkata,School Partnership,Boards Crash,Counsellor F,Contacted,5553.0,3
+L101899,2026-09-13,Mumbai,Paid Social,Boards Crash,Counsellor E,Won,5801.0,3
+L101900,2026-09-13,Bengaluru,Organic,JEE Pro,Counsellor F,Demo Booked,45946.0,6
+L101901,2026-09-13,Mumbai,Webinar,Tutoring 1:1,Counsellor H,Contacted,27022.0,2
+L101902,2026-09-14,Bengaluru,Webinar,Tutoring 1:1,Counsellor B,Lost,26875.0,2
+L101903,2026-09-14,Bengaluru,Referral,JEE Pro,Counsellor E,Won,50037.0,7
+L101904,2026-09-14,Pune,School Partnership,NEET Pro,Counsellor F,Lost,37566.0,3
+L101905,2026-09-14,Mumbai,Organic,Tutoring 1:1,Counsellor E,Lost,34512.0,5
+L101906,2026-09-14,Delhi,Paid Social,Boards Crash,Counsellor H,Negotiation,5767.0,8
+L101907,2026-09-14,Bengaluru,Referral,Foundation,Counsellor E,Negotiation,20875.0,7
+L101908,2026-09-14,Bengaluru,School Partnership,NEET Pro,Counsellor E,Won,45264.0,3
+L101909,2026-09-14,Bengaluru,Referral,Tutoring 1:1,Counsellor B,Won,27517.0,0
+L101910,2026-09-15,Mumbai,Referral,NEET Pro,Counsellor B,Lost,32803.0,5
+L101911,2026-09-15,Bengaluru,Paid Social,Tutoring 1:1,Counsellor C,Lost,31974.0,4
+L101912,2026-09-15,Bengaluru,Paid Social,JEE Pro,Counsellor E,Won,39329.0,7
+L101913,2026-09-15,Delhi,Paid Social,Boards Crash,Counsellor H,Lost,5592.0,7
+L101914,2026-09-16,Chennai,School Partnership,NEET Pro,Counsellor H,Won,43447.0,8
+L101915,2026-09-16,Pune,Webinar,JEE Pro,Counsellor F,Contacted,40513.0,4
+L101916,2026-09-16,Chennai,Referral,JEE Pro,Counsellor C,Won,38251.0,6
+L101917,2026-09-16,Bengaluru,School Partnership,Boards Crash,Counsellor G,Won,6866.0,8
+L101918,2026-09-16,Bengaluru,Organic,Boards Crash,Counsellor C,Lost,6710.0,4
+L101919,2026-09-16,Pune,Webinar,Foundation,Counsellor D,Lost,20211.0,5
+L101920,2026-09-16,Hyderabad,Paid Social,Tutoring 1:1,Counsellor E,Lost,27916.0,4
+L101921,2026-09-16,Delhi,Webinar,NEET Pro,Counsellor B,Won,47640.0,3
+L101922,2026-09-17,Delhi,Organic,Boards Crash,Counsellor G,Lost,6025.0,3
+L101923,2026-09-17,Chennai,Paid Social,NEET Pro,Counsellor G,Lost,37048.0,3
+L101924,2026-09-17,Pune,Webinar,Foundation,Counsellor G,Negotiation,15401.0,2
+L101925,2026-09-17,Chennai,Organic,NEET Pro,Counsellor D,Lost,44957.0,3
+L101926,2026-09-18,Mumbai,Organic,JEE Pro,Counsellor F,Won,45447.0,3
+L101927,2026-09-18,Bengaluru,Paid Social,Boards Crash,Counsellor G,Lost,7048.0,5
+L101928,2026-09-18,Mumbai,Webinar,Tutoring 1:1,Counsellor F,Lost,25120.0,2
+L101929,2026-09-18,Bengaluru,Organic,Foundation,Counsellor A,Contacted,14794.0,4
+L101930,2026-09-19,Bengaluru,Webinar,Boards Crash,Counsellor A,Lost,6936.0,3
+L101931,2026-09-19,Bengaluru,Organic,JEE Pro,Counsellor C,Lost,37832.0,1
+L101932,2026-09-19,Delhi,Paid Social,Foundation,Counsellor A,Lost,16786.0,1
+L101933,2026-09-19,Bengaluru,Paid Social,Tutoring 1:1,Counsellor F,Negotiation,25523.0,5
+L101934,2026-09-20,Delhi,Referral,NEET Pro,Counsellor E,Lost,40022.0,7
+L101935,2026-09-20,Hyderabad,Webinar,Foundation,Counsellor H,Lost,15889.0,5
+L101936,2026-09-20,Hyderabad,Webinar,JEE Pro,Counsellor E,Won,34604.0,5
+L101937,2026-09-21,Bengaluru,Organic,Boards Crash,Counsellor B,Won,7090.0,1
+L101938,2026-09-21,Pune,Referral,NEET Pro,Counsellor B,Lost,34214.0,4
+L101939,2026-09-21,Pune,Referral,JEE Pro,Counsellor H,Negotiation,39766.0,4
+L101940,2026-09-21,Chennai,Paid Social,JEE Pro,Counsellor B,Contacted,36966.0,4
+L101941,2026-09-21,Bengaluru,Webinar,Boards Crash,Counsellor F,Negotiation,6777.0,2
+L101942,2026-09-21,Kolkata,Webinar,Foundation,Counsellor E,Lost,20025.0,6
+L101943,2026-09-21,Mumbai,Paid Social,Boards Crash,Counsellor B,Negotiation,7006.0,2
+L101944,2026-09-21,Hyderabad,School Partnership,Foundation,Counsellor D,Negotiation,17818.0,8
+L101945,2026-09-22,Chennai,Organic,JEE Pro,Counsellor A,Lost,46818.0,4
+L101946,2026-09-22,Bengaluru,Organic,Boards Crash,Counsellor F,Contacted,6747.0,5
+L101947,2026-09-22,Pune,Webinar,Foundation,Counsellor H,Lost,20443.0,8
+L101948,2026-09-22,Pune,Paid Social,JEE Pro,Counsellor G,Demo Booked,36229.0,5
+L101949,2026-09-22,Hyderabad,Paid Social,JEE Pro,Counsellor F,Lost,41840.0,6
+L101950,2026-09-22,Delhi,Paid Social,JEE Pro,Counsellor F,Demo Booked,44604.0,4
+L101951,2026-09-22,Mumbai,Organic,Foundation,Counsellor F,Negotiation,16603.0,6
+L101952,2026-09-22,Bengaluru,Webinar,Tutoring 1:1,Counsellor A,Contacted,33416.0,2
+L101953,2026-09-23,Kolkata,Referral,JEE Pro,Counsellor D,Won,44281.0,7
+L101954,2026-09-23,Mumbai,Organic,Foundation,Counsellor G,Lost,20182.0,3
+L101955,2026-09-23,Mumbai,Organic,Boards Crash,Counsellor A,Demo Booked,6587.0,2
+L101956,2026-09-23,Hyderabad,Webinar,Boards Crash,Counsellor D,Contacted,5846.0,4
+L101957,2026-09-23,Bengaluru,School Partnership,JEE Pro,Counsellor D,Negotiation,35557.0,3
+L101958,2026-09-23,Bengaluru,Webinar,NEET Pro,Counsellor G,Contacted,35866.0,3
+L101959,2026-09-23,Bengaluru,Paid Social,Tutoring 1:1,Counsellor F,Won,29945.0,1
+L101960,2026-09-23,Bengaluru,Paid Social,Tutoring 1:1,Counsellor D,Won,35427.0,6
+L101961,2026-09-23,Pune,Paid Social,Tutoring 1:1,Counsellor C,Lost,26487.0,2
+L101962,2026-09-23,Bengaluru,Organic,Foundation,Counsellor C,Contacted,20278.0,5
+L101963,2026-09-23,Delhi,Paid Social,NEET Pro,Counsellor H,Demo Booked,36101.0,5
+L101964,2026-09-23,Hyderabad,Organic,Boards Crash,Counsellor G,Contacted,6211.0,3
+L101965,2026-09-24,Delhi,Organic,NEET Pro,Counsellor G,Lost,46414.0,6
+L101966,2026-09-24,Chennai,Paid Social,Tutoring 1:1,Counsellor A,Negotiation,29381.0,4
+L101967,2026-09-24,Chennai,Organic,Boards Crash,Counsellor A,Contacted,5328.0,10
+L101968,2026-09-24,Delhi,Paid Social,Tutoring 1:1,Counsellor C,Demo Booked,27720.0,5
+L101969,2026-09-24,Mumbai,Referral,JEE Pro,Counsellor C,Won,46136.0,4
+L101970,2026-09-24,Kolkata,Referral,JEE Pro,Counsellor G,Lost,44847.0,3
+L101971,2026-09-25,Lucknow,School Partnership,NEET Pro,Counsellor H,Contacted,42030.0,2
+L101972,2026-09-25,Hyderabad,Webinar,Boards Crash,Counsellor B,Won,5311.0,6
+L101973,2026-09-25,Mumbai,Referral,NEET Pro,Counsellor F,Lost,44073.0,5
+L101974,2026-09-25,Bengaluru,Webinar,NEET Pro,Counsellor E,Won,45410.0,3
+L101975,2026-09-25,Hyderabad,Paid Social,Foundation,Counsellor G,Negotiation,17726.0,3
+L101976,2026-09-25,Hyderabad,Webinar,Foundation,Counsellor C,Lost,16381.0,3
+L101977,2026-09-25,Hyderabad,Organic,NEET Pro,Counsellor B,Lost,41724.0,5
+L101978,2026-09-25,Delhi,Paid Social,JEE Pro,Counsellor A,Demo Booked,46811.0,1
+L101979,2026-09-26,Pune,School Partnership,JEE Pro,Counsellor H,Lost,41239.0,1
+L101980,2026-09-26,Mumbai,Paid Social,NEET Pro,Counsellor G,Lost,40972.0,4
+L101981,2026-09-26,Delhi,Paid Social,Foundation,Counsellor F,Contacted,19786.0,2
+L101982,2026-09-26,Delhi,Webinar,JEE Pro,Counsellor F,Lost,49010.0,5
+L101983,2026-09-26,Bengaluru,Paid Social,Tutoring 1:1,Counsellor D,Lost,24955.0,0
+L101984,2026-09-27,Hyderabad,Webinar,NEET Pro,Counsellor H,Won,43021.0,5
+L101985,2026-09-27,Delhi,Organic,Tutoring 1:1,Counsellor F,Demo Booked,24764.0,8
+L101986,2026-09-27,Pune,Organic,Tutoring 1:1,Counsellor G,Lost,27231.0,2
+L101987,2026-09-28,Delhi,Organic,Foundation,Counsellor B,Contacted,19305.0,4
+L101988,2026-09-28,Delhi,Organic,Tutoring 1:1,Counsellor B,Lost,26096.0,5
+L101989,2026-09-29,Kolkata,School Partnership,NEET Pro,Counsellor H,Lost,42645.0,2
+L101990,2026-09-29,Delhi,Organic,JEE Pro,Counsellor H,Won,46746.0,2
+L101991,2026-09-29,Lucknow,Organic,JEE Pro,Counsellor A,Won,45047.0,4
+L101992,2026-09-29,Mumbai,Paid Social,Foundation,Counsellor A,Won,20329.0,4
+L101993,2026-09-30,Chennai,Referral,Foundation,Counsellor C,Negotiation,18794.0,1
+L101994,2026-09-30,Bengaluru,Webinar,JEE Pro,Counsellor G,Lost,42049.0,7
+L101995,2026-09-30,Bengaluru,Paid Social,Tutoring 1:1,Counsellor F,Lost,35836.0,4
+L101996,2026-09-30,Bengaluru,Organic,NEET Pro,Counsellor C,Negotiation,37452.0,3
+L101997,2026-09-30,Pune,Webinar,Foundation,Counsellor D,Won,15639.0,9
+L101998,2026-09-30,Mumbai,Organic,Foundation,Counsellor G,Lost,17965.0,5
+L101999,2026-09-30,Kolkata,Organic,Boards Crash,Counsellor H,Lost,6207.0,4
+L101072,2026-04-14,Chennai,Paid Social,JEE Pro,Counsellor D,Demo Booked,38585.0,7
+L101048,2026-04-10,Hyderabad,Webinar,NEET Pro,Counsellor F,Contacted,45771.0,4
+L100204,2025-11-05,Delhi,Paid Social,JEE Pro,Counsellor H,Lost,42086.0,5
+L100694,2026-02-01,Mumbai,Organic,Boards Crash,Counsellor B,Won,5415.0,3
+L101758,2026-08-17,Hyderabad,School Partnership,Tutoring 1:1,Counsellor E,Negotiation,29837.0,5
+L100284,2025-11-18,Hyderabad,Webinar,Boards Crash,Counsellor F,Contacted,7062.0,4
+L101866,2026-09-08,Bengaluru,Referral,Foundation,Counsellor E,Won,15418.0,4
+L101926,2026-09-18,Mumbai,Organic,JEE Pro,Counsellor F,Won,45447.0,3
