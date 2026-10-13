@@ -5,7 +5,7 @@ business weight of the metric × size of the change (capped) × reach (log of le
 It ranks by potential business impact, not statistical significance; both are shown."""
 from __future__ import annotations
 
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 
 import numpy as np
 import pandas as pd
@@ -73,9 +73,7 @@ def _kpi_insights(m: Model) -> list[Insight]:
 
 
 def _shift(m: Model, start, end) -> Model:
-    from .model import Filters
-    f = m.f
-    return Model(m.tables, Filters(start, end, f.courses, f.subjects, f.cohorts, f.channels, f.statuses))
+    return Model(m.tables, replace(m.f, start=start, end=end))
 
 
 def _enrol_driver(m: Model) -> pd.DataFrame:
@@ -209,7 +207,9 @@ def _special_insights(m: Model) -> list[Insight]:
 def generate(m: Model) -> list[Insight]:
     if m.empty():
         return []
-    return sorted(_kpi_insights(m) + _special_insights(m), key=lambda i: -i.impact)
+    from . import modes as MD  # local import: modes builds on Insight
+    centre_flags = MD.mode_insights(m, {}, MD.centre_scorecard(m), pd.DataFrame())
+    return sorted(_kpi_insights(m) + _special_insights(m) + centre_flags, key=lambda i: -i.impact)
 
 
 def top(insights: list[Insight], polarity: str, n: int = 5) -> list[Insight]:

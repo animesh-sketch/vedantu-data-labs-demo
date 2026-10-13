@@ -7,7 +7,7 @@ fallback); otherwise the computation names the pandas function that produced the
 from __future__ import annotations
 
 import re
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 
 import pandas as pd
 
@@ -48,6 +48,7 @@ EXAMPLES = [
     "Which students need immediate academic support?",
     "What are the three biggest business risks this month?",
     "What should leadership prioritize next week?",
+    "How do online and offline learners differ?",
 ]
 
 
@@ -56,10 +57,7 @@ def _scope(m: Model, n: int, unit: str = "learners") -> str:
 
 
 def _with(m: Model, **kw) -> Model:
-    f = m.f
-    d = dict(start=f.start, end=f.end, courses=f.courses, subjects=f.subjects, cohorts=f.cohorts, channels=f.channels, statuses=f.statuses)
-    d.update(kw)
-    return Model(m.tables, Filters(**d))
+    return Model(m.tables, replace(m.f, **kw))
 
 
 def _month_model(m: Model) -> Model:
@@ -276,6 +274,39 @@ def revenue(m: Model, q: str) -> EdAnswer:
     return ans
 
 
+def mode_compare(m: Model, q: str) -> EdAnswer:
+    from . import modes as MD
+    keys = ["active_learners", "new_enrollments", "lead_to_enrol", "attendance_rate", "retention_rate", "inactive_rate",
+            "completion_rate", "avg_score", "arps"]
+    comp, kpis = MD.comparison(m, keys)
+    centres = MD.centre_scorecard(m)
+    ins = MD.mode_insights(m, kpis, centres, pd.DataFrame())
+    modes = list(kpis)
+    ans = EdAnswer(q, "", intent="mode_compare", chart=None)
+    if len(modes) < 2:
+        ans.summary = f"Only {', '.join(modes) or 'no'} learners are in the current filters, so online and offline can't be compared."
+        ans.table = comp.drop(columns="key")
+    else:
+        g = comp.set_index("key")
+        ans.summary = (f"Offline (centre) learners: attendance {g.loc['attendance_rate', 'Offline']} vs {g.loc['attendance_rate', 'Online']} online, "
+                       f"30-day inactivity {g.loc['inactive_rate', 'Offline']} vs {g.loc['inactive_rate', 'Online']}, "
+                       f"revenue per paying student {g.loc['arps', 'Offline']} vs {g.loc['arps', 'Online']}. "
+                       f"Online is the larger base ({g.loc['active_learners', 'Online']} vs {g.loc['active_learners', 'Offline']} active).")
+        ans.table = comp.drop(columns="key")[["metric", "Online", "Offline", "gap (offline − online)", "leads on"]]
+        ans.metrics = [("Offline attendance", g.loc["attendance_rate", "Offline"]), ("Online attendance", g.loc["attendance_rate", "Online"]),
+                       ("Offline inactivity", g.loc["inactive_rate", "Offline"]), ("Online inactivity", g.loc["inactive_rate", "Online"])]
+    ans.findings = [i.title for i in ins[:5]]
+    ans.explanations = ["Mode is self-selected: offline learners live near a centre and chose a fixed classroom timetable, "
+                        "which itself signals commitment (hypothesis).", "Online reaches every city, including learners with weaker intent "
+                        "from paid digital channels (hypothesis)."]
+    ans.actions = list(dict.fromkeys(i.action for i in ins if i.polarity == "risk"))[:4]
+    ans.confidence = "High for the numbers (metric layer); differences between modes are associations"
+    ans.limitations = ["Marketing spend is not tagged by mode, so CAC by mode is not available.", "Centre costs are not in the data."]
+    ans.scope = _scope(m, len(m.enrolled))
+    ans.computation = "modes.comparison (metrics.kpi per mode) + modes.centre_scorecard (pandas, no SQL)"
+    return ans
+
+
 def forecast_answer(m: Model, q: str) -> EdAnswer:
     what = "net_revenue" if "revenue" in q else "tickets" if "ticket" in q else "active_learners" if "active" in q else "enrollments"
     fc = forecast(m, what)
@@ -298,6 +329,7 @@ def forecast_answer(m: Model, q: str) -> EdAnswer:
 
 
 INTENTS = [
+    (r"\bonline\b.*\boffline\b|\boffline\b.*\bonline\b|\b(centres?|centers?|classroom|offline)\b", mode_compare),
     (r"\bwhy\b.*\b(enrol|admission)\w*|\b(enrol|admission)\w*\b.*\b(declin|drop|down|fall|fell|decreas)", enrollment_why),
     (r"\bcomplet\w*", completion_courses),
     (r"\bcohort\w*", cohort_retention),
@@ -324,7 +356,8 @@ def student_fact(m: Model) -> pd.DataFrame:
     sc = m.assessments.groupby("student_id").pct.mean()
     tk = m.tickets.groupby("student_id").size()
     f = seg.set_index("student_id")
-    out = pd.DataFrame({"course": f.course, "subject": s.subject, "city": s.city, "channel": f.channel, "cohort": f.cohort,
+    out = pd.DataFrame({"course": f.course, "subject": s.subject, "city": s.city, "learning_mode": s.learning_mode,
+                        "centre": s.centre_name, "channel": f.channel, "cohort": f.cohort,
                         "status": f.status, "segment": f.segment, "risk_level": f.index.map(risk.risk_level).fillna("None"),
                         "active_days_28d": f.active_days_28d, "attendance_28d_pct": f.attendance_28d_pct,
                         "avg_score_pct": f.index.map(sc).round(1), "net_revenue": f.index.map(net).fillna(0).round(0),
@@ -341,6 +374,9 @@ def _entities(m: Model, q: str) -> dict:
     for ch in sorted(set(m.tables["students"].acquisition_channel)):
         if ch.lower() in ql:
             found["channels"] = (ch,)
+    for c in m.centres.centre_name if "centre_name" in m.centres else []:
+        if c.lower().replace(" centre", "") in ql:
+            found["centres"] = (c,)
     for sub in sorted(set(m.courses.subject)):
         if re.search(rf"\b{re.escape(sub.lower())}\b", ql) and "courses" not in found:
             found["subjects"] = (sub,)
@@ -407,11 +443,12 @@ def pick_tables(q: str, tables: dict[str, pd.DataFrame]) -> list[str]:
     scores = {}
     for name, df in tables.items():
         s = 2 * len(re.findall(TABLE_WORDS.get(name, r"$^"), ql))
-        s += len(copilot.find_columns(" " + ql.replace("_", " ") + " ", list(df.columns)))
+        s += sum(3 + len(c) / 10 for c in copilot.find_columns(" " + ql.replace("_", " ") + " ", list(df.columns)))  # named columns beat keywords; longer names are more specific
         if s:
             scores[name] = s
     ranked = sorted(scores, key=lambda n: -scores[n])
-    return [n for n in ranked if n != "learners"][:3] + ["learners"]
+    top = ranked[:3]
+    return top if "learners" in top else top + ["learners"]
 
 
 def explorer_tables(m: Model) -> dict[str, pd.DataFrame]:

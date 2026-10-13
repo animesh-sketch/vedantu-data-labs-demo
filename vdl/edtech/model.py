@@ -1,4 +1,4 @@
-"""Filtered view over the 12 EdTech tables. Every page receives the same Model, so global filters apply
+"""Filtered view over the 13 EdTech tables. Every page receives the same Model, so global filters apply
 consistently. Segment filters (course, subject, cohort, channel, status) restrict the student population;
 the date window is applied by metric/analytics functions so previous-period comparisons remain possible."""
 from __future__ import annotations
@@ -7,7 +7,7 @@ from dataclasses import dataclass, field
 
 import pandas as pd
 
-from .generate import END, START
+from .generate import END, START, ensure_modes
 
 
 @dataclass(frozen=True)
@@ -19,11 +19,14 @@ class Filters:
     cohorts: tuple[str, ...] = ()  # enrollment month "YYYY-MM"
     channels: tuple[str, ...] = ()
     statuses: tuple[str, ...] = ()
+    modes: tuple[str, ...] = ()  # "Online" / "Offline"
+    centres: tuple[str, ...] = ()  # centre names
 
     def describe(self) -> str:
         parts = [f"{self.start:%d %b %Y} – {self.end:%d %b %Y}"]
         for name, v in (("course", self.courses), ("subject", self.subjects), ("cohort", self.cohorts),
-                        ("channel", self.channels), ("status", self.statuses)):
+                        ("channel", self.channels), ("status", self.statuses), ("mode", self.modes),
+                        ("centre", self.centres)):
             if v:
                 parts.append(f"{name}: {', '.join(v)}")
         return " · ".join(parts)
@@ -35,12 +38,14 @@ class Model:
     f: Filters = field(default_factory=Filters)
 
     def __post_init__(self) -> None:
-        t = self.tables
+        t = self.tables = ensure_modes(self.tables)
         self.data_start, self.data_end = START, END
         self._events = None
         self.courses = t["courses"]
         s = t["students"].merge(self.courses[["course_id", "course_name", "subject"]], on="course_id", how="left")
         s["cohort"] = s.enrollment_date.dt.strftime("%Y-%m")
+        self.centres = t["centres"]
+        s = s.merge(self.centres[["centre_id", "centre_name"]], on="centre_id", how="left")
         f = self.f
         if f.courses:
             s = s[s.course_name.isin(f.courses) | s.course_id.isin(f.courses)]
@@ -52,6 +57,10 @@ class Model:
             s = s[s.acquisition_channel.isin(f.channels)]
         if f.statuses:
             s = s[s.student_status.isin(f.statuses)]
+        if f.modes:
+            s = s[s.learning_mode.isin(f.modes)]
+        if f.centres:
+            s = s[s.centre_name.isin(f.centres)]
         self.students = s
         ids = set(s.student_id)
         keep = lambda name: t[name][t[name].student_id.isin(ids)]  # noqa: E731
@@ -64,7 +73,13 @@ class Model:
         self.tickets = keep("support_tickets")
         self.surveys = keep("student_surveys")
         course_ids = set(s.course_id) if (f.courses or f.subjects) else set(self.courses.course_id)
-        self.classes = t["classes"][t["classes"].course_id.isin(course_ids)]
+        k = t["classes"]
+        k = k[k.course_id.isin(course_ids)]
+        if f.modes:
+            k = k[k.learning_mode.isin(f.modes)]
+        if f.centres:
+            k = k[k.centre_id.isin(self.centres.loc[self.centres.centre_name.isin(f.centres), "centre_id"])]
+        self.classes = k
         self.instructors = t["instructors"]
         mk = t["marketing_spend"]
         self.marketing = mk[mk.channel.isin(f.channels)] if f.channels else mk

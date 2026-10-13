@@ -22,13 +22,13 @@ st.set_page_config(page_title=APP_NAME, page_icon="🎓", layout="wide")
 C.inject_css()
 
 NAV = {
-    "Executive": ["Overview", "Business Intelligence"],
+    "Executive": ["Overview", "Online vs Offline", "Business Intelligence"],
     "Students & Academics": ["Student Lifecycle", "Engagement", "Academic Performance", "Retention & Cohorts", "Student Success"],
     "Business Operations": ["Revenue & Finance", "Marketing & Growth", "Courses & Instructors", "Support Analytics"],
     "Intelligence": ["Chat with Data", "Forecasting", "Data Explorer", "Data Quality"],
     "Administration": ["Data Sources", "Metric Dictionary", "Demo Data Management"],
 }
-EDTECH = {"Overview": P.overview, "Business Intelligence": P.business_intelligence, "Student Lifecycle": P.lifecycle,
+EDTECH = {"Overview": P.overview, "Online vs Offline": P.online_offline, "Business Intelligence": P.business_intelligence, "Student Lifecycle": P.lifecycle,
           "Engagement": P.engagement, "Academic Performance": P.academics, "Retention & Cohorts": P.retention,
           "Student Success": P.student_success, "Revenue & Finance": P.revenue, "Marketing & Growth": P.marketing,
           "Courses & Instructors": P.courses, "Support Analytics": P.support, "Chat with Data": P.ai_analyst,
@@ -37,6 +37,7 @@ EDTECH = {"Overview": P.overview, "Business Intelligence": P.business_intelligen
 GENERIC = {"Overview": GP.overview, "Chat with Data": GP.ai_analyst, "Data Explorer": GP.data_explorer, "Data Quality": GP.data_quality}
 SUBTITLE = {
     "Overview": "Executive summary: health, trends, funnel, cohorts, courses and ranked actions.",
+    "Online vs Offline": "LIVE online classes vs learning-centre classrooms: KPIs, learning behaviour, centres and mode-specific insights.",
     "Business Intelligence": "Every KPI with definition, baseline, RAG status, plus top trends and risks.",
     "Student Lifecycle": "Lead → qualified → counselling → enrollment → first class → active → assessment → completion → renewal.",
     "Engagement": "How learners interact: DAU/WAU/MAU, timing, segments and declining engagement.",
@@ -129,7 +130,12 @@ if ss.workspace == "edtech":
         cohorts = st.multiselect("Enrollment cohort", sorted(s.enrollment_date.dropna().dt.strftime("%Y-%m").unique()), key="f_cohort")
         channels = st.multiselect("Acquisition channel", sorted(s.acquisition_channel.dropna().unique()), key="f_channel")
         statuses = st.multiselect("Student status", sorted(s.student_status.dropna().unique()), key="f_status")
-        filters = Filters(pd.Timestamp(start), pd.Timestamp(end), tuple(courses), tuple(subjects), tuple(cohorts), tuple(channels), tuple(statuses))
+        modes = st.multiselect("Learning mode", ["Online", "Offline"], key="f_mode",
+                               help="Online = LIVE classes on the app. Offline = classroom batches at learning centres.")
+        centre_names = tables["centres"]["centre_name"].dropna().tolist() if "centres" in tables else []
+        centres = st.multiselect("Learning centre", centre_names, key="f_centre") if centre_names else []
+        filters = Filters(pd.Timestamp(start), pd.Timestamp(end), tuple(courses), tuple(subjects), tuple(cohorts), tuple(channels), tuple(statuses),
+                          tuple(modes), tuple(centres))
         st.caption("Default period: last 90 days of data, compared with the previous 90 days.")
     model = Model(tables, filters)
 

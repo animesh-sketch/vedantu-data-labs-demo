@@ -7,7 +7,7 @@ from streamlit.testing.v1 import AppTest
 os.environ.pop("ANTHROPIC_API_KEY", None)  # UI tests use the offline analyst
 
 APP = str(Path(__file__).resolve().parent.parent / "app.py")
-PAGES = ["Overview", "Business Intelligence", "Student Lifecycle", "Engagement", "Academic Performance", "Retention & Cohorts",
+PAGES = ["Overview", "Online vs Offline", "Business Intelligence", "Student Lifecycle", "Engagement", "Academic Performance", "Retention & Cohorts",
          "Student Success", "Revenue & Finance", "Marketing & Growth", "Courses & Instructors", "Support Analytics", "Chat with Data",
          "Forecasting", "Data Explorer", "Data Quality", "Data Sources", "Metric Dictionary", "Demo Data Management"]
 
@@ -82,3 +82,14 @@ def test_custom_dataset_flow_still_works():
     at.session_state["page"] = "Revenue & Finance"
     at.run()
     assert any("needs the EdTech data model" in i.value for i in at.info)
+
+
+def test_online_offline_page_and_mode_filter(at):
+    at.session_state["page"] = "Online vs Offline"
+    at.run()
+    _ok(at)
+    assert any("Patna Centre: classroom attendance fell" in m.value for m in at.markdown)
+    at.sidebar.multiselect(key="f_mode").set_value(["Online"]).run()
+    _ok(at)
+    assert any("No offline (centre) learners" in i.value for i in at.info)
+    at.sidebar.multiselect(key="f_mode").set_value([]).run()

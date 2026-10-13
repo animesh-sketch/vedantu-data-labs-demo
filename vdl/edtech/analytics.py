@@ -4,6 +4,8 @@ All functions are pure: Model in, DataFrames out. The date window is m.start..m.
 Associations are reported with sample sizes and comparison groups; nothing here claims causation."""
 from __future__ import annotations
 
+import dataclasses
+
 import numpy as np
 import pandas as pd
 
@@ -518,7 +520,8 @@ def discount_effectiveness(m: Model) -> pd.DataFrame:
     en = en[en.enrollment_date <= m.end]
     if en.empty:
         return pd.DataFrame()
-    en["discount_band"] = pd.cut(en.discount / en.list_price * 100, [-1, 1, 12, 22, 40], labels=["None", "~10%", "~20%", "~30%"])
+    en["discount_band"] = pd.cut(en.discount / (en.price + en.discount) * 100,  # vs the learner's list fee (offline includes centre fee)
+                                 [-1, 1, 12, 22, 40], labels=["None", "~10%", "~20%", "~30%"])
     en["matured"] = en.enrollment_date + pd.to_timedelta(en.duration_weeks * 7, unit="D") <= m.end
     g = en.groupby("discount_band", observed=True)
     return pd.DataFrame({"enrollments": g.size(), "avg_price": g.price.mean().round(0),
@@ -562,7 +565,7 @@ def course_scorecard(m: Model) -> pd.DataFrame:
     from . import metrics as M
     rows = []
     for c in m.courses.itertuples():
-        sub = Model(m.tables, type(m.f)(m.f.start, m.f.end, (c.course_id,), m.f.subjects, m.f.cohorts, m.f.channels, m.f.statuses))
+        sub = Model(m.tables, dataclasses.replace(m.f, courses=(c.course_id,)))
         if sub.enrolled.empty:
             continue
         rows.append({"course": c.course_name, "level": c.course_level, "weeks": c.duration_weeks,

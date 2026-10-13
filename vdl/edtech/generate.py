@@ -8,6 +8,9 @@ Embedded (synthetic) stories the analytics should be able to discover:
   * Slow support resolution (>72h) is followed by lower engagement (association only).
   * Some learners improve steadily, ~10% decline; topics differ in difficulty.
   * Payments: installments, failed payments with retries, pending dues, refunds on cancellation.
+  * Online vs offline (Vedantu-style LIVE online classes vs offline learning centres in 8 cities):
+    offline learners pay a centre fee, attend more, use the app less and churn less; online reaches every city
+    but drops off more. Patna centre attendance falls from Jul 2026; Hyderabad centre runs near seat capacity.
 
 `make_dirty()` injects controlled data-quality issues for tests only; the default demo stays clean.
 """
@@ -23,7 +26,23 @@ START = pd.Timestamp("2025-10-01")
 END = pd.Timestamp("2026-09-30")
 DATA_DIR = Path(__file__).resolve().parents[2] / "data" / "edtech"
 TABLES = ["students", "enrollments", "courses", "learning_activity", "attendance", "assessments", "payments",
-          "support_tickets", "marketing_spend", "instructors", "classes", "student_surveys"]
+          "support_tickets", "marketing_spend", "instructors", "classes", "student_surveys", "centres"]
+OPTIONAL_TABLES = {"centres"}  # uploads without offline data are treated as online-only
+MODE_COLS = {"students": ["learning_mode", "centre_id"], "classes": ["learning_mode", "centre_id"]}
+CENTRES = [  # id, name, city, seat capacity, opened (all synthetic)
+    ("VC01", "Bengaluru Centre", "Bengaluru", 160, "2023-06-01"),
+    ("VC02", "Delhi NCR Centre", "Delhi NCR", 160, "2023-04-01"),
+    ("VC03", "Hyderabad Centre", "Hyderabad", 76, "2024-04-01"),
+    ("VC04", "Kolkata Centre", "Kolkata", 110, "2024-01-01"),
+    ("VC05", "Pune Centre", "Pune", 110, "2024-06-01"),
+    ("VC06", "Patna Centre", "Patna", 100, "2023-09-01"),
+    ("VC07", "Lucknow Centre", "Lucknow", 90, "2024-07-01"),
+    ("VC08", "Jaipur Centre", "Jaipur", 90, "2025-01-01"),
+]
+OFFLINE_COURSES = {"C01", "C02", "C03", "C04", "C05", "C06", "C07", "C08"}  # school & entrance programmes
+CENTRE_FEE = 1.3  # offline list fee = online list price × 1.3
+P_OFFLINE = {"Centre Walk-in": 1.0, "School Partnerships": 0.55, "Referral": 0.45, "Organic": 0.3, "Paid Search": 0.25,
+             "Webinars": 0.15, "Social Ads": 0.15, "YouTube": 0.12}
 
 COURSES = [  # id, name, subject, level, weeks, list price, popularity
     ("C01", "JEE Main Physics", "Physics", "Advanced", 36, 34999, 1.4),
@@ -60,11 +79,12 @@ CHANNELS = {
     "Organic": (0.15, 0.04, None, 0.60, 0.52),
     "School Partnerships": (0.09, 0.05, 600, 0.70, 0.56),
     "Webinars": (0.08, 0.03, 700, 0.65, 0.56),
+    "Centre Walk-in": (0.05, 0.08, None, 0.80, 0.62),
 }
 CAMPAIGNS = {"Paid Search": ["Brand Search", "Exam Keywords"], "Social Ads": ["Reels Prospecting", "Retargeting"],
              "YouTube": ["Topper Stories", "Free Masterclass"], "Referral": ["Refer-a-Friend"],
              "Organic": ["SEO / Direct"], "School Partnerships": ["School Tie-ups"],
-             "Webinars": ["Weekend Webinar Series"]}
+             "Webinars": ["Weekend Webinar Series"], "Centre Walk-in": ["Centre Walk-in"]}
 SEASON = {10: 1.0, 11: 0.9, 12: 0.75, 1: 1.0, 2: 1.1, 3: 1.3, 4: 1.6, 5: 1.5, 6: 1.3, 7: 1.0, 8: 0.9, 9: 0.85}
 CITIES = ["Bengaluru", "Delhi NCR", "Mumbai", "Hyderabad", "Kolkata", "Pune", "Chennai", "Jaipur", "Lucknow", "Patna"]
 CITY_P = [0.17, 0.17, 0.13, 0.11, 0.08, 0.08, 0.08, 0.06, 0.06, 0.06]
@@ -99,7 +119,18 @@ def _classes(rng, courses: pd.DataFrame, instructors: pd.DataFrame) -> pd.DataFr
                 rows.append({"class_id": f"K{n:05d}", "course_id": c.course_id, "batch_id": f"{c.course_id}-B{b}",
                              "instructor_id": inst, "class_date": d + pd.Timedelta(hours=17 + b),
                              "scheduled_minutes": 90 if c.course_level == "Advanced" else 60,
-                             "enrolled_capacity": 150})
+                             "enrolled_capacity": 150, "learning_mode": "Online", "centre_id": None})
+                n += 1
+        if c.course_id not in OFFLINE_COURSES:
+            continue
+        for j, (vc, *_rest) in enumerate(CENTRES):  # one classroom batch per course per centre
+            inst = pool[j % len(pool)]
+            weekdays = [(k + j) % 6, (k + j + 2) % 6]
+            for d in days[days.weekday.isin(weekdays)]:
+                rows.append({"class_id": f"K{n:05d}", "course_id": c.course_id, "batch_id": f"{c.course_id}-{vc}",
+                             "instructor_id": inst, "class_date": d + pd.Timedelta(hours=16),
+                             "scheduled_minutes": 120 if c.course_level == "Advanced" else 90,
+                             "enrolled_capacity": 40, "learning_mode": "Offline", "centre_id": vc})
                 n += 1
     return pd.DataFrame(rows)
 
@@ -122,10 +153,20 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
     signup = np.repeat(days.values, per_day)
     n = len(signup)
     ch_names = list(CHANNELS)
-    ch = rng.choice(ch_names, n, p=[CHANNELS[c][0] for c in ch_names])
+    share = np.array([CHANNELS[c][0] for c in ch_names])
+    ch = rng.choice(ch_names, n, p=share / share.sum())
     campaign = np.array([rng.choice(CAMPAIGNS[c]) for c in ch])
     pop = courses._pop / courses._pop.sum()
     course = rng.choice(courses.course_id, n, p=pop)
+    city = rng.choice(CITIES, n, p=CITY_P)
+    centre_of = {cty: vc for vc, _, cty, *_ in CENTRES}
+    walk = ch == "Centre Walk-in"
+    city[walk] = rng.choice(list(centre_of), walk.sum())
+    course[walk & ~np.isin(course, list(OFFLINE_COURSES))] = "C05"  # walk-ins ask about centre programmes
+    offline = (np.isin(city, list(centre_of)) & np.isin(course, list(OFFLINE_COURSES))
+               & (rng.random(n) < np.array([P_OFFLINE[c] for c in ch])))
+    mode = np.where(offline, "Offline", "Online")
+    centre = np.where(offline, [centre_of.get(cty, "") for cty in city], None)
     counselor_mult = dict(zip([f"Counselor {i:02d}" for i in range(1, 11)], np.round(rng.uniform(0.8, 1.2, 10), 2)))
     counselor = rng.choice(list(counselor_mult), n)
     signup = pd.to_datetime(signup) + pd.to_timedelta(rng.integers(8, 22, n), unit="h")
@@ -134,6 +175,7 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
     counsel_date = signup + pd.to_timedelta(rng.gamma(2, 1.5, n), unit="D")
     p_enrol = np.array([CHANNELS[c][4] for c in ch]) * np.array([counselor_mult[c] for c in counselor])
     p_enrol *= np.where(cinfo.loc[course, "list_price"].to_numpy() > 30000, 0.9, 1.05)
+    p_enrol *= np.where(offline, 1.15, 1.0)  # in-person counselling at the centre
     late_social = (ch == "Social Ads") & (signup >= pd.Timestamp("2026-08-01"))
     p_enrol = np.where(late_social, p_enrol * 0.45, p_enrol)  # the embedded decline story
     enrol_date = counsel_date + pd.to_timedelta(rng.gamma(2, 3, n), unit="D")
@@ -141,8 +183,9 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
 
     students = pd.DataFrame({
         "student_id": [f"S{i:05d}" for i in range(1, n + 1)],
-        "signup_date": signup.floor("min"), "city": rng.choice(CITIES, n, p=CITY_P),
+        "signup_date": signup.floor("min"), "city": city,
         "acquisition_channel": ch, "campaign": campaign, "course_id": course, "counselor": counselor,
+        "learning_mode": mode, "centre_id": centre,
         "lead_qualified": qualified,
         "counseling_date": pd.Series(counsel_date.floor("min")).where(counselled & (counsel_date <= END)),
         "enrollment_date": pd.Series(enrol_date.normalize()).where(enrolled),
@@ -161,11 +204,12 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
         s_id = students.student_id.iat[i]
         c_id = course[i]
         c = cinfo.loc[c_id]
-        e = float(np.clip(rng.beta(4, 3) + CHANNELS[ch[i]][1] + rng.normal(0, 0.05), 0.05, 0.98))
+        off = bool(offline[i])
+        e = float(np.clip(rng.beta(4, 3) + CHANNELS[ch[i]][1] + 0.06 * off + rng.normal(0, 0.05), 0.05, 0.98))
         d0 = students.enrollment_date.iat[i]
-        batch = f"{c_id}-B{rng.integers(1, 3)}"
+        batch = f"{c_id}-{centre[i]}" if off else f"{c_id}-B{rng.integers(1, 3)}"
         ieff = inst_effect[batch_inst[batch]]
-        lag = rng.exponential(3.0 / max(e, 0.2))
+        lag = rng.exponential((2.0 if off else 3.0) / max(e, 0.2))
         never_start = lag > 40
         if lag > 7:
             e *= 0.72
@@ -176,7 +220,7 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
         cancel = (not never_start and rng.random() < 0.03 + 0.08 * (1 - e) + 0.05 * (lag > 7)) or \
                  (never_start and rng.random() < 0.6)
         cancel_day = int(rng.integers(2, 15))
-        hazard = 0.006 + 0.06 * (1 - e) ** 2
+        hazard = (0.006 + 0.06 * (1 - e) ** 2) * (0.6 if off else 1.0)
         churn_w = int(rng.geometric(hazard))
         active_weeks = [] if (never_start or cancel) else list(range(0, min(churn_w, dur, n_weeks)))
         completed = churn_w >= dur and dur <= n_weeks and not cancel and not never_start
@@ -194,7 +238,8 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
 
         # enrollment + payments
         disc = rng.choice([0, 0.1, 0.2, 0.3], p=[0.45, 0.3, 0.17, 0.08])
-        price = float(round(c.list_price * (1 - disc), -1))
+        list_fee = float(c.list_price) * (CENTRE_FEE if off else 1.0)
+        price = float(round(list_fee * (1 - disc), -1))
         cancel_date = d0 + pd.Timedelta(days=cancel_day)
         for k, (edate, is_renew) in enumerate([(d0, False)] + ([(d0 + pd.Timedelta(weeks=dur, days=int(rng.integers(0, 10))), True)] if renew else [])):
             if edate > END:
@@ -236,7 +281,7 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
                     pay.append((f"P{pid:06d}", s_id, e_id, rdate, 0.0, "Refunded", refund))
                 else:
                     refund = 0.0
-            enr.append((e_id, s_id, c_id, batch, edate, e_status, round(c.list_price - price, 2), price, refund,
+            enr.append((e_id, s_id, c_id, batch, edate, e_status, round(list_fee - price, 2), price, refund,
                         is_renew, cancel_date if e_status == "Cancelled" else pd.NaT,
                         edate + pd.Timedelta(weeks=dur) if e_status == "Completed" else pd.NaT))
 
@@ -252,10 +297,14 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
         for w, lvl in zip(active_weeks, ew):
             wk_start = d0 + pd.Timedelta(weeks=int(w))
             season = 1.4 if wk_start.month in (4, 5, 6) else 1.0
-            if rng.random() < (0.035 + 0.04 * (1 - lvl)) * season:
+            if rng.random() < (0.035 + 0.04 * (1 - lvl)) * season * (0.7 if off else 1.0):
                 tid += 1
-                cat = rng.choice(["Payment", "Login / Access", "Class Schedule"] if w < 3 else
-                                 ["Content Doubt", "Technical Issue", "Class Schedule", "Payment", "Login / Access"])
+                if off:
+                    cat = rng.choice(["Payment", "Class Schedule"] if w < 3 else
+                                     ["Content Doubt", "Centre Facilities", "Class Schedule", "Payment"])
+                else:
+                    cat = rng.choice(["Payment", "Login / Access", "Class Schedule"] if w < 3 else
+                                     ["Content Doubt", "Technical Issue", "Class Schedule", "Payment", "Login / Access"])
                 prio = rng.choice(list(SLA_HOURS), p=[0.08, 0.22, 0.45, 0.25])
                 created = wk_start + pd.Timedelta(hours=float(rng.uniform(0, 7 * 24)))
                 if created > end_day:
@@ -273,7 +322,7 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
                     ew[active_weeks > w] *= 0.85
 
         # learning activity
-        sessions = rng.poisson(0.8 + 6 * ew)
+        sessions = rng.poisson(0.4 + 3 * ew if off else 0.8 + 6 * ew)  # offline learners use the app less
         ts = pd.DatetimeIndex([])
         wk = np.repeat(active_weeks, sessions)
         if len(wk):
@@ -283,7 +332,7 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
                 pd.to_timedelta(rng.integers(0, 60, len(wk)), unit="m")
             keep = ts <= end_day
             ts, wk_k = ts[keep], wk[keep]
-            typ = rng.choice(act_types, len(ts), p=[0.45, 0.3, 0.1, 0.15])
+            typ = rng.choice(act_types, len(ts), p=[0.25, 0.45, 0.15, 0.15] if off else [0.45, 0.3, 0.1, 0.15])
             dur_m = np.where(typ == "video_watch", rng.gamma(3, 9, len(ts)),
                              np.where(typ == "practice_quiz", rng.gamma(2, 8, len(ts)), rng.gamma(2, 6, len(ts))))
             for t_, ty, dm in zip(ts, typ, dur_m.round(1)):
@@ -298,7 +347,9 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
         wk_of = ((dates[mask] - np.datetime64(d0)) / np.timedelta64(7, "D")).astype(int)
         lvl_map = dict(zip(active_weeks, ew))
         p_att = np.array([0.15 + 0.8 * lvl_map[w] if w in lvl_map else 0.03 for w in wk_of])
-        p_att = np.clip(p_att + ieff / 40, 0, 0.98)
+        p_att = np.clip(p_att + ieff / 40 + 0.10 * off, 0, 0.98)
+        if off and centre[i] == "VC06":  # Patna centre: attendance slump from Jul 2026
+            p_att = np.where(dates[mask] >= np.datetime64("2026-07-01"), p_att * 0.65, p_att)
         attended = rng.random(mask.sum()) < p_att
         for (k_id, k_date, k_min), a in zip(cls[mask], attended):
             att.append((s_id, c_id, k_id, k_date, bool(a), round(float(k_min) * rng.uniform(0.6, 1.0), 0) if a else 0.0))
@@ -327,7 +378,9 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
                 sat = int(np.clip(round(2 + 3 * e + rng.normal(0, 0.6)), 1, 5))
                 srv.append((f"V{sid:06d}", s_id, d0 + pd.Timedelta(weeks=w_s), sat,
                             int(np.clip(round(3 + 7 * e + rng.normal(0, 1.4)), 0, 10))))
-        last = ts.max() if len(wk) and len(ts) else first_class
+        went = [k_date for (_, k_date, _), a in zip(cls[mask], attended) if a]
+        last = max([ts.max()] if len(wk) and len(ts) else [first_class], default=first_class)
+        last = max(last, max(went)) if went else last
         status[i] = ("Cancelled" if cancel else "Active" if (END - last).days <= 30 else
                      "Completed" if completed else "Inactive (inferred)")
 
@@ -368,6 +421,8 @@ def generate(seed: int = SEED, scale: float = 1.0) -> dict[str, pd.DataFrame]:
         "learning_activity": activity, "attendance": attendance, "assessments": assessments, "payments": payments,
         "support_tickets": tickets, "marketing_spend": marketing.reset_index(drop=True),
         "instructors": instructors.drop(columns="_effect"), "classes": classes, "student_surveys": surveys,
+        "centres": pd.DataFrame([(a, b, c, d, pd.Timestamp(o)) for a, b, c, d, o in CENTRES],
+                                columns=["centre_id", "centre_name", "city", "seat_capacity", "opened_date"]),
     }
 
 
@@ -379,7 +434,19 @@ DATE_COLS = {"students": ["signup_date", "counseling_date", "enrollment_date"],
              "enrollments": ["enrollment_date", "cancellation_date", "completion_date"],
              "learning_activity": ["activity_date"], "attendance": ["class_date"], "assessments": ["assessment_date"],
              "payments": ["payment_date"], "support_tickets": ["created_at", "first_response_at", "resolved_at"],
-             "marketing_spend": ["date"], "classes": ["class_date"], "student_surveys": ["survey_date"]}
+             "marketing_spend": ["date"], "classes": ["class_date"], "student_surveys": ["survey_date"],
+             "centres": ["opened_date"]}
+
+
+def ensure_modes(tables: dict[str, pd.DataFrame]) -> dict[str, pd.DataFrame]:
+    """Uploaded data without offline fields is treated as online-only (no centres)."""
+    t = dict(tables)
+    for name, cols in MODE_COLS.items():
+        if name in t and "learning_mode" not in t[name].columns:
+            t[name] = t[name].assign(learning_mode="Online", centre_id=None)
+    if "centres" not in t:
+        t["centres"] = pd.DataFrame(columns=["centre_id", "centre_name", "city", "seat_capacity", "opened_date"])
+    return t
 
 
 def write_all(seed: int = SEED, folder: Path = DATA_DIR) -> dict[str, pd.DataFrame]:

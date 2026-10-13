@@ -2,6 +2,8 @@
 All numbers come from vdl.edtech.metrics / analytics / insights / forecast; nothing is hard-coded."""
 from __future__ import annotations
 
+import dataclasses
+
 import numpy as np
 import pandas as pd
 import plotly.express as px
@@ -11,6 +13,7 @@ import streamlit as st
 from ..edtech import analytics as A
 from ..edtech import analyst as X
 from ..edtech import chat as CH
+from ..edtech import modes as MD
 from ..edtech import forecast as F
 from ..edtech import governance as G
 from ..edtech import metrics as M
@@ -484,7 +487,7 @@ def marketing(m: Model, ins: list) -> None:
     with c2:
         sv = A.spend_vs_revenue_monthly(m)
         _monthly_line(sv, ["spend", "net_revenue"], "Spend vs net revenue (monthly)", "Revenue includes all channels incl. unpaid ones.", money=True)
-    full = A.channel_performance(type(m)(m.tables, type(m.f)(m.data_start, m.f.end, m.f.courses, m.f.subjects, m.f.cohorts, m.f.channels, m.f.statuses)))
+    full = A.channel_performance(type(m)(m.tables, dataclasses.replace(m.f, start=m.data_start)))
     c1, c2 = st.columns(2)
     with c1:
         q = full.dropna(subset=["retained_day60_90_pct"])
@@ -601,7 +604,7 @@ def ai_analyst(m: Model, ins: list) -> None:
     top = st.columns([3, 1, 1])
     use_llm = top[1].toggle("Use Claude", value=llm, disabled=not llm, key="chat_llm",
                             help="Claude writes read-only SQL over all tables and explains the results. Needs ANTHROPIC_API_KEY.")
-    top[0].caption(("**Mode: Claude + read-only SQL** over all 12 tables. Numbers come only from the queries shown under each answer."
+    top[0].caption(("**Mode: Claude + read-only SQL** over all 13 tables. Numbers come only from the queries shown under each answer."
                     if use_llm else "**Mode: offline analyst.** Business questions, plus *measure by column* questions on any table "
                     "(e.g. *average csat_score by priority*). Add `ANTHROPIC_API_KEY` to ask anything in free form.")
                    + f" Scope: {m.f.describe()}.")
@@ -803,3 +806,122 @@ def demo_management(m: Model, ins: list) -> None:
         ss.regen_seed = int(seed)
         st.rerun()
     st.caption("Regenerating writes new CSVs (about 10–20 s). The default seed always reproduces the same data.")
+
+
+@st.cache_data(show_spinner="Comparing online and offline learners…", max_entries=16)
+def _mode_data(key: tuple, _m: Model) -> dict:
+    comp, kpis = MD.comparison(_m)
+    centres = MD.centre_scorecard(_m)
+    profile = MD.engagement_profile(_m)
+    return {"comp": comp, "kpis": kpis, "centres": centres, "profile": profile, "trend": MD.mode_trend(_m),
+            "mix": MD.channel_mix(_m), "centre_trend": MD.centre_trend(_m),
+            "insights": MD.mode_insights(_m, kpis, centres, profile)}
+
+
+def online_offline(m: Model, ins: list) -> None:
+    modes = MD.modes_in(m)
+    if not modes:
+        C.empty("No learners for the selected learning mode / centre filters.")
+        return
+    ss = st.session_state
+    d = _mode_data((ss.get("data_version"), bool(ss.get("uploaded_tables")), dataclasses.astuple(m.f)), m)
+    comp, kpis, centres, profile, mi = d["comp"], d["kpis"], d["centres"], d["profile"], d["insights"]
+    st.caption("**Online** = LIVE interactive classes on the app. **Offline** = classroom batches at learning centres "
+               f"({len(m.centres)} centres in the demo). Learners choose their mode, so differences between modes are "
+               "**associations**, not the effect of the mode. Each mode is also compared with its own previous period.")
+    headline = ["new_enrollments", "lead_to_enrol", "attendance_rate", "retention_rate", "inactive_rate", "arps"]
+    for md in modes:
+        st.markdown(f"##### {'🖥️' if md == 'Online' else '🏫'} {md}")
+        C.kpi_strip([kpis[md][k] for k in headline])
+    if len(modes) == 2:
+        gap_tbl = comp[["metric", "Online", "Offline", "gap (offline − online)", "leads on"]]
+    else:
+        gap_tbl = comp[["metric", modes[0], f"{modes[0]} vs prev"]]
+    risks = [i for i in mi if i.polarity == "risk"]
+    C.five_questions(
+        [kpis[md]["new_enrollments"] for md in modes],
+        ("Side-by-side KPIs from the shared metric layer (gaps are associations: mode is self-selected):", gap_tbl),
+        ("Centres and segments needing attention:", centres[["centre_name", "utilisation_pct", "attendance_pct", "attendance_change_pp"]]
+         if not centres.empty else None),
+        "Forecasts are not split by mode yet (each mode has too few weeks of history for a reliable split). "
+        "Use **Forecasting** for the blended outlook.",
+        list(dict.fromkeys(i.action for i in risks))[:5])
+
+    tabs = st.tabs(["Insights", "Compare KPIs", "🖥️ Online", "🏫 Offline centres", "Mix & trend"])
+    with tabs[0]:
+        st.markdown("Ranked by impact. Mode gaps, mode-specific declines vs their own previous period, centre flags and online tech friction.")
+        for n, i in enumerate(mi, 1):
+            C.insight_card(i, n)
+        if not mi:
+            C.empty("No mode-specific issues above thresholds in this period.")
+    with tabs[1]:
+        C.table(comp.drop(columns="key"), "Volume metrics (leads, enrollments, revenue, tickets) differ mainly by scale. Compare rates instead. "
+                "Marketing spend and CAC are not split by mode: spend is not tagged with a learning mode in the source data.")
+        rate_keys = ["lead_to_enrol", "activation_rate", "attendance_rate", "pass_rate", "retention_rate", "completion_rate", "inactive_rate"]
+        rows = [{"metric": M.METRICS[k].name, "mode": md, "value": kpis[md][k].value} for k in rate_keys for md in modes]
+        C.chart(px.bar(pd.DataFrame(rows), x="metric", y="value", color="mode", barmode="group",
+                       color_discrete_map={"Online": C.PALETTE[0], "Offline": C.PALETTE[1]}),
+                "Rate metrics by mode (%)", "Inferred inactivity: lower is better.")
+        if not profile.empty:
+            st.markdown("**How learners in each mode learn** (active learners in the period)")
+            C.table(profile.set_index("mode").T.reset_index().rename(columns={"index": "measure"}).astype(str))
+    with tabs[2]:
+        if "Online" not in modes:
+            C.empty("Online learners are filtered out.")
+        else:
+            mo = MD.mode_model(m, "Online")
+            c1, c2 = st.columns(2)
+            with c1:
+                C.heatmap(A.activity_heatmap(mo), "Online activity by day × hour", "Plan LIVE classes and nudges around peak hours.")
+            with c2:
+                at = A.active_trend(mo)
+                if not at.empty:
+                    C.chart(px.line(at, x=at.columns[0], y=at.columns[1:].tolist(), markers=True), "Weekly active online learners")
+            c1, c2 = st.columns(2)
+            with c1:
+                fce = A.first_class_effect(mo)
+                if not fce.empty:
+                    C.chart(px.bar(fce, x="group", y="avg_active_days_day15_60", text="students"),
+                            "Online: first-class timing vs later engagement", "Association. Bar label = learners.", legend=False)
+            with c2:
+                tk = A.tickets_w(mo)
+                if not tk.empty:
+                    C.chart(px.histogram(tk, x="issue_category", color="priority"), "Online support tickets by reason")
+            st.markdown("**Online learners to contact first** (High risk)")
+            r = A.student_risk(mo)
+            C.table(r[r.risk_level == "High"].head(50) if not r.empty else r)
+    with tabs[3]:
+        if centres.empty:
+            C.empty("No offline (centre) learners in the current filters.")
+        else:
+            c1, c2 = st.columns(2)
+            with c1:
+                fig = px.bar(centres, x="centre_name", y="utilisation_pct", color="utilisation_pct",
+                             color_continuous_scale=["#E11D48", "#F59E0B", "#10B981", "#F59E0B", "#E11D48"], range_color=[0, 120],
+                             hover_data=["active_learners_28d", "seat_capacity"])
+                fig.add_hline(y=90, line_dash="dot", annotation_text="90% capacity")
+                fig.add_hline(y=45, line_dash="dot", annotation_text="45% under-used")
+                C.chart(fig, "Seat utilisation by centre (last 28 days)", "Active classroom learners ÷ seat capacity.", legend=False)
+            with c2:
+                ct = d["centre_trend"]
+                if not ct.empty:
+                    C.chart(px.line(ct, x="month", y="attendance_pct", color="centre_name", markers=True),
+                            "Classroom attendance by centre (monthly %)")
+            st.markdown("**Centre scorecard** (selected period)")
+            C.table(centres.drop(columns=["centre_id"]),
+                    "attendance_change_pp vs the previous equal period. revenue_per_seat = net revenue ÷ seat capacity. "
+                    "Centre costs aren't in the data, so centre profitability is not computed.")
+    with tabs[4]:
+        tr = d["trend"]
+        c1, c2 = st.columns(2)
+        with c1:
+            if not tr.empty:
+                C.chart(px.bar(tr, x="month", y="enrollments", color="learning_mode",
+                               color_discrete_map={"Online": C.PALETTE[0], "Offline": C.PALETTE[1]}),
+                        "First enrollments by mode (monthly)", "Data start → end of selected period.")
+        with c2:
+            mix = d["mix"]
+            if not mix.empty:
+                long = mix.melt(id_vars="acquisition_channel", var_name="mode", value_name="share_pct")
+                C.chart(px.bar(long, x="mode", y="share_pct", color="acquisition_channel"),
+                        "Where each mode's learners come from (% of enrolled)", "Walk-ins and school tie-ups feed centres; paid digital feeds online.")

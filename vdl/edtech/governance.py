@@ -1,4 +1,4 @@
-"""Data quality & governance for the 12-table EdTech model. Checks never modify source data; cleaning
+"""Data quality & governance for the 13-table EdTech model. Checks never modify source data; cleaning
 actions return a preview (affected rows + cleaned copy) that the user may download."""
 from __future__ import annotations
 
@@ -6,18 +6,19 @@ from dataclasses import dataclass
 
 import pandas as pd
 
-from .generate import DATE_COLS, END
+from .generate import DATE_COLS, END, ensure_modes
 
 PKS = {"students": "student_id", "enrollments": "enrollment_id", "courses": "course_id", "learning_activity": "activity_id",
        "attendance": "attendance_id", "assessments": "assessment_id", "payments": "payment_id", "support_tickets": "ticket_id",
-       "instructors": "instructor_id", "classes": "class_id", "student_surveys": "survey_id"}
+       "instructors": "instructor_id", "classes": "class_id", "student_surveys": "survey_id", "centres": "centre_id"}
 FKS = [("enrollments", "student_id", "students", "student_id"), ("enrollments", "course_id", "courses", "course_id"),
        ("learning_activity", "student_id", "students", "student_id"), ("attendance", "student_id", "students", "student_id"),
        ("attendance", "class_id", "classes", "class_id"), ("assessments", "student_id", "students", "student_id"),
        ("payments", "student_id", "students", "student_id"), ("payments", "enrollment_id", "enrollments", "enrollment_id"),
        ("support_tickets", "student_id", "students", "student_id"), ("classes", "instructor_id", "instructors", "instructor_id"),
        ("classes", "course_id", "courses", "course_id"), ("student_surveys", "student_id", "students", "student_id"),
-       ("students", "course_id", "courses", "course_id")]
+       ("students", "course_id", "courses", "course_id"), ("students", "centre_id", "centres", "centre_id"),
+       ("classes", "centre_id", "centres", "centre_id")]
 REQUIRED = {"students": ["student_id", "signup_date", "acquisition_channel", "course_id"],
             "enrollments": ["enrollment_id", "student_id", "course_id", "enrollment_date", "price"],
             "payments": ["payment_id", "enrollment_id", "payment_date", "payment_status"],
@@ -37,6 +38,7 @@ LINEAGE = [
     ("Tickets, SLA, CSAT, Backlog", "support_tickets"),
     ("Satisfaction, NPS", "student_surveys"),
     ("Risk flags", "learning_activity, attendance, assessments, support_tickets"),
+    ("Online vs Offline, centre utilisation & attendance", "students.learning_mode/centre_id → centres; attendance → classes"),
 ]
 
 
@@ -59,6 +61,7 @@ class GCheck:
 
 def run_checks(t: dict[str, pd.DataFrame], today: pd.Timestamp | None = None) -> list[GCheck]:
     today = today or pd.Timestamp.today().normalize()
+    t = ensure_modes(t)
     out: list[GCheck] = []
     add = lambda dim, tab, chk, n, mask, rule, df: out.append(GCheck(dim, tab, chk, int(n), int(mask.sum()), rule, df[mask].head(10)))  # noqa: E731
     for tab, cols in REQUIRED.items():

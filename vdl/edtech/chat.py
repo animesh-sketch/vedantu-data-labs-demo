@@ -1,4 +1,4 @@
-"""Chat with your data: ask anything about the 12 tables (+ a per-learner table).
+"""Chat with your data: ask anything about the 13 tables (+ a per-learner table).
 
 With ANTHROPIC_API_KEY set (and `anthropic` installed), Claude answers by calling one tool, `run_sql`,
 which goes through the same read-only SQL guard as the Data Explorer. Claude only sees the schema and
