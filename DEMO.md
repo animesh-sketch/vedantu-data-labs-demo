@@ -5,7 +5,7 @@ Numbers below are from the default demo data (seed 2026, default period 3 Jul �
 ## 1. Leadership: "Why are enrollments down, and what do we do on Monday?"
 1. **Overview:** New enrollments **605, −38%** vs the previous 90 days (red); net revenue **₹1.45 Cr, −13.5%**. Point out that each KPI card shows its baseline, and hovering shows its definition.
 2. Scroll to **Ranked business insights**. The #1 risk is the enrollment decline, and the largest contributor is **Social Ads**. Open *Evidence* to see the driver table.
-3. **AI Analyst:** *"Why did enrollment decline this month?"* The answer separates lead volume from conversion, lists the channels that drove the change, labels explanations as hypotheses, and shows scope and sample size.
+3. **Chat with Data:** *"Why did enrollment decline this month?"* The answer separates lead volume from conversion, lists the channels that drove the change, labels explanations as hypotheses, and shows scope and sample size.
 4. Follow up with *"What should leadership prioritize next week?"*, then *"what about Social Ads?"* (the filter is carried over).
 5. **Marketing & Growth:** Social Ads has the highest CAC and lowest conversion. Note the banner saying this is correlation, not incremental lift.
 
@@ -32,7 +32,7 @@ Numbers below are from the default demo data (seed 2026, default period 3 Jul �
 **0:30 – Executive view (60s)** *(Overview)*
 "Two clicks: the demo loads, and global filters apply everywhere. Each KPI has a definition, period, baseline and RAG status. When no baseline exists, it says so rather than inventing one. Insights are ranked by business impact (metric weight × change × reach), and each one says whether it is a verified metric, an association, or a rules-based flag."
 
-**1:30 – Diagnose (75s)** *(AI Analyst → Lifecycle)*
+**1:30 – Diagnose (75s)** *(Chat with Data → Lifecycle)*
 "'Why did enrollment decline?' It splits lead volume from conversion and pinpoints Social Ads. Explanations are hypotheses. Actions are concrete. Confidence and sample size are explicit. Where SQL ran, I show it; where pandas computed it, I don't pretend there was SQL."
 
 **2:45 – Act on learners (60s)** *(Student Success)*

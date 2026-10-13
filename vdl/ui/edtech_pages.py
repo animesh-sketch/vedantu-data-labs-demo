@@ -10,6 +10,7 @@ import streamlit as st
 
 from ..edtech import analytics as A
 from ..edtech import analyst as X
+from ..edtech import chat as CH
 from ..edtech import forecast as F
 from ..edtech import governance as G
 from ..edtech import metrics as M
@@ -596,33 +597,49 @@ def support(m: Model, ins: list) -> None:
 def ai_analyst(m: Model, ins: list) -> None:
     ss = st.session_state
     ss.setdefault("ed_chat", [])
-    st.caption("Ask business questions in plain English. Answers are computed from the loaded data under the current global filters, "
-               "with summary, findings, metrics, evidence, explanations (hypotheses), actions, confidence and scope.")
+    llm = CH.llm_available()
+    top = st.columns([3, 1, 1])
+    use_llm = top[1].toggle("Use Claude", value=llm, disabled=not llm, key="chat_llm",
+                            help="Claude writes read-only SQL over all tables and explains the results. Needs ANTHROPIC_API_KEY.")
+    top[0].caption(("**Mode: Claude + read-only SQL** over all 12 tables. Numbers come only from the queries shown under each answer."
+                    if use_llm else "**Mode: offline analyst.** Business questions, plus *measure by column* questions on any table "
+                    "(e.g. *average csat_score by priority*). Add `ANTHROPIC_API_KEY` to ask anything in free form.")
+                   + f" Scope: {m.f.describe()}.")
+    if top[2].button("Clear chat", width="stretch"):
+        ss.ed_chat = []
+    with st.expander("What can I ask? (tables and columns)"):
+        for name, t in X.explorer_tables(m).items():
+            st.markdown(f"**{name}** ({len(t):,} rows): " + ", ".join(f"`{c}`" for c in t.columns))
+        st.markdown("**learners** (one row per enrolled learner): `course`, `channel`, `cohort`, `status`, `segment`, `risk_level`, "
+                    "`active_days_28d`, `attendance_28d_pct`, `avg_score_pct`, `net_revenue`, `tickets`, `days_since_activity`")
     cols = st.columns(4)
     clicked = None
-    for n, ex in enumerate(X.EXAMPLES):
+    for n, ex in enumerate(X.EXAMPLES + CHAT_EXAMPLES):
         if cols[n % 4].button(ex, key=f"ex{n}", width="stretch"):
             clicked = ex
-    if st.button("Clear conversation"):
-        ss.ed_chat = []
     for role, content in ss.ed_chat:
         with st.chat_message(role):
             _render_answer(content) if role == "assistant" else st.markdown(content)
-    q = st.chat_input("e.g. Which acquisition channels produce students who stay longer?") or clicked
+    q = st.chat_input("Ask anything about your data…") or clicked
     if q:
         ss.ed_chat.append(("user", q))
         with st.chat_message("user"):
             st.markdown(q)
         prev = next((c for r, c in reversed(ss.ed_chat[:-1]) if r == "assistant" and c.intent), None)
-        with st.spinner("Computing from data…"):
-            a = X.ask(m, q, prev)
+        hist = [(u, a.summary) for (r1, u), (r2, a) in zip(ss.ed_chat[:-1:2], ss.ed_chat[1:-1:2]) if r1 == "user" and r2 == "assistant"]
+        with st.spinner("Querying the data…"):
+            a = CH.answer(m, q, hist, prev, use_llm)
         ss.ed_chat.append(("assistant", a))
         with st.chat_message("assistant"):
             _render_answer(a)
 
 
+CHAT_EXAMPLES = ["Average csat_score by priority", "Total spend by channel", "How many tickets by issue_category",
+                 "Average satisfaction score by month"]
+
+
 def _render_answer(a: X.EdAnswer) -> None:
-    st.markdown(f"**Executive summary.** {a.summary}")
+    st.markdown(a.summary if a.intent == "llm" else f"**Executive summary.** {a.summary}")
     if a.findings:
         st.markdown("**Key findings**\n" + "\n".join(f"- {f}" for f in a.findings))
     if a.metrics:

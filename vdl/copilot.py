@@ -93,6 +93,13 @@ def find_columns(q: str, candidates: list[str]) -> list[str]:
             if m and len(v) > 2:
                 hits.append((m.start(), c))
                 break
+    if not hits:  # a distinctive word of one column name, e.g. "satisfaction" -> satisfaction_score
+        for c in candidates:
+            for tok in re.split(r"[_\s]+", c.lower()):
+                owners = [o for o in candidates if tok in re.split(r"[_\s]+", o.lower())]
+                if len(tok) > 3 and tok not in ("date", "rate") and len(owners) == 1 and (m := re.search(rf"\b{re.escape(tok)}\b", q)):
+                    hits.append((m.start(), c))
+                    break
     if not hits:
         for key, words in SYNONYMS.items():
             if m := re.search(rf"\b{key}\b", q):
@@ -121,7 +128,7 @@ def find_filters(q: str, df: pd.DataFrame, prof: Profile) -> dict[str, str]:
 
 
 def parse(question: str, df: pd.DataFrame, prof: Profile, prev: Intent | None = None) -> Intent | None:
-    q = " " + question.lower().strip().rstrip("?") + " "
+    q = " " + question.lower().strip().rstrip("?").replace("_", " ") + " "
     is_follow = prev is not None and prev.kind == "aggregate" and bool(re.match(FOLLOW_UP, q))
     it = replace(prev, filters=dict(prev.filters)) if is_follow else Intent()
 

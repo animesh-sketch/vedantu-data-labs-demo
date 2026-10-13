@@ -36,7 +36,7 @@ python -m pytest -q
 | | **Marketing & Growth** | CPL, CAC, ROAS to date, conversion, refund and day-60–90 retention by channel and campaign, channel quality vs conversion, with a clear correlation-vs-causation warning |
 | | **Courses & Instructors** | Scorecard, growth × quality quadrant, KPI heatmap. Instructor comparison uses score uplift vs the same course and topic, with a 95% interval (no raw-score ranking) |
 | | **Support Analytics** | Volume, first-response and resolution times, SLA by priority, Pareto of reasons, reopen/repeat-contact rates, backlog, CSAT vs resolution time, support-to-engagement association |
-| Intelligence | **AI Analyst** | Business questions → executive summary, findings, metrics, chart/table, hypotheses, actions, confidence/limitations and scope. Follow-ups ("what about Referral?") keep context. SQL is shown only when SQL actually ran |
+| Intelligence | **Chat with Data** | Chat about any of the 12 tables. Business questions get structured answers (summary, findings, hypotheses, actions, confidence, scope). *Measure by column* questions work on any table offline (e.g. "average csat_score by priority"). With an API key, Claude answers free-form questions by running read-only SQL across all tables, and every query and result is shown. Also reachable from the sidebar via **💬 Ask your data anything** |
 | | **Forecasting** | Enrollments, revenue, active learners, completions, tickets. Each uses an 8-week holdout backtest to pick a model (damped trend / naive / moving average), with 80/95% intervals, scenarios and assumptions. Short history gives a sufficiency warning instead of a forecast |
 | | **Data Explorer** | Browse all 12 tables and a derived per-learner table. Read-only SQL across all tables, joins included |
 | | **Data Quality** | 70+ checks (completeness, uniqueness, validity, referential integrity, cross-table consistency), weighted score, freshness, lineage, previewable cleaning actions with download, and a toggle to run on the test fixture with injected issues |
@@ -98,7 +98,7 @@ tests/                    core, EdTech (known-answer fixtures) and Streamlit App
 - **No invented metrics:** KPIs, insights and AI answers all call `metrics.py`/`analytics.py`. Unanswerable questions are refused. Missing data (spend, costs, history) is reported as *not available*.
 - **No code execution:** user input is never executed as Python.
 - **Privacy:** synthetic IDs only. No sensitive attributes are used for risk, and personal data is not exposed.
-- **Optional LLM** (`ANTHROPIC_API_KEY` + `pip install anthropic python-dotenv`): it only proposes SQL in the generic analyser, and that SQL passes the same guard.
+- **Optional Claude mode** (`ANTHROPIC_API_KEY` in `.env`, or in Streamlit Cloud → *Settings → Secrets* as `ANTHROPIC_API_KEY = "..."`): Claude sees only the schema and the rows its own queries return. Each query passes the same read-only guard. The prompt forbids numbers that are not in query results, and the SQL is shown under each answer. If the API fails, the offline analyst answers instead.
 
 ### CRM integration path
 
@@ -110,7 +110,7 @@ tests/                    core, EdTech (known-answer fixtures) and Streamlit App
 ## Limitations (honest)
 
 - All demo data is synthetic. Its patterns are designed, so findings demonstrate the method, not real Vedantu behaviour.
-- The AI Analyst routes questions with rules. Unrecognised questions fall back to NL→SQL over the per-learner table, or it says it cannot answer.
+- Without an API key, the chat routes questions with rules: business intents, then NL→SQL over the best-matching table, otherwise it says it cannot answer. Free-form questions (joins, multi-step) need Claude mode.
 - Forecasts have no yearly seasonality, because 12 months cannot estimate it. Backtest errors are shown.
 - Risk flags are transparent rules validated by a time-based backtest. They are not a trained model.
 - Channel, support and engagement relationships are associations, not causal effects.

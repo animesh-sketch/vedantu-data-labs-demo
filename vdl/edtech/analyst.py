@@ -304,7 +304,7 @@ INTENTS = [
     (r"\btopic\w*|\baccuracy\b", topic_accuracy),
     (r"\b(channel|source)\w*\b.*\b(stay|retain|retention|longer|quality)|\b(stay|retain)\w*\b.*\b(channel|source)", channel_retention),
     (r"\b(student|learner)s?\b.*\b(need|support|intervention|help|at.risk)|\bat.risk\b", students_support),
-    (r"\bpriorit\w*|\bfocus\b|\bnext week\b", priorities),
+    (r"\bprioriti[sz]\w*|\bpriorities\b|\bfocus\b|\bnext week\b", priorities),
     (r"\b(biggest|top|main|key|business|major|emerging)\b.*\brisks?\b|\brisks?\b.*\b(this month|business|facing)\b", top_risks),
     (r"\bforecast\w*|\bpredict\w*|\bnext (month|weeks?)\b", forecast_answer),
     (r"\brevenue\b|\bcollection\w*|\brefund\w*|\bbookings?\b", revenue),
@@ -364,19 +364,54 @@ def ask(m: Model, q: str, prev: EdAnswer | None = None) -> EdAnswer:
             a = fn(mm, q)
             a.extra_filter = ents
             return a
-    # free-form fallback: deterministic NL→SQL over the per-learner table (SQL actually executed)
+    # free-form fallback: deterministic NL→SQL over the best-matching table, then the per-learner table
     fact = student_fact(m)
+    tables = {**explorer_tables(m), "learners": fact}
+    for name in pick_tables(q, tables):
+        t = tables[name]
+        if t.empty:
+            continue
+        df, prof = prepare(t)
+        a = copilot.ask(q, df, prof)
+        if a.ok:
+            return EdAnswer(q, a.text, table=a.table, sql=a.sql, intent=None, chart="bar" if a.table is not None and len(a.table) > 1 else None,
+                            limitations=a.limitations + a.assumptions, confidence="High (computed by SQL)",
+                            scope=_scope(m, len(t), f"rows of `{name}`"),
+                            computation=f"copilot NL→SQL over table `{name}` (shown as `data`; DuckDB, read-only guard)")
     if fact.empty:
         return EdAnswer(q, "No enrolled learners in scope.", confidence="n/a")
-    df, prof = prepare(fact)
-    a = copilot.ask(q, df, prof)
-    out = EdAnswer(q, a.text, table=a.table, sql=a.sql, intent=None, chart="bar" if a.table is not None and len(a.table) > 1 else None,
-                   limitations=a.limitations + a.assumptions, confidence="High (computed by SQL)" if a.ok else "n/a",
-                   scope=_scope(m, len(fact)), computation="copilot NL→SQL over per-learner table `data` (DuckDB, read-only guard)")
-    if not a.ok:
-        out.summary = ("I can answer business questions like: " + " · ".join(EXAMPLES[:4]) +
-                       ". Or ask about learner columns: course, channel, cohort, segment, risk_level, avg_score_pct, net_revenue…")
-    return out
+    return EdAnswer(q, "I couldn't map that to the data, so I won't guess. Try a business question (" + " · ".join(EXAMPLES[:3]) +
+                    ") or name a table and measure, e.g. *average csat_score by priority*, *total spend by channel*, "
+                    "*count of tickets by issue_category*.", confidence="n/a", scope=_scope(m, len(fact)))
+
+
+TABLE_WORDS = {
+    "support_tickets": r"ticket|support|csat|complain|issue|priority|sla",
+    "payments": r"payment|paid|refund|collect|transaction|failed",
+    "marketing_spend": r"spend|campaign|impression|click|cpl|ad\b|ads\b|marketing",
+    "learning_activity": r"activit|watch|video|minutes|content|practice|login",
+    "attendance": r"attend|present|absent|live class",
+    "assessments": r"assessment|quiz|test|exam|marks|correct|attempt",
+    "classes": r"\bclass(es)?\b|session|capacity|batch",
+    "student_surveys": r"survey|satisfaction|nps|recommend",
+    "instructors": r"instructor|teacher|faculty|experience",
+    "courses": r"\bcourses?\b.*\b(price|level|duration)|list.price|catalog",
+    "enrollments": r"enrol|discount|renewal|cancel|complet",
+    "students": r"lead|signup|sign.up|counsel|qualified|city|cities",
+}
+
+
+def pick_tables(q: str, tables: dict[str, pd.DataFrame]) -> list[str]:
+    """Rank tables by keyword + column-name matches; the per-learner table is always a fallback."""
+    ql = q.lower()
+    scores = {}
+    for name, df in tables.items():
+        s = 2 * len(re.findall(TABLE_WORDS.get(name, r"$^"), ql))
+        s += len(copilot.find_columns(" " + ql.replace("_", " ") + " ", list(df.columns)))
+        if s:
+            scores[name] = s
+    ranked = sorted(scores, key=lambda n: -scores[n])
+    return [n for n in ranked if n != "learners"][:3] + ["learners"]
 
 
 def explorer_tables(m: Model) -> dict[str, pd.DataFrame]:

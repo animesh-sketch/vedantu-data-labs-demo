@@ -188,7 +188,7 @@ def data_sources() -> None:
             raw = load_sample(name) if src == "Sample dataset" else load_file(up, up.name)
             with st.spinner("Profiling, validating and generating insights…"):
                 if run_analysis(raw, name):
-                    st.success(f"Analysed {name}. Workspace switched to **Custom data**: use Overview, AI Analyst, Data Explorer, Data Quality.")
+                    st.success(f"Analysed {name}. Workspace switched to **Custom data**: use Overview, Chat with Data, Data Explorer, Data Quality.")
         except Exception as e:  # noqa: BLE001
             st.error(f"Could not read this file: {e}")
     st.markdown("#### 3 · Upload your own EdTech tables (all 12 modules)")

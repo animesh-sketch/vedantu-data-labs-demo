@@ -1,11 +1,14 @@
+import os
 from pathlib import Path
 
 import pytest
 from streamlit.testing.v1 import AppTest
 
+os.environ.pop("ANTHROPIC_API_KEY", None)  # UI tests use the offline analyst
+
 APP = str(Path(__file__).resolve().parent.parent / "app.py")
 PAGES = ["Overview", "Business Intelligence", "Student Lifecycle", "Engagement", "Academic Performance", "Retention & Cohorts",
-         "Student Success", "Revenue & Finance", "Marketing & Growth", "Courses & Instructors", "Support Analytics", "AI Analyst",
+         "Student Success", "Revenue & Finance", "Marketing & Growth", "Courses & Instructors", "Support Analytics", "Chat with Data",
          "Forecasting", "Data Explorer", "Data Quality", "Data Sources", "Metric Dictionary", "Demo Data Management"]
 
 
@@ -51,7 +54,7 @@ def test_empty_filter_shows_empty_state(at):
 
 
 def test_edtech_ai_analyst_answers(at):
-    at.session_state["page"] = "AI Analyst"
+    at.session_state["page"] = "Chat with Data"
     at.run()
     at.chat_input[0].set_value("Which topics have the lowest student accuracy?").run()
     _ok(at)
@@ -66,11 +69,11 @@ def test_custom_dataset_flow_still_works():
     next(b for b in at.button if "Analyse" in b.label).click().run()
     _ok(at)
     assert at.session_state["workspace"] == "custom"
-    for page in ("Overview", "AI Analyst", "Data Explorer", "Data Quality"):
+    for page in ("Overview", "Chat with Data", "Data Explorer", "Data Quality"):
         at.session_state["page"] = page
         at.run()
         _ok(at)
-    at.session_state["page"] = "AI Analyst"
+    at.session_state["page"] = "Chat with Data"
     at.run()
     at.chat_input[0].set_value("Conversion rate by lead source").run()
     _ok(at)
